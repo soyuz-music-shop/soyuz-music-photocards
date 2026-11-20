@@ -1,0 +1,21 @@
+name: Пилот российского CD — проверка без изменений
+
+on:
+  push:
+    paths:
+      - ".github/workflows/pilot-russian-cd-preflight.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить исходные фото российского CD
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/pilot_russian_cd_preflight.py
