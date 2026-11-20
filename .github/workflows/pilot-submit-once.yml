@@ -1,0 +1,45 @@
+name: Пилот — загрузить 2 фото в один товар Ozon
+
+on:
+  push:
+    paths:
+      - ".github/workflows/pilot-submit-once.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-single-item-6961317504
+  cancel-in-progress: false
+
+jobs:
+  single-item:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Проверить синтаксис и безопасные ограничения
+        run: |
+          python -m py_compile scripts/pilot_submit_once.py
+          python - <<'PY'
+          import sys
+          sys.path.insert(0,"scripts")
+          import pilot_submit_once as p
+          assert p.PID == 6961317504
+          assert p.OFFER == "R1 728606"
+          assert p.INFO.endswith("/import-vinyl-info.png")
+          assert p.PACK.endswith("/packaging.png")
+          assert len(p.CHECKS) == 2
+          print("ONE_ITEM_GATES_OK")
+          PY
+      - name: Подготовить Git identity
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Обновить фотографии ТОЛЬКО 6961317504, однократно
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/pilot_submit_once.py
