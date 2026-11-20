@@ -1,0 +1,35 @@
+name: Аудит каталога Ozon для массовых PhotoCards (только чтение)
+
+on:
+  push:
+    paths:
+      - ".github/workflows/audit-bulk-readonly.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить все товары без изменений Ozon
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/audit_bulk_readonly.py
+      - name: Опубликовать только сводку аудита в отдельном репозитории
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+          git add audit/read-only-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update read-only PhotoCards eligibility summary"
+            git pull --rebase origin main
+            git push origin main
+          fi
