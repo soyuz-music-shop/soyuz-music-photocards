@@ -51,14 +51,15 @@
       ]
     },
     "20812153": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "4630065135797",
       "original_sha256": [
         "bdfe81853e7b6a917aad37e48fb93b351cc9c48328930f1f88f50627bc9e3ea1",
         "7e669f47acf5ad13b5eb9783e6efa0fc24736af527100a6fa68c8a8f45a7f93d"
       ],
       "before_count": 2,
-      "template": "cd-russian.png"
+      "template": "cd-russian.png",
+      "task_id": 6089999870
     }
   }
 }
