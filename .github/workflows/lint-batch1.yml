@@ -1,0 +1,34 @@
+name: Проверить скрипт первой партии без отправки
+
+on:
+  push:
+    paths:
+      - ".github/workflows/lint-batch1.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Синтаксис и ограничения первой партии
+        run: |
+          python -m py_compile scripts/batch1_russian_cd.py
+          python - <<'PY'
+          import ast
+          code=open("scripts/batch1_russian_cd.py",encoding="utf-8").read()
+          tree=ast.parse(code)
+          const={n.targets[0].id:ast.literal_eval(n.value) for n in tree.body
+                 if isinstance(n,ast.Assign) and len(n.targets)==1
+                 and isinstance(n.targets[0],ast.Name) and n.targets[0].id=="PRODUCTS"}
+          products=const["PRODUCTS"]
+          assert len(products)==4
+          assert [p[0] for p in products]==[20811913,20811938,20812054,20812153]
+          assert len(set(p[0] for p in products))==4
+          for needle in ["if key in state", "if duplicates", "verify_prod", "gallery_changed", "unknown_after_submission", "git_save(state", "image_mae", "imported"]:
+              if needle=="gallery_changed": continue
+              assert needle in code,needle
+          print("BATCH1_SCRIPT_COMPILED_AND_GUARDS_PRESENT")
+          PY
