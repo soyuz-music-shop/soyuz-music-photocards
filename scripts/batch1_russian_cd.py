@@ -37,7 +37,9 @@ def post(path,payload,timeout=55):
     return data
 def single(response):
     found=response.get("items")
-    if found is None:found=(response.get("result") or {}).get("items")
+    if found is None:
+        result=response.get("result") or {}
+        found=result if isinstance(result,list) else result.get("items")
     if not isinstance(found,list) or len(found)!=1 or not isinstance(found[0],dict):
         raise RuntimeError("Expected exactly one item")
     return found[0]
@@ -119,9 +121,12 @@ def main():
     state=json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"batch":"four-russian-cd-pilot","items":{}}
     for pid,offer,name in PRODUCTS:
         key=str(pid)
-        if key in state["items"]:
+        if key in state["items"] and state["items"][key].get("stage")!="skipped_preflight":
             print("PREVIOUS_DECISION_EXISTS_SKIP",key)
             continue
+        if key in state["items"]:
+            print("RETRY_READ_ONLY_PREFLIGHT_AFTER_CODE_FIX",key)
+            del state["items"][key]
         try:
             before=verify_prod(pid,offer,name)
             thumbnails=[thumb(get(u)) for u in before]
