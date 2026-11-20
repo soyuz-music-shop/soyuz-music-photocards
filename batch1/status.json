@@ -1,0 +1,10 @@
+{
+  "batch": "four-russian-cd-pilot",
+  "items": {
+    "20811913": {
+      "stage": "skipped_preflight",
+      "error_type": "AttributeError",
+      "error": "'list' object has no attribute 'get'"
+    }
+  }
+}
