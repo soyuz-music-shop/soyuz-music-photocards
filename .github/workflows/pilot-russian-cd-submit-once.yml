@@ -1,0 +1,41 @@
+name: Однократный пилот — российский CD (20807385)
+
+on:
+  push:
+    paths:
+      - ".github/workflows/pilot-russian-cd-submit-once.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-russian-cd-20807385
+  cancel-in-progress: false
+
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить ограничение пилота одним товаром
+        run: |
+          python -m py_compile scripts/pilot_russian_cd_submit_once.py
+          python - <<'PY'
+          import sys
+          sys.path.insert(0,"scripts")
+          import pilot_russian_cd_submit_once as p
+          assert p.PID==20807385 and p.OFFER=="4630065135827"
+          assert p.INFO.endswith("cd-russian.png")
+          assert p.PACK.endswith("packaging.png")
+          assert len(p.CHECKS)==2
+          print("RUSSIAN_CD_ONE_ITEM_GATES_OK")
+          PY
+      - name: Git identity
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Добавить две фотографии только в товар 20807385
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/pilot_russian_cd_submit_once.py
