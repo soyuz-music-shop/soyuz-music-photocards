@@ -2,6 +2,9 @@ name: Проверить Ozon API (без изменений)
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/check-ozon.yml"
 
 permissions:
   contents: read
