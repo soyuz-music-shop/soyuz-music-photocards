@@ -1,0 +1,23 @@
+name: Проверить российский CD после загрузки (только чтение)
+
+on:
+  push:
+    paths:
+      - ".github/workflows/verify-pilot-russian-cd.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow
+        run: python -m pip install --quiet Pillow
+      - name: Сверить фото с утверждёнными шаблонами
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/verify_pilot_russian_cd.py
