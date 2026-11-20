@@ -17,7 +17,7 @@
       "error": "'list' object has no attribute 'get'"
     },
     "20811913": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "4630065135575",
       "original_sha256": [
         "98de29786a7587a6bcc9663b677d8014685276b8ec45684f9a4ad6633429f104",
@@ -25,7 +25,12 @@
       ],
       "before_count": 2,
       "template": "cd-russian.png",
-      "task_id": 6089995575
+      "task_id": 6089995575,
+      "after_count": 4,
+      "image_mae": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
