@@ -40,14 +40,15 @@
       ]
     },
     "20812054": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "4630065135803",
       "original_sha256": [
         "71f9f04f0c2704ab86ffa183d74537efd11b60e26eed4c356dfe3542e516ab82",
         "0c4ecc4224bb4f3c9527c59c6c7d13813e9d624a341f349bdbd2e07cefc482c3"
       ],
       "before_count": 2,
-      "template": "cd-russian.png"
+      "template": "cd-russian.png",
+      "task_id": 6089998466
     }
   }
 }
