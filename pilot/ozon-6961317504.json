@@ -1,11 +1,12 @@
 {
   "product_id": 6961317504,
   "offer_id": "R1 728606",
-  "stage": "prepared",
+  "stage": "submitted",
   "old_photo_sha256": "d225b7d8adaaa3efc4fc0c6fc514c941bf7deab69d04edbbadb7459329edab90",
   "add": [
     "import-vinyl-info.png",
     "packaging.png"
   ],
-  "note": "Do not automatically retry this API request"
+  "note": "Do not automatically retry this API request",
+  "task_id": 6089799466
 }
