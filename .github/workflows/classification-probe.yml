@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/classification-probe.yml"
+      - "scripts/classification_probe.py"
   workflow_dispatch:
 
 permissions:
