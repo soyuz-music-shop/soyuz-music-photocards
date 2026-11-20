@@ -1,7 +1,7 @@
 {
   "product_id": 20807385,
   "offer_id": "4630065135827",
-  "stage": "submitted",
+  "stage": "imported",
   "original_photo_url_sha256": [
     "84e6d022612eed72b804aed840ff9844adcab68dfe523bce8a058dfaf7a5f85f",
     "dbc73cf5ad742ebb9db4b5118c55d0d1712a09dbcb80d886458bde865bde5bc3"
@@ -12,5 +12,6 @@
     "packaging.png"
   ],
   "note": "Never auto retry this photo import",
-  "task_id": 6089958125
+  "task_id": 6089958125,
+  "status": "imported"
 }
