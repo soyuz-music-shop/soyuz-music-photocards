@@ -1,0 +1,22 @@
+name: Пилот Ozon — проверка одной карточки без изменений
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/pilot-preflight.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Скачать проект
+        uses: actions/checkout@v4
+      - name: Проверить товар и фото (только чтение)
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/pilot_preflight.py
