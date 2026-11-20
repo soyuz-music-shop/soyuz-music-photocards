@@ -28,7 +28,7 @@
       ]
     },
     "20811938": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "4630065135834",
       "original_sha256": [
         "4994ed604017a0fde31fd4a5cc8b73179f20d7f7c5bd8df14b8ed74d916973c3",
@@ -36,7 +36,8 @@
         "d5647fe8308786ad9f7600279217e821ab536f2e472b54aaa5852c526b7051e6"
       ],
       "before_count": 3,
-      "template": "cd-russian.png"
+      "template": "cd-russian.png",
+      "task_id": 6089997012
     }
   }
 }
