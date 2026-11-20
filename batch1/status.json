@@ -40,7 +40,7 @@
       ]
     },
     "20812054": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "4630065135803",
       "original_sha256": [
         "71f9f04f0c2704ab86ffa183d74537efd11b60e26eed4c356dfe3542e516ab82",
@@ -48,7 +48,12 @@
       ],
       "before_count": 2,
       "template": "cd-russian.png",
-      "task_id": 6089998466
+      "task_id": 6089998466,
+      "after_count": 4,
+      "image_mae": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
