@@ -34,7 +34,12 @@ def main():
     result=info.get("items") or (info.get("result") or {}).get("items") or []
     att=post("/v4/product/info/attributes",{"filter":{"product_id":[str(i) for i in ids],"visibility":"ALL"},"limit":1000,"last_id":"","sort_dir":"ASC"})
     a=att.get("result") or att.get("items") or []
-    by_offer={str(x.get("offer_id")):x for x in a}
+    print("ATTR_RESPONSE_KEYS",list(att)[:12],"result_type",type(att.get("result")).__name__,"items_type",type(att.get("items")).__name__,"count",len(a))
+    if a and isinstance(a[0],dict):
+        print("ATTR_FIRST_KEYS",list(a[0])[:20],"first_attributes_count",len(a[0].get("attributes") or []))
+        if a[0].get("attributes"):
+            print("ATTR_FIELD_EXAMPLE",list(a[0]["attributes"][0]),"name",str(a[0]["attributes"][0].get("name"))[:80])
+    by_offer={str(x.get("offer_id")):x for x in a if isinstance(x,dict)}
     for row in result:
         name=str(row.get("name") or "")
         offer=str(row.get("offer_id") or "")
