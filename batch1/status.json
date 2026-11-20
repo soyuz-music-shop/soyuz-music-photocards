@@ -1,11 +1,6 @@
 {
   "batch": "four-russian-cd-pilot",
   "items": {
-    "20812054": {
-      "stage": "skipped_preflight",
-      "error_type": "AttributeError",
-      "error": "'list' object has no attribute 'get'"
-    },
     "20812153": {
       "stage": "skipped_preflight",
       "error_type": "AttributeError",
@@ -43,6 +38,16 @@
         0.0,
         0.0
       ]
+    },
+    "20812054": {
+      "stage": "locked",
+      "offer_id": "4630065135803",
+      "original_sha256": [
+        "71f9f04f0c2704ab86ffa183d74537efd11b60e26eed4c356dfe3542e516ab82",
+        "0c4ecc4224bb4f3c9527c59c6c7d13813e9d624a341f349bdbd2e07cefc482c3"
+      ],
+      "before_count": 2,
+      "template": "cd-russian.png"
     }
   }
 }
