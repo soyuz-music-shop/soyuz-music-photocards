@@ -1,0 +1,73 @@
+name: Подготовить два PNG для пилота Ozon
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/extract-pilot-png.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extract-pilot-images
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Извлечь и сверить ровно два утверждённых изображения
+        run: |
+          python - <<'PY'
+          import hashlib, struct, pathlib, zipfile, sys
+          p=pathlib.Path('ozon-pilot-assets.zip')
+          expected={
+            'import-vinyl-info.png':'4eb8873b3e62ec6a4d6e684d8c13508e442cb44406c8cca6e2f347a8949b3cfb',
+            'packaging.png':'059e5c298bc7d0bc9c73bfb62dbde8b5650a9b4970a29ad171845b034b887581',
+          }
+          if not p.exists(): sys.exit('Missing uploaded ZIP')
+          with zipfile.ZipFile(p) as z:
+            if sorted(z.namelist())!=sorted(expected): sys.exit('ZIP contains unexpected files')
+            for name, sha in expected.items():
+              b=z.read(name)
+              if hashlib.sha256(b).hexdigest()!=sha: sys.exit(f'SHA256 mismatch: {name}')
+              if b[:8]!=b'\x89PNG\r\n\x1a\n' or struct.unpack('>II',b[16:24])!=(1200,1600):
+                sys.exit(f'PNG invalid: {name}')
+              dst=pathlib.Path('photocards')/name
+              dst.parent.mkdir(exist_ok=True)
+              dst.write_bytes(b)
+              print('VERIFIED',name,sha)
+          PY
+      - name: Опубликовать PNG в отдельном репозитории
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+          git add photocards/import-vinyl-info.png photocards/packaging.png
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified PhotoCards PNG for single-item pilot"
+            git push
+          fi
+      - name: Проверить прямые HTTPS-ссылки без авторизации
+        run: |
+          python - <<'PY'
+          import hashlib, urllib.request, time
+          base='https://raw.githubusercontent.com/soyuz-music-shop/soyuz-music-photocards/main/photocards/'
+          for name,expected in {
+             'import-vinyl-info.png':'4eb8873b3e62ec6a4d6e684d8c13508e442cb44406c8cca6e2f347a8949b3cfb',
+             'packaging.png':'059e5c298bc7d0bc9c73bfb62dbde8b5650a9b4970a29ad171845b034b887581'
+          }.items():
+            for attempt in range(10):
+              try:
+                req=urllib.request.Request(base+name,headers={'User-Agent':'SOYUZ-PhotoCards-HTTPS-Check'})
+                with urllib.request.urlopen(req,timeout=25) as resp: data=resp.read()
+                if hashlib.sha256(data).hexdigest()!=expected:
+                  raise RuntimeError('Downloaded file mismatch')
+                print('PUBLIC_PNG_OK:',name,len(data))
+                break
+              except Exception:
+                if attempt==9: raise
+                time.sleep(3)
+          PY
