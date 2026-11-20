@@ -1,7 +1,7 @@
 {
   "product_id": 6961317504,
   "offer_id": "R1 728606",
-  "stage": "imported",
+  "stage": "three_images_observed",
   "old_photo_sha256": "d225b7d8adaaa3efc4fc0c6fc514c941bf7deab69d04edbbadb7459329edab90",
   "add": [
     "import-vinyl-info.png",
@@ -9,5 +9,7 @@
   ],
   "note": "Do not automatically retry this API request",
   "task_id": 6089799466,
-  "status": "imported"
+  "status": "imported",
+  "gallery_count": 3,
+  "primary_url_unchanged": true
 }
