@@ -1,0 +1,77 @@
+name: Опубликовать шаблоны CD и российского винила
+
+on:
+  push:
+    paths:
+      - "ozon-photocards-variants.zip"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: photocards-variants-publication
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Скачать PhotoCards
+        uses: actions/checkout@v4
+      - name: Сверить утверждённые PNG и извлечь их
+        run: |
+          python - <<'PY'
+          import hashlib, pathlib, struct, sys, zipfile
+          archive=pathlib.Path("ozon-photocards-variants.zip")
+          if not archive.exists(): sys.exit("Missing ozon-photocards-variants.zip")
+          expected={
+             "cd-import.png": "cc4453f956204c2c8946b2969ae8f5e54b82e5edc2baad5e2fea3ddebc65ffbe",
+             "cd-russian.png": "570f118d67538b72fd157d2afc2fc056b5b3cd564351d62056d5c40bc086131e",
+             "vinyl-russian.png": "bfa172e1259f795676c454b5fee1a69c4be68f11d1a6fbdd6e0cd03cf4469b5b",
+             "vinyl-colored-import.png": "27383ee231830cbdb9aaec2347557364066ffc9fcbe7851900a358ff746bea3b",
+          }
+          with zipfile.ZipFile(archive) as z:
+            if sorted(z.namelist())!=sorted(expected): sys.exit("Unexpected ZIP files")
+            for name,sha in expected.items():
+              data=z.read(name)
+              if hashlib.sha256(data).hexdigest()!=sha: sys.exit("SHA mismatch: "+name)
+              if data[:8]!=b"\x89PNG\r\n\x1a\n" or struct.unpack(">II",data[16:24])!=(1200,1600):
+                sys.exit("Unexpected PNG dimensions: "+name)
+              path=pathlib.Path("photocards")/name
+              path.parent.mkdir(exist_ok=True)
+              path.write_bytes(data)
+              print("VERIFIED",name,len(data))
+          PY
+      - name: Опубликовать только четыре шаблона
+        run: |
+          git config user.name "soyuz-music-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add photocards/cd-import.png photocards/cd-russian.png photocards/vinyl-russian.png photocards/vinyl-colored-import.png
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified CD and Russian vinyl PhotoCards templates"
+            git pull --rebase origin main
+            git push origin main
+          fi
+      - name: Проверить все четыре публичные ссылки
+        run: |
+          python - <<'PY'
+          import hashlib, time, urllib.request
+          data={
+             "cd-import.png": "cc4453f956204c2c8946b2969ae8f5e54b82e5edc2baad5e2fea3ddebc65ffbe",
+             "cd-russian.png": "570f118d67538b72fd157d2afc2fc056b5b3cd564351d62056d5c40bc086131e",
+             "vinyl-russian.png": "bfa172e1259f795676c454b5fee1a69c4be68f11d1a6fbdd6e0cd03cf4469b5b",
+             "vinyl-colored-import.png": "27383ee231830cbdb9aaec2347557364066ffc9fcbe7851900a358ff746bea3b",
+          }
+          base="https://raw.githubusercontent.com/soyuz-music-shop/soyuz-music-photocards/main/photocards/"
+          for name, expected in data.items():
+            for attempt in range(12):
+              try:
+                with urllib.request.urlopen(urllib.request.Request(base+name,headers={"User-Agent":"SOYUZ-PhotoCards-variant-check"}),timeout=25) as resp: b=resp.read()
+                if hashlib.sha256(b).hexdigest()!=expected: raise RuntimeError("wrong file")
+                print("PUBLIC_PNG_OK",name)
+                break
+              except Exception:
+                if attempt==11: raise
+                time.sleep(3)
+          PY
