@@ -1,0 +1,208 @@
+{
+  "source": "Ozon Seller API, read only",
+  "scope": "All seller products visible to this account",
+  "total_listed": 5571,
+  "total_classified": 5571,
+  "eligible_count": 4966,
+  "by_variant": {
+    "cd-import": 1324,
+    "cd-russian": 907,
+    "import-vinyl-info": 2674,
+    "vinyl-colored-import": 4,
+    "vinyl-russian": 57
+  },
+  "excluded_by_reason": {
+    "already_piloted": 1,
+    "edition_missing": 361,
+    "russian_vinyl_weight_unverified": 42,
+    "type_media_mismatch": 189,
+    "unknown_category": 4,
+    "unknown_type": 8
+  },
+  "pilot_excluded": [
+    6961317504
+  ],
+  "notes": [
+    "No Ozon writes performed",
+    "Russian vinyl requires documented 180g",
+    "Sticker availability is not verified by API",
+    "Colored imported vinyl limited-run template only if title explicitly says limited"
+  ],
+  "eligible_first_25": [
+    {
+      "id": 20807385,
+      "offer_id": "4630065135827",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "VICTORIUS. Space Ninjas From Hell (CD/Компакт-диск)"
+    },
+    {
+      "id": 20811913,
+      "offer_id": "4630065135575",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "MARKO HIETALA. Pyre Of The Black Heart (CD/Компакт-диск)"
+    },
+    {
+      "id": 20811938,
+      "offer_id": "4630065135834",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "Temperance. Viridian (CD/Компакт-диск)"
+    },
+    {
+      "id": 20812054,
+      "offer_id": "4630065135803",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Amberian Dawn. Looking For You (CD/Компакт-диск)"
+    },
+    {
+      "id": 20812153,
+      "offer_id": "4630065135797",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Kreator. London Apocalypticon - Live At The Roundhouse (CD/Компакт-диск)"
+    },
+    {
+      "id": 20812274,
+      "offer_id": "4630065137234",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "SUICIDE SILENCE. Become The Hunter (CD/Компакт-диск)"
+    },
+    {
+      "id": 20812349,
+      "offer_id": "4630065135728",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "DIABULUS IN MUSICA. Euphonic Entropy (CD диск/Компакт-диск)"
+    },
+    {
+      "id": 20812441,
+      "offer_id": "4630065137210",
+      "variant": "cd-russian",
+      "images_before": 1,
+      "name": "UNZUCHT Jenseits der Welt (Компакт-диск)"
+    },
+    {
+      "id": 20823159,
+      "offer_id": "4630065138064",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "My Dying Bride. The Ghost Of Orion (CD/Компакт-диск)"
+    },
+    {
+      "id": 20823259,
+      "offer_id": "4630065136671",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "BURNING WITCHES. Dance with the devil (CD Jewel case/Компакт-диск)"
+    },
+    {
+      "id": 20823309,
+      "offer_id": "4630065138057",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "ALMANAC. Rush Of Death (CD/Компакт-диск)"
+    },
+    {
+      "id": 20823603,
+      "offer_id": "4630065138088",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "White Stones. Kuarahy (CD/Компакт-диск)"
+    },
+    {
+      "id": 20836868,
+      "offer_id": "4650075212318",
+      "variant": "vinyl-russian",
+      "images_before": 5,
+      "name": "КУКРЫНИКСЫ Артист (LP Black, 180 г, Gatefold)"
+    },
+    {
+      "id": 21060471,
+      "offer_id": "4630065138316",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "CANDLEMASS. The Pendulum (EP) (CD/Компакт-диск)"
+    },
+    {
+      "id": 21078682,
+      "offer_id": "4630065139221",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "IRIST. Order Of The Mind (Компакт-диск)"
+    },
+    {
+      "id": 21179793,
+      "offer_id": "4630065138095",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "TESTAMENT. Titans of Сreation (CD/Компакт-диск)"
+    },
+    {
+      "id": 21198864,
+      "offer_id": "4630038840093",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Sabaton. Attero Dominatus. Re-armed (CD/Компакт-диск)"
+    },
+    {
+      "id": 21198865,
+      "offer_id": "4630038840291",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Sabaton. Metalizer. Re-armed (2 CD) (Компакт-диск)"
+    },
+    {
+      "id": 21198866,
+      "offer_id": "4630038840116",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Sabaton. Primo Victoria. Re-armed (Компакт-диск)"
+    },
+    {
+      "id": 21198867,
+      "offer_id": "4630038840109",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Sabaton. The Art Of War. Re-armed (CD/Компакт-диск)"
+    },
+    {
+      "id": 21260031,
+      "offer_id": "4630038847061",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "In Flames. I, The Mask (CD/Компакт-диск)"
+    },
+    {
+      "id": 21261723,
+      "offer_id": "4630038847818",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Suzi Quatro. No Control (Компакт-диск)"
+    },
+    {
+      "id": 21262878,
+      "offer_id": "4650062361333",
+      "variant": "cd-russian",
+      "images_before": 4,
+      "name": "Prodigy. The Fat Of The Land (2 CD/Компакт-диск)"
+    },
+    {
+      "id": 21262982,
+      "offer_id": "4630038847627",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Battle Beast. No More Hollywood Endings (CD/Компакт-диск)"
+    },
+    {
+      "id": 21263845,
+      "offer_id": "4610027699918",
+      "variant": "cd-russian",
+      "images_before": 2,
+      "name": "Powerwolf. The Sacrament of Sin (CD диск/Компакт-диск)"
+    }
+  ]
+}
