@@ -10,6 +10,11 @@
       "stage": "skipped_preflight",
       "error_type": "AttributeError",
       "error": "'list' object has no attribute 'get'"
+    },
+    "20812054": {
+      "stage": "skipped_preflight",
+      "error_type": "AttributeError",
+      "error": "'list' object has no attribute 'get'"
     }
   }
 }
