@@ -185,7 +185,7 @@ def main():
                 state["items"][key].update(stage="needs_review_visual",mae=[round(d1,3),round(d2,3)])
                 git_save(state,f"Review image identity for {pid}")
                 raise RuntimeError(f"Unexpected PhotoCards images for {pid}; stop batch")
-            state["items"][key].update(stage="verified",after_count=len(after),"image_mae":[round(d1,3),round(d2,3)])
+            state["items"][key].update(stage="verified",after_count=len(after),image_mae=[round(d1,3),round(d2,3)])
             git_save(state,f"Verified Russian CD PhotoCards gallery for {pid}")
             print("RUSSIAN_CD_ITEM_VERIFIED",pid,len(before),len(after),round(d1,3),round(d2,3))
             break
