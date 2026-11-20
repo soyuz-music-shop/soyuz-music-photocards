@@ -1,0 +1,19 @@
+name: Проверить Ozon API (без изменений)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Скачать проект
+        uses: actions/checkout@v4
+      - name: Проверить Ozon (только чтение)
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/check_ozon.py
