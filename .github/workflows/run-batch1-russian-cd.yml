@@ -1,0 +1,41 @@
+name: Первая партия PhotoCards — 4 российских CD
+
+on:
+  push:
+    paths:
+      - ".github/workflows/run-batch1-russian-cd.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-batch1-russian-cd
+  cancel-in-progress: false
+
+jobs:
+  four-products-only:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow
+        run: python -m pip install --quiet Pillow
+      - name: Проверить ровно четыре разрешённых товара
+        run: |
+          python -m py_compile scripts/batch1_russian_cd.py
+          python - <<'PY'
+          import sys
+          sys.path.insert(0,"scripts")
+          import batch1_russian_cd as b
+          assert [x[0] for x in b.PRODUCTS]==[20811913,20811938,20812054,20812153]
+          assert b.STATE.as_posix()=="batch1/status.json"
+          print("STRICT_FOUR_ITEM_SCOPE_OK")
+          PY
+      - name: Git identity
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Последовательно проверить и обновить не более четырёх российских CD
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/batch1_russian_cd.py
