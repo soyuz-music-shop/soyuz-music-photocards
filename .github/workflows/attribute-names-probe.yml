@@ -1,0 +1,21 @@
+name: Сверить атрибуты издания и винила по справочнику Ozon
+
+on:
+  push:
+    paths:
+      - ".github/workflows/attribute-names-probe.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить названия атрибутов
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/attribute_names_probe.py
