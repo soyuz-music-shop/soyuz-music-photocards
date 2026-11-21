@@ -137,6 +137,19 @@
         0.0,
         0.0
       ]
+    },
+    "23103351": {
+      "stage": "locked",
+      "offer_id": "XLCD790",
+      "variant": "cd-import",
+      "before_count": 5,
+      "original_url_sha256": [
+        "9aa6bb0d57ba50bae0c0f8ba4893abeae29d5185a9d92b3028f142b538bbb656",
+        "ca599405b9a3dd2586f012860628e759ae2cf669469505c1cef04250c03ea02a",
+        "05105f16bddae04baf0232166d3ac4540902edc5d1eede92c3177358b87753a9",
+        "76cf23c778c68d9c69f23c6d82be3cf05edb772488cd36027bcc9b7080e63a28",
+        "9cbbd656cbd80d19d4ef78bf69480c99c05148655db7eba08e116bc47a81e65e"
+      ]
     }
   }
 }
