@@ -3397,6 +3397,18 @@
         0.0,
         0.0
       ]
+    },
+    "30920888": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RUG398T",
+      "originals_sha256": [
+        "4746043d5592ea132d81d1d9a8703a8f645d02d20049e7346d592c90e87f663d",
+        "505a9ba9e7e21d42086962a72d356895bf2d6b0449f7b3319154dd58e2aee064",
+        "9d62fe54ffb778ffedbbe43856b3bb5d537b0219e13e3a476cb01589dc8d0376",
+        "ec068a6ac85674eb731fd4e071208bd01f0db3baf9a5444e01804fa849d8adc9"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
