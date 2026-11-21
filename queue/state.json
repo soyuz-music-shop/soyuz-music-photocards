@@ -9506,7 +9506,7 @@
       ]
     },
     "55603964": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD13",
       "originals_sha256": [
@@ -9516,7 +9516,12 @@
         "864bc33cb30f1b66650c03b14656343d014c9770fb56fa1bc868e16aa050f189"
       ],
       "before_count": 4,
-      "task_id": 6097676049
+      "task_id": 6097676049,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
