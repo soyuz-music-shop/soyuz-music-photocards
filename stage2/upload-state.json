@@ -208,6 +208,16 @@
         0.0,
         0.0
       ]
+    },
+    "27000301": {
+      "stage": "locked",
+      "offer_id": "XSPOON29",
+      "variant": "import-vinyl-info",
+      "before_count": 2,
+      "original_url_sha256": [
+        "98446b96f81be895782a9a6609369a720f4c0e60131bd3157465272f81b7313c",
+        "aefe094209f5c10c1afe3eac07ea727ae0a09d4cf9ae6088a965340a8af1d7d2"
+      ]
     }
   }
 }
