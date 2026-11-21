@@ -6717,7 +6717,7 @@
       ]
     },
     "36221551": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2 137",
       "originals_sha256": [
@@ -6725,7 +6725,8 @@
         "dd4122a286529abc2cfb9af69a89a21db99d5ee94a1b4b89fa4c5205b31ab775",
         "ae1a2bcb3bae855a8756940ac157f97d0d5e58c712e6979281a956c6f7094bbe"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097544265
     }
   },
   "reason": null
