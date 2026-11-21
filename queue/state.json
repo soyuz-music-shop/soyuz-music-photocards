@@ -7874,7 +7874,7 @@
       ]
     },
     "42688200": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RT0129CD",
       "originals_sha256": [
@@ -7885,7 +7885,12 @@
         "9935d098550ff91530534bb9f48335f00370d20a3af50c81d2b04736888a9d9a"
       ],
       "before_count": 5,
-      "task_id": 6097603012
+      "task_id": 6097603012,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
