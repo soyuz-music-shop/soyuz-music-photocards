@@ -1,0 +1,41 @@
+name: Stage 2 — импортные CD и винил, строго 8 товаров
+
+on:
+  push:
+    paths:
+      - ".github/workflows/stage2-run.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-stage2-eight-items
+  cancel-in-progress: false
+
+jobs:
+  stage2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow
+        run: python -m pip install --quiet Pillow
+      - name: Проверить список и лимит
+        run: |
+          python -m py_compile scripts/stage2_import.py
+          python - <<'PY'
+          import json
+          data=json.load(open('stage2/read-only-selection.json',encoding='utf-8'))
+          ids={x['id'] for x in data['selected']}
+          assert len(ids)==len(data['selected'])==8
+          assert {x['variant'] for x in data['selected']}=={'cd-import','import-vinyl-info'}
+          print("STAGE2_SCOPE_OK: exactly 8 imported media products")
+          PY
+      - name: Git identity
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Сохранить старые фото и отправить две новые, с проверкой после каждого товара
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/stage2_import.py
