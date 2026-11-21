@@ -4414,7 +4414,7 @@
       ]
     },
     "32531231": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHD651",
       "originals_sha256": [
@@ -4424,7 +4424,12 @@
         "6b0e6a581c5c509056ff8594b1a4645909b614ee304b345c7cfd1444d04aa07f"
       ],
       "before_count": 4,
-      "task_id": 6097396296
+      "task_id": 6097396296,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
