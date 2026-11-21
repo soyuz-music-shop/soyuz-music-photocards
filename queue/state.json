@@ -2093,7 +2093,7 @@
       ]
     },
     "27681354": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2135",
       "originals_sha256": [
@@ -2101,7 +2101,12 @@
         "0c0c474adc80f6c482e1a3498ebfba382cfdef0a236e444c620b7ceac49fb8f9"
       ],
       "before_count": 2,
-      "task_id": 6097285639
+      "task_id": 6097285639,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
