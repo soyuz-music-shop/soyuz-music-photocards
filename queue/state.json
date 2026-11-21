@@ -7490,6 +7490,17 @@
         0.0,
         0.0
       ]
+    },
+    "39350856": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD 3623",
+      "originals_sha256": [
+        "f8fdd4a42929dbc20f153c58084f0fd35adace8d3bfd114c1f721ef043c2462a",
+        "c21203bac1908790b74721a09c4d96219ad8fa2f3120036ae014d92ba76c36cc",
+        "def81bc47fd83c1934c685a55992eb7f6ec5e519f373c938411a61f552d06afe"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
