@@ -10853,6 +10853,17 @@
         0.0,
         0.0
       ]
+    },
+    "76320401": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSTUMM431",
+      "originals_sha256": [
+        "5acac1f15c48607342b51c5e8e2c59b841a5855ce24165b9675e6522f1f0d093",
+        "717a90d11a6266908fd779e214c44b415974cf57b9afc36fe04fd09c4d4b17f3",
+        "8204c66bceaebb1b65ee8cde374c38e1b7019d1b48041aa56a98b4182f3780d9"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
