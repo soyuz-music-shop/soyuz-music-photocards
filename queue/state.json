@@ -9613,7 +9613,7 @@
       ]
     },
     "55612817": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BYE002CD",
       "originals_sha256": [
@@ -9622,7 +9622,8 @@
         "af99cfcea2d3a5f9f14a8d5ee2cdde9b08525b6d43dbfe233aea9e058eab9273",
         "56e1b7faec492140e54b1f667c304e84a0593180d5fd1fb2611de08c2122726d"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097681997
     }
   },
   "reason": null
