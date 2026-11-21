@@ -10205,14 +10205,15 @@
       ]
     },
     "69816114": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QCRSEG073",
       "originals_sha256": [
         "04d836a69d2b4c8ac76a0da8710af7a2b81dd77eed5747926cf1cb98716794c8",
         "16b36af63b835e31df32973c6f8c1ee8322e770509ecf4d51d5daf0d1af8de45"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097712650
     }
   },
   "reason": null
