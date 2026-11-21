@@ -9121,7 +9121,7 @@
       ]
     },
     "53151432": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HNECD019D",
       "originals_sha256": [
@@ -9132,7 +9132,12 @@
         "d23fafaf27554113535e9d34b2beebaae80d7e926265fcd753995f6594626e3e"
       ],
       "before_count": 5,
-      "task_id": 6097656418
+      "task_id": 6097656418,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
