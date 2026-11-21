@@ -6274,7 +6274,7 @@
       ]
     },
     "35705921": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD205",
       "originals_sha256": [
@@ -6283,7 +6283,12 @@
         "d263016014806ab8a5009ae07e114b1031a516d6938e2442e5ac83840f640406"
       ],
       "before_count": 3,
-      "task_id": 6097523135
+      "task_id": 6097523135,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
