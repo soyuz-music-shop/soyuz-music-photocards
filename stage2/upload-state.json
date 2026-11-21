@@ -2,7 +2,7 @@
   "batch": "stage2-imported-products-pilot",
   "items": {
     "21476982": {
-      "stage": "submitted",
+      "stage": "imported",
       "offer_id": "XLCD520",
       "variant": "cd-import",
       "before_count": 2,
