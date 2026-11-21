@@ -226,7 +226,7 @@
       ]
     },
     "27296267": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "KCLP1",
       "variant": "import-vinyl-info",
       "before_count": 9,
@@ -240,7 +240,8 @@
         "1a40faac1b068dd9bdf5e901c2e09b336c92b2240781f18e4187f4112e1e768a",
         "ba164f8b4b9cabe755ca4b37ad54f6edabfb4fb96217b19a7b48dbc90a7a3343",
         "dffa898df7461c1fa343772cdad604b45eef76b6802a4cb3539346bd513fe13c"
-      ]
+      ],
+      "task_id": 6094415331
     }
   }
 }
