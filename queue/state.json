@@ -11203,6 +11203,19 @@
         0.0,
         0.0
       ]
+    },
+    "86923499": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CSTLP 126",
+      "originals_sha256": [
+        "6213ec3168c3f3579d5dd74e6d8d0b870303fd231add9ffae4e1472e2bae310d",
+        "08d91f511d28fc855b23b2872f9cd01364da5b4de566f79a8a6e29efb6bf98ca",
+        "62a94517116459d171e8dc786f64495c2d5801024bc8e95e2ef951e9f590ce09",
+        "3af48848eb1f1bc3cea7a5ef50a83e181d8d0107247451618ed0cd68d10e1507",
+        "95deebaf53d5482ceb37627bf5f46a358cb888dc0c5c02015d881395aad7f04d"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
