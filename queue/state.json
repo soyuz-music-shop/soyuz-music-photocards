@@ -10870,6 +10870,16 @@
         0.0,
         0.0
       ]
+    },
+    "76529497": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "4AD0141CD",
+      "originals_sha256": [
+        "cd4e67292072e73f3d02af8175630669b4f118c13971fadadf045dec5a0c1f63",
+        "49562915ec19f1b5a8a8ba025961e3efb08d3d5ad2175dd82d0924d0cab1d0f3"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
