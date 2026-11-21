@@ -6381,7 +6381,7 @@
       ]
     },
     "35725676": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAD3X05CDJ",
       "originals_sha256": [
@@ -6390,7 +6390,12 @@
         "c4235314510e608310f36aef53cd23e2a440280e3fe622adc1d05f08feb98540"
       ],
       "before_count": 3,
-      "task_id": 6097527852
+      "task_id": 6097527852,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
