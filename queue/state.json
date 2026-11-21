@@ -6700,7 +6700,7 @@
       ]
     },
     "36220816": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2 126",
       "originals_sha256": [
@@ -6709,7 +6709,12 @@
         "037919ae7340e69b5a70a3534aaa1e6f7f226b70cce650af23df38c85c02334f"
       ],
       "before_count": 3,
-      "task_id": 6097543009
+      "task_id": 6097543009,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
