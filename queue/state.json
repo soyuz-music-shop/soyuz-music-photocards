@@ -1495,14 +1495,15 @@
       ]
     },
     "27439500": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "4630065134813",
       "originals_sha256": [
         "dff33dcfe85cbf2e074deb32ee0ae9a4e69bcea14fe01eae05e5e3d253c5ecbf",
         "1727cdd62b92fb9956841b212b17c10c5384d519d3c8efc69c6bcb47b2b2dd49"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097254038
     }
   },
   "reason": null
