@@ -3800,6 +3800,17 @@
         0.0,
         0.0
       ]
+    },
+    "31092251": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3710",
+      "originals_sha256": [
+        "9bf461af59be1ede79cca926bcad5dc30b2fccf945e13ba31f9a946142c84814",
+        "2cdc0cbd9bf508a42d2da37b30867af23a62bfbf016bcb82c67814431d7b4d31",
+        "5c7667e068170331d56f258d010c08a5a10c8bc8179fa371fdc5cb95756c5fd7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
