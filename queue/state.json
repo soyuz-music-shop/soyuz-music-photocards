@@ -10394,7 +10394,7 @@
       ]
     },
     "70849297": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LSINV223CD",
       "originals_sha256": [
@@ -10404,7 +10404,12 @@
         "bd7075ccb81ebc36500096e27afe29fcd21d63c38203e9784933c64dd73ceca9"
       ],
       "before_count": 4,
-      "task_id": 6097723209
+      "task_id": 6097723209,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
