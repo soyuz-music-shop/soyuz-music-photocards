@@ -4139,7 +4139,7 @@
       ]
     },
     "32314057": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIK 2",
       "originals_sha256": [
@@ -4147,7 +4147,8 @@
         "cfd0c807e90410589e3c23f91f16a8483d6152f7645ce827940836c746d51eb5",
         "671657f08380225915d5f56156beee929555e53445dcfb04f788855a780e9fbf"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097385207
     }
   },
   "reason": null
