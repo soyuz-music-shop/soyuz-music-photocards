@@ -3819,7 +3819,7 @@
       ]
     },
     "31097435": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD2K19",
       "originals_sha256": [
@@ -3829,7 +3829,12 @@
         "d4a42ecc69b26b816bbfbd41924a18cc8114130222027798c52123287c271a60"
       ],
       "before_count": 4,
-      "task_id": 6097371534
+      "task_id": 6097371534,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
