@@ -3526,7 +3526,7 @@
       ]
     },
     "31038411": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAD3637",
       "originals_sha256": [
@@ -3535,7 +3535,8 @@
         "2a647bef49ded8007ec77f01a4d0d27ffcbe3d31baf5ebb3b10537924c14b045",
         "ad08c6bcb11270bb8ad308fd2924e47c1b6d43c1899660acbf1b09c0efee409e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097358595
     }
   },
   "reason": null
