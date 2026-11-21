@@ -5368,7 +5368,7 @@
       ]
     },
     "34590370": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB 2858-8",
       "originals_sha256": [
@@ -5377,7 +5377,8 @@
         "3d2da0e8e52531c5ead51a9fc2169f76ad980ad52435553812bc83e70dc0b09c",
         "0eb6195bf66b19b6a16a9d48743d8d734d1a331964a0a832be1c52489f9c5d16"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097460009
     }
   },
   "reason": null
