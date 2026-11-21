@@ -4412,6 +4412,18 @@
         0.0,
         0.0
       ]
+    },
+    "32531231": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD651",
+      "originals_sha256": [
+        "e07bf8c65d9c828b13e06a069c939b0c93498d26b33e1b0b6f766bf70f618283",
+        "9417d23a6fc3f337e6d19c54a53091b1f484ead488c6ccab787b5421c002d3d8",
+        "4b65b168f25c3bca356a9447b348d0e8412631a397361808c2b6231c12c18417",
+        "6b0e6a581c5c509056ff8594b1a4645909b614ee304b345c7cfd1444d04aa07f"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
