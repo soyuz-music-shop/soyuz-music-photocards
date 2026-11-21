@@ -4414,7 +4414,7 @@
       ]
     },
     "32531231": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDCHD651",
       "originals_sha256": [
@@ -4423,7 +4423,8 @@
         "4b65b168f25c3bca356a9447b348d0e8412631a397361808c2b6231c12c18417",
         "6b0e6a581c5c509056ff8594b1a4645909b614ee304b345c7cfd1444d04aa07f"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097396296
     }
   },
   "reason": null
