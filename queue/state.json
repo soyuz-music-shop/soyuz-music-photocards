@@ -3280,6 +3280,24 @@
         0.0,
         0.0
       ]
+    },
+    "30898626": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP317",
+      "originals_sha256": [
+        "a45907a084ed0fb3bc1d1fd1c3824796b9a7e2bd3f4a99f68ac7b829327157e6",
+        "682add2e34b9eb454984294ccd658f5b386f0ffa6acb136d3e471bdfe1b39a52",
+        "85aec75b2667e6835e98a5bb75d827ee4676c4d11dc30efe27a65736f3f80308",
+        "836fd748eab632ee06ed1c9d3c14b24ab798810e1ec3abe60b33a7d13fcb083f",
+        "351f721c4c393396cd0a154c0ea3fcfe0f691becbc1d3bb54535866dd0e79f17",
+        "f05fe6f651f3764db5b7685c4b0316797b3e3538301173e139a45aa664ead492",
+        "024560300ac3f29f6dd439dc2c88216ad0630e95e7b28961394a1179678060b7",
+        "ae5eb18ffc1436ebc94fb21e0cec98130968d93d6adb9af9d040a66e51993961",
+        "3f720ca3c370aa28ab75885b6eb19f2eb2bbe95ce41120d297a406d94a417ae4",
+        "86d6845e3823c533df6d1b7ff730acd15531142c10f269c647ff44ae318225de"
+      ],
+      "before_count": 10
     }
   },
   "reason": null
