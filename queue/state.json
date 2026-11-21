@@ -8212,7 +8212,7 @@
       ]
     },
     "48030938": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "6711048",
       "originals_sha256": [
@@ -8223,7 +8223,12 @@
         "3cf3732e72cf9981e69d5df0fbb22d9d2a6d3c11e2e075862bccd9d68ffaef0b"
       ],
       "before_count": 5,
-      "task_id": 6097616986
+      "task_id": 6097616986,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
