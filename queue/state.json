@@ -3360,7 +3360,7 @@
       ]
     },
     "30911413": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP339",
       "originals_sha256": [
@@ -3372,7 +3372,12 @@
         "883d9241dea23f4ddf2c0811c70341b1729cf81070ab6ef2d5da9d119fadb979"
       ],
       "before_count": 6,
-      "task_id": 6097351347
+      "task_id": 6097351347,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
