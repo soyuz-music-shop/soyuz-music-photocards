@@ -1371,7 +1371,7 @@
       ]
     },
     "27302800": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DGM0513",
       "originals_sha256": [
@@ -1379,7 +1379,8 @@
         "964ee7b6666fa5602673e2b1bfd6037ca4e1dd7f49c707f3be75457bb0fa8113",
         "ed84161a715b9fbb3fd922acacd54c343fe006e2903dea06d2f638e0aa558b0d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097247508
     }
   },
   "reason": null
