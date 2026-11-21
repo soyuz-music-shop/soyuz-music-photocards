@@ -10483,6 +10483,17 @@
         0.0,
         0.0
       ]
+    },
+    "71489247": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RR71652",
+      "originals_sha256": [
+        "90abcc5f0635187a838e867918a143abfc6c453744f133e51f52ddbe60229132",
+        "de699d8b98390ac1c111dade07174e57ac6bd7ea1c96d348665a57e6a5f7b34e",
+        "34033815f08adbc364f2ee0538e5850ef11b29c6361a90d1ced1278f7bd6ca73"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
