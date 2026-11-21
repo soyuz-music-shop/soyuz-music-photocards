@@ -156,6 +156,16 @@
         0.0,
         0.0
       ]
+    },
+    "23260962": {
+      "stage": "locked",
+      "offer_id": "BS001CD",
+      "variant": "cd-import",
+      "before_count": 2,
+      "original_url_sha256": [
+        "0113475974420bbc5e1c81e836607897f9b94c3e99b836a960a92219cf777775",
+        "518f377d152a06ac23203e53d7fdf71717bf000ce6964a6a895891b53153323c"
+      ]
     }
   }
 }
