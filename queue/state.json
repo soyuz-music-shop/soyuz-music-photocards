@@ -9119,6 +9119,19 @@
         0.0,
         0.0
       ]
+    },
+    "53151432": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNECD019D",
+      "originals_sha256": [
+        "9e7148c368b1a1bd9a9ed17b2831175e074506391914ccd5a709747422c4098f",
+        "6d0140d9effa53e6cc189d085b1dcb55d3b3850518f01fdab866575a8a50131e",
+        "e71681c8c0af358d7d18784e7e5f258b56325a15015f8175602bbaacc41693d9",
+        "838c09c8bbf30b8d76740bbd6fb2a650153f2cb0aff4daeb49902f7de73ae584",
+        "d23fafaf27554113535e9d34b2beebaae80d7e926265fcd753995f6594626e3e"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
