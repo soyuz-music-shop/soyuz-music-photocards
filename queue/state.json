@@ -6173,7 +6173,7 @@
       ]
     },
     "35519541": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SALVO 391LP",
       "originals_sha256": [
@@ -6183,7 +6183,12 @@
         "87fbf37e8150bf9b3fe3019a08049fbe0fb37603a8d7a4b91bfa4dca655ebe8c"
       ],
       "before_count": 4,
-      "task_id": 6097516743
+      "task_id": 6097516743,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
