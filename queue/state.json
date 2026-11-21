@@ -2091,6 +2091,16 @@
         0.0,
         0.0
       ]
+    },
+    "27681354": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGP2135",
+      "originals_sha256": [
+        "49f126cdacbd0bebaf396558b9b0b5ff7d8ed39b508c06d005751239259ea04f",
+        "0c0c474adc80f6c482e1a3498ebfba382cfdef0a236e444c620b7ceac49fb8f9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
