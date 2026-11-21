@@ -3578,7 +3578,7 @@
       ]
     },
     "31046401": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP205",
       "originals_sha256": [
@@ -3586,7 +3586,8 @@
         "b12c5986fdbba1500d7731058fe198fd2ade57795819603e533f3f37cc5c8827",
         "03c3035d7a84790c9cc15fb2c5c3b4be2fa2c842a3ffb7295d3c3a3b236b05e9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097360527
     }
   },
   "reason": null
