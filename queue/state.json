@@ -9055,14 +9055,15 @@
       ]
     },
     "52494763": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NPR604VINYL",
       "originals_sha256": [
         "46566d6132ed1245ed7a944df70742c9bea80daf1138d182f27a49f28cfbee6c",
         "d81e1acc6bbe673f6aab4e82b9ba27ab2dc1429bff750a1092be7b9aae7761d2"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097651542
     }
   },
   "reason": null
