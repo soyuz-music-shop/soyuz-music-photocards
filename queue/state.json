@@ -7492,7 +7492,7 @@
       ]
     },
     "39350856": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3623",
       "originals_sha256": [
@@ -7501,7 +7501,12 @@
         "def81bc47fd83c1934c685a55992eb7f6ec5e519f373c938411a61f552d06afe"
       ],
       "before_count": 3,
-      "task_id": 6097582403
+      "task_id": 6097582403,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
