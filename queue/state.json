@@ -4636,7 +4636,7 @@
       ]
     },
     "33489617": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DGMLV1",
       "originals_sha256": [
@@ -4644,7 +4644,8 @@
         "6ae2e181d6704ac5c032f9341a62405ac8638f4c6e946eeb16cea07460009177",
         "67ab0eb3972004553fe8f30d8472059905347517391c2d1e17b18b642ead7e8a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097407312
     }
   },
   "reason": null
