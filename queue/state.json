@@ -1371,7 +1371,7 @@
       ]
     },
     "27302800": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DGM0513",
       "originals_sha256": [
@@ -1380,7 +1380,12 @@
         "ed84161a715b9fbb3fd922acacd54c343fe006e2903dea06d2f638e0aa558b0d"
       ],
       "before_count": 3,
-      "task_id": 6097247508
+      "task_id": 6097247508,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
