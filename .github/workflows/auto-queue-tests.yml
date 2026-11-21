@@ -1,0 +1,22 @@
+name: Проверка безопасной очереди PhotoCards — без Ozon
+
+on:
+  push:
+    paths:
+      - ".github/workflows/auto-queue-tests.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow for dependency import
+        run: python -m pip install --quiet Pillow
+      - name: Compile and run offline tests (no Seller API keys)
+        run: |
+          python -m py_compile scripts/auto_queue.py scripts/test_auto_queue.py
+          python scripts/test_auto_queue.py
