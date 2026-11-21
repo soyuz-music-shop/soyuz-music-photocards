@@ -7627,6 +7627,16 @@
         0.0,
         0.0
       ]
+    },
+    "39478105": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ESM1642",
+      "originals_sha256": [
+        "fcba011688a7b5677a17c6b8b12896020cfc769eddc926b1f4f3835972abaf8a",
+        "eef1a651fd7f7c2cd209a45e9dffa9561c3332fc19cddb27fe30a24e94e1c0f7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
