@@ -2604,7 +2604,7 @@
       ]
     },
     "28485370": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610093801406",
       "originals_sha256": [
@@ -2614,7 +2614,12 @@
         "1cb21ab50586ec9ec1663f649929984f65eb13f36c9f31a099e6bff14b1f1257"
       ],
       "before_count": 4,
-      "task_id": 6097313165
+      "task_id": 6097313165,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
