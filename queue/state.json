@@ -1424,7 +1424,7 @@
       ]
     },
     "27371657": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PECLEC22647",
       "originals_sha256": [
@@ -1435,7 +1435,12 @@
         "7a86665ff5a5a14e8632b6f059c6a1b1c059a8212d10adbdf2b94195776e6e86"
       ],
       "before_count": 5,
-      "task_id": 6097250106
+      "task_id": 6097250106,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
