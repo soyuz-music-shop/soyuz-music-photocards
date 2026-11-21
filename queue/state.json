@@ -10271,6 +10271,17 @@
         0.0,
         0.0
       ]
+    },
+    "69833092": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2719",
+      "originals_sha256": [
+        "8033736addaaced7a4f2af43ac0d9f1069563d6c155902ccaf64a7acf3017e88",
+        "bbf69f49212c1054d824fdd6ac524b41610d2808264f35adbd475e05655897ab",
+        "1339cf95af7158f077416913760364ed8c1182bb6564def1bbf27d3da8bef9cc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
