@@ -5089,7 +5089,7 @@
       ]
     },
     "33638851": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BHK1122v01",
       "originals_sha256": [
@@ -5103,7 +5103,12 @@
         "d26dd2ca7ea0a6cabe2ad75857f1340d443e62685e107c720c957eb56b9774ef"
       ],
       "before_count": 8,
-      "task_id": 6097439630
+      "task_id": 6097439630,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
