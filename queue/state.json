@@ -11089,7 +11089,7 @@
       ]
     },
     "82972099": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OMN14052",
       "originals_sha256": [
@@ -11099,7 +11099,12 @@
         "727268fadac2ce6831756adf53e4addf9f2f8cf61464d262ca7eaf7b6907ad18"
       ],
       "before_count": 4,
-      "task_id": 6097753482
+      "task_id": 6097753482,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
