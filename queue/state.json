@@ -8156,6 +8156,20 @@
         0.0,
         0.0
       ]
+    },
+    "47553340": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3425LP",
+      "originals_sha256": [
+        "6b61d61ca487a876c2609831917ebdd57cf5b1d55a5475ebecc4b7d1b5de4d63",
+        "b00e9732b8c2da946874328c33bb94954a7c91bc5a6172828db8a55ecaa47090",
+        "f71271d9ee1bd925201b1a7cfceb36b5efa6e996c80eedea7e57340286d9603d",
+        "84d5ccb6aae8468b1d3c94f7ffb9a2cca556063ad2bc1332d8565128c0811b98",
+        "3cfc599544cb2d5c44cf76bbca9ab96663a13815a5120f5172a323242856939b",
+        "7a82c11f9c2fa55ab575d8fc967b6bf7bb378cb89c1af31c96b9ac92c7e7773f"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
