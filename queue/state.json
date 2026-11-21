@@ -10429,7 +10429,7 @@
       ]
     },
     "70868467": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PIASR1065CDX",
       "originals_sha256": [
@@ -10437,7 +10437,8 @@
         "97dd51eed2846c3e671085518c735f6c08279de1db774b8437a760b36037a1b0",
         "a79683c35f995cf2bb771e238234e6a0bc81592c8cc587c1116b5a5382055202"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097724832
     }
   },
   "reason": null
