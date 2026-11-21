@@ -7524,6 +7524,18 @@
         0.0,
         0.0
       ]
+    },
+    "39351578": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL936LP",
+      "originals_sha256": [
+        "e9d758d4379795ae02f66e651ddf0ccc3fa4f5dbbf4cebd7740262225ae55a09",
+        "6e80215605f18fe9b365a0c5fea95a2276da97396049f9b3d1267f0a8542f009",
+        "1907debaebf1eb8a3d113e264726cb36e12b73eae9faa3d0aa1ff796524d955a",
+        "bcd4846c0246ac8c859a95ab62ca4480220be2304949ed03e597380a33203e72"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
