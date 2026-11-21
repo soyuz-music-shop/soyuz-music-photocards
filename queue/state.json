@@ -9488,7 +9488,7 @@
       ]
     },
     "55601662": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD04",
       "originals_sha256": [
@@ -9498,7 +9498,12 @@
         "4663233a2e338b7433fe93077c7a79a99e4036213a622900d4c996bc1a7fb3b4"
       ],
       "before_count": 4,
-      "task_id": 6097675181
+      "task_id": 6097675181,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
