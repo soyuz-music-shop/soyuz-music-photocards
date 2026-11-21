@@ -9121,7 +9121,7 @@
       ]
     },
     "53151432": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HNECD019D",
       "originals_sha256": [
@@ -9131,7 +9131,8 @@
         "838c09c8bbf30b8d76740bbd6fb2a650153f2cb0aff4daeb49902f7de73ae584",
         "d23fafaf27554113535e9d34b2beebaae80d7e926265fcd753995f6594626e3e"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097656418
     }
   },
   "reason": null
