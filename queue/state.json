@@ -6189,6 +6189,16 @@
         0.0,
         0.0
       ]
+    },
+    "35550402": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NB 2588-1",
+      "originals_sha256": [
+        "7fd7c0e160ef3a89b459678dce6cc887071179ed69ec76a4994145eee38b0fc2",
+        "0ed213d1c8c7ec4ba9e75aea2e565b3b44095b7ddf2b3a79fa1651c487df54f1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
