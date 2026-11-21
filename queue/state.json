@@ -4106,14 +4106,15 @@
       ]
     },
     "32274105": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AFM7439",
       "originals_sha256": [
         "1e9115fc4de74997631bffc456e4905efc6371875ee1654c9c172203d40ab769",
         "b27c31df28603980718aa3b662c84ceb174a6bc23a80ab2f9c1dc3205d2b8614"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097383895
     }
   },
   "reason": null
