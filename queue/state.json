@@ -4636,7 +4636,7 @@
       ]
     },
     "33489617": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DGMLV1",
       "originals_sha256": [
@@ -4645,7 +4645,12 @@
         "67ab0eb3972004553fe8f30d8472059905347517391c2d1e17b18b642ead7e8a"
       ],
       "before_count": 3,
-      "task_id": 6097407312
+      "task_id": 6097407312,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
