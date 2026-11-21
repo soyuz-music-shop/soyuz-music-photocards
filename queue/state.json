@@ -7544,7 +7544,7 @@
       ]
     },
     "39379126": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YTLP 118",
       "originals_sha256": [
@@ -7552,7 +7552,12 @@
         "2dc785d312876db2eec618ee43d8f401d93759d66c81746a7775e6ef17df080a"
       ],
       "before_count": 2,
-      "task_id": 6097585029
+      "task_id": 6097585029,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
