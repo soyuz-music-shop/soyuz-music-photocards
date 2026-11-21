@@ -7874,7 +7874,7 @@
       ]
     },
     "42688200": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RT0129CD",
       "originals_sha256": [
@@ -7884,7 +7884,8 @@
         "dd7e96b89a1d53e192b3139b4ce12fda53eb1edea71b2eeb347a64f6a1199917",
         "9935d098550ff91530534bb9f48335f00370d20a3af50c81d2b04736888a9d9a"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097603012
     }
   },
   "reason": null
