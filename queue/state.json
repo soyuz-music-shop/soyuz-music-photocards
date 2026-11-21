@@ -9576,6 +9576,18 @@
         0.0,
         0.0
       ]
+    },
+    "55607146": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV215LP",
+      "originals_sha256": [
+        "d8eb0ac1b2376a5e9a5eb9c9e338415b0a23702f0ae52446c4ee8a9b248488c9",
+        "b0620b59dadae392976d320cf9b81e95efff6a7a155e873570e28eb0f1aafc3a",
+        "ec109f0872383c81e6907f4ec15405ec4f6a4a6a31640ac36d27035e33395ccb",
+        "861a5642cebf1add986bc66604122494a75b7de72748f1348cf7c41fcf7d05e0"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
