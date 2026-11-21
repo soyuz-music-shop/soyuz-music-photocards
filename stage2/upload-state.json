@@ -139,7 +139,7 @@
       ]
     },
     "23103351": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "XLCD790",
       "variant": "cd-import",
       "before_count": 5,
@@ -149,7 +149,8 @@
         "05105f16bddae04baf0232166d3ac4540902edc5d1eede92c3177358b87753a9",
         "76cf23c778c68d9c69f23c6d82be3cf05edb772488cd36027bcc9b7080e63a28",
         "9cbbd656cbd80d19d4ef78bf69480c99c05148655db7eba08e116bc47a81e65e"
-      ]
+      ],
+      "task_id": 6094401095
     }
   }
 }
