@@ -2059,6 +2059,16 @@
         0.0,
         0.0
       ]
+    },
+    "27672783": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNEDCD028",
+      "originals_sha256": [
+        "e7d037ab45525a23b74f1f1a5b779f3f7a451ce134b35b034dae94e939284ec6",
+        "865f4b8d3fb4ac96854d83495365879c4e1b83468590bcdf2c85ce2c9242bde9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
