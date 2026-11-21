@@ -5750,6 +5750,17 @@
         0.0,
         0.0
       ]
+    },
+    "34792965": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNECD022",
+      "originals_sha256": [
+        "7d6167a1f0da8a2679f40b0621d6fe84e3766c26c3a8abcaa5ffaa1dffc7bd82",
+        "3e9b2aa7d7556c41ef26c8f340c605f1d1ae55a912725944449d79c8144f600f",
+        "f993999e055ffc77bbe1a9f55670bbca8effb7856bf5b83f3c4ec43109e26492"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
