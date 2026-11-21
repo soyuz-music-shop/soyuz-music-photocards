@@ -2721,7 +2721,7 @@
       ]
     },
     "28494205": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKM2",
       "originals_sha256": [
@@ -2729,7 +2729,12 @@
         "e78a9d8b102f34209f69a0534a40c10ebf9e1d8e0d5e4595a6f28f3dceb0a317"
       ],
       "before_count": 2,
-      "task_id": 6097319786
+      "task_id": 6097319786,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
