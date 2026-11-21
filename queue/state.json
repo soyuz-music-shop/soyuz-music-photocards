@@ -5990,7 +5990,7 @@
       ]
     },
     "35268012": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MAD709",
       "originals_sha256": [
@@ -5998,7 +5998,12 @@
         "6ca0bc5a0747d159e7ea817aec7678e5881e28bbcea02319d0fa55b2645b263b"
       ],
       "before_count": 2,
-      "task_id": 6097505945
+      "task_id": 6097505945,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
