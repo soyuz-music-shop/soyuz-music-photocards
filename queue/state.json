@@ -8229,6 +8229,17 @@
         0.0,
         0.0
       ]
+    },
+    "48031250": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PLCB6711042",
+      "originals_sha256": [
+        "a813dcd3f5975003f3b3ce82b1dbdce14c81c825fe3ced19be6a4b1e7cbac7fd",
+        "cf530e4c3c310e4596d2e32df1def8a19a754104c47b5adfd3910aab6bfeaced",
+        "155e1f381dfac93c086b1e4d8ca617d239e74afcc1941afc9004bfb2133b4cda"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
