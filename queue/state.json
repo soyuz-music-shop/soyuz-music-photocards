@@ -4587,14 +4587,15 @@
       ]
     },
     "33489514": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "KCLP4",
       "originals_sha256": [
         "6684cbd5ed7f9865222d4a94ad8b31aaaa6b3e31ef1e5bf76e4a8ec322075c6d",
         "566faf5ed5d9c11db726460fda1dfca41afed145737e9a8173d891378691edc6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097404152
     }
   },
   "reason": null
