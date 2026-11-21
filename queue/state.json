@@ -5038,7 +5038,7 @@
       ]
     },
     "33579968": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DGM0514",
       "originals_sha256": [
@@ -5047,7 +5047,12 @@
         "3cacc5cb08ee1cc096dac438acdcc949450a1fbf27fd0f97f7523fe073cbbe1d"
       ],
       "before_count": 3,
-      "task_id": 6097435364
+      "task_id": 6097435364,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
