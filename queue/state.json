@@ -5821,7 +5821,7 @@
       ]
     },
     "34800196": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EVDGCD1001",
       "originals_sha256": [
@@ -5830,7 +5830,12 @@
         "86f578ab747a613ece50f60873b3b852dea339e4e0e6595fd38f127450559d8f"
       ],
       "before_count": 3,
-      "task_id": 6097496113
+      "task_id": 6097496113,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
