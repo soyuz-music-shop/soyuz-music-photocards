@@ -10806,7 +10806,7 @@
       ]
     },
     "75516202": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VILELP389",
       "originals_sha256": [
@@ -10814,7 +10814,12 @@
         "38805b62b06f0a85d47d8ffb6e1bb6a35b9603eb122c2042051f7df6f20a59cf"
       ],
       "before_count": 2,
-      "task_id": 6097741616
+      "task_id": 6097741616,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
