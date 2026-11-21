@@ -6055,7 +6055,7 @@
       ]
     },
     "35274613": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD2406",
       "originals_sha256": [
@@ -6065,7 +6065,12 @@
         "ac77fbb9b65a1fae14c54222c02f6527cefcbcd46fbf1697c4df3306ba0638be"
       ],
       "before_count": 4,
-      "task_id": 6097510587
+      "task_id": 6097510587,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
