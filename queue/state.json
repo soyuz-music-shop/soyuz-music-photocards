@@ -6022,14 +6022,15 @@
       ]
     },
     "35269085": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD803",
       "originals_sha256": [
         "bffacc005661929be2866784c4b3fb38c57c38cc883a45589e601d1272bbb11b",
         "ffff43ee6b6fe30468b94055f57e98526e67f34571a74b7eb5b409785445a94d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097508038
     }
   },
   "reason": null
