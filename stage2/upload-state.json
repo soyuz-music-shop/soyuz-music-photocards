@@ -66,7 +66,7 @@
       ]
     },
     "21477097": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "XLLP520",
       "variant": "import-vinyl-info",
       "before_count": 6,
@@ -77,7 +77,8 @@
         "0ef94b3b0acf6cf50121e179312a09f25aba451c4778a66c384297dfb2ae81ff",
         "aefa783b99f9a338b0421aabf6bfc097d9f6fc506dc8b8146a5e720024929f56",
         "437c18d7036c85ca5b7b5efc1d89edc02970dc04b470bbd5fd0cc9c340b3a02d"
-      ]
+      ],
+      "task_id": 6094368170
     }
   }
 }
