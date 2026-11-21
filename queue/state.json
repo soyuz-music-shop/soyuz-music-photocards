@@ -4562,6 +4562,23 @@
         0.0,
         0.0
       ]
+    },
+    "33489397": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLP5",
+      "originals_sha256": [
+        "d943b38a15cbfe8b62bdad8e9abfc40692dcb2dafb25303d41660723398f3b71",
+        "638cd39ead3b093b1864fd97253d7f7b6fbef3fd54fdc6ada9269d8a2fbb4a92",
+        "0bb06521e2d17eda576d202dace20e8ae7f12a357900c68278f22abecac30507",
+        "40ab47a5d2a30d362f44e6338411b089de402607fcf18f65cf1253e85305a867",
+        "4ef4c7c10f829eb3f369f05781cbdffcd82f99aaf61d0b2a2712e25c48546c2d",
+        "ed1d64345a646e1adfc78739523db6ca16e703c6b081d9b7702e9ea99d9367bb",
+        "3aaa4c6836a05e2a6efb4b019fa259040cb2cc268bca89497268b5aa19882285",
+        "370897d06e25f33020d6cccdc7950f6270631b94185781ab0df22629018e0076",
+        "d7dd6c04408dbf1898851a9c6c9ba8885eb031c6ed3ffe2509f1950f673830dd"
+      ],
+      "before_count": 9
     }
   },
   "reason": null
