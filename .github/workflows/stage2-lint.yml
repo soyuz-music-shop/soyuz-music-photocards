@@ -1,0 +1,33 @@
+name: Stage 2 — проверка безопасности и синтаксиса без отправки
+
+on:
+  push:
+    paths:
+      - ".github/workflows/stage2-lint.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Syntax and exact pilot scope
+        run: |
+          python -m py_compile scripts/stage2_import.py
+          python - <<'PY'
+          import ast,json
+          d=json.load(open('stage2/read-only-selection.json',encoding='utf-8'))
+          assert len(d["selected"])==8
+          assert {x["variant"] for x in d["selected"]}=={"cd-import","import-vinyl-info"}
+          assert len({x["id"] for x in d["selected"]})==8
+          t=ast.parse(open("scripts/stage2_import.py",encoding="utf-8").read())
+          assignments={n.targets[0].id:ast.literal_eval(n.value) for n in t.body
+                       if isinstance(n,ast.Assign) and len(n.targets)==1
+                       and isinstance(n.targets[0],ast.Name) and n.targets[0].id in ("MAX_UPLOADS","ALLOWED","PREVIOUS")}
+          assert assignments["MAX_UPLOADS"]==8
+          assert assignments["ALLOWED"]=={"cd-import","import-vinyl-info"}
+          assert all(x["id"] not in assignments["PREVIOUS"] for x in d["selected"])
+          print("STAGE2_LINT_AND_SCOPE_OK")
+          PY
