@@ -1388,7 +1388,7 @@
       ]
     },
     "27365068": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "REWIGCD40",
       "originals_sha256": [
@@ -1397,7 +1397,12 @@
         "65c42e203ed1db25a21f302e9f7b4a5c40608273a7fef3b7afa9648618257826"
       ],
       "before_count": 3,
-      "task_id": 6097248417
+      "task_id": 6097248417,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
