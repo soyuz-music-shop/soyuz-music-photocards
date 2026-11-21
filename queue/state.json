@@ -11544,6 +11544,17 @@
         0.0,
         0.0
       ]
+    },
+    "94737443": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4650062360527",
+      "originals_sha256": [
+        "1c7564d332671365a8218c311a9e50c8cf6597946d73a2776ae7d3fb1d38e204",
+        "519ca7aa1044c5e0c281450be9ac14aa26f665b131bba9372b2efe709dbcc4ba",
+        "8228aa26656227136f8566d4cf9b7e5acc608dfa9fe21081f738cf166d9dd881"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
