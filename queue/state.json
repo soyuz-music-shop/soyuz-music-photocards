@@ -11105,6 +11105,17 @@
         0.0,
         0.0
       ]
+    },
+    "83231090": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBT 4858-4",
+      "originals_sha256": [
+        "4baddf701eb1c2e5e0d707399679377032819d78de205b86a7cf0de2fd3a5a03",
+        "8572031ee42209c229f5a0f1d466541fbebbb84db372276ff348056a6553e169",
+        "0b25b24c5f83d6f3593c335c239e3aba1bce12c3fd0d6debc5d2d39a71c4f15b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
