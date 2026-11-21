@@ -5420,7 +5420,7 @@
       ]
     },
     "34600040": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ESM3251",
       "originals_sha256": [
@@ -5428,7 +5428,12 @@
         "3beaff0977a289e437e7593ee8abc65128f41ab90dfb53bf1f579e07e5f8800b"
       ],
       "before_count": 2,
-      "task_id": 6097463758
+      "task_id": 6097463758,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
