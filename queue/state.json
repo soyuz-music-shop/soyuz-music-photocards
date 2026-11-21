@@ -10071,6 +10071,17 @@
         0.0,
         0.0
       ]
+    },
+    "66367269": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "27361 55540",
+      "originals_sha256": [
+        "725002dfc38dadaae85f95c3aa0ec970544fb73e6e772287c20120fd1947f9be",
+        "93ce32ebc07a4662378c1dccc0a9bf090bcba725ed5afa8acc9a44bc34d46308",
+        "342a99df5f0ef9a982a22dde9296c53775d95ca2a599033274bfef4b362cc9ba"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
