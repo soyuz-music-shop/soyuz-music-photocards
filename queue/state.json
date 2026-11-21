@@ -9371,6 +9371,16 @@
         0.0,
         0.0
       ]
+    },
+    "55589979": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "UMBLP3",
+      "originals_sha256": [
+        "010ee0cbd6d831e2c467040010f041bfc27c078c58d60e32a23ae37319e8a315",
+        "155578012ea5bdea83799c13a386f3677620a4afafcb9e79652707af6e90e92d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
