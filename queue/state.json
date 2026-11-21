@@ -7339,7 +7339,7 @@
       ]
     },
     "39177842": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XSPOON6/7",
       "originals_sha256": [
@@ -7348,7 +7348,8 @@
         "aa306eea48afd05d148e27da60a61385db8f9898d4b082750be1658526da423c",
         "0fa395dd357b08f95c8e833ca1310731255e4750e9e91d2df438664eced62654"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097573529
     }
   },
   "reason": null
