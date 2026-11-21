@@ -6379,6 +6379,17 @@
         0.0,
         0.0
       ]
+    },
+    "35725676": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CAD3X05CDJ",
+      "originals_sha256": [
+        "5bc12d292d8b5b634c9420a78496009284e8ee2fb270e383d3fcce839ff2c60f",
+        "d1e6879d425cb0b4feade06aa80c051c4c01a97890f10824ee5524a75725b10d",
+        "c4235314510e608310f36aef53cd23e2a440280e3fe622adc1d05f08feb98540"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
