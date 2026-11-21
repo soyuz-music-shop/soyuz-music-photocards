@@ -11326,7 +11326,7 @@
       ]
     },
     "88029985": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "6711044",
       "originals_sha256": [
@@ -11334,7 +11334,12 @@
         "cb5824c17e8487253ee3cfcf6749a8fe1f8d63bbfd66b48241e76e5230ab888e"
       ],
       "before_count": 2,
-      "task_id": 6097763355
+      "task_id": 6097763355,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
