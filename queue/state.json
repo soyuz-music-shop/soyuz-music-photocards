@@ -9504,6 +9504,18 @@
         0.0,
         0.0
       ]
+    },
+    "55603964": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD13",
+      "originals_sha256": [
+        "8a6741e21cd620029e4d79e99df0ee6b675cf57796b106d0a605e3e1b8f59f5e",
+        "54b1f50f2ad64b1af5989288f4d89ba6ac812560e9a32dcfd6c4e3541042c812",
+        "37a37ee99337bbb2b6cfe59c0ce823185854bb6b5b60fe69bd6921079659c929",
+        "864bc33cb30f1b66650c03b14656343d014c9770fb56fa1bc868e16aa050f189"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
