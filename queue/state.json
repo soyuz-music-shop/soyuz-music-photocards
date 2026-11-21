@@ -3933,6 +3933,16 @@
         0.0,
         0.0
       ]
+    },
+    "31247284": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CAD3628CD",
+      "originals_sha256": [
+        "3e613de7ebc3ac3ede5d5826748aabf3c3e42543aab51bad418c7cc60a6e9b63",
+        "59874e8e6ee9b4a7ce949838f577bda7d9202ab6526e946b0e8aca615c6eb3b7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
