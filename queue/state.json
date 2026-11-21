@@ -4122,7 +4122,7 @@
       ]
     },
     "32313243": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AFM74312RU",
       "originals_sha256": [
@@ -4130,7 +4130,8 @@
         "1c10c9914d112b586d02bb3a99822dd705a5237885237454550bac407b97d9db",
         "b83527edce386ad57f3000042a60c88fbc28e0f117d444260d23988bf8348910"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097384494
     }
   },
   "reason": null
