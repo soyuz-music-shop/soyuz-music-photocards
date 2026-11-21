@@ -9236,7 +9236,7 @@
       ]
     },
     "55577441": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XLCD780",
       "originals_sha256": [
@@ -9244,7 +9244,8 @@
         "20d5172135e9a3a81f8a3040e2ffa334b0451a8f8fd5710afed0e9eeecc3ba73",
         "46a5f6d795333608321fb6df76868cad20456ab75fa489a2392993ca9fbbcafa"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097661395
     }
   },
   "reason": null
