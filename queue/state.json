@@ -10714,13 +10714,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "73501698": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4632000141634",
       "originals_sha256": [
         "3438e6b5460180e0fa78b3482978e453e0e758c26f0eb93bba2ad30dffd618b7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6097737781
     }
   },
   "reason": null
