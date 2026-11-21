@@ -10688,7 +10688,7 @@
       ]
     },
     "71873070": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBT 5162-1",
       "originals_sha256": [
@@ -10696,7 +10696,12 @@
         "5da908e21d945ce31535f0cb8d49e344dd5cccc5a9b5f82e883723587e538470"
       ],
       "before_count": 2,
-      "task_id": 6097737100
+      "task_id": 6097737100,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
