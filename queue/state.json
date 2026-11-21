@@ -9287,7 +9287,7 @@
       ]
     },
     "55580809": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XLCD868",
       "originals_sha256": [
@@ -9298,7 +9298,12 @@
         "23efbc7ce8cb6ada173edd940497bab94fcb7bd158835c1160e9acb08c6d0f8a"
       ],
       "before_count": 5,
-      "task_id": 6097663489
+      "task_id": 6097663489,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
