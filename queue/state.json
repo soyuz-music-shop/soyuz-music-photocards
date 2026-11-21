@@ -2957,7 +2957,7 @@
       ]
     },
     "28938105": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHD1460",
       "originals_sha256": [
@@ -2966,7 +2966,12 @@
         "9bff9fb3998832c9d71d27db14aa0df284b1de5fd72c6dee24416a8075e22a65"
       ],
       "before_count": 3,
-      "task_id": 6097332028
+      "task_id": 6097332028,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
