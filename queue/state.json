@@ -8330,6 +8330,16 @@
         0.0,
         0.0
       ]
+    },
+    "50186822": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAMCD25",
+      "originals_sha256": [
+        "b512f075f15b98964c00db6fd30ff7bb40913786c3afc1a3c41c19de5266c2ba",
+        "809065c05889bd2ec90487e9c74a960dc2a0d49f3b97ff313391644cbd8a794c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
