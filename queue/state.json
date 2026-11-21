@@ -3870,7 +3870,7 @@
       ]
     },
     "31246277": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GAD0012CD",
       "originals_sha256": [
@@ -3878,7 +3878,12 @@
         "9407bd5edf7fb58eb2d44ce5b435f5d029e2d4c5d6119e440d73ea6b28341bc8"
       ],
       "before_count": 2,
-      "task_id": 6097373657
+      "task_id": 6097373657,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
