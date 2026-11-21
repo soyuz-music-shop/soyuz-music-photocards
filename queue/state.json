@@ -7560,7 +7560,7 @@
       ]
     },
     "39379462": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "YT191LP",
       "originals_sha256": [
@@ -7568,7 +7568,8 @@
         "3e375ec7bc8fd4ca40c60172fb0f91a31d637389f361e7a53bc6ef8058116847",
         "d33a00bcbe6e8ed0c5b270d540a392ac31db83d30ec12933dbe5025540604129"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097585837
     }
   },
   "reason": null
