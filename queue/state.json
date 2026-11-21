@@ -10971,7 +10971,7 @@
       ]
     },
     "80085265": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4620107931388",
       "originals_sha256": [
@@ -10979,7 +10979,12 @@
         "107183e82f2e3cb7ae9d9c8faafd234232ef75cc2e93b7f2b820c5950ba8fe96"
       ],
       "before_count": 2,
-      "task_id": 6097748761
+      "task_id": 6097748761,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
