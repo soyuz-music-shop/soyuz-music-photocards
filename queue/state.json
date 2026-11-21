@@ -3166,7 +3166,7 @@
       ]
     },
     "30386732": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OD234474",
       "originals_sha256": [
@@ -3175,7 +3175,12 @@
         "dbcb4d54ca4d0b940ea5d3966e85ec27dbec8c2658df6299910a9d504ce94412"
       ],
       "before_count": 3,
-      "task_id": 6097341710
+      "task_id": 6097341710,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
