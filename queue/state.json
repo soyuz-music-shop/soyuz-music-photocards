@@ -4919,14 +4919,15 @@
       ]
     },
     "33579365": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DGM0508",
       "originals_sha256": [
         "1b2d1110c28d20ebd59add0a84695f5a9de479ac17ce531c3d855ecbdcff2849",
         "9b62e267ea2bdb3d1dce59e2d332d9fd844f4fc5299b5d71198c269a0178f465"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097424924
     }
   },
   "reason": null
