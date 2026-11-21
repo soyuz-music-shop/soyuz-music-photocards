@@ -10205,7 +10205,7 @@
       ]
     },
     "69816114": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QCRSEG073",
       "originals_sha256": [
@@ -10213,7 +10213,12 @@
         "16b36af63b835e31df32973c6f8c1ee8322e770509ecf4d51d5daf0d1af8de45"
       ],
       "before_count": 2,
-      "task_id": 6097712650
+      "task_id": 6097712650,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
