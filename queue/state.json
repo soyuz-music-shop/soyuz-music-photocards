@@ -8085,6 +8085,16 @@
         0.0,
         0.0
       ]
+    },
+    "45708931": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NPR601JC",
+      "originals_sha256": [
+        "b15e764680083ccc71f9b2d04d085f775641d3677cc7b39203fcce13ef0ca77a",
+        "bbebeb4da9ae11570bcb2aadf52f18a9b83f5d06e9b0396301f484af307a65ab"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
