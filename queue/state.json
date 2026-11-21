@@ -8685,6 +8685,18 @@
         0.0,
         0.0
       ]
+    },
+    "50214306": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EREACD21019",
+      "originals_sha256": [
+        "bbce8ddc77a6e341310fcd203a9beead2fba4a17fe94fba18f54f5025f2de7e4",
+        "b17a0a9b5d3cffe47a7b4ec176dfc166a76cbd8cf71802be2ad0d5f601b90a92",
+        "447d8ad4efb6a281274b3ad038a9a2e3f24b5519dd38994ba03d7cc0f0827219",
+        "97a42025ba327fcfd5e4f7e204a6eaae9c6c13b3b7be98a5b5ef95075a081b93"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
