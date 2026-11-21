@@ -10190,14 +10190,19 @@
       ]
     },
     "68538891": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000139327",
       "originals_sha256": [
         "f619f4c19c7598065ed0864f0d3dccf3f6e1ad8ccff52f7f95c07894016c1fb8"
       ],
       "before_count": 1,
-      "task_id": 6097711964
+      "task_id": 6097711964,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
