@@ -2061,7 +2061,7 @@
       ]
     },
     "27672783": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HNEDCD028",
       "originals_sha256": [
@@ -2069,7 +2069,12 @@
         "865f4b8d3fb4ac96854d83495365879c4e1b83468590bcdf2c85ce2c9242bde9"
       ],
       "before_count": 2,
-      "task_id": 6097283607
+      "task_id": 6097283607,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
