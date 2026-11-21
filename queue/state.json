@@ -9486,6 +9486,18 @@
         0.0,
         0.0
       ]
+    },
+    "55601662": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD04",
+      "originals_sha256": [
+        "b7be89564d2dfbe2926bc59c5cc531f9f25b4dc3bcfacf4105e7b932a51e93d7",
+        "933452029762aee7f0f17c897386bf5727328a6da128ac142e32b04cf202c8c2",
+        "cc5f9eaf1c8d34129ce568653a1540741c522af12d79d5fa3e1676affa9961d6",
+        "4663233a2e338b7433fe93077c7a79a99e4036213a622900d4c996bc1a7fb3b4"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
