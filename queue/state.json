@@ -3901,6 +3901,16 @@
         0.0,
         0.0
       ]
+    },
+    "31247054": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0192LP",
+      "originals_sha256": [
+        "f4e6b6ead23209cf2683e5ab11f33605d1e889b2080a03235bf3f642c7afef29",
+        "6555885742c954333b774dc3fd8bbd76bb03b7fd578d677fe1e44f1daa9aab8b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
