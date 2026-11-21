@@ -4900,6 +4900,17 @@
         0.0,
         0.0
       ]
+    },
+    "33566019": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLPX13",
+      "originals_sha256": [
+        "49016b8f3e2070a91cf2aa41956ef66d70b1b333462325e5afff64ef452f9e0b",
+        "549b482f649f5873f7a37cb70d424a889892c171b986c6a97a3d23687df70c7c",
+        "f8e933352a3348533d405e415dcad9932df9e4e32e147cf863b84b8d371cf11b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
