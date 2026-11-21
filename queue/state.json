@@ -5111,7 +5111,7 @@
       ]
     },
     "33639784": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB5244-2",
       "originals_sha256": [
@@ -5119,7 +5119,8 @@
         "7f09503136286583a72021707d2a93163571fef88147fd4108babb3055cf551d",
         "85d321d802735d078b663bc63d8b7dcbace6f1653314ec3d17241d4864a3dfd6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097440593
     }
   },
   "reason": null
