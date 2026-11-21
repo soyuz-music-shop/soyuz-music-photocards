@@ -972,7 +972,7 @@
       ]
     },
     "23872371": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "KCSP15",
       "originals_sha256": [
@@ -983,7 +983,12 @@
         "7f09479520b2efb1967a4011496cf1a42f45c0834a71c0b5e3d22e5c86f55b9c"
       ],
       "before_count": 5,
-      "task_id": 6097227701
+      "task_id": 6097227701,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
