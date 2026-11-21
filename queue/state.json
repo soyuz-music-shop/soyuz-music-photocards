@@ -11071,6 +11071,16 @@
         0.0,
         0.0
       ]
+    },
+    "82953716": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OMN15122",
+      "originals_sha256": [
+        "866a6b37312b4f865669bda4ddbb9bd2bde2a218f4822c51db48621279240cd4",
+        "fe558d4499b78403863e34d463c77106db4aa9fb259b78aa3e3cd0f1d22cabf9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
