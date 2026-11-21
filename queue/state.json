@@ -8736,6 +8736,18 @@
         0.0,
         0.0
       ]
+    },
+    "50543626": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NB 4173-1",
+      "originals_sha256": [
+        "bb41055af03ad4d3436859a7929c36aef2edd6c89033a412262ad63ee0ea6463",
+        "39888dc6f1486e95010fbe8ba8ff0f307d70c27be83195c877015fd4bb1d95a1",
+        "3be4be08a70782ee92d13ae8d36d3f7f381d2b7e78d83e1d8ceb642d1b252d5a",
+        "9ec2f761917a860d3d92741af138a28da60873f4f4217ee009547d270952495a"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
