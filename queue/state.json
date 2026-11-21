@@ -8264,7 +8264,7 @@
       ]
     },
     "48543716": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GAD211CD",
       "originals_sha256": [
@@ -8272,7 +8272,12 @@
         "a0afcf470b77b61234b58e16c0a13038a685ae91a0c46efbf2d5dc16b9055138"
       ],
       "before_count": 2,
-      "task_id": 6097619689
+      "task_id": 6097619689,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
