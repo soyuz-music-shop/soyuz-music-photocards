@@ -3231,6 +3231,17 @@
         0.0,
         0.0
       ]
+    },
+    "30582843": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD190",
+      "originals_sha256": [
+        "27ea90f43ffd595e85d3a798463a804ff1222b1b7d51fb1a311f8c54c3c44060",
+        "ea49cd2afb14fce3e21e557b91830eed9f28336c04cc36239f65e2dba2f3ae0f",
+        "ad92d68422eba59fdeab7a654e352bd6100a2aedbd2bd294cea669575a26e4d4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
