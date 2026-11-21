@@ -6205,6 +6205,17 @@
         0.0,
         0.0
       ]
+    },
+    "35702483": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD408",
+      "originals_sha256": [
+        "f695f03e392fde358914351ef6494d911c462ace57cb3c90e760024f93aa0235",
+        "0068bd949d5e596ad0749c2589b193788649ea68b898dd3c13cebd49e3d1e5f2",
+        "ddec69a1c92ccd0ccb04b07462d7edfa216ef9c01569f55b38383ed3d46fc2e0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
