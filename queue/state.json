@@ -2109,7 +2109,7 @@
       ]
     },
     "27699612": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XL987CD",
       "originals_sha256": [
@@ -2117,7 +2117,8 @@
         "e7f057a89d9e123fd9370b867dd52e7534fce11c5ed8c522130eca936dd4504d",
         "8379a4dc2d2b05d4de78afe668dc3fe7befed521845d69887cf2b3daad41fc5e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097287145
     }
   },
   "reason": null
