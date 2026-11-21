@@ -4512,6 +4512,17 @@
         0.0,
         0.0
       ]
+    },
+    "33489340": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLP7",
+      "originals_sha256": [
+        "8287c6a38881ec6bd87451666f468c7af45c7349256d87b75c452877abe5f0ee",
+        "c450cd191af67337941dd94d450a732e3e82c62ee2e00268d3ddbd2458e5146e",
+        "dcd936b470a19a3779671316e7df33032ce448e513467bc61ce364a9a2741eae"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
