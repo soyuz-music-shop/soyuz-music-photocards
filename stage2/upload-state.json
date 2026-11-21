@@ -50,14 +50,15 @@
       ]
     },
     "22722226": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "0212598EMU",
       "variant": "cd-import",
       "before_count": 2,
       "original_url_sha256": [
         "e564c3dffc3f1fd77acea976e5a39bfd7b03174b89b531d206144b67038852b1",
         "405358b5c7c64ea49c77c9715cba75ac947a0a1755b026a22c0105ad5295ccb0"
-      ]
+      ],
+      "task_id": 6094365021
     }
   }
 }
