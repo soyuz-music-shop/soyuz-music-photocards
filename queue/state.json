@@ -5004,7 +5004,7 @@
       ]
     },
     "33579725": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DGM0503",
       "originals_sha256": [
@@ -5012,7 +5012,8 @@
         "48f85f525c6d7bd4fcc847aa51f67cf7799a924b9c9f2507203e988ee69018a6",
         "c6e58858657798ae4b2165690554c1364932cdab45f5ff00e221bbb67d091643"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097431860
     }
   },
   "reason": null
