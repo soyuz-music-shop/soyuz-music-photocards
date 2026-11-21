@@ -10907,7 +10907,7 @@
       ]
     },
     "78029365": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000137026",
       "originals_sha256": [
@@ -10916,7 +10916,12 @@
         "6080cebd7529a1a38988435519ac2bcd4eb3f612ab58b9c185249b1e87446cc4"
       ],
       "before_count": 3,
-      "task_id": 6097746167
+      "task_id": 6097746167,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
