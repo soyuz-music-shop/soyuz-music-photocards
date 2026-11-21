@@ -3128,7 +3128,7 @@
       ]
     },
     "30049442": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XLCD740",
       "originals_sha256": [
@@ -3137,7 +3137,8 @@
         "45ee7bca169453f020da546d0034b80dcd80614fdd288457e170ed0cb52dc88c",
         "6df563392e47c9f98aadf6aa9c7f014c16989713ef25b9679447d0f23a4fb362"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097340070
     }
   },
   "reason": null
