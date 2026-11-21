@@ -7357,14 +7357,19 @@
       ]
     },
     "39185019": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSTUMM430",
       "originals_sha256": [
         "583a72f93b0667dca2856c5ec44f812be85e34beb3df679505ccf97b641e58bf"
       ],
       "before_count": 1,
-      "task_id": 6097574163
+      "task_id": 6097574163,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
