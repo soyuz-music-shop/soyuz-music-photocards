@@ -9373,7 +9373,7 @@
       ]
     },
     "55589979": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UMBLP3",
       "originals_sha256": [
@@ -9381,7 +9381,12 @@
         "155578012ea5bdea83799c13a386f3677620a4afafcb9e79652707af6e90e92d"
       ],
       "before_count": 2,
-      "task_id": 6097668079
+      "task_id": 6097668079,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
