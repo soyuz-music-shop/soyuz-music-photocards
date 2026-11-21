@@ -9919,6 +9919,17 @@
         0.0,
         0.0
       ]
+    },
+    "64837046": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4610093806128",
+      "originals_sha256": [
+        "1e0f70df5a07d7027d398701a9bbc1a85c3ca4e7e53428d87952cff07219c4e8",
+        "1ac7133ec1cc5155a487861ff5e6433a0c9ced8398c9739dd86d9ac487eb65c3",
+        "9b6daa43838968c92799d63cc3247c2505be6145df8b54af4950b6f58518ce6e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
