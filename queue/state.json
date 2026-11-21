@@ -10783,7 +10783,7 @@
       ]
     },
     "74570234": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4620107930138",
       "originals_sha256": [
@@ -10798,7 +10798,12 @@
         "797fee8846fcdddd6cd89bff6495534646c9bdfbbd069b78cf4d858d79d7bdc2"
       ],
       "before_count": 9,
-      "task_id": 6097740924
+      "task_id": 6097740924,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
