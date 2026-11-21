@@ -10377,7 +10377,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "70665222": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4650062363597s",
       "originals_sha256": [
@@ -10385,7 +10385,8 @@
         "31077d9424348cd58094ea167ee2f9f39acfa01432dd0593324ea012ab9ffa03",
         "ee4b9c123568ea8d9ffa9e9a94dce449d6933f3e3855fd8c73d4cd633669d389"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097721733
     }
   },
   "reason": null
