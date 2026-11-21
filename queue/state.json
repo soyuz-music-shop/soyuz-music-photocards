@@ -11394,7 +11394,7 @@
       ]
     },
     "88039491": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "6710884",
       "originals_sha256": [
@@ -11402,7 +11402,12 @@
         "98b24e75cafe7d5f7e9658b7fb825c714f88e0d7286f5a9cc5b8da6ff57d5358"
       ],
       "before_count": 2,
-      "task_id": 6097765862
+      "task_id": 6097765862,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
