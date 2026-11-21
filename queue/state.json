@@ -11340,6 +11340,16 @@
         0.0,
         0.0
       ]
+    },
+    "88030950": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "6710886",
+      "originals_sha256": [
+        "45d4cdcbf122784e2f525f12ead12ab877f8747aac8287f4ba2434affab7b513",
+        "5306f679f2aa33bacca20e64e65f0d928665b26cb9c7557c12e3c1bbfa1aea88"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
