@@ -1405,7 +1405,7 @@
       ]
     },
     "27371308": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EANTCD1062",
       "originals_sha256": [
@@ -1415,7 +1415,8 @@
         "6390d33cba025af62186205dab7c62d02351f65f091bace5cf1683301706899b",
         "32c472f89d4a7382bd0ce8e2f2977c2a8d251a9fec145269341047468637c944"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097249256
     }
   },
   "reason": null
