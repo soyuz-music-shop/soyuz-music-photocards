@@ -10637,7 +10637,7 @@
       ]
     },
     "71826867": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SPV 243472 CD",
       "originals_sha256": [
@@ -10645,7 +10645,8 @@
         "f3a28bda7a34a682580a8c8d2c46e124f473118feb2e6ba9c0c776d38428f9bf",
         "37b183f466bfefdf366d89aaa17925bcdc59a28efd9bbd65e0193b19ceecf107"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097734556
     }
   },
   "reason": null
