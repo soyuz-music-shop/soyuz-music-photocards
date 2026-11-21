@@ -5403,7 +5403,7 @@
       ]
     },
     "34599024": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ESM1641",
       "originals_sha256": [
@@ -5411,7 +5411,8 @@
         "f550ded2226d5c93f94a9cff2f045cdb0c462760d6efb64fb2c492c6cde03ebd",
         "ce0588101d29969bdbd0a1d8a7abb26eb30a0480e696c9e95fafc791343f6c23"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097462632
     }
   },
   "reason": null
