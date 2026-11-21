@@ -10090,7 +10090,7 @@
       ]
     },
     "66441790": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MANNLP015",
       "originals_sha256": [
@@ -10098,7 +10098,8 @@
         "434e402bcabe40f264d34752b11fad0a42f89ec4cb8cfe430a5baef9999acd11",
         "7174810613496043fb3b78a5fce06c8eccd507fde1fb85157e7d6034f7bb866b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097707479
     }
   },
   "reason": null
