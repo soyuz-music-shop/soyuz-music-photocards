@@ -6362,6 +6362,17 @@
         0.0,
         0.0
       ]
+    },
+    "35725154": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CAD2406CD",
+      "originals_sha256": [
+        "18b989cb6afc844a7401d002f79d670b13acb8032d91be2718c8160e0227945e",
+        "f52731e96ed301424af2ca6fa618aed21f669bc4d703ee4aeeb4bdc9a1343d90",
+        "849c364b8473c4da6062648326030331e429ec622838a3ac95eed77c839b8f45"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
