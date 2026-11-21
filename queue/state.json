@@ -10839,14 +10839,15 @@
       ]
     },
     "75598301": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB1596-2",
       "originals_sha256": [
         "fcb727bb732d6d8b57ae15d1a082c756f98619550139142bf3899e0f07dca0e4",
         "0174fc456b215287c53afcef5c2b4af10cff64f42de5a030f7bf9a658ec4da41"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097742843
     }
   },
   "reason": null
