@@ -9613,7 +9613,7 @@
       ]
     },
     "55612817": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BYE002CD",
       "originals_sha256": [
@@ -9623,7 +9623,12 @@
         "56e1b7faec492140e54b1f667c304e84a0593180d5fd1fb2611de08c2122726d"
       ],
       "before_count": 4,
-      "task_id": 6097681997
+      "task_id": 6097681997,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
