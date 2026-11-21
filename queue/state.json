@@ -8957,7 +8957,7 @@
       ]
     },
     "50921424": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB 3725-1",
       "originals_sha256": [
@@ -8965,7 +8965,12 @@
         "4c3451ff347b43f29b16c7c740aaae65719500d7a22d6349f922b9aa96a892e8"
       ],
       "before_count": 2,
-      "task_id": 6097646503
+      "task_id": 6097646503,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
