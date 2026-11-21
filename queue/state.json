@@ -10006,7 +10006,7 @@
       ]
     },
     "65801622": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610027693442",
       "originals_sha256": [
@@ -10015,7 +10015,12 @@
         "d1a6ba4e7212d4180915a220ad34dcdcb3bf9cdc248bda62ddbe103fc8cd6ea8"
       ],
       "before_count": 3,
-      "task_id": 6097703878
+      "task_id": 6097703878,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
