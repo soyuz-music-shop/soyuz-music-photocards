@@ -8891,14 +8891,15 @@
       ]
     },
     "50573235": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBBR0284",
       "originals_sha256": [
         "85a67f13f21b3f65b8bc1eef417780a8197326527728caab302fd07aa341e4e8",
         "b71092bddea48fd2c38d3a8e6bcf6993de9da8c02c1ca4e900d2fd1d45e9e266"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097643890
     }
   },
   "reason": null
