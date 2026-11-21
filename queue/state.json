@@ -7355,6 +7355,15 @@
         0.0,
         0.0
       ]
+    },
+    "39185019": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSTUMM430",
+      "originals_sha256": [
+        "583a72f93b0667dca2856c5ec44f812be85e34beb3df679505ccf97b641e58bf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
