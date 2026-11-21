@@ -3886,7 +3886,7 @@
       ]
     },
     "31246929": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GAD412CD",
       "originals_sha256": [
@@ -3894,7 +3894,8 @@
         "ae098736996fd41113c5c1c42699ce8459ffc82f32f26873b4db98a3f7dce20f",
         "675a9eac85fdab4cb07c81e0c59bc9945b0cc60ec99c122071d5fe4fc7a19574"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097374240
     }
   },
   "reason": null
