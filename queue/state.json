@@ -5955,14 +5955,15 @@
       ]
     },
     "35231615": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SMACDX1150",
       "originals_sha256": [
         "d6ea27bc8dae016b3605a0f36d44b0691e9729c7b52280598822a1d3279deb4e",
         "776e156f4d43bdaeff87b98a93047504855758a7d71c4190cd6065160ef886dc"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097503831
     }
   },
   "reason": null
