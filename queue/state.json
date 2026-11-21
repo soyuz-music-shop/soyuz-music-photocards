@@ -5128,7 +5128,7 @@
       ]
     },
     "33640184": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB5244-1",
       "originals_sha256": [
@@ -5136,7 +5136,8 @@
         "68503be8dfe22421069b680b1c70ec6dbe101dd906e3489dbd88cf6105d78eed",
         "0b5d83b6184240a72723194fce4ef5931db472c3eb116aa761a369c55e797c86"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097441822
     }
   },
   "reason": null
