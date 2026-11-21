@@ -10987,14 +10987,15 @@
       ]
     },
     "80088073": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4620107931371",
       "originals_sha256": [
         "11042181df9af242c23730a8ce3be31626d41eee87683971a8e412239238c4d0",
         "9db280c89f7e35fd9aabc9eb2be8675715e945a6e94b02ef7cc3493d037e186e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097749330
     }
   },
   "reason": null
