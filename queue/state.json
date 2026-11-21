@@ -8332,7 +8332,7 @@
       ]
     },
     "50186822": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMCD25",
       "originals_sha256": [
@@ -8340,7 +8340,12 @@
         "809065c05889bd2ec90487e9c74a960dc2a0d49f3b97ff313391644cbd8a794c"
       ],
       "before_count": 2,
-      "task_id": 6097622364
+      "task_id": 6097622364,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
