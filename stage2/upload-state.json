@@ -103,7 +103,7 @@
       ]
     },
     "22497565": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "BS006V",
       "variant": "import-vinyl-info",
       "before_count": 3,
@@ -112,7 +112,12 @@
         "2ee808e57bcb3b6ead08cc68197deb657d640be6af90419945806472b7e51ee7",
         "6c28dd9023c4c0645ade75464c0a7087f69b1b8326bf84fab2a864d5e6cc7c81"
       ],
-      "task_id": 6094374145
+      "task_id": 6094374145,
+      "after_count": 5,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
