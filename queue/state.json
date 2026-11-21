@@ -4951,7 +4951,7 @@
       ]
     },
     "33579455": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DGM0502",
       "originals_sha256": [
@@ -4962,7 +4962,12 @@
         "d014522a6f0af1a6c996b97df09de6258dcc0ff661e17082bfea33458b21cb7f"
       ],
       "before_count": 5,
-      "task_id": 6097427596
+      "task_id": 6097427596,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
