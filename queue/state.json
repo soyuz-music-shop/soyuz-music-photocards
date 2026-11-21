@@ -7509,7 +7509,7 @@
       ]
     },
     "39351207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3622",
       "originals_sha256": [
@@ -7517,7 +7517,8 @@
         "c848f5fe0a5536e440622e259c04e75ee68a9260330cd248c89f6f70a651e973",
         "734aa7ee6e5bf2173e08b54ac1f48f1bbb361af050a3b521f101d2da95ac681f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097583207
     }
   },
   "reason": null
