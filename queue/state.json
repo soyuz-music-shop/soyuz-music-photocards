@@ -8496,7 +8496,7 @@
       ]
     },
     "50204901": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBBR0131",
       "originals_sha256": [
@@ -8504,7 +8504,12 @@
         "b120ccf06f182b722e54743e01e93f904d36a3bdf37de68300a9a85eb061befe"
       ],
       "before_count": 2,
-      "task_id": 6097628616
+      "task_id": 6097628616,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
