@@ -10221,7 +10221,7 @@
       ]
     },
     "69824848": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QECLEC2710",
       "originals_sha256": [
@@ -10230,7 +10230,8 @@
         "11ad042e7ebcee4f86e84908392928af7b8c1c5c2318552f92199413364efe21",
         "de9d2f1dceab4803b8c8fa6f03a7d31681ef3631bcb9ad4223ec11fcd3cbe557"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097713526
     }
   },
   "reason": null
