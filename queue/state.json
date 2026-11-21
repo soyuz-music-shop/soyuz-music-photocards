@@ -4008,6 +4008,29 @@
         0.0,
         0.0
       ]
+    },
+    "31816663": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3208",
+      "originals_sha256": [
+        "924f614da46c24b9d8962ad186ead1467c9795cdc92d1ecb499ce721ac920868",
+        "1560f81508168b9ce06bd38be090eef107e63ac5f9d243c215ce24862cb7b026",
+        "e0f05ccb4e66795fdcb29fd8a05187e134e66c8e2566773193d4097513a4073e",
+        "92a4e1d0f741961b85fa31ca827e6ed11af81ccc0b89d7c600d4e03fdb219632",
+        "b399439ec88a4033148b9271682fdb3ee78f7bdaa78cbd6aeb47c3ecde20c182",
+        "d5eae8d3d351b9a71af88cfe470c9190f95b2acf4fc3c4c77d29d9c2b005d970",
+        "7b75352fcf83cf5e173b712e7e4a9c870842c97b2a07a4444721c8d71de80b41",
+        "ba7bfb3ed346f7c26dc9acdfe96766f50f5e1c8e92ab38f6e6310551be66e5a6",
+        "011f250f6a79cda892dd1545b205196508331fd9b87892d8719c3abf164a6ed2",
+        "e91aa3534ce60c143f3feebc0827f151dd4727ea0fe4b2542e2ecd0d4670e5b8",
+        "7f1de6de40b157d3f4a145c02701c7fc7b874a97d3a59b4ceb8b1dd0448e9605",
+        "f8bd834f4e60978a4159f573aa1e692f3b35de4687fed089a9d314c86476fe75",
+        "aed57b48fff99dafc26cc3cf2e70a25db486f31b77bb39d2d08799ce83f0619e",
+        "e6c2fee2fd552a0494e5d50ae5bac47df98b1bb2836f89f22cd95a6e7383ee90",
+        "6a72ee0a120f7bf3f3eafe530a96341a2b0ee3414917ce78b0ba7fe692c803a8"
+      ],
+      "before_count": 15
     }
   },
   "reason": null
