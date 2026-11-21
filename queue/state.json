@@ -5089,7 +5089,7 @@
       ]
     },
     "33638851": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BHK1122v01",
       "originals_sha256": [
@@ -5102,7 +5102,8 @@
         "948dc568bc666ad5825fa5d49b715d09640c16715117a215797f06fd3cb9114a",
         "d26dd2ca7ea0a6cabe2ad75857f1340d443e62685e107c720c957eb56b9774ef"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6097439630
     }
   },
   "reason": null
