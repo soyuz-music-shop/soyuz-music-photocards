@@ -1336,14 +1336,15 @@
       ]
     },
     "27267904": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DGM5014",
       "originals_sha256": [
         "6becd35967dbba75d8972e88c2559c61f1fae742af76c511b146c7fd039c77f8",
         "312aa378f8686f81584178249a703d18c7e62847a6ddff2daeb34bfdf14614dc"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097245814
     }
   },
   "reason": null
