@@ -989,6 +989,19 @@
         0.0,
         0.0
       ]
+    },
+    "24043053": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DGM5016",
+      "originals_sha256": [
+        "b38e793450765e038d8796c78612d6ee17bb8a6475f7e43d17535c1060529e97",
+        "432abcc398872713797ae55c21e989211169b4b295457a519fa0628b9f3c8cf7",
+        "9cf559c6701a4f2f17da18bf35b7cea3cb09d1122d76037fba6fe90583e697fe",
+        "0c2454fe0bbdf22e21e351c38a6c5c10969278b9083033e5ad00adbdef1d7e4b",
+        "e6cbf2f697ffa49c8a12b8a4de845cae8b15b08a11721bdacd094d4f998dde87"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
