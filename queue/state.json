@@ -10122,6 +10122,17 @@
         0.0,
         0.0
       ]
+    },
+    "66446866": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MANNLP003",
+      "originals_sha256": [
+        "d24b543bd1194532b4e6d33171d90b6d7963b063f1ff4e8195414b2fdda8bdd5",
+        "d939ace30d703ca916232a7e59df0819be0a5ec668aabca1117d42222b6642d0",
+        "2da6e86953cfaf108de87d2019ba24a0529641362a61158a49ab2fc73c70c1c0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
