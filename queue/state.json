@@ -1141,7 +1141,7 @@
       ]
     },
     "26026138": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "4630065130020",
       "originals_sha256": [
@@ -1149,7 +1149,12 @@
         "f4560ace7636c1a2b2e8b0a381e8b776bfa7804cad91b9b150cb1f86e0f7f375"
       ],
       "before_count": 2,
-      "task_id": 6097235856
+      "task_id": 6097235856,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
