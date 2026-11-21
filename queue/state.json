@@ -8957,14 +8957,15 @@
       ]
     },
     "50921424": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB 3725-1",
       "originals_sha256": [
         "4f6323816b02f49d65a9e23ca599b7093dc1222ac24fdce536f2daf8a9e6b312",
         "4c3451ff347b43f29b16c7c740aaae65719500d7a22d6349f922b9aa96a892e8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097646503
     }
   },
   "reason": null
