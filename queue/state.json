@@ -9438,7 +9438,7 @@
       ]
     },
     "55593992": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MANNLP006",
       "originals_sha256": [
@@ -9447,7 +9447,12 @@
         "0881edb78820f97df0f9e4a9a06b12f2ee1c50c052e9279072ef3257d67efc20"
       ],
       "before_count": 3,
-      "task_id": 6097671503
+      "task_id": 6097671503,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
