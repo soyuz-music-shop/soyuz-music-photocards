@@ -9471,7 +9471,7 @@
       ]
     },
     "55595492": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UMBCD3",
       "originals_sha256": [
@@ -9479,7 +9479,8 @@
         "de59396984fbda71ced0d21333026e383b518ca3347b37973d4d5513d578b77a",
         "276afe4719b9644b7e5d344e49f227a5a43955d4365ad80e15206291b03f1283"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097674186
     }
   },
   "reason": null
