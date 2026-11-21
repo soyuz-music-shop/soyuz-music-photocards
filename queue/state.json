@@ -4871,6 +4871,29 @@
         0.0,
         0.0
       ]
+    },
+    "33564135": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLPX2019",
+      "originals_sha256": [
+        "005e4da5b25c2fede40d0ab5ae5de2945cf8932fdbffd240d0597f636c8d3497",
+        "83259fd7cbbeb0db69fb578b33dea0436befd499bcce3c3c2ea10400b06d5b4a",
+        "aaf2d74f3a7ee9dc227c326bd5e2c72b9906449da24dcb0e7a0b03513f8f3f7f",
+        "0e1061e34031c531f78118d7f852f6aea9e8b0dc57b4d3f0f950d7e13f5a36e5",
+        "f9d8d8ac8f1fad62574e38955dcd651f2b91eeda3a025d246341971df224cc60",
+        "81894c6b94891cd0099d596cca1bbbbd219fb139ded5bc2e49e2a39fab6f252f",
+        "024de4c10a03020687dd29d87744da1ad2f7e8f0eaf07ab2b8f2baff991a0bf2",
+        "91391850ef1034df33a701864dec3ea293cd0df6225b8ce5f09b6da1423914cc",
+        "6ac8588464f22adf88b5d41a962790495198ead05782d0b8d0d8fe250d258b82",
+        "d97873647a849b48f519202fb979e89b74e710e6c0e5f1dcb10348ccffb1a911",
+        "170973f9e9be18634249ec20cdb911903dc54ef820e62c92f225f32f5b3cff42",
+        "650fd39b699386ee93942736a765e741cc425f8207092ae7d49beb36003bdf9c",
+        "e7b9c147dfe7e163c8c9a65599cc5df3af2dd51701b412f06c8075f465a181d1",
+        "02a3dbccb44aa2824ba7e2430f2d091d47247636e1b2bad0cf39f2a35b9f7c9f",
+        "a6a79e14272354839dd32e19fe95eedff9a9e07a06312b8248439bd5da8348fd"
+      ],
+      "before_count": 15
     }
   },
   "reason": null
