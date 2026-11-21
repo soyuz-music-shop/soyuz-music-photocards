@@ -8703,6 +8703,17 @@
         0.0,
         0.0
       ]
+    },
+    "50217244": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NRT002",
+      "originals_sha256": [
+        "db6837c7c59afb9cb797a4f5db981c4d16d0893ec141287cd0fe36d54ed61826",
+        "fdf2833268c5a3151e42459540fd3c12f07457e0a29f6523003a712a3a1d9b98",
+        "7f258aef0fe65e985141b02f798f8d62747fc986cefd8ea96dc0528425042611"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
