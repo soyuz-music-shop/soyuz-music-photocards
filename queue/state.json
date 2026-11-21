@@ -8478,6 +8478,16 @@
         0.0,
         0.0
       ]
+    },
+    "50204723": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNECD020D",
+      "originals_sha256": [
+        "b005b52ddea5da8dce995e7d30ef5a8c1407f13874b5df73ff5a1d369e855b6c",
+        "25c97d5a1423cb98174932eb2e3961b34646e11a4c64c632888e3c3ba118136e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
