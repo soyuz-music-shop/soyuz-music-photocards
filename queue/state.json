@@ -905,7 +905,7 @@
       ]
     },
     "21851319": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610027694586",
       "originals_sha256": [
@@ -914,7 +914,12 @@
         "e989c1a83f5a3fabf4f2537341fa37eefeafb8fe3dcbb9b5af2ddbf151ba555b"
       ],
       "before_count": 3,
-      "task_id": 6097224120
+      "task_id": 6097224120,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
