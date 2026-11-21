@@ -2107,6 +2107,17 @@
         0.0,
         0.0
       ]
+    },
+    "27699612": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XL987CD",
+      "originals_sha256": [
+        "24c4700a87f3a4e846c311578f164d3d7063aedbd80810d30cc190832a40d19f",
+        "e7f057a89d9e123fd9370b867dd52e7534fce11c5ed8c522130eca936dd4504d",
+        "8379a4dc2d2b05d4de78afe668dc3fe7befed521845d69887cf2b3daad41fc5e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
