@@ -3233,7 +3233,7 @@
       ]
     },
     "30582843": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XLCD190",
       "originals_sha256": [
@@ -3242,7 +3242,12 @@
         "ad92d68422eba59fdeab7a654e352bd6100a2aedbd2bd294cea669575a26e4d4"
       ],
       "before_count": 3,
-      "task_id": 6097344834
+      "task_id": 6097344834,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
