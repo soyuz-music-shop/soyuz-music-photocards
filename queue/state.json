@@ -11646,7 +11646,7 @@
       ]
     },
     "115446827": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB 4860-0",
       "originals_sha256": [
@@ -11654,7 +11654,8 @@
         "468098d94d2f666fd46a14ffe7b489f9e06233543582baa7038269b8d0a55115",
         "3a44ad834ac59ae6d72c0ea074999a5d3047ddad25adb8cffff82dd3742bec25"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097775614
     }
   },
   "reason": null
