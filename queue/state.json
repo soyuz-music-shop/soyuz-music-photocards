@@ -7594,7 +7594,7 @@
       ]
     },
     "39390675": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YT080LP",
       "originals_sha256": [
@@ -7605,7 +7605,12 @@
         "d7601e07f292a32e54e8193838c36a5360bdc6d0c253ab85320badd26a74db69"
       ],
       "before_count": 5,
-      "task_id": 6097587905
+      "task_id": 6097587905,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
