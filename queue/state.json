@@ -6272,6 +6272,17 @@
         0.0,
         0.0
       ]
+    },
+    "35705921": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD205",
+      "originals_sha256": [
+        "4b6d5b3d93bd65cea9ac30d46967127ba5e5e8fd882ed70eb1ff89e72b62df89",
+        "989f8a1e44a83af35c2f6683614f27cc3db34a03d253888d9d2400d77e3cc086",
+        "d263016014806ab8a5009ae07e114b1031a516d6938e2442e5ac83840f640406"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
