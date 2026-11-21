@@ -3007,7 +3007,7 @@
       ]
     },
     "29256264": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "YTCD161",
       "originals_sha256": [
@@ -3016,7 +3016,12 @@
         "e3821d7659684cefa5fbd8fbbc2a8cc24a2ed2f7603c0fc811e71907f0ee0842"
       ],
       "before_count": 3,
-      "task_id": 6097334234
+      "task_id": 6097334234,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
