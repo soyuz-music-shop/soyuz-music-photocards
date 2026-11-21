@@ -8346,6 +8346,17 @@
         0.0,
         0.0
       ]
+    },
+    "50187003": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAMCD52",
+      "originals_sha256": [
+        "0158be892b1879663489c3537c16d644e5026a25cefd3b22fc44a202a025f2e0",
+        "468f1e6218618c62fe1991bbc92124f7257acfb2446a14ca4800f9d35d569be7",
+        "773c65ca86a870b2b387ae3629dc74fc05eb2ceef77c70d1c1909c8e6f20c28e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
