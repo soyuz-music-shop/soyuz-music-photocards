@@ -7337,6 +7337,18 @@
         0.0,
         0.0
       ]
+    },
+    "39177842": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XSPOON6/7",
+      "originals_sha256": [
+        "fda4228801e82334da7d508302e080394fd958a5369e42175df085133ac57a28",
+        "73984cd735c764ff71965fcf05024cfb0adfe40d3485d6bbbae8cc4498fd0cd1",
+        "aa306eea48afd05d148e27da60a61385db8f9898d4b082750be1658526da423c",
+        "0fa395dd357b08f95c8e833ca1310731255e4750e9e91d2df438664eced62654"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
