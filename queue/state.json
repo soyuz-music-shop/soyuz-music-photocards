@@ -5971,7 +5971,7 @@
       ]
     },
     "35234819": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CRPOPD104",
       "originals_sha256": [
@@ -5981,7 +5981,8 @@
         "028de73b5bcdb1c045bb8eab9eba460b6c99d30d976b3526dfec81f0fe6e3ec1",
         "6cce9cacbc16b42ff1ed6bc139c7685d59d986df150026071e02debc6310ed1a"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097504542
     }
   },
   "reason": null
