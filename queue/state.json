@@ -5903,6 +5903,17 @@
         0.0,
         0.0
       ]
+    },
+    "35209102": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD781",
+      "originals_sha256": [
+        "ea1ed703dbac555c852b54a9fe6ee8762f13eae71a7b5ce81642708e7d582017",
+        "770232a20ed520f10ebb21ef15fa12a662344f3187934e9da898b94e4fae2624",
+        "937aa92de4d9fc63776296cf5ea7327e8383e09141b5d9b975af117940ef6903"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
