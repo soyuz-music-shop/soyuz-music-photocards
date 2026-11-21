@@ -11830,7 +11830,7 @@
       ]
     },
     "119092393": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NPR976VINYL",
       "originals_sha256": [
@@ -11838,7 +11838,12 @@
         "0da7ab530f9797f8f9d209b816c5292bab358bd46615e3299a350c9bfdff55e3"
       ],
       "before_count": 2,
-      "task_id": 6097782366
+      "task_id": 6097782366,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
