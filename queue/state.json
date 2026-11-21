@@ -5368,7 +5368,7 @@
       ]
     },
     "34590370": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB 2858-8",
       "originals_sha256": [
@@ -5378,7 +5378,12 @@
         "0eb6195bf66b19b6a16a9d48743d8d734d1a331964a0a832be1c52489f9c5d16"
       ],
       "before_count": 4,
-      "task_id": 6097460009
+      "task_id": 6097460009,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
