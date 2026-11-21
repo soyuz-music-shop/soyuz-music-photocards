@@ -7775,6 +7775,17 @@
         0.0,
         0.0
       ]
+    },
+    "41743864": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRPOP21",
+      "originals_sha256": [
+        "0a964bbf9a0601cf019d33533957721ac8316e0b936a8dedaaefefbc2ab2c6c2",
+        "860c7cfe8f04018bfdae8fe451cf042f387667a6795a9bd4c1bcd58321e42c9f",
+        "b41ccf7f62b499633cfd6d08336c4720d2cf7f62f24102a67d553ceae9589f07"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
