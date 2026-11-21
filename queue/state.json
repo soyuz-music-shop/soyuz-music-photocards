@@ -4634,6 +4634,17 @@
         0.0,
         0.0
       ]
+    },
+    "33489617": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DGMLV1",
+      "originals_sha256": [
+        "510f0988f3ffb462f5b6e0962f4951e926b95b478cc5e1e7f218e96a229afec6",
+        "6ae2e181d6704ac5c032f9341a62405ac8638f4c6e946eeb16cea07460009177",
+        "67ab0eb3972004553fe8f30d8472059905347517391c2d1e17b18b642ead7e8a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
