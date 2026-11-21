@@ -10451,7 +10451,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "71296171": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-russian",
       "offer_id": "4680017664851s",
       "originals_sha256": [
