@@ -10905,6 +10905,17 @@
         0.0,
         0.0
       ]
+    },
+    "78029365": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4632000137026",
+      "originals_sha256": [
+        "60aa4959eeb7925875ef9ec6c2d9f2a82f9189e532b1892a4f8d9de6a3a1b119",
+        "83de714c580b6f9242cf0a08ea5a08030b53201cf09645aad0ab38269f8d1028",
+        "6080cebd7529a1a38988435519ac2bcd4eb3f612ab58b9c185249b1e87446cc4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
