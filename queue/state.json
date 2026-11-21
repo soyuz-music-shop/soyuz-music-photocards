@@ -11527,7 +11527,7 @@
       ]
     },
     "91406968": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WAP423",
       "originals_sha256": [
@@ -11538,7 +11538,12 @@
         "9d1aca0377dfa5356557a5bb2773feb7283d65aeab3a97e9e199804806ab2ee9"
       ],
       "before_count": 5,
-      "task_id": 6097771269
+      "task_id": 6097771269,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
