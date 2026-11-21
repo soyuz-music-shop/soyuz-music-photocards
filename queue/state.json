@@ -9140,14 +9140,15 @@
       ]
     },
     "53151627": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB 2642-2",
       "originals_sha256": [
         "819901e3b6dbc7d68b04e4da3f144b2ed50a255b872ae6c7895c1c614ab4f28c",
         "89c1b288402e51458980f98ebcb146c41364e720932c0915e3e411949d1cc29a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097657069
     }
   },
   "reason": null
