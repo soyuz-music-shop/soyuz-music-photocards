@@ -1027,7 +1027,7 @@
       ]
     },
     "24207678": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "APEEP902CD",
       "originals_sha256": [
@@ -1036,7 +1036,12 @@
         "bcfc55a33470252595ac9884f1354562fee88ed120329d060cc201992c6fd31f"
       ],
       "before_count": 3,
-      "task_id": 6097230317
+      "task_id": 6097230317,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
