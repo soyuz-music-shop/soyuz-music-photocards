@@ -3935,7 +3935,7 @@
       ]
     },
     "31247284": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAD3628CD",
       "originals_sha256": [
@@ -3943,7 +3943,12 @@
         "59874e8e6ee9b4a7ce949838f577bda7d9202ab6526e946b0e8aca615c6eb3b7"
       ],
       "before_count": 2,
-      "task_id": 6097377226
+      "task_id": 6097377226,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
