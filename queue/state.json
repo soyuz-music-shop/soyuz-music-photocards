@@ -1139,6 +1139,16 @@
         0.0,
         0.0
       ]
+    },
+    "26026138": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "4630065130020",
+      "originals_sha256": [
+        "193ab122af6bcaa4314e25d185c5f2760ef65e43ea937609653d4ecb54fb400e",
+        "f4560ace7636c1a2b2e8b0a381e8b776bfa7804cad91b9b150cb1f86e0f7f375"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
