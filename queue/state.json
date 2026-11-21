@@ -8924,7 +8924,7 @@
       ]
     },
     "50577328": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ACME350BOX",
       "originals_sha256": [
@@ -8932,7 +8932,12 @@
         "e1a2dc6b27fc3e1e7ed2621a73598eac4bdf7e88de6340e33c09d05d00fbadf5"
       ],
       "before_count": 2,
-      "task_id": 6097644911
+      "task_id": 6097644911,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
