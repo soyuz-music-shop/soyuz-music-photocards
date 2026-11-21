@@ -9902,6 +9902,17 @@
         0.0,
         0.0
       ]
+    },
+    "63128265": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4610093806111",
+      "originals_sha256": [
+        "f60f1614f5b5ad4b047ce8a6b2d2b9dd7eb267aba5c059a47ea97a3de6864fc0",
+        "8fc024921b3b0ce8797d1ae95e04e2fe6d997ebca023cb1d063e3a93f6300ad0",
+        "80f2760f23853c8bb01807caf981f8546412210bdcd21e5dbd4581b6a419a37c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
