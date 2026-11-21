@@ -3663,7 +3663,7 @@
       ]
     },
     "31066738": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP782B",
       "originals_sha256": [
@@ -3672,7 +3672,8 @@
         "d0c7f917c86914680d18690b9e5c1aeb1b60cba809f512aeafe9aff056844811",
         "d6c430376119f382194fc4d3994c5dade4a3bd8d32a3ecb523810d0518a036df"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097364328
     }
   },
   "reason": null
