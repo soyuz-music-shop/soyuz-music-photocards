@@ -2940,7 +2940,7 @@
       ]
     },
     "28938063": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDCHD770",
       "originals_sha256": [
@@ -2948,7 +2948,8 @@
         "b1c3cac839b53a1defd8efd6b3acee23c31252343ec6a5380d2fb97a208f1e45",
         "f2dccdcd8551e4a5e76754debfd4fe5ccfd1d25dc9574db1431a65cb79d6729d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097331242
     }
   },
   "reason": null
