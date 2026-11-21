@@ -7323,7 +7323,7 @@
       ]
     },
     "38660320": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610093803790",
       "originals_sha256": [
@@ -7331,7 +7331,12 @@
         "e6ee6a4d00cc50b3a48a8aa27d2ebd49362ad15362eac5c34dae911bc56e12de"
       ],
       "before_count": 2,
-      "task_id": 6097572735
+      "task_id": 6097572735,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
