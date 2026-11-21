@@ -34,14 +34,15 @@
       ]
     },
     "21771092": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "4630065132802",
       "variant": "cd-import",
       "before_count": 2,
       "original_url_sha256": [
         "03ab1cc0e2d881b05d1d1b8a1755e70cefd13bc4f09cedeb30dabadbe4840773",
         "abd8c76a010cdc0519dcfdcd219d25af24168fa25a19d4914cf53421e6d378ac"
-      ]
+      ],
+      "task_id": 6094362344
     }
   }
 }
