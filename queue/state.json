@@ -8445,6 +8445,17 @@
         0.0,
         0.0
       ]
+    },
+    "50193289": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEM152",
+      "originals_sha256": [
+        "cf003504ad053fde5a89403a8b2f03a19dd56a2a7a367d971ea7ea319f9d9905",
+        "f7c323ecf7dc34f36fd8dc123eeef878bea5ed7a1c0d20744f1dc87768a4c81c",
+        "e10fc3904a8086326a909a14ca5c4bae428facd9535ef2e09d2d67ce016e48cd"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
