@@ -8101,6 +8101,21 @@
         0.0,
         0.0
       ]
+    },
+    "45724515": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SMALP818",
+      "originals_sha256": [
+        "298a4ad487288bb41a1bff4ac718b09c78036488f53d0c951a3e213d3c141250",
+        "c658a46ca7a1c4fcd5fc9ded38897cd45259f28eb28857f3870ca90d51e7b3eb",
+        "528ac53d89bbf73f4d3c3412b889d8737bf1dbe9f3dff07ffabe9acb031b2de1",
+        "b093e9c273b9270eb8dc845b11745e6e13bdd14c5d0539ce6455c07173a33ef3",
+        "ddfbf52de3491d115d2de17b224017aa83b09f8343586799ffcbb55b530d64c5",
+        "c5b533708e5db14318a5f4ab1873287de845c9e3a0abd6d27bbf1222bfe2d557",
+        "62c2f1301a873866ac6f1587a389ef4fb1021104aa5dd99c66051083a1f2676e"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
