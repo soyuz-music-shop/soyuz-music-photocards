@@ -4873,7 +4873,7 @@
       ]
     },
     "33564135": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KCLPX2019",
       "originals_sha256": [
@@ -4894,7 +4894,12 @@
         "a6a79e14272354839dd32e19fe95eedff9a9e07a06312b8248439bd5da8348fd"
       ],
       "before_count": 15,
-      "task_id": 6097422480
+      "task_id": 6097422480,
+      "after_count": 17,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
