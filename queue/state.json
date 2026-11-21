@@ -2922,6 +2922,16 @@
         0.0,
         0.0
       ]
+    },
+    "28897839": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBQLP40",
+      "originals_sha256": [
+        "2b4f4dc79ede37227852bd646e83acb986b62b1d3595125e7cc7c595a1f7d87a",
+        "88c5ac71e467c23e91de9dc1f439908798321f1883480e51abd8009c4ac92781"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
