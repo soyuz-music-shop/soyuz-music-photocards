@@ -1443,7 +1443,7 @@
       ]
     },
     "27371921": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PECLEC22660",
       "originals_sha256": [
@@ -1451,7 +1451,8 @@
         "23117d831f360be31ab7abd206ef7df238f13c0fa63a6a5362a9a36ec84124e7",
         "7f18e6e5ff2a12f054a2c4930c392bf063d1e4288707792873dc9d3041e367ee"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097251391
     }
   },
   "reason": null
