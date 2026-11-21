@@ -10107,7 +10107,7 @@
       ]
     },
     "66442786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MANNLP016",
       "originals_sha256": [
@@ -10116,7 +10116,12 @@
         "a6450b9469c04e6541e5dc1543b97032a22cccd669dfef92e8abcb111a4e86d2"
       ],
       "before_count": 3,
-      "task_id": 6097708118
+      "task_id": 6097708118,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
