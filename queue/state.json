@@ -9555,6 +9555,21 @@
         0.0,
         0.0
       ]
+    },
+    "55606997": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV410LP",
+      "originals_sha256": [
+        "c3ee940b90e9b80dd00a1d8b06780a78263099453770953f4e74642cfe1cd951",
+        "7bca094447c4445013704416ee8feebef22b25a2ec494ae40778b7c1c9c40199",
+        "bd8d6547b35000e117eb3973eefc65ac82ce95ee3aafa710d6d086ce248c1e47",
+        "ecb79eeef166fc28b9300669033a988a929ec199ab5589d03c83d056adf441fe",
+        "e2738f306aab864675df4e4d11ae29a69878321eaffa3c143de5cef1dcacd2b4",
+        "816b78e4ca019e10e3ca5e3126221685c144aaf5d14ac99a4c3b310a1e68ae89",
+        "89fdbbb41198037de73e9a3ffa1b6d42c53df8725e05fba9d6202e5954736d6a"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
