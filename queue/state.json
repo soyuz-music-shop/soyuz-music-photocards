@@ -991,7 +991,7 @@
       ]
     },
     "24043053": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DGM5016",
       "originals_sha256": [
@@ -1002,7 +1002,12 @@
         "e6cbf2f697ffa49c8a12b8a4de845cae8b15b08a11721bdacd094d4f998dde87"
       ],
       "before_count": 5,
-      "task_id": 6097228539
+      "task_id": 6097228539,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
