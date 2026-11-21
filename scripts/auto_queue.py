@@ -181,7 +181,7 @@ def preflight(record):
                                         {"product_id":[pid]}))
     if str(info.get("id") or info.get("product_id"))!=str(pid):
         raise RuntimeError("Unexpected product ID")
-    if info.get("offer_id")!=offer or info.get("name")!=record["name"]:
+    if info.get("offer_id")!=offer or str(info.get("name") or "")[:120]!=record["name"]:
         raise RuntimeError("Offer or product name changed since snapshot")
     original=gallery(info)
     if len(original)!=record["images_before"]:
@@ -324,7 +324,9 @@ def main():
     else:plan,state=build_catalog()
     if plan.get("schema")!=1 or state.get("schema")!=1:raise RuntimeError("Unknown queue version")
     if state.get("phase")=="paused":
-        raise RuntimeError("Queue PAUSED: "+str(state.get("reason") or "unknown"))
+        print("QUEUE_PAUSED_NO_AUTORETRY:",str(state.get("reason") or "unknown"))
+        write_output(False)
+        return
     if state.get("phase")=="completed":
         print("QUEUE_ALREADY_COMPLETED")
         write_output(False)
