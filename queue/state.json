@@ -9285,6 +9285,19 @@
         0.0,
         0.0
       ]
+    },
+    "55580809": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD868",
+      "originals_sha256": [
+        "3d2b87fbc570a8e05e11208aaa9e4b68a81d3c7471eb0774ebdeb0bed51c5e49",
+        "23d724d62b6d695d095fd644fe5193493d3d26786573ded80e1e1a07a4eb368d",
+        "9b800ff7ea28d8c830c81082308a5a03f31ca45e0112eb37a6edf2ecb038bede",
+        "6142334f224d341817d693c6175438fc1097daee3189bcfdca63fa7c50961554",
+        "23efbc7ce8cb6ada173edd940497bab94fcb7bd158835c1160e9acb08c6d0f8a"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
