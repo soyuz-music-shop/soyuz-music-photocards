@@ -11444,7 +11444,7 @@
       ]
     },
     "88944498": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RRCAR 85601",
       "originals_sha256": [
@@ -11452,7 +11452,12 @@
         "cb5b3f7a718cfce5b7fc960a8bfde4974beb56ea8f9bbbeea4d1eafadeb043da"
       ],
       "before_count": 2,
-      "task_id": 6097768261
+      "task_id": 6097768261,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
