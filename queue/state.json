@@ -8561,7 +8561,7 @@
       ]
     },
     "50213226": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ATOMCD41041",
       "originals_sha256": [
@@ -8573,7 +8573,12 @@
         "3fe670af036fd7d91b90b978fcf907d7e430702ac90c16b7d51ffec38e59e4fc"
       ],
       "before_count": 6,
-      "task_id": 6097631473
+      "task_id": 6097631473,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
