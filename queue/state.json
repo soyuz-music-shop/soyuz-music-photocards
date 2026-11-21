@@ -9251,6 +9251,17 @@
         0.0,
         0.0
       ]
+    },
+    "55578171": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD779",
+      "originals_sha256": [
+        "7565b640bbe51aad85402ee25cd8835e59c8916c2fb737d1d0a9be10e297ca90",
+        "724280a67ca920e00672788f553a05df100c941a3d66e961cb0dce00c9a0fa58",
+        "46fe5528b6e0714a72d671af9fa5b736ea7b4c643c5e8e194bbe10fc236e4782"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
