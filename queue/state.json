@@ -2721,14 +2721,15 @@
       ]
     },
     "28494205": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDWIKM2",
       "originals_sha256": [
         "5e4bf2d31b59810ee58c173b0b105b27515f813b524966ab19f154495e72fe75",
         "e78a9d8b102f34209f69a0534a40c10ebf9e1d8e0d5e4595a6f28f3dceb0a317"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097319786
     }
   },
   "reason": null
