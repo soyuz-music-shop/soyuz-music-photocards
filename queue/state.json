@@ -5819,6 +5819,17 @@
         0.0,
         0.0
       ]
+    },
+    "34800196": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EVDGCD1001",
+      "originals_sha256": [
+        "ce4dcb84d9100a85ceec2738591f00cdce4e526f87e25a9d75841dd1a18a35dc",
+        "110e6162e968bc2252a3539ac6f996dbe66bb4bbef6e658f0e10fd93f5e170ed",
+        "86f578ab747a613ece50f60873b3b852dea339e4e0e6595fd38f127450559d8f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
