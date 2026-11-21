@@ -9631,14 +9631,15 @@
       ]
     },
     "55617382": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMCD666-4",
       "originals_sha256": [
         "9013094f5bd8a7ad035edbff1817b077ada2c31bc217f08778aeaacd255ee456",
         "70047e8e0beda7a594dbb243f54973ce3947e99c6b46d0c0fc913d44398eae12"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097682736
     }
   },
   "reason": null
