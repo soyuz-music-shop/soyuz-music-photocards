@@ -3126,6 +3126,18 @@
         0.0,
         0.0
       ]
+    },
+    "30049442": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD740",
+      "originals_sha256": [
+        "a39141732910d702e82182eec0c1576c14f2a65e4ae536d7a4ce23533670ebf7",
+        "727dfa68f815adff5462e5250dd091db152c351eeffdbfae38d0af91c00a34ff",
+        "45ee7bca169453f020da546d0034b80dcd80614fdd288457e170ed0cb52dc88c",
+        "6df563392e47c9f98aadf6aa9c7f014c16989713ef25b9679447d0f23a4fb362"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
