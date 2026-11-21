@@ -7777,7 +7777,7 @@
       ]
     },
     "41743864": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CRPOP21",
       "originals_sha256": [
@@ -7785,7 +7785,8 @@
         "860c7cfe8f04018bfdae8fe451cf042f387667a6795a9bd4c1bcd58321e42c9f",
         "b41ccf7f62b499633cfd6d08336c4720d2cf7f62f24102a67d553ceae9589f07"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097598500
     }
   },
   "reason": null
