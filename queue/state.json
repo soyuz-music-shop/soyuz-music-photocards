@@ -5263,7 +5263,7 @@
       ]
     },
     "34467089": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "KCSP13",
       "originals_sha256": [
@@ -5272,7 +5272,8 @@
         "e05d5fff4b891c3ca5734ab6323917ddc3d69cea33f861f1754227f754d60af7",
         "623043863a1179fc49113234404c2d9af104cb496ae3209076e71cb1b7097932"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097451599
     }
   },
   "reason": null
