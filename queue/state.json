@@ -8053,7 +8053,7 @@
       ]
     },
     "44275107": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SMALP974",
       "originals_sha256": [
@@ -8061,7 +8061,12 @@
         "b718ce1217cc003f36a98b801ea382a565c5bfdd4b98d30039334ef138168608"
       ],
       "before_count": 2,
-      "task_id": 6097610030
+      "task_id": 6097610030,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
