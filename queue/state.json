@@ -5922,7 +5922,7 @@
       ]
     },
     "35210576": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XLCD785",
       "originals_sha256": [
@@ -5930,7 +5930,12 @@
         "284b9a8056debe22571e54a903efe835e871c25880c166ead8d9580dce32fe3f"
       ],
       "before_count": 2,
-      "task_id": 6097502482
+      "task_id": 6097502482,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
