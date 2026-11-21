@@ -7420,6 +7420,17 @@
         0.0,
         0.0
       ]
+    },
+    "39326771": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD 3301",
+      "originals_sha256": [
+        "1875c80027531f12ec41a3bb5b83ccdcb44ac53fd72fc3d68f9553cd8511e06a",
+        "a71b65a5bb6be29b9c51c443ba516beca9aa22c2c4ff2f28e44c22d6671064a7",
+        "671e4356e40773aff5d1e16a33e65f4e99d9cdf19223bfa53e46e833cd152166"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
