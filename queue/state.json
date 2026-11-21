@@ -10955,7 +10955,7 @@
       ]
     },
     "80081586": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4620107931395",
       "originals_sha256": [
@@ -10963,7 +10963,12 @@
         "fe6e52def3858ae89b963af1aad86510dc4ed405d67f8edb9334ec8d1f2e2bb4"
       ],
       "before_count": 2,
-      "task_id": 6097748097
+      "task_id": 6097748097,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
