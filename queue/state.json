@@ -8087,7 +8087,7 @@
       ]
     },
     "45708931": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NPR601JC",
       "originals_sha256": [
@@ -8095,7 +8095,12 @@
         "bbebeb4da9ae11570bcb2aadf52f18a9b83f5d06e9b0396301f484af307a65ab"
       ],
       "before_count": 2,
-      "task_id": 6097611294
+      "task_id": 6097611294,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
