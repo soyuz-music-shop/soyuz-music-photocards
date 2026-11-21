@@ -118,6 +118,19 @@
         0.0,
         0.0
       ]
+    },
+    "26605476": {
+      "stage": "locked",
+      "offer_id": "XLLP740",
+      "variant": "import-vinyl-info",
+      "before_count": 5,
+      "original_url_sha256": [
+        "49f6688a4d0d19feeb92ed16c247029ae4afb1160a0e6e21be3348933003e187",
+        "f413f373ded6089011cb989ea51acd51327d6a4701c85e1abad5d030f534d7c2",
+        "fabc2165b420a1d4c8bafa680dad6ea00a05228e72b4509c2cd55e99813d8d35",
+        "faca8278799a246377914dd4f484738ceccc46e6ee1ba21bb8d52f5cefa5ca6e",
+        "d21b0825e3780277bf4e55840b3d268789e108c22e4c06cba56da0a4fd450159"
+      ]
     }
   }
 }
