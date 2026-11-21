@@ -2485,7 +2485,7 @@
       ]
     },
     "28336374": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP121",
       "originals_sha256": [
@@ -2498,7 +2498,12 @@
         "7927303efb0963c39c72bf6af8840d08a2146df9cee69fd3ebe111744e76c066"
       ],
       "before_count": 7,
-      "task_id": 6097306346
+      "task_id": 6097306346,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
