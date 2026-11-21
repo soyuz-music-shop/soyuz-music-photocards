@@ -6073,14 +6073,15 @@
       ]
     },
     "35278406": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAD3X05",
       "originals_sha256": [
         "23094dcd0f85402a24cb222dba7db945736a1ae6aa70b6360b7d1e4b57fe715c",
         "575f070c7ca6ae4bbf00e6f7ea8334bee3a6b8255f46ad24a56c102a01b11920"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097511383
     }
   },
   "reason": null
