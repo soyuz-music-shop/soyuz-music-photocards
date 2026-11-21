@@ -3884,6 +3884,17 @@
         0.0,
         0.0
       ]
+    },
+    "31246929": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD412CD",
+      "originals_sha256": [
+        "71c285944b73cea12f2228bc2f2ea2212931a032c00c4155fa325aaff95d2c73",
+        "ae098736996fd41113c5c1c42699ce8459ffc82f32f26873b4db98a3f7dce20f",
+        "675a9eac85fdab4cb07c81e0c59bc9945b0cc60ec99c122071d5fe4fc7a19574"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
