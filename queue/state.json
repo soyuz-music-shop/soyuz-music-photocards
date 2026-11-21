@@ -4398,7 +4398,7 @@
       ]
     },
     "32528252": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BGPD1114",
       "originals_sha256": [
@@ -4406,7 +4406,12 @@
         "800df176bcd05592709295d453e8da51cc315262b7c3c808c7d4a9da48a0c8c6"
       ],
       "before_count": 2,
-      "task_id": 6097395616
+      "task_id": 6097395616,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
