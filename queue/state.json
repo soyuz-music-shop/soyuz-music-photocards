@@ -5453,7 +5453,7 @@
       ]
     },
     "34669563": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM6021",
       "originals_sha256": [
@@ -5462,7 +5462,12 @@
         "d9f67502f87f8623ecc0e347c3bbc2a5110e3e4c3d0d5fec172a28d38813ab81"
       ],
       "before_count": 3,
-      "task_id": 6097466856
+      "task_id": 6097466856,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
