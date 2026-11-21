@@ -8613,6 +8613,18 @@
         0.0,
         0.0
       ]
+    },
+    "50213830": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC22503",
+      "originals_sha256": [
+        "93cda77db7a0c6539e193483babdfae9545bfee515fcc866f7000f1eed644150",
+        "0edca1db8bb9990f34de6a6c7172c8f8ed76529ec90884bcadbf354b35fceb88",
+        "b50aaef59bd20d99660aff1829780f8240fd543d74bad8d92ec68eb0ba74bce9",
+        "29077bd7e8800bb39240d44ba217503d0d83246ed2dfa1e22a7c50d115d81ef1"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
