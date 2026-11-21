@@ -5938,7 +5938,7 @@
       ]
     },
     "35213871": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIK2 310",
       "originals_sha256": [
@@ -5947,7 +5947,12 @@
         "6285511392c62649f1aa542a739450b6d5903759a34364d9b6c17367c5d10006"
       ],
       "before_count": 3,
-      "task_id": 6097503139
+      "task_id": 6097503139,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
