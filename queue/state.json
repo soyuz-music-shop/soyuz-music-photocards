@@ -9105,7 +9105,7 @@
       ]
     },
     "53151267": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EREACD1030",
       "originals_sha256": [
@@ -9113,7 +9113,12 @@
         "15860157a597ac7753a3ba5da6887ff0003d52435aaaf217421d553783288ef0"
       ],
       "before_count": 2,
-      "task_id": 6097655808
+      "task_id": 6097655808,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
