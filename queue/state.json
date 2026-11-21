@@ -10273,7 +10273,7 @@
       ]
     },
     "69833092": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2719",
       "originals_sha256": [
@@ -10282,7 +10282,12 @@
         "1339cf95af7158f077416913760364ed8c1182bb6564def1bbf27d3da8bef9cc"
       ],
       "before_count": 3,
-      "task_id": 6097716349
+      "task_id": 6097716349,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
