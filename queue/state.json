@@ -5955,7 +5955,7 @@
       ]
     },
     "35231615": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SMACDX1150",
       "originals_sha256": [
@@ -5963,7 +5963,12 @@
         "776e156f4d43bdaeff87b98a93047504855758a7d71c4190cd6065160ef886dc"
       ],
       "before_count": 2,
-      "task_id": 6097503831
+      "task_id": 6097503831,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
