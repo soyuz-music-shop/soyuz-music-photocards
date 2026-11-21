@@ -5386,7 +5386,7 @@
       ]
     },
     "34591408": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NB 3464-2",
       "originals_sha256": [
@@ -5395,7 +5395,12 @@
         "ef56329ac329019828b9e0bc2eb8de106e351a1a706ac8c37664e01384615415"
       ],
       "before_count": 3,
-      "task_id": 6097461364
+      "task_id": 6097461364,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
