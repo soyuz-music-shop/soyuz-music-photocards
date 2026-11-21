@@ -7542,6 +7542,16 @@
         0.0,
         0.0
       ]
+    },
+    "39379126": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YTLP 118",
+      "originals_sha256": [
+        "6ed64187344af76322802c766c819f109d05f40b5cd00a21c9995392ed3a3972",
+        "2dc785d312876db2eec618ee43d8f401d93759d66c81746a7775e6ef17df080a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
