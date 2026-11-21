@@ -3007,7 +3007,7 @@
       ]
     },
     "29256264": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "YTCD161",
       "originals_sha256": [
@@ -3015,7 +3015,8 @@
         "aeeee08d137bcf74f222b1c5048301959846aace3a5f2c82603ba04c35a58e49",
         "e3821d7659684cefa5fbd8fbbc2a8cc24a2ed2f7603c0fc811e71907f0ee0842"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097334234
     }
   },
   "reason": null
