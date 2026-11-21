@@ -10855,7 +10855,7 @@
       ]
     },
     "76320401": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSTUMM431",
       "originals_sha256": [
@@ -10864,7 +10864,12 @@
         "8204c66bceaebb1b65ee8cde374c38e1b7019d1b48041aa56a98b4182f3780d9"
       ],
       "before_count": 3,
-      "task_id": 6097743545
+      "task_id": 6097743545,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
