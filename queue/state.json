@@ -10219,6 +10219,18 @@
         0.0,
         0.0
       ]
+    },
+    "69824848": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QECLEC2710",
+      "originals_sha256": [
+        "99761bf00ecd249d44efb205d8da5af57b6dca73e1b395b5417dea6f9211d299",
+        "bb5e987f2dff5be7de2780d2c9f02a37890d41876d2659be33542ab1fcdcff1c",
+        "11ad042e7ebcee4f86e84908392928af7b8c1c5c2318552f92199413364efe21",
+        "de9d2f1dceab4803b8c8fa6f03a7d31681ef3631bcb9ad4223ec11fcd3cbe557"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
