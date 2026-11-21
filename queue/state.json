@@ -11141,14 +11141,19 @@
       ]
     },
     "84081493": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AFM4302",
       "originals_sha256": [
         "33c72fef71f1109ac57588f6511f67592b243171d6d76d897c572a2bf3117231"
       ],
       "before_count": 1,
-      "task_id": 6097755189
+      "task_id": 6097755189,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
