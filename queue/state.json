@@ -9524,7 +9524,7 @@
       ]
     },
     "55604082": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD07",
       "originals_sha256": [
@@ -9532,7 +9532,12 @@
         "f534c2f16483d516c3504c7072bdf37bee22987a645e7060aa2458f2ebb94d6b"
       ],
       "before_count": 2,
-      "task_id": 6097676717
+      "task_id": 6097676717,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
