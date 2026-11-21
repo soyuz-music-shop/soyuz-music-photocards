@@ -11205,7 +11205,7 @@
       ]
     },
     "86923499": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CSTLP 126",
       "originals_sha256": [
@@ -11215,7 +11215,8 @@
         "3af48848eb1f1bc3cea7a5ef50a83e181d8d0107247451618ed0cd68d10e1507",
         "95deebaf53d5482ceb37627bf5f46a358cb888dc0c5c02015d881395aad7f04d"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097758057
     }
   },
   "reason": null
