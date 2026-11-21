@@ -3578,7 +3578,7 @@
       ]
     },
     "31046401": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP205",
       "originals_sha256": [
@@ -3587,7 +3587,12 @@
         "03c3035d7a84790c9cc15fb2c5c3b4be2fa2c842a3ffb7295d3c3a3b236b05e9"
       ],
       "before_count": 3,
-      "task_id": 6097360527
+      "task_id": 6097360527,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
