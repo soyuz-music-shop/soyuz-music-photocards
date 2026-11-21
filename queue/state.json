@@ -2955,6 +2955,17 @@
         0.0,
         0.0
       ]
+    },
+    "28938105": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD1460",
+      "originals_sha256": [
+        "a06b5a1655c961d8cb97590722f0356907ab4a4f7230a115f53ce91aa6fb4a5e",
+        "1e70b6b1291d3432682ff8bb325b5c43d43e0ccbb0231ccf075106d5481eec77",
+        "9bff9fb3998832c9d71d27db14aa0df284b1de5fd72c6dee24416a8075e22a65"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
