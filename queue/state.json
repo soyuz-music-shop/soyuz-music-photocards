@@ -8067,6 +8067,18 @@
         0.0,
         0.0
       ]
+    },
+    "44311475": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SMALP975",
+      "originals_sha256": [
+        "35f9cfd7992de95414117fae1200d125db1e7701f5d80f5f5d61a4a586aeb5f4",
+        "f14ef7ad8d54ea38a3049074d29c3ea50da57cc71cd32a6ef2ca2594feba95f2",
+        "b2f86144ed3f5081c4676d326f579530b813c91b84c1f3bd8c8931664f218192",
+        "8384ffe4040261c82a803a1582da1bf870e2f5c59892d2d9af3b2610b9d4c845"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
