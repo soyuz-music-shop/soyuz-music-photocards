@@ -3437,6 +3437,19 @@
         0.0,
         0.0
       ]
+    },
+    "30928736": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP780",
+      "originals_sha256": [
+        "d8941b8733f2105536e9ee5868d091fa15906bfd60bb122fb35d39294b308b70",
+        "dad4733c982b6fe60ac60b256deb7e08f0ac6aac0f636e884e33c185f841b6e6",
+        "f2557fd8cf78d3aadc979cb1ce022ad27cfc912c83f3889dc3282cd9489af964",
+        "49c4ea7e755e01abf3fba5b783fed0c917ff749db58d3784f471b0ab8a79bc5b",
+        "ce79dbd8b8e21a26de330b7b96e3103357ae4a6ee19c8c72b940e6acd0e77d64"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
