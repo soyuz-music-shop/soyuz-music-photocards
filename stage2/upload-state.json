@@ -18,7 +18,7 @@
       ]
     },
     "21770915": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "4630065134264",
       "variant": "cd-import",
       "before_count": 2,
@@ -26,7 +26,12 @@
         "01327b126021d86bf3466a218ddfd0fa83a72f5a9fae7b3061af72647d0986b8",
         "0efe7d31cfbd2b135a9ba2e4fac270fae3975886d4245736a87a0c7acc0dc4a6"
       ],
-      "task_id": 6094356463
+      "task_id": 6094356463,
+      "after_count": 4,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
