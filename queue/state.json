@@ -5109,6 +5109,17 @@
         0.0,
         0.0
       ]
+    },
+    "33639784": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB5244-2",
+      "originals_sha256": [
+        "4c0a0ad63f0c050d782bc6d240b367ead1595ae91b99fa69d55c7a46bbe27398",
+        "7f09503136286583a72021707d2a93163571fef88147fd4108babb3055cf551d",
+        "85d321d802735d078b663bc63d8b7dcbace6f1653314ec3d17241d4864a3dfd6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
