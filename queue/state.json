@@ -11124,7 +11124,7 @@
       ]
     },
     "83950670": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BS021LP",
       "originals_sha256": [
@@ -11133,7 +11133,12 @@
         "e84b93a67148cd0ff73d64dc49245a02b9146cb99b36a663ac0456e182b58df9"
       ],
       "before_count": 3,
-      "task_id": 6097754599
+      "task_id": 6097754599,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
