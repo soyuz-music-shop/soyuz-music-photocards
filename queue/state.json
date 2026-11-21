@@ -3490,6 +3490,17 @@
         0.0,
         0.0
       ]
+    },
+    "31023934": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL987LP",
+      "originals_sha256": [
+        "60222a6703a87b4606d8bad73b80993fcccf3c338394490cdd68aeafefce2da5",
+        "62d6a8028fe6a7c37587e15cf277668b750a81309adc5c60a627765e7999aa24",
+        "edeaf8ab21501a91129b16eafc96615c056cae7472edfc3cbc5f0a2d2face822"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
