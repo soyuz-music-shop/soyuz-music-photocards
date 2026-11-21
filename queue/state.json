@@ -10635,6 +10635,17 @@
         0.0,
         0.0
       ]
+    },
+    "71826867": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SPV 243472 CD",
+      "originals_sha256": [
+        "467ae7538f115053f2b4726b517afec96517d0bb89e01a18cad43b41718366fa",
+        "f3a28bda7a34a682580a8c8d2c46e124f473118feb2e6ba9c0c776d38428f9bf",
+        "37b183f466bfefdf366d89aaa17925bcdc59a28efd9bbd65e0193b19ceecf107"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
