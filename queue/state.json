@@ -9086,6 +9086,17 @@
         0.0,
         0.0
       ]
+    },
+    "53151211": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRPOP29",
+      "originals_sha256": [
+        "b4e311ef3a4712e407b51e35c9736efe56a3c3a95f137902bb0baa8eb673ac21",
+        "e979c155dfa9e150f0b048b7307e9e5fed3e8513a3cc104f6493a6ed83f4b5fd",
+        "df5322829338e5e217e9b10e7287fb677d5fc493adeb5d42cce30d4ebf8ff1c6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
