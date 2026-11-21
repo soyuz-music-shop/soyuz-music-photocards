@@ -8891,7 +8891,7 @@
       ]
     },
     "50573235": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBBR0284",
       "originals_sha256": [
@@ -8899,7 +8899,12 @@
         "b71092bddea48fd2c38d3a8e6bcf6993de9da8c02c1ca4e900d2fd1d45e9e266"
       ],
       "before_count": 2,
-      "task_id": 6097643890
+      "task_id": 6097643890,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
