@@ -10686,6 +10686,16 @@
         0.0,
         0.0
       ]
+    },
+    "71873070": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBT 5162-1",
+      "originals_sha256": [
+        "376d6d31c3092adfe2940eed5ecec9fcb0a6b7d54febd45a7af6cc13876f9dc9",
+        "5da908e21d945ce31535f0cb8d49e344dd5cccc5a9b5f82e883723587e538470"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
