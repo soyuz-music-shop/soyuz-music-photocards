@@ -4037,6 +4037,16 @@
         0.0,
         0.0
       ]
+    },
+    "31828286": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBQLP38X",
+      "originals_sha256": [
+        "4827b1c0896d3abefc2318a6e23619dd402b954fdb7eb2a9ac5919d3873dd00d",
+        "c09434a591c5c0f668e5a7b6984d86d7da3771543a696ef54b67e36c053fd480"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
