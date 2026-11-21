@@ -9661,6 +9661,17 @@
         0.0,
         0.0
       ]
+    },
+    "55618958": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMCD666-6",
+      "originals_sha256": [
+        "8ce380388e98a81fba0905762f2187dd1cbe12033b19d8d6140a0beeca5e5805",
+        "7ff7497c063f2d80dba8bda7f3c0d475b91843a972604119d4698f6dfa479d7f",
+        "9982b243a9882fddcbc02284b4db837531cc99fb24e79120198f392ced356416"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
