@@ -3326,7 +3326,7 @@
       ]
     },
     "30906967": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP220",
       "originals_sha256": [
@@ -3336,7 +3336,12 @@
         "16534678517c704dce31e579e7e4aa3d64eaaecf7f3c7727416cf32d91fcadd8"
       ],
       "before_count": 4,
-      "task_id": 6097349395
+      "task_id": 6097349395,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
