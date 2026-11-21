@@ -7422,7 +7422,7 @@
       ]
     },
     "39326771": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3301",
       "originals_sha256": [
@@ -7430,7 +7430,8 @@
         "a71b65a5bb6be29b9c51c443ba516beca9aa22c2c4ff2f28e44c22d6671064a7",
         "671e4356e40773aff5d1e16a33e65f4e99d9cdf19223bfa53e46e833cd152166"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097577582
     }
   },
   "reason": null
