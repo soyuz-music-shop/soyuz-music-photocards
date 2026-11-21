@@ -111,14 +111,15 @@
       "previous_stage": "verified"
     },
     "20812274": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4630065137234",
       "originals_sha256": [
         "87ff8cb7663c4936e023346c3681477c0ce8bf47e3492822a8ae43f7a318739c",
         "f219eee3605630730d6d6ba8c85e4cc326d5a893d5bfdc0a47c210e0c7e9a792"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097173262
     }
   },
   "reason": null
