@@ -3868,6 +3868,16 @@
         0.0,
         0.0
       ]
+    },
+    "31246277": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD0012CD",
+      "originals_sha256": [
+        "16fc764c3c6b5a44061e9b4de31046f4936234100157deeda296549cfa510974",
+        "9407bd5edf7fb58eb2d44ce5b435f5d029e2d4c5d6119e440d73ea6b28341bc8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
