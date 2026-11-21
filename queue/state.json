@@ -2483,6 +2483,21 @@
         0.0,
         0.0
       ]
+    },
+    "28336374": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP121",
+      "originals_sha256": [
+        "717f4564ae21626ccb64c2d1c4d2b5e50f3076673f6f1de3d0bcca2e344cfbc6",
+        "7564ce9560d799e40aa6cb70da836992dad24ff43fd24751fc9f5c766add0913",
+        "40eaa836944e13da30e2ccc9d5a4330c11195c4042b7dfa2425a9909126544ff",
+        "ca6572727901f400330fea189abf3b872a8378869643e7b05e5489b515884208",
+        "f146929d69c8334fc47f582342a30b823dd0d0cc91243045f9a078edf1950ee2",
+        "67da7d7f8bf93b56452fbd54418dd02874af0607b6cfabbab93f94634ecaab55",
+        "7927303efb0963c39c72bf6af8840d08a2146df9cee69fd3ebe111744e76c066"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
