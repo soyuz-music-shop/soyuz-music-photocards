@@ -6364,7 +6364,7 @@
       ]
     },
     "35725154": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAD2406CD",
       "originals_sha256": [
@@ -6373,7 +6373,12 @@
         "849c364b8473c4da6062648326030331e429ec622838a3ac95eed77c839b8f45"
       ],
       "before_count": 3,
-      "task_id": 6097527168
+      "task_id": 6097527168,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
