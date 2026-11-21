@@ -11124,7 +11124,7 @@
       ]
     },
     "83950670": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BS021LP",
       "originals_sha256": [
@@ -11132,7 +11132,8 @@
         "06b32e60f0d6d8157fec25aa11c43f0d1d6b4b6f0f423703e846c72c5f73e9ae",
         "e84b93a67148cd0ff73d64dc49245a02b9146cb99b36a663ac0456e182b58df9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097754599
     }
   },
   "reason": null
