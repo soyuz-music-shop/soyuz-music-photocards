@@ -192,7 +192,7 @@
       ]
     },
     "23316382": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "XLCD782",
       "variant": "cd-import",
       "before_count": 4,
@@ -202,7 +202,12 @@
         "fc49bcd0dfe91d8479250b49dbf4a77ad3032cd0041bdf53871de17563c0d31a",
         "b255030aa59f7d57c5e9b2f508b3aaf6a69cfb8b1f694e2b95ee18bc0db8965c"
       ],
-      "task_id": 6094409251
+      "task_id": 6094409251,
+      "after_count": 6,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
