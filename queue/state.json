@@ -1674,6 +1674,20 @@
         0.0,
         0.0
       ]
+    },
+    "27524060": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKD338",
+      "originals_sha256": [
+        "7a535449c46c6a699464f67c29cc67a84f26b8187470d0532054c22c9f62404c",
+        "08a885c12af9cd0f8acb4df849ac7d85c91657a8ff755a19866669b404dee436",
+        "659994a8571471222230959df16d1d816a33d39d950f236ce38574d9f5767f7e",
+        "39ec50bb7362a96ffa9747031476aa7db8e20804d2cbcadd9d294a8ee8bcc660",
+        "290185f37c7e8d9f247ba7b03df1a40c76ba3f97b0e29fce6fe1259faa217b6f",
+        "617ecd508230c7ab5f24e1241830b65fcaf0de6cb58df0f8fcf40652d20030b4"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
