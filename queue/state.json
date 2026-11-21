@@ -8447,7 +8447,7 @@
       ]
     },
     "50193289": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDLEM152",
       "originals_sha256": [
@@ -8455,7 +8455,8 @@
         "f7c323ecf7dc34f36fd8dc123eeef878bea5ed7a1c0d20744f1dc87768a4c81c",
         "e10fc3904a8086326a909a14ca5c4bae428facd9535ef2e09d2d67ce016e48cd"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097626707
     }
   },
   "reason": null
