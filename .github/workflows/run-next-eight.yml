@@ -1,0 +1,43 @@
+name: PhotoCards — обработать следующие 8 импортных товаров
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/run-next-eight.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ozon-photocards-stage2-eight-items
+  cancel-in-progress: false
+
+jobs:
+  next-eight:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow
+        run: python -m pip install --quiet Pillow
+      - name: Синтаксис и ограничения безопасности
+        run: |
+          python -m py_compile scripts/run_next_eight.py scripts/stage2_select.py scripts/stage2_import.py
+          python - <<'PY'
+          import sys
+          sys.path.insert(0,"scripts")
+          import stage2_import as b, stage2_select as s
+          assert b.MAX_UPLOADS==8
+          assert b.ALLOWED=={"cd-import","import-vinyl-info"}
+          assert s.COUNTS=={"cd-import":4,"import-vinyl-info":4}
+          print("NEXT_EIGHT_LIMIT_AND_TYPES_VERIFIED")
+          PY
+      - name: Git identity
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Отобрать следующие 8 и безопасно обновить их через Ozon API
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/run_next_eight.py
