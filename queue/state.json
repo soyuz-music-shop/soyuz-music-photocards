@@ -9088,7 +9088,7 @@
       ]
     },
     "53151211": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRPOP29",
       "originals_sha256": [
@@ -9097,7 +9097,12 @@
         "df5322829338e5e217e9b10e7287fb677d5fc493adeb5d42cce30d4ebf8ff1c6"
       ],
       "before_count": 3,
-      "task_id": 6097655269
+      "task_id": 6097655269,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
