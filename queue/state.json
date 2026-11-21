@@ -8867,6 +8867,22 @@
         0.0,
         0.0
       ]
+    },
+    "50567460": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC32673",
+      "originals_sha256": [
+        "067c67a50281ae3b7883f1a1ea1ae7089f3a6a0c631f8a71af50e76a39fa2172",
+        "adecadac36296646c11e673b0b39b934910bcea6a633972fa67512d8d78145c4",
+        "a1c5896e88afe20d257b7495e0eef5bf5c2071010f817c7b1341a25d33c2f143",
+        "2345494b9bcd94a6d3e2d47329a4df75296f826e91196bea0dec7735e944f30b",
+        "030ea037d1debabaeaa34070ea840dcc042d1e20d45e6b6d47e38075ed324421",
+        "e68b1d4d5eac560f41bd451f0638b64038566125d330ee8a607d081ce07f05f0",
+        "f5dca9cf46a3b41a8cbd32e1d62103c238aea46f85b71e8dc8076d247e4d36b0",
+        "0b4b5b2b0b0cec7383e632c48efdf083486f03d964a626f6ae3032b404709157"
+      ],
+      "before_count": 8
     }
   },
   "reason": null
