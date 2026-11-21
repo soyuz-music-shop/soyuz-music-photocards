@@ -11546,7 +11546,7 @@
       ]
     },
     "94737443": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4650062360527",
       "originals_sha256": [
@@ -11555,7 +11555,12 @@
         "8228aa26656227136f8566d4cf9b7e5acc608dfa9fe21081f738cf166d9dd881"
       ],
       "before_count": 3,
-      "task_id": 6097771816
+      "task_id": 6097771816,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
