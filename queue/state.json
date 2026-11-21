@@ -11644,6 +11644,17 @@
         0.0,
         0.0
       ]
+    },
+    "115446827": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB 4860-0",
+      "originals_sha256": [
+        "f23f7ced8ec310b99559303a44a6aa04d70186575787455734c22a0f2cc35a96",
+        "468098d94d2f666fd46a14ffe7b489f9e06233543582baa7038269b8d0a55115",
+        "3a44ad834ac59ae6d72c0ea074999a5d3047ddad25adb8cffff82dd3742bec25"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
