@@ -249,7 +249,7 @@
       ]
     },
     "27674626": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "SEW3158",
       "variant": "import-vinyl-info",
       "before_count": 3,
@@ -258,7 +258,12 @@
         "d60e340b662596125e841f7eeb811b250f79cdc6ebdd85b20845d1e299a56969",
         "a36acbb1babbe893dd4edfe4ed74e256f622954abe06f988b75da50b036ed30f"
       ],
-      "task_id": 6094418298
+      "task_id": 6094418298,
+      "after_count": 5,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
