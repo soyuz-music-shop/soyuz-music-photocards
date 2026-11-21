@@ -9455,7 +9455,7 @@
       ]
     },
     "55595405": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "UMBCD2",
       "originals_sha256": [
@@ -9463,7 +9463,12 @@
         "683f0767a28bacd217d1a5b382ea9121bf52a070c23cfadfd35ebe4bafb5829b"
       ],
       "before_count": 2,
-      "task_id": 6097672258
+      "task_id": 6097672258,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
