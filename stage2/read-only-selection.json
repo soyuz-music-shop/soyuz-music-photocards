@@ -1,0 +1,63 @@
+{
+  "purpose": "Pilot 4 imported CD + 4 regular imported LP",
+  "mutation_count": 0,
+  "selected": [
+    {
+      "id": 21476982,
+      "offer_id": "XLCD520",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Adele. 21 (CD JewelCase/Импорт)"
+    },
+    {
+      "id": 21770915,
+      "offer_id": "4630065134264",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Blind Guardian Twilight Orchestra. Legacy of the dark lands (2 CD/Компакт-диск)"
+    },
+    {
+      "id": 21771092,
+      "offer_id": "4630065132802",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Sonata Arctica. Talviyo (CD/Компакт-диск)"
+    },
+    {
+      "id": 22722226,
+      "offer_id": "0212598EMU",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "WE SELL THE DEAD Heaven Doesn't Want You and Hell is Full (CD диск/DigiSleeve)"
+    },
+    {
+      "id": 21477097,
+      "offer_id": "XLLP520",
+      "variant": "import-vinyl-info",
+      "images_before": 6,
+      "name": "Adele. 21 (LP Black/Виниловая пластинка/Импорт)"
+    },
+    {
+      "id": 22497352,
+      "offer_id": "BS016LP",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "Nick Cave and the Bad Seeds. Ghosteen (2LP Gatefold/винил)"
+    },
+    {
+      "id": 22497565,
+      "offer_id": "BS006V",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "Nick Cave & The Bad Seeds. Live From KCRW (2LP Gatefold/винил)"
+    },
+    {
+      "id": 26605476,
+      "offer_id": "XLLP740",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Adele. 25 (LP Black/винил)"
+    }
+  ],
+  "skipped": []
+}
