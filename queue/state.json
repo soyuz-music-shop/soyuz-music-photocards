@@ -6257,7 +6257,7 @@
       ]
     },
     "35705589": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD255",
       "originals_sha256": [
@@ -6266,7 +6266,12 @@
         "195e2c60442fab13f83c896e292f259d1694e8ed788bed21835687363f0034fa"
       ],
       "before_count": 3,
-      "task_id": 6097522149
+      "task_id": 6097522149,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
