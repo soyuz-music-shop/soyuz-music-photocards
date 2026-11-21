@@ -1320,7 +1320,7 @@
       ]
     },
     "26912161": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NPR600JC",
       "originals_sha256": [
@@ -1328,7 +1328,12 @@
         "e11580e4e201b84792083d4f61c4f4750da685cf61c243627d41e03581bc3277"
       ],
       "before_count": 2,
-      "task_id": 6097244925
+      "task_id": 6097244925,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
