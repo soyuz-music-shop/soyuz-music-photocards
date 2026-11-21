@@ -10339,7 +10339,7 @@
       ]
     },
     "70483025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR72281",
       "originals_sha256": [
@@ -10347,7 +10347,12 @@
         "0836d7d137c0656093c38c1a3b02651396011f5dd08d1b5dd4b204b0528a70c8"
       ],
       "before_count": 2,
-      "task_id": 6097719855
+      "task_id": 6097719855,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
