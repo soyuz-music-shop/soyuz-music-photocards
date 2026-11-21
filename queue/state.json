@@ -7711,7 +7711,7 @@
       ]
     },
     "40550728": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "0214763EMU",
       "originals_sha256": [
@@ -7720,7 +7720,12 @@
         "a524d6ec477fc37585a6094c8961a24b91cb105244996f454cfb1289a03e188b"
       ],
       "before_count": 3,
-      "task_id": 6097595124
+      "task_id": 6097595124,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
