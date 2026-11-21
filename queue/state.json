@@ -3681,7 +3681,7 @@
       ]
     },
     "31068746": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP783B",
       "originals_sha256": [
@@ -3689,7 +3689,12 @@
         "2b8a1ea4c49092de15c6d41075f33fb55c892b55f71ac2bf69620a18b946ba64"
       ],
       "before_count": 2,
-      "task_id": 6097365139
+      "task_id": 6097365139,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
