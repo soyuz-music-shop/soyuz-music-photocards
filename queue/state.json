@@ -7507,6 +7507,17 @@
         0.0,
         0.0
       ]
+    },
+    "39351207": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD 3622",
+      "originals_sha256": [
+        "774851986d722829cecf6c035e7cec2b495dadc07b2124834f34f2842ddb3193",
+        "c848f5fe0a5536e440622e259c04e75ee68a9260330cd248c89f6f70a651e973",
+        "734aa7ee6e5bf2173e08b54ac1f48f1bbb361af050a3b521f101d2da95ac681f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
