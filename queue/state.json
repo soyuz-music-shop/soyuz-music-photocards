@@ -3144,6 +3144,20 @@
         0.0,
         0.0
       ]
+    },
+    "30050758": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP313",
+      "originals_sha256": [
+        "b5bdc2f77ff1daf87b12c947312972dee29f570d29393fe24d40438d70365ce3",
+        "efb30cc182ce84206f5dc0dc77341924dcd975633c910b289e676db253edc3c9",
+        "5926827a5a507be4c791708b57eaddd59d752dd459642432f74d6227d6d4a6a9",
+        "fe9fcc85439cdbef7f6e4fc663497271876977d5697e36ffc44ac5080627f06f",
+        "6fe4b4212296d99960eb0317f1014d899849d6d768ccd79a4bbfa76438960cfe",
+        "ea0c0acf5d0ace69776f8dd565188d962e4e26f8f56108fbb203c55e21749fb5"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
