@@ -4069,6 +4069,17 @@
         0.0,
         0.0
       ]
+    },
+    "31875396": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4650075210499",
+      "originals_sha256": [
+        "f4d82d0900a4c3040c9bd70e7f05eadd9a2beaf9fa8c8c017a87b4356f34c551",
+        "c34ef2b5406158d56b221c9c805c619ddbd9978de3e38bf96a03be0509b775ef",
+        "23e899a1dac64cc0dd55c7ae5bc386f569f88c215eec45443d45b6a78ece727d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
