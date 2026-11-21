@@ -7577,7 +7577,7 @@
       ]
     },
     "39381108": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "YT191CD",
       "originals_sha256": [
@@ -7586,7 +7586,12 @@
         "3b828b5759762ab9d9ab7da4aa2caf523a298db598414586ebcfa35089cd430e"
       ],
       "before_count": 3,
-      "task_id": 6097586586
+      "task_id": 6097586586,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
