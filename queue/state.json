@@ -7592,6 +7592,19 @@
         0.0,
         0.0
       ]
+    },
+    "39390675": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YT080LP",
+      "originals_sha256": [
+        "b2ac8412afddd9ec745774655a1703789feeb4d4c45e301546d20c604618d3bd",
+        "db037cce6b8d6fee68b334b2e5cca091bc99df888eaa30ed54147516478fcbc3",
+        "482ddd968fd3f95f4faea0eec963d0980aa3f51174e5e7de6f59e676ad0fd887",
+        "85b460e9394dffeae123ea61ee4a817eed0e684848d4a19873b88ca69cfae8e4",
+        "d7601e07f292a32e54e8193838c36a5360bdc6d0c253ab85320badd26a74db69"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
