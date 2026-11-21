@@ -6274,7 +6274,7 @@
       ]
     },
     "35705921": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WIGCD205",
       "originals_sha256": [
@@ -6282,7 +6282,8 @@
         "989f8a1e44a83af35c2f6683614f27cc3db34a03d253888d9d2400d77e3cc086",
         "d263016014806ab8a5009ae07e114b1031a516d6938e2442e5ac83840f640406"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097523135
     }
   },
   "reason": null
