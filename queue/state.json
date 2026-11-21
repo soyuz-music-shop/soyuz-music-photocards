@@ -6381,7 +6381,7 @@
       ]
     },
     "35725676": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CAD3X05CDJ",
       "originals_sha256": [
@@ -6389,7 +6389,8 @@
         "d1e6879d425cb0b4feade06aa80c051c4c01a97890f10824ee5524a75725b10d",
         "c4235314510e608310f36aef53cd23e2a440280e3fe622adc1d05f08feb98540"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097527852
     }
   },
   "reason": null
