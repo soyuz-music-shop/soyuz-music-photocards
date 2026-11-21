@@ -9337,6 +9337,17 @@
         0.0,
         0.0
       ]
+    },
+    "55584944": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MANNLP012",
+      "originals_sha256": [
+        "5cb8487a801b354f7b88acb16ffc67ae9b9cc03cc189dc9d00814f99ff69bdd0",
+        "3f2b5649c96ac5d17d974b7e860168ca9d3fa268286af058f22e9069da96ee55",
+        "6cf5ec5814f95872392e2a501cdd0bcc32de6d20c3b2c1ab2878129dfd2a7407"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
