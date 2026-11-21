@@ -9594,6 +9594,17 @@
         0.0,
         0.0
       ]
+    },
+    "55612352": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BYE004CD",
+      "originals_sha256": [
+        "d483f35997c0d0a1f06dc3751170931111c3ab8ee36a434f0403519cbcaa2199",
+        "71824b2bf9f838b69db9e01a64da0fd66627f85a59ea7090e52d4f0fa1040058",
+        "eaa8304484ead43469edbf2bca81b724547e8dfd49c55028ffc6d6d6ac4d6d74"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
