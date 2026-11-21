@@ -6022,7 +6022,7 @@
       ]
     },
     "35269085": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD803",
       "originals_sha256": [
@@ -6030,7 +6030,12 @@
         "ffff43ee6b6fe30468b94055f57e98526e67f34571a74b7eb5b409785445a94d"
       ],
       "before_count": 2,
-      "task_id": 6097508038
+      "task_id": 6097508038,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
