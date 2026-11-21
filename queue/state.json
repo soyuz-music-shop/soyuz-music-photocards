@@ -3610,6 +3610,17 @@
         0.0,
         0.0
       ]
+    },
+    "31049822": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP136",
+      "originals_sha256": [
+        "adf2593662bcf9f75aa27742ac3debab710576d2815b6dd7e5d9a9928e16fd6c",
+        "c8369881ec54d5f6670e5da0b9278a02bf40c5ed84e0b4c4b70481b1c2be5850",
+        "1a6886094a61663978d4f20a8b26a044a59bb27cb0e1359c48616c4f4a201c2d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
