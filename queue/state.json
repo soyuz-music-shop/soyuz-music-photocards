@@ -3817,6 +3817,18 @@
         0.0,
         0.0
       ]
+    },
+    "31097435": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD2K19",
+      "originals_sha256": [
+        "01d7ee3f2d24f3af472fb7b20276a97533e318369e3151bab17819651c86a2e7",
+        "ee76b15419c5c0b02257e956223e280941fb30c242e30037cf3945c0cc58447b",
+        "4691936e6a4b707996ed4b5819e6198cb19a31aa631a28b55b8fe04862166da4",
+        "d4a42ecc69b26b816bbfbd41924a18cc8114130222027798c52123287c271a60"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
