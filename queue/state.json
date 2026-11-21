@@ -8924,14 +8924,15 @@
       ]
     },
     "50577328": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACME350BOX",
       "originals_sha256": [
         "ce089bdcb89e9987719df6a3e74d2742d2a2d99b9de62c95ee20fcfc19ff85fb",
         "e1a2dc6b27fc3e1e7ed2621a73598eac4bdf7e88de6340e33c09d05d00fbadf5"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097644911
     }
   },
   "reason": null
