@@ -3250,14 +3250,15 @@
       ]
     },
     "30590303": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP114",
       "originals_sha256": [
         "7be3464b3b99234859ee28206397d4b47a2ab68e0279de45d0ed3c7fe497dda8",
         "cef50bf28a08d7b41093d2bff926a910b9821e8f1c8a9f2d7db007fc2d6fb089"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097345708
     }
   },
   "reason": null
