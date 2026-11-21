@@ -3199,6 +3199,16 @@
         0.0,
         0.0
       ]
+    },
+    "30561460": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "10CH1553",
+      "originals_sha256": [
+        "daffef1e2872c87c990b06a43f09323f1f7a15460c1ee993efbc9c6689ce4942",
+        "fa6796a305856b1482358324ef4f9868163c1924977f60cc6762bd0e4f4ba976"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
