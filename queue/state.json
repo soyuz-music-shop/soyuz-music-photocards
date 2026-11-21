@@ -6006,7 +6006,7 @@
       ]
     },
     "35268497": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD905",
       "originals_sha256": [
@@ -6014,7 +6014,12 @@
         "7ca2ca74d087cf3b4d39fdf85ea4e2d6fae0e16ec793b8d99a04e9ed8fa13c1b"
       ],
       "before_count": 2,
-      "task_id": 6097506707
+      "task_id": 6097506707,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
