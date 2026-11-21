@@ -3399,7 +3399,7 @@
       ]
     },
     "30920888": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RUG398T",
       "originals_sha256": [
@@ -3409,7 +3409,12 @@
         "ec068a6ac85674eb731fd4e071208bd01f0db3baf9a5444e01804fa849d8adc9"
       ],
       "before_count": 4,
-      "task_id": 6097352927
+      "task_id": 6097352927,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
