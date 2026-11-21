@@ -9713,7 +9713,7 @@
       ]
     },
     "56030800": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610093805367",
       "originals_sha256": [
@@ -9722,7 +9722,12 @@
         "b3a912b4780e1a84ee6b90bb823dcfc713697906f9848604e9af3c5736dc6c03"
       ],
       "before_count": 3,
-      "task_id": 6097687154
+      "task_id": 6097687154,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
