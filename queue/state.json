@@ -3217,7 +3217,7 @@
       ]
     },
     "30579530": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP190",
       "originals_sha256": [
@@ -3225,7 +3225,12 @@
         "2f79d034ea484cd1ceb27d7d1b8e49737b0dfab7d4294c621c94ea8848f94dbd"
       ],
       "before_count": 2,
-      "task_id": 6097344128
+      "task_id": 6097344128,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
