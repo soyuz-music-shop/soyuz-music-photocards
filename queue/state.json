@@ -8559,6 +8559,20 @@
         0.0,
         0.0
       ]
+    },
+    "50213226": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ATOMCD41041",
+      "originals_sha256": [
+        "a406caa03126d748e960602d7f4103231c0550f6523964efa6655437223228da",
+        "9ca6e3d8e96c3742c7f7a81beba6654bb4d4a386dfe6a3fca4009620874389d8",
+        "06f9608cbc2442a0b84626a3c5eaee7237c1f918316570aae88e5b9a753e1da1",
+        "f95d164ab3b897c1b2c79c923894ad2eab8ef0c147274932afe596e1a3464020",
+        "d2d193978b9f854b7377424e4059e7905a7ecc58807e1c08fdb3744a26bf7268",
+        "3fe670af036fd7d91b90b978fcf907d7e430702ac90c16b7d51ffec38e59e4fc"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
