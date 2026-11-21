@@ -8705,7 +8705,7 @@
       ]
     },
     "50217244": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NRT002",
       "originals_sha256": [
@@ -8713,7 +8713,8 @@
         "fdf2833268c5a3151e42459540fd3c12f07457e0a29f6523003a712a3a1d9b98",
         "7f258aef0fe65e985141b02f798f8d62747fc986cefd8ea96dc0528425042611"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097636695
     }
   },
   "reason": null
