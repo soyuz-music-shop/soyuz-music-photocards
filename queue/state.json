@@ -1109,7 +1109,7 @@
       ]
     },
     "26024841": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4630065130662",
       "originals_sha256": [
@@ -1117,7 +1117,12 @@
         "069253b1a1069128f5f73ac5d177118150a303317937f8ffcfde643766bac9b1"
       ],
       "before_count": 2,
-      "task_id": 6097234475
+      "task_id": 6097234475,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
