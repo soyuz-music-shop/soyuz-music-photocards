@@ -7925,7 +7925,7 @@
       ]
     },
     "43385186": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000019520",
       "originals_sha256": [
@@ -7933,7 +7933,12 @@
         "96c0b5b3d10950bfc4217b93cf180107db5c5228613c4f51019b735a14e7e808"
       ],
       "before_count": 2,
-      "task_id": 6097604930
+      "task_id": 6097604930,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
