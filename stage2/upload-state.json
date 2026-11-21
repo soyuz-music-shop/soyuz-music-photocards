@@ -210,7 +210,7 @@
       ]
     },
     "27000301": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "XSPOON29",
       "variant": "import-vinyl-info",
       "before_count": 2,
@@ -218,7 +218,12 @@
         "98446b96f81be895782a9a6609369a720f4c0e60131bd3157465272f81b7313c",
         "aefe094209f5c10c1afe3eac07ea727ae0a09d4cf9ae6088a965340a8af1d7d2"
       ],
-      "task_id": 6094411836
+      "task_id": 6094411836,
+      "after_count": 4,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
