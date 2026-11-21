@@ -3456,6 +3456,17 @@
         0.0,
         0.0
       ]
+    },
+    "30928839": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP779",
+      "originals_sha256": [
+        "8e014d3bfcdb90c6538d66bc53e3a0b1bcf03dad350f85d4e7e267f24646948d",
+        "bd99ca088825bf4cdb4a1deab3c99f3458c05f3aaebd87272d7ffe57e81a33a0",
+        "5963b5741563c636fa02a0d5995780819a552cf1901f582dcef404f3b7887e63"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
