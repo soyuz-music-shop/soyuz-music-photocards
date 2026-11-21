@@ -8412,6 +8412,17 @@
         0.0,
         0.0
       ]
+    },
+    "50192342": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEM21",
+      "originals_sha256": [
+        "1b1546638c982402f2d626b3d3c21b77ac03587145722e81f2bffd09085300e9",
+        "bc14e59f3badb6ab5b98a80c3cbf5369c3d63569c2a1f952ef5c79368afe2aa0",
+        "45274022a8f64cbb16add9032c695ad22f5118570ef030b93610cde48666ea7c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
