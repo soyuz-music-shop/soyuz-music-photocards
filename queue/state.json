@@ -5938,7 +5938,7 @@
       ]
     },
     "35213871": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDWIK2 310",
       "originals_sha256": [
@@ -5946,7 +5946,8 @@
         "a2bf34e244f83e7c145bf581472f56395b25df12f14e5413d6c2926b199b2a6e",
         "6285511392c62649f1aa542a739450b6d5903759a34364d9b6c17367c5d10006"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097503139
     }
   },
   "reason": null
