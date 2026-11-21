@@ -3627,6 +3627,17 @@
         0.0,
         0.0
       ]
+    },
+    "31062995": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP208",
+      "originals_sha256": [
+        "dccc9e202055371876bd0da683885f001bfadcf014410439e85ad08b32db0135",
+        "f3694271c901ca1e1ea1fb067d16b922e967de2afac7aac2b4d2f717e0681e45",
+        "41d54e7dc903bf792300b397bfaee4dc2f3e06cad2245803a5651a773734ee54"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
