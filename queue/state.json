@@ -6207,7 +6207,7 @@
       ]
     },
     "35702483": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD408",
       "originals_sha256": [
@@ -6216,7 +6216,12 @@
         "ddec69a1c92ccd0ccb04b07462d7edfa216ef9c01569f55b38383ed3d46fc2e0"
       ],
       "before_count": 3,
-      "task_id": 6097518259
+      "task_id": 6097518259,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
