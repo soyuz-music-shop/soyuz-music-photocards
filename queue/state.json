@@ -3056,6 +3056,16 @@
         0.0,
         0.0
       ]
+    },
+    "29507797": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "0208578ERE",
+      "originals_sha256": [
+        "519d234011b1f54c5b6c069ab9e8a72a994d6bd770a1e9eb32bba8d573e5414d",
+        "4dea526369fff09bf95fc5cdfb8afabac1a9a4dd36c2700407a2f71268dafc80"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
