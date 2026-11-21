@@ -6087,6 +6087,16 @@
         0.0,
         0.0
       ]
+    },
+    "35282025": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YTLP161",
+      "originals_sha256": [
+        "9f4ca8e6317cc99bbe4cf2935f7356e2b4a3668cdd9db5d4d7d274f92fec11a7",
+        "4c3af71d4eed3bf8e8a7470860597843131a401e0d415292e267fe22bb80751e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
