@@ -7613,7 +7613,7 @@
       ]
     },
     "39477471": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ESM3142",
       "originals_sha256": [
@@ -7621,7 +7621,12 @@
         "da746d5f7476341865e54b616a31d13ebc93302ff79084d26822a6964c87850c"
       ],
       "before_count": 2,
-      "task_id": 6097588908
+      "task_id": 6097588908,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
