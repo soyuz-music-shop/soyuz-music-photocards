@@ -8381,14 +8381,15 @@
       ]
     },
     "50188207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CRPOP22",
       "originals_sha256": [
         "2aabdb3951fb94a96c80b830e1a7034021aa9ed7b0d36778970f002d7ebf00bf",
         "172d7141a5ed18bae16b7bf3c40c067264f37c0773f5c4c809c6821a45678531"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097624209
     }
   },
   "reason": null
