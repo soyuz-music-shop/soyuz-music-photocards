@@ -5468,6 +5468,17 @@
         0.0,
         0.0
       ]
+    },
+    "34724251": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD13348",
+      "originals_sha256": [
+        "a43fa7db193ab77508b207c663d94855f1fc6211ea36590e630c9d2555d1bce9",
+        "f856e8bd0c9160d3835a0344dc2d5205e919bd0971bb7472d56916287ee82248",
+        "8deea53b3a3fff8ad693db7808030d04c0d5c37041adddb9a290f60f03076283"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
