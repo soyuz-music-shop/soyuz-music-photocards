@@ -8158,7 +8158,7 @@
       ]
     },
     "47553340": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD3425LP",
       "originals_sha256": [
@@ -8169,7 +8169,8 @@
         "3cfc599544cb2d5c44cf76bbca9ab96663a13815a5120f5172a323242856939b",
         "7a82c11f9c2fa55ab575d8fc967b6bf7bb378cb89c1af31c96b9ac92c7e7773f"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6097614906
     }
   },
   "reason": null
