@@ -8561,7 +8561,7 @@
       ]
     },
     "50213226": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ATOMCD41041",
       "originals_sha256": [
@@ -8572,7 +8572,8 @@
         "d2d193978b9f854b7377424e4059e7905a7ecc58807e1c08fdb3744a26bf7268",
         "3fe670af036fd7d91b90b978fcf907d7e430702ac90c16b7d51ffec38e59e4fc"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6097631473
     }
   },
   "reason": null
