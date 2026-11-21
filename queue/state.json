@@ -9469,6 +9469,17 @@
         0.0,
         0.0
       ]
+    },
+    "55595492": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UMBCD3",
+      "originals_sha256": [
+        "15c5945f191d2469aff048e118d58035bf9165ab852561a5fcc226536f90ea35",
+        "de59396984fbda71ced0d21333026e383b518ca3347b37973d4d5513d578b77a",
+        "276afe4719b9644b7e5d344e49f227a5a43955d4365ad80e15206291b03f1283"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
