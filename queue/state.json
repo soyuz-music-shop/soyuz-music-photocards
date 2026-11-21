@@ -9955,14 +9955,15 @@
       ]
     },
     "65533183": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4632000147025",
       "originals_sha256": [
         "6b6cffe15cf4d8f506d0b30ba8ab1b896dbd70d764f6a86a2fe633d91f70d1a0",
         "0675d8e6cde01897de295d7d0c6d7fb23e1f6fff57e2f37f11aa29a3d487ef4e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097700524
     }
   },
   "reason": null
