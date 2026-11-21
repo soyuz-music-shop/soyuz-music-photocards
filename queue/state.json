@@ -5143,6 +5143,18 @@
         0.0,
         0.0
       ]
+    },
+    "33640346": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NB4982-4",
+      "originals_sha256": [
+        "29c9920c90bdd426cb13e238e772f9ffab514ed52783fa3590bc87cef4b80378",
+        "42962e0586ab14c8ad4f23c4dfffada5dd8ea67386accd0d121e553c9410ee08",
+        "4b3e96e1d5987f6a74d733a0112101b394f20612a5822a77432e267abad43f6b",
+        "3b0d90e9d79f42f97739076ee718c47ee34551da417377f9a9f1f6b03458632d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
