@@ -9234,6 +9234,17 @@
         0.0,
         0.0
       ]
+    },
+    "55577441": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD780",
+      "originals_sha256": [
+        "e2c69a897f20dc179560d82fcf008078d9a4db6fb78f02e3111d5139db23a35d",
+        "20d5172135e9a3a81f8a3040e2ffa334b0451a8f8fd5710afed0e9eeecc3ba73",
+        "46a5f6d795333608321fb6df76868cad20456ab75fa489a2392993ca9fbbcafa"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
