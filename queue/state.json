@@ -5087,6 +5087,22 @@
         0.0,
         0.0
       ]
+    },
+    "33638851": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BHK1122v01",
+      "originals_sha256": [
+        "9a9de5402deb485738ce0154b88ee1fb27c4f1964b89039540230ab1512264b1",
+        "7f00f0222f62526d8f87aa5d1a2b661493d36a48465ae831135c59ee3b8e7775",
+        "64893a6a2ecbe56a66199d227853221ef3d5d3336956f16323638822113d9866",
+        "a6a5e798d8a442e00258134de00cc85e4c722b9f5e0728ea5fb14cae61f56d94",
+        "cc52267f490575d14484481d5dc5ca2a643610623cd52f5e3696a7744173fff7",
+        "ff62fafdb8ae5810aa1a11ccc419dee79388f4337440ee444d3006fbdee5fd85",
+        "948dc568bc666ad5825fa5d49b715d09640c16715117a215797f06fd3cb9114a",
+        "d26dd2ca7ea0a6cabe2ad75857f1340d443e62685e107c720c957eb56b9774ef"
+      ],
+      "before_count": 8
     }
   },
   "reason": null
