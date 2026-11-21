@@ -7439,7 +7439,7 @@
       ]
     },
     "39327255": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3604",
       "originals_sha256": [
@@ -7449,7 +7449,12 @@
         "b5fe474e5993e29490eeef9d675f2867630b5cbbf50ea844b40740ff83346d31"
       ],
       "before_count": 4,
-      "task_id": 6097579127
+      "task_id": 6097579127,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
