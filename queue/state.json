@@ -9647,7 +9647,7 @@
       ]
     },
     "55617647": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMCD666-3",
       "originals_sha256": [
@@ -9655,7 +9655,12 @@
         "cfdf5c115be1171c8913e02182dda36bea30cbe95f562bb865fa79a3a6edcc84"
       ],
       "before_count": 2,
-      "task_id": 6097683482
+      "task_id": 6097683482,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
