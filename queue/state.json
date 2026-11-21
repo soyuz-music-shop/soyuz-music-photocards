@@ -7455,6 +7455,17 @@
         0.0,
         0.0
       ]
+    },
+    "39349689": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAD 3621",
+      "originals_sha256": [
+        "44d03bc69f63ca375d9dcec23895d0e64334d6e2dd5cad5be2d024d31d7ca2c5",
+        "4aa0486b15382d407b261b414448d5961ae6a970597cc00407270058ee3e1407",
+        "20ae3335745d7d609be70616bac416da69688df6aef580ae32997a1ffc022d95"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
