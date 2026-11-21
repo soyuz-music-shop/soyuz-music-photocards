@@ -10822,7 +10822,7 @@
       ]
     },
     "75591456": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VILELP378",
       "originals_sha256": [
@@ -10831,7 +10831,12 @@
         "6292bb50de248d526f753bce116dcd3998da5cb224d76ece3475e45b0a484772"
       ],
       "before_count": 3,
-      "task_id": 6097742203
+      "task_id": 6097742203,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
