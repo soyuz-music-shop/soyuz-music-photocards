@@ -4985,6 +4985,17 @@
         0.0,
         0.0
       ]
+    },
+    "33579583": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DGM0505",
+      "originals_sha256": [
+        "fc34999d3d227b3680c1b1fe81187ac908f710cbf2a86d387bdf3734369bdef4",
+        "b713c06e84b7be2c0d821142b9964a763c6222ebf389c31c64810229afa57456",
+        "c996673188696f8c63135972de20d1cdbe809a65d10b416b7e11cc6315d3a320"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
