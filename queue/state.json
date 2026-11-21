@@ -8231,7 +8231,7 @@
       ]
     },
     "48031250": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PLCB6711042",
       "originals_sha256": [
@@ -8240,7 +8240,12 @@
         "155e1f381dfac93c086b1e4d8ca617d239e74afcc1941afc9004bfb2133b4cda"
       ],
       "before_count": 3,
-      "task_id": 6097617737
+      "task_id": 6097617737,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
