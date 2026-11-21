@@ -3201,7 +3201,7 @@
       ]
     },
     "30561460": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "10CH1553",
       "originals_sha256": [
@@ -3209,7 +3209,12 @@
         "fa6796a305856b1482358324ef4f9868163c1924977f60cc6762bd0e4f4ba976"
       ],
       "before_count": 2,
-      "task_id": 6097343444
+      "task_id": 6097343444,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
