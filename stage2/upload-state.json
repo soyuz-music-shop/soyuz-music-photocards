@@ -1,0 +1,15 @@
+{
+  "batch": "stage2-imported-products-pilot",
+  "items": {
+    "21476982": {
+      "stage": "locked",
+      "offer_id": "XLCD520",
+      "variant": "cd-import",
+      "before_count": 2,
+      "original_url_sha256": [
+        "2f8d47ad41863a8ad69655cfd178b732c5348f0a4fb9eb209bc3193c0cec2650",
+        "44a82958d75461f584269af93ddb3a248a3eb09bc8d5c8b6c783e0c33f40b0bf"
+      ]
+    }
+  }
+}
