@@ -8103,7 +8103,7 @@
       ]
     },
     "45724515": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SMALP818",
       "originals_sha256": [
@@ -8116,7 +8116,12 @@
         "62c2f1301a873866ac6f1587a389ef4fb1021104aa5dd99c66051083a1f2676e"
       ],
       "before_count": 7,
-      "task_id": 6097611929
+      "task_id": 6097611929,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
