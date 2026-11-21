@@ -7422,7 +7422,7 @@
       ]
     },
     "39326771": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3301",
       "originals_sha256": [
@@ -7431,7 +7431,12 @@
         "671e4356e40773aff5d1e16a33e65f4e99d9cdf19223bfa53e46e833cd152166"
       ],
       "before_count": 3,
-      "task_id": 6097577582
+      "task_id": 6097577582,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
