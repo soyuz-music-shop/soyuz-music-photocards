@@ -3005,6 +3005,17 @@
         0.0,
         0.0
       ]
+    },
+    "29256264": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "YTCD161",
+      "originals_sha256": [
+        "20e554877f408fcae155a87f63cf4f5469a78ec9916d61aa83f3a07121bbcf62",
+        "aeeee08d137bcf74f222b1c5048301959846aace3a5f2c82603ba04c35a58e49",
+        "e3821d7659684cefa5fbd8fbbc2a8cc24a2ed2f7603c0fc811e71907f0ee0842"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
