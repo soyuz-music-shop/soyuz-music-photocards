@@ -8821,7 +8821,7 @@
       ]
     },
     "50564513": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HNEBOX099",
       "originals_sha256": [
@@ -8829,7 +8829,12 @@
         "8eb1ad58b8c7dee7042ff03b0bfef4bb1636613dd89bca726c5223907bb5aaee"
       ],
       "before_count": 2,
-      "task_id": 6097641673
+      "task_id": 6097641673,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
