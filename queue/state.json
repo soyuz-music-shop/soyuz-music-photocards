@@ -6154,6 +6154,17 @@
         0.0,
         0.0
       ]
+    },
+    "35494160": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DGM5001",
+      "originals_sha256": [
+        "ad9a41d77ffa10252a9729406fc1da943a1c9320691cf7900bbe136e79bb9798",
+        "c7d638821d117285b210deb06cfc5f1e8562efcbb5f17ae814f49681608a7315",
+        "f078d13e4c0503db63a9d3f245ba6f5e844b5640d09e13ea8c2caabe76f236a4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
