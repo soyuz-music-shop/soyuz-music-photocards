@@ -11205,7 +11205,7 @@
       ]
     },
     "86923499": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CSTLP 126",
       "originals_sha256": [
@@ -11216,7 +11216,12 @@
         "95deebaf53d5482ceb37627bf5f46a358cb888dc0c5c02015d881395aad7f04d"
       ],
       "before_count": 5,
-      "task_id": 6097758057
+      "task_id": 6097758057,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
