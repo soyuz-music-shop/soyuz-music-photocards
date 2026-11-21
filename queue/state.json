@@ -9921,7 +9921,7 @@
       ]
     },
     "64837046": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610093806128",
       "originals_sha256": [
@@ -9930,7 +9930,12 @@
         "9b6daa43838968c92799d63cc3247c2505be6145df8b54af4950b6f58518ce6e"
       ],
       "before_count": 3,
-      "task_id": 6097699013
+      "task_id": 6097699013,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
