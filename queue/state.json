@@ -5401,6 +5401,17 @@
         0.0,
         0.0
       ]
+    },
+    "34599024": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ESM1641",
+      "originals_sha256": [
+        "7879db1ada2814cac8320ad7956f676c6c4a649861b8f069c52593672a4cc783",
+        "f550ded2226d5c93f94a9cff2f045cdb0c462760d6efb64fb2c492c6cde03ebd",
+        "ce0588101d29969bdbd0a1d8a7abb26eb30a0480e696c9e95fafc791343f6c23"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
