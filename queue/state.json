@@ -7437,6 +7437,18 @@
         0.0,
         0.0
       ]
+    },
+    "39327255": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD 3604",
+      "originals_sha256": [
+        "d4c6ca4870e6d7ea5372ad33f074df01986e8709a8f08f99131e68aad4de07c7",
+        "47bc0a4302f514485988d3bce0eb655e756baab92c04eb9960e01d7de4ffa448",
+        "dd3bed9e82b4a0f9578f38a76530c499546200fbc3e837db2e593cd32f49622f",
+        "b5fe474e5993e29490eeef9d675f2867630b5cbbf50ea844b40740ff83346d31"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
