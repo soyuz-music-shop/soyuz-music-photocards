@@ -4106,7 +4106,7 @@
       ]
     },
     "32274105": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AFM7439",
       "originals_sha256": [
@@ -4114,7 +4114,12 @@
         "b27c31df28603980718aa3b662c84ceb174a6bc23a80ab2f9c1dc3205d2b8614"
       ],
       "before_count": 2,
-      "task_id": 6097383895
+      "task_id": 6097383895,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
