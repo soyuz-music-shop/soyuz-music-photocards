@@ -10322,7 +10322,7 @@
       ]
     },
     "70456998": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "0213255EMX",
       "originals_sha256": [
@@ -10330,7 +10330,8 @@
         "e8e13be9d121bb16ce1058f7570da103fd4985fb81c0060edd088fac907e8076",
         "367cd739e626318277ee582925057290df52ec17d4c3ef22797d5cc9c2588ff0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097718950
     }
   },
   "reason": null
