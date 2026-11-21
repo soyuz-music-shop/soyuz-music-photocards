@@ -4670,7 +4670,7 @@
       ]
     },
     "33489969": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KCLP9",
       "originals_sha256": [
@@ -4678,7 +4678,12 @@
         "48ab8633f184f3551ea29fadc8113209ad0843c67239e8c8e8a2095f0435aaf1"
       ],
       "before_count": 2,
-      "task_id": 6097409220
+      "task_id": 6097409220,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
