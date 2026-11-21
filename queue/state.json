@@ -10485,7 +10485,7 @@
       ]
     },
     "71489247": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RR71652",
       "originals_sha256": [
@@ -10494,7 +10494,12 @@
         "34033815f08adbc364f2ee0538e5850ef11b29c6361a90d1ced1278f7bd6ca73"
       ],
       "before_count": 3,
-      "task_id": 6097727363
+      "task_id": 6097727363,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
