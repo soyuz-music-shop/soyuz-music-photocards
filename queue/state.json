@@ -11107,7 +11107,7 @@
       ]
     },
     "83231090": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBT 4858-4",
       "originals_sha256": [
@@ -11116,7 +11116,12 @@
         "0b25b24c5f83d6f3593c335c239e3aba1bce12c3fd0d6debc5d2d39a71c4f15b"
       ],
       "before_count": 3,
-      "task_id": 6097754089
+      "task_id": 6097754089,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
