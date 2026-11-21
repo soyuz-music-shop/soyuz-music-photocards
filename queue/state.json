@@ -8431,7 +8431,7 @@
       ]
     },
     "50192818": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMCD26",
       "originals_sha256": [
@@ -8439,7 +8439,12 @@
         "d91fbf79f31fe4306544eb4fa25b6440bf815d573db337fd4de30b14ca666a63"
       ],
       "before_count": 2,
-      "task_id": 6097626123
+      "task_id": 6097626123,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
