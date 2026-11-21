@@ -8851,6 +8851,16 @@
         0.0,
         0.0
       ]
+    },
+    "50565566": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IF009CD",
+      "originals_sha256": [
+        "a04b32caf2b0c644e10e69b43b4a7993c9dc221b09062ef1e10af0279a6dc9dd",
+        "3d474176aa843169574f9c67408be0c3762c1a6bd1bc6831c0029cb5a3becb27"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
