@@ -11427,7 +11427,7 @@
       ]
     },
     "88044688": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "6710885",
       "originals_sha256": [
@@ -11436,7 +11436,12 @@
         "4c7e36b8856bdd21acd3ed1c11350167c4efffce863c73e576c7d98041bd98c4"
       ],
       "before_count": 3,
-      "task_id": 6097767154
+      "task_id": 6097767154,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
