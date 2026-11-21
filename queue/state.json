@@ -8365,14 +8365,15 @@
       ]
     },
     "50188151": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACMEM99CD",
       "originals_sha256": [
         "5e013722c9a79690f2d05bf58ca49227f9d7f4e4912e3032cb258264666e8dea",
         "70de7e6a50594bf6d58d51cac7866c6a2b114f758493d173891a87ed78b44ef6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097623607
     }
   },
   "reason": null
