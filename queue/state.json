@@ -1403,6 +1403,19 @@
         0.0,
         0.0
       ]
+    },
+    "27371308": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EANTCD1062",
+      "originals_sha256": [
+        "102f835a83fd3040cc03faf7da91d4fe28c3bf7b617b0deedcb1e67a58575c26",
+        "81f0821cc334ed05c9e618a8923da0fff88b901d41828a47982b92aa4f6f2718",
+        "c8d1563b52442070c9a6bc0b16fd492daaf2254d8e52a8f20299db02708e14e6",
+        "6390d33cba025af62186205dab7c62d02351f65f091bace5cf1683301706899b",
+        "32c472f89d4a7382bd0ce8e2f2977c2a8d251a9fec145269341047468637c944"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
