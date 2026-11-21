@@ -5969,6 +5969,19 @@
         0.0,
         0.0
       ]
+    },
+    "35234819": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRPOPD104",
+      "originals_sha256": [
+        "a84859395addf235cda7ddffcd0cc82ea8678c9ab2da503f0e40b41a0c3790a0",
+        "6a610ddd1038e23759829188bcf7346628d169c4268650b151010927e7c64306",
+        "f7e17f807290cac32aad8a9306f5d117f322f379ac9e056e590d5c07cffbb657",
+        "028de73b5bcdb1c045bb8eab9eba460b6c99d30d976b3526dfec81f0fe6e3ec1",
+        "6cce9cacbc16b42ff1ed6bc139c7685d59d986df150026071e02debc6310ed1a"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
