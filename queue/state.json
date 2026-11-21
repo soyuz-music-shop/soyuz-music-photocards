@@ -10322,7 +10322,7 @@
       ]
     },
     "70456998": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0213255EMX",
       "originals_sha256": [
@@ -10331,7 +10331,12 @@
         "367cd739e626318277ee582925057290df52ec17d4c3ef22797d5cc9c2588ff0"
       ],
       "before_count": 3,
-      "task_id": 6097718950
+      "task_id": 6097718950,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
