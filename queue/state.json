@@ -8262,6 +8262,16 @@
         0.0,
         0.0
       ]
+    },
+    "48543716": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD211CD",
+      "originals_sha256": [
+        "d377047dd5f9dff219e152cabaaecb6be5c479f8419c0be0f3b2f7cdcca217af",
+        "a0afcf470b77b61234b58e16c0a13038a685ae91a0c46efbf2d5dc16b9055138"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
