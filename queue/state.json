@@ -10055,7 +10055,7 @@
       ]
     },
     "66353909": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "27361 55422",
       "originals_sha256": [
@@ -10065,7 +10065,12 @@
         "88b46b1d9cabea70158c778b25b9e5375b64c4d62a91e77b581046d03643c0f4"
       ],
       "before_count": 4,
-      "task_id": 6097706129
+      "task_id": 6097706129,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
