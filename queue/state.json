@@ -5821,7 +5821,7 @@
       ]
     },
     "34800196": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EVDGCD1001",
       "originals_sha256": [
@@ -5829,7 +5829,8 @@
         "110e6162e968bc2252a3539ac6f996dbe66bb4bbef6e658f0e10fd93f5e170ed",
         "86f578ab747a613ece50f60873b3b852dea339e4e0e6595fd38f127450559d8f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097496113
     }
   },
   "reason": null
