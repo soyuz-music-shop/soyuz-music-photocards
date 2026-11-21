@@ -9697,7 +9697,7 @@
       ]
     },
     "56029934": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610093806005",
       "originals_sha256": [
@@ -9705,7 +9705,12 @@
         "23c7fc3f453088552f534309a7155a54699b3e56b41b9efeccc9620b3adafd17"
       ],
       "before_count": 2,
-      "task_id": 6097686072
+      "task_id": 6097686072,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
