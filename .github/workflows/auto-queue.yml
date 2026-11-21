@@ -1,0 +1,81 @@
+name: SOYUZ PhotoCards — автоматическая очередь до конца каталога
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Recovery trigger if GitHub delays or drops a chained dispatch.
+    - cron: "7,22,37,52 * * * *"
+  push:
+    paths:
+      - ".github/workflows/auto-queue.yml"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ozon-photocards-stage2-eight-items
+  cancel-in-progress: false
+
+jobs:
+  next-safe-eight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - name: Checkout the independent PhotoCards repository
+        uses: actions/checkout@v4
+      - name: Install image library
+        run: python -m pip install --quiet Pillow
+      - name: Verify code syntax and strict batch bounds
+        run: |
+          python -m py_compile scripts/auto_queue.py
+          python scripts/test_auto_queue.py
+          python - <<'PY'
+          import sys
+          sys.path.insert(0,"scripts")
+          import auto_queue as q
+          assert q.BATCH_LIMIT==8
+          assert q.SAFE_VARIANTS=={"cd-russian","cd-import","import-vinyl-info","vinyl-colored-import","vinyl-russian"}
+          assert q.russian_colored({"name":"Example (LP Red/Виниловая пластинка)"})
+          assert not q.russian_colored({"name":"Example (LP Black/Виниловая пластинка)"})
+          print("AUTO_QUEUE_SAFETY_CONTRACT_OK")
+          PY
+      - name: Git identity for durable safety locks and status
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Process at most 8 new products, verify each before proceeding
+        id: queue
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/auto_queue.py
+      - name: Show current queue status
+        if: always()
+        run: |
+          python - <<'PY'
+          import collections,json,pathlib,os
+          p=pathlib.Path("queue/catalog.json")
+          s=pathlib.Path("queue/state.json")
+          if not p.exists() or not s.exists():
+              print("Queue files not available")
+          else:
+              plan=json.loads(p.read_text(encoding="utf-8"))
+              state=json.loads(s.read_text(encoding="utf-8"))
+              ids={str(x["id"]) for x in plan.get("items",[])}
+              by_stage=collections.Counter(v.get("status") for k,v in state.get("items",{}).items() if k in ids)
+              summary=f"### PhotoCards queue\nPhase: **{state.get('phase')}**\n\nCatalog: {len(ids)} candidates\n\n"
+              summary+=f"Pending: {sum(k not in state['items'] for k in ids)}\n\n"
+              summary+="Statuses: "+json.dumps(dict(by_stage),ensure_ascii=False)+"\n"
+              if state.get("reason"):summary+="\nStop reason: "+str(state["reason"])+"\n"
+              print(summary)
+              if os.environ.get("GITHUB_STEP_SUMMARY"):
+                  pathlib.Path(os.environ["GITHUB_STEP_SUMMARY"]).open("a",encoding="utf-8").write(summary)
+          PY
+      - name: Continue automatically with the next eight
+        if: success() && steps.queue.outputs.more == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run auto-queue.yml --ref main
+          echo "NEXT_BATCH_DISPATCHED"
