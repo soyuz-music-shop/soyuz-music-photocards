@@ -2957,7 +2957,7 @@
       ]
     },
     "28938105": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDCHD1460",
       "originals_sha256": [
@@ -2965,7 +2965,8 @@
         "1e70b6b1291d3432682ff8bb325b5c43d43e0ccbb0231ccf075106d5481eec77",
         "9bff9fb3998832c9d71d27db14aa0df284b1de5fd72c6dee24416a8075e22a65"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097332028
     }
   },
   "reason": null
