@@ -1676,7 +1676,7 @@
       ]
     },
     "27524060": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKD338",
       "originals_sha256": [
@@ -1688,7 +1688,12 @@
         "617ecd508230c7ab5f24e1241830b65fcaf0de6cb58df0f8fcf40652d20030b4"
       ],
       "before_count": 6,
-      "task_id": 6097263193
+      "task_id": 6097263193,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
