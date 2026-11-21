@@ -5971,7 +5971,7 @@
       ]
     },
     "35234819": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRPOPD104",
       "originals_sha256": [
@@ -5982,7 +5982,12 @@
         "6cce9cacbc16b42ff1ed6bc139c7685d59d986df150026071e02debc6310ed1a"
       ],
       "before_count": 5,
-      "task_id": 6097504542
+      "task_id": 6097504542,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
