@@ -3342,6 +3342,16 @@
         0.0,
         0.0
       ]
+    },
+    "30909604": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP258",
+      "originals_sha256": [
+        "c5750d0fbe5ba5c9ee1ce0772f2a67220987e03b3722bb025930167027c03690",
+        "46f40221a1bdd767d06b0ae964f63ad62aa942777569a0a0ef691feca760b2c2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
