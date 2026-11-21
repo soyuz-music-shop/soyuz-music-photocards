@@ -9389,7 +9389,7 @@
       ]
     },
     "55591751": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UMBLP4",
       "originals_sha256": [
@@ -9397,7 +9397,12 @@
         "d607a551142f3eb65bfde837a36030531e2ec9ba292a03e346a709f1a313de22"
       ],
       "before_count": 2,
-      "task_id": 6097668966
+      "task_id": 6097668966,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
