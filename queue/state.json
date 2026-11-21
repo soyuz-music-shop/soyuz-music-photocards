@@ -8429,6 +8429,16 @@
         0.0,
         0.0
       ]
+    },
+    "50192818": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAMCD26",
+      "originals_sha256": [
+        "b0acb5ce099a711f245061f22cb0cb587459d9476300957479e52ba3bd4e583f",
+        "d91fbf79f31fe4306544eb4fa25b6440bf815d573db337fd4de30b14ca666a63"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
