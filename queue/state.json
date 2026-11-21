@@ -3542,6 +3542,17 @@
         0.0,
         0.0
       ]
+    },
+    "31042077": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAD3627",
+      "originals_sha256": [
+        "ed674f8371ba0ab6e6b1c981bbc006a3f77ac17de93ed358ce7f3b46298fb541",
+        "6e99c6bc8e87de5332575db1c34a545cd8f8f88cdeca228219a2641928ca9451",
+        "edf34c024def0db33fa72e5ea97ad2ce764d81945fa356005d1d31e3ddf66f3b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
