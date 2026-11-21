@@ -7872,6 +7872,19 @@
         0.0,
         0.0
       ]
+    },
+    "42688200": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RT0129CD",
+      "originals_sha256": [
+        "96b7710511a15cd2366461e357e94ec3bf2ef3bc768c1c365591c96669f31533",
+        "70cc241d1afd4cfc1b779630e5b0c247b42fbee2b4b258bb5ba38b7b4fabf41f",
+        "469e032656d99956e4f5ef79d326c2cbeade1f7228126c47abf9899065c57871",
+        "dd7e96b89a1d53e192b3139b4ce12fda53eb1edea71b2eeb347a64f6a1199917",
+        "9935d098550ff91530534bb9f48335f00370d20a3af50c81d2b04736888a9d9a"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
