@@ -10806,14 +10806,15 @@
       ]
     },
     "75516202": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "VILELP389",
       "originals_sha256": [
         "c3e743fd34b48141b4ac577177961c06e38dd2ea6e1f3cc2007ab3df660d051b",
         "38805b62b06f0a85d47d8ffb6e1bb6a35b9603eb122c2042051f7df6f20a59cf"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097741616
     }
   },
   "reason": null
