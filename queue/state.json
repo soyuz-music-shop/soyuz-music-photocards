@@ -6191,7 +6191,7 @@
       ]
     },
     "35550402": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB 2588-1",
       "originals_sha256": [
@@ -6199,7 +6199,12 @@
         "0ed213d1c8c7ec4ba9e75aea2e565b3b44095b7ddf2b3a79fa1651c487df54f1"
       ],
       "before_count": 2,
-      "task_id": 6097517500
+      "task_id": 6097517500,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
