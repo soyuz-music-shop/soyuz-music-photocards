@@ -8447,7 +8447,7 @@
       ]
     },
     "50193289": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM152",
       "originals_sha256": [
@@ -8456,7 +8456,12 @@
         "e10fc3904a8086326a909a14ca5c4bae428facd9535ef2e09d2d67ce016e48cd"
       ],
       "before_count": 3,
-      "task_id": 6097626707
+      "task_id": 6097626707,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
