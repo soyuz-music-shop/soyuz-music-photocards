@@ -3851,6 +3851,17 @@
         0.0,
         0.0
       ]
+    },
+    "31246255": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD313CD",
+      "originals_sha256": [
+        "71f691ecf45421e2ea297277d173238a20430c81ae1ce76f0b7a419a2434a76b",
+        "c40b7aef37831265e709cdcfec685771270f3867c9179fac578760e564e4906c",
+        "23096b44b7b5d9feb301e7841d8b7b668721d8a61c64fe01db70dba6583795d3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
