@@ -10392,6 +10392,18 @@
         0.0,
         0.0
       ]
+    },
+    "70849297": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LSINV223CD",
+      "originals_sha256": [
+        "155e2f7e081d417f09108997c370600d58df578fbdbabf3bdcf573d305a4901b",
+        "262b1e603a73ad444f28160a805591d4ae888d2fe5806c75a5dea305aba8eb51",
+        "2954f5ec60cc6852176b9873d956024a659dbf353627b459ed3ab5cf65e10bf9",
+        "bd7075ccb81ebc36500096e27afe29fcd21d63c38203e9784933c64dd73ceca9"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
