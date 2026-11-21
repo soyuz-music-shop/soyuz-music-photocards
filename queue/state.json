@@ -8480,7 +8480,7 @@
       ]
     },
     "50204723": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HNECD020D",
       "originals_sha256": [
@@ -8488,7 +8488,12 @@
         "25c97d5a1423cb98174932eb2e3961b34646e11a4c64c632888e3c3ba118136e"
       ],
       "before_count": 2,
-      "task_id": 6097627992
+      "task_id": 6097627992,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
