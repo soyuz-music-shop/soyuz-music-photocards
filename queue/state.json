@@ -9522,6 +9522,16 @@
         0.0,
         0.0
       ]
+    },
+    "55604082": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD07",
+      "originals_sha256": [
+        "6bc932f19f450e63b439b053961ba22aed75a4adedcdc1de5f018c6d176df186",
+        "f534c2f16483d516c3504c7072bdf37bee22987a645e7060aa2458f2ebb94d6b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
