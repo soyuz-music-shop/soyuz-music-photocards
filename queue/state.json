@@ -11646,7 +11646,7 @@
       ]
     },
     "115446827": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NB 4860-0",
       "originals_sha256": [
@@ -11655,7 +11655,12 @@
         "3a44ad834ac59ae6d72c0ea074999a5d3047ddad25adb8cffff82dd3742bec25"
       ],
       "before_count": 3,
-      "task_id": 6097775614
+      "task_id": 6097775614,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
