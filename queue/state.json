@@ -5111,7 +5111,7 @@
       ]
     },
     "33639784": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NB5244-2",
       "originals_sha256": [
@@ -5120,7 +5120,12 @@
         "85d321d802735d078b663bc63d8b7dcbace6f1653314ec3d17241d4864a3dfd6"
       ],
       "before_count": 3,
-      "task_id": 6097440593
+      "task_id": 6097440593,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
