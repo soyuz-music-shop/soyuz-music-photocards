@@ -9488,7 +9488,7 @@
       ]
     },
     "55601662": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MMCD04",
       "originals_sha256": [
@@ -9497,7 +9497,8 @@
         "cc5f9eaf1c8d34129ce568653a1540741c522af12d79d5fa3e1676affa9961d6",
         "4663233a2e338b7433fe93077c7a79a99e4036213a622900d4c996bc1a7fb3b4"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097675181
     }
   },
   "reason": null
