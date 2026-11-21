@@ -3164,6 +3164,17 @@
         0.0,
         0.0
       ]
+    },
+    "30386732": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OD234474",
+      "originals_sha256": [
+        "420610766479f01b9d101643f95bd2073f77dc207d9187bafc3828cf3028ea8a",
+        "e7b37af2905848d0bd91382d85f9e8037e1c39052d3adea5c08ef60dc0edfd80",
+        "dbcb4d54ca4d0b940ea5d3966e85ec27dbec8c2658df6299910a9d504ce94412"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
