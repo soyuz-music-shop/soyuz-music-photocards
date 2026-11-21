@@ -8581,7 +8581,7 @@
       ]
     },
     "50213291": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PURPLE004",
       "originals_sha256": [
@@ -8589,7 +8589,8 @@
         "466bd6e8b33386574708d9c032cb70d9e0fc9770fdbe6cd48d2ed432058e6781",
         "9ac66118a311010c3a08fdef46a708ac651b6f50a37d70f769d342ee950200b9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097632076
     }
   },
   "reason": null
