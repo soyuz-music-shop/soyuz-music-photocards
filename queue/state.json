@@ -3544,7 +3544,7 @@
       ]
     },
     "31042077": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DAD3627",
       "originals_sha256": [
@@ -3553,7 +3553,12 @@
         "edf34c024def0db33fa72e5ea97ad2ce764d81945fa356005d1d31e3ddf66f3b"
       ],
       "before_count": 3,
-      "task_id": 6097359221
+      "task_id": 6097359221,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
