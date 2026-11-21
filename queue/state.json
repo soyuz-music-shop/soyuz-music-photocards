@@ -11311,14 +11311,19 @@
       ]
     },
     "87969175": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BS009CD",
       "originals_sha256": [
         "fb4464f225d55e12e689db4e75d58e12c17b118faf423bf0df95d485a4423588"
       ],
       "before_count": 1,
-      "task_id": 6097762663
+      "task_id": 6097762663,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
