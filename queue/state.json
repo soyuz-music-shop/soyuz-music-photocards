@@ -8581,7 +8581,7 @@
       ]
     },
     "50213291": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PURPLE004",
       "originals_sha256": [
@@ -8590,7 +8590,12 @@
         "9ac66118a311010c3a08fdef46a708ac651b6f50a37d70f769d342ee950200b9"
       ],
       "before_count": 3,
-      "task_id": 6097632076
+      "task_id": 6097632076,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
