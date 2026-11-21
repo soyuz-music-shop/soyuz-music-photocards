@@ -5384,6 +5384,17 @@
         0.0,
         0.0
       ]
+    },
+    "34591408": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB 3464-2",
+      "originals_sha256": [
+        "a0fac51ab0c5a0ae98225653403f24b458f94e07d3c3dd2d631ebb49d2b4c39b",
+        "428c20d92ff02d5c2277a0cb289c72cc5b31cda8963d8677fbc50215e784a74a",
+        "ef56329ac329019828b9e0bc2eb8de106e351a1a706ac8c37664e01384615415"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
