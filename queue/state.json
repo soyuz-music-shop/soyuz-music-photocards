@@ -8705,7 +8705,7 @@
       ]
     },
     "50217244": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NRT002",
       "originals_sha256": [
@@ -8714,7 +8714,12 @@
         "7f258aef0fe65e985141b02f798f8d62747fc986cefd8ea96dc0528425042611"
       ],
       "before_count": 3,
-      "task_id": 6097636695
+      "task_id": 6097636695,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
