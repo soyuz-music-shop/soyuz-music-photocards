@@ -9611,6 +9611,18 @@
         0.0,
         0.0
       ]
+    },
+    "55612817": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BYE002CD",
+      "originals_sha256": [
+        "b2f627411c057a0fb699f83f0d9cc8655acc3d7b8ca9e4b36a7871a2af709d59",
+        "e4bf9b08c2721754303ce6b6c6899c3f000c8754f4a8313166b4a4ada6984392",
+        "af99cfcea2d3a5f9f14a8d5ee2cdde9b08525b6d43dbfe233aea9e058eab9273",
+        "56e1b7faec492140e54b1f667c304e84a0593180d5fd1fb2611de08c2122726d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
