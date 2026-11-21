@@ -8687,7 +8687,7 @@
       ]
     },
     "50214306": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EREACD21019",
       "originals_sha256": [
@@ -8696,7 +8696,8 @@
         "447d8ad4efb6a281274b3ad038a9a2e3f24b5519dd38994ba03d7cc0f0827219",
         "97a42025ba327fcfd5e4f7e204a6eaae9c6c13b3b7be98a5b5ef95075a081b93"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097636123
     }
   },
   "reason": null
