@@ -224,6 +224,23 @@
         0.0,
         0.0
       ]
+    },
+    "27296267": {
+      "stage": "locked",
+      "offer_id": "KCLP1",
+      "variant": "import-vinyl-info",
+      "before_count": 9,
+      "original_url_sha256": [
+        "22e2ccd56236b0b44bd17d4b1ebcff8c849f41495b4c73db2dfa62d0a9ef49b8",
+        "fd82a40a17714839878947c0ae617e70cf267502697fe81249578ee7acd7326a",
+        "a90bc863dde3038f960f108ff900a25e4f70aefb054dd55e0b56b538e70ac8b3",
+        "2924011c78f02c404e6d5fdb7d98ab29f07840183367638764994cb08975d444",
+        "de4d4e5a98c6cd33922d0a683d5e12c0d3a18d15f221b052ed4ac50e58e1f5bd",
+        "b5583b1f53cb8db35685a7bda067805d238213db7f16d39190dc2c3af8c1a316",
+        "1a40faac1b068dd9bdf5e901c2e09b336c92b2240781f18e4187f4112e1e768a",
+        "ba164f8b4b9cabe755ca4b37ad54f6edabfb4fb96217b19a7b48dbc90a7a3343",
+        "dffa898df7461c1fa343772cdad604b45eef76b6802a4cb3539346bd513fe13c"
+      ]
     }
   }
 }
