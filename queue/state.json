@@ -9803,14 +9803,19 @@
       ]
     },
     "57802695": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000139228",
       "originals_sha256": [
         "3b014436013b12121b6d9cf8c9e2d07f3b8aad3d602439750961fd91429a7bf2"
       ],
       "before_count": 1,
-      "task_id": 6097691840
+      "task_id": 6097691840,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
