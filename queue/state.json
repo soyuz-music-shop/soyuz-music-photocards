@@ -2906,6 +2906,16 @@
         0.0,
         0.0
       ]
+    },
+    "28895420": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "UMBLP2",
+      "originals_sha256": [
+        "c899befb114c5230425c31b575fbd65fea642606f1c2a06baa110185e12782ab",
+        "70b85864a063f0103c5a4d351f332c3498e8480f7523d27355817c9cecde8f46"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
