@@ -7474,7 +7474,7 @@
       ]
     },
     "39350161": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DAD 3628",
       "originals_sha256": [
@@ -7484,7 +7484,12 @@
         "ece768b12c198fc96822ce9f3c4b5a6021e43fb583a8d456f48fba839d95d66c"
       ],
       "before_count": 4,
-      "task_id": 6097581558
+      "task_id": 6097581558,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
