@@ -4653,7 +4653,7 @@
       ]
     },
     "33489700": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NP22V",
       "originals_sha256": [
@@ -4662,7 +4662,12 @@
         "29a6e7e409fc069a56bab33d94d0899a8a1134a58137983468f7074d048afd92"
       ],
       "before_count": 3,
-      "task_id": 6097408286
+      "task_id": 6097408286,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
