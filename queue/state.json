@@ -6683,7 +6683,7 @@
       ]
     },
     "36208130": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP 065",
       "originals_sha256": [
@@ -6692,7 +6692,12 @@
         "d2ec72b99145201bd52e23e132cc537ea9e71c0cab69de7f78bea2e05ba9bdea"
       ],
       "before_count": 3,
-      "task_id": 6097542133
+      "task_id": 6097542133,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
