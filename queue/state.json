@@ -3990,6 +3990,18 @@
         0.0,
         0.0
       ]
+    },
+    "31816587": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3535",
+      "originals_sha256": [
+        "379e4c553c6c457632ecb71a70e7c5178f9cc02f96fe7e4971b18d6c1456e0ea",
+        "491ee9fe8517961be94d6b028889f76b5a9a4369be911c223e3ce5486c493ddf",
+        "35f9ddfec6406a2db93bd60e0cae4a3ad8646df02f438659281194b9630930d6",
+        "05344be95b40747157bc663268328dc7eab3970815735a3b433a02ad65b51778"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
