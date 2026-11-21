@@ -11187,6 +11187,16 @@
         0.0,
         0.0
       ]
+    },
+    "86774794": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IN 195991",
+      "originals_sha256": [
+        "7dbc46771889fbb53e3ff8fe1ed94a19394afbffab3fc388e5271a64032cffc1",
+        "0adb32c4226d0b3c0b927c26d8b0ae96addcab0d67b32adfc5032a6c4075c535"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
