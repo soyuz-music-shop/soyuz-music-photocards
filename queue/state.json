@@ -9578,7 +9578,7 @@
       ]
     },
     "55607146": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV215LP",
       "originals_sha256": [
@@ -9588,7 +9588,12 @@
         "861a5642cebf1add986bc66604122494a75b7de72748f1348cf7c41fcf7d05e0"
       ],
       "before_count": 4,
-      "task_id": 6097679457
+      "task_id": 6097679457,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
