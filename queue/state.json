@@ -11087,6 +11087,18 @@
         0.0,
         0.0
       ]
+    },
+    "82972099": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OMN14052",
+      "originals_sha256": [
+        "0c8a5209ccc2f4658ca95ea31c4c0bbce8b5d898e2e758117b5173502fe9ea15",
+        "8c281c4dc69ce36655e29e98576ab0f1dea134dc2ff421f10a2b1b6d3f20491d",
+        "71a76711a2a77820aac3517941ef9b4526ee99413ca38f5a11f4be84b9c406c8",
+        "727268fadac2ce6831756adf53e4addf9f2f8cf61464d262ca7eaf7b6907ad18"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
