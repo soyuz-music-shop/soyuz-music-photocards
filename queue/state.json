@@ -3475,7 +3475,7 @@
       ]
     },
     "30928864": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP784",
       "originals_sha256": [
@@ -3484,7 +3484,12 @@
         "9097a349e3176dde43f1937679acf9a6fbf24be9245dabe8b5d5625f0b85b0c3"
       ],
       "before_count": 3,
-      "task_id": 6097356197
+      "task_id": 6097356197,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
