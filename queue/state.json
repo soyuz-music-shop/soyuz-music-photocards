@@ -11324,6 +11324,16 @@
         0.0,
         0.0
       ]
+    },
+    "88029985": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "6711044",
+      "originals_sha256": [
+        "afb75a34e5cedc8ca60fd2b3cb0a6c52ce800fd047b135be3c15c2b8943b2f2e",
+        "cb5824c17e8487253ee3cfcf6749a8fe1f8d63bbfd66b48241e76e5230ab888e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
