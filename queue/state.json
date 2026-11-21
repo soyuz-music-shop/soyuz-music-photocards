@@ -5920,6 +5920,16 @@
         0.0,
         0.0
       ]
+    },
+    "35210576": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD785",
+      "originals_sha256": [
+        "c6fb61dac7d7e0162401fef7fbe5b2feb21655ad873782b035521e94cd7688d1",
+        "284b9a8056debe22571e54a903efe835e871c25880c166ead8d9580dce32fe3f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
