@@ -8687,7 +8687,7 @@
       ]
     },
     "50214306": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EREACD21019",
       "originals_sha256": [
@@ -8697,7 +8697,12 @@
         "97a42025ba327fcfd5e4f7e204a6eaae9c6c13b3b7be98a5b5ef95075a081b93"
       ],
       "before_count": 4,
-      "task_id": 6097636123
+      "task_id": 6097636123,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
