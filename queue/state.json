@@ -2908,7 +2908,7 @@
       ]
     },
     "28895420": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UMBLP2",
       "originals_sha256": [
@@ -2916,7 +2916,12 @@
         "70b85864a063f0103c5a4d351f332c3498e8480f7523d27355817c9cecde8f46"
       ],
       "before_count": 2,
-      "task_id": 6097329116
+      "task_id": 6097329116,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
