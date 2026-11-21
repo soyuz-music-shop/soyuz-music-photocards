@@ -8464,7 +8464,7 @@
       ]
     },
     "50202953": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMCD139",
       "originals_sha256": [
@@ -8472,7 +8472,12 @@
         "14bc7439ebbb909c0d3079e562603df504be68d2830169ce7aee7ccdac6c66fb"
       ],
       "before_count": 2,
-      "task_id": 6097627336
+      "task_id": 6097627336,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
