@@ -3304,6 +3304,20 @@
         0.0,
         0.0
       ]
+    },
+    "30902816": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP188",
+      "originals_sha256": [
+        "660ce24503374194461d0b320511d85282df1d1ed01c2d1705d3577b3171b632",
+        "2899266d2d754fa21f61f4fb814bd37d4e18faa7db3e4b66ec56a999bda800c5",
+        "35f4e2493a1b3edf35601e156a0f968ec79705e54d919f2781f892bf7df97c32",
+        "796cd4d7da365b51404695b4e2fbe56047d76ef3af09cc72a3d58f6511895d44",
+        "1cc4895a111369d459aa92d762ef6d6420fab58eac9a443e1af3f8570b63b8f1",
+        "2ee1077223bf07d8d378c6e0183a706399263101130c814a96beffa59cff30c0"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
