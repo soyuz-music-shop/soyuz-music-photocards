@@ -11525,6 +11525,19 @@
         0.0,
         0.0
       ]
+    },
+    "91406968": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WAP423",
+      "originals_sha256": [
+        "eb24a6d4a89036bbf458a4ad43e23397d3b063893c10cbb13ff1e462a78ace1c",
+        "e7c9bd99f942853e69ca9a1376486031e56513bc81148db6d36d10672d354db2",
+        "ed1b2f170d975af54a99f53b0630168d3bcfa9f940c9e6a8935806f09f25d6ff",
+        "be9984e73c4659fc040b8d1c3c04789299c3f561aed060329b539724e8ddf126",
+        "9d1aca0377dfa5356557a5bb2773feb7283d65aeab3a97e9e199804806ab2ee9"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
