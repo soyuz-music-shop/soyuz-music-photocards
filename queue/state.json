@@ -6105,7 +6105,7 @@
       ]
     },
     "35286232": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD0010",
       "originals_sha256": [
@@ -6113,7 +6113,8 @@
         "666083cc7cb73a83342fcd22f36988fbc965280483af8f7ef5419c4d0cc99f0c",
         "34bccba7950543281dd7ccd502cb992add0356a322b28e75e48c568ec9cf2024"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097513165
     }
   },
   "reason": null
