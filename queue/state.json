@@ -9753,7 +9753,7 @@
       ]
     },
     "56824788": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0215653EMU",
       "originals_sha256": [
@@ -9763,7 +9763,12 @@
         "31006d68b9a713534d017057bb5ef54b27b4b81273e405bc7044e330a8b531eb"
       ],
       "before_count": 4,
-      "task_id": 6097689405
+      "task_id": 6097689405,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
