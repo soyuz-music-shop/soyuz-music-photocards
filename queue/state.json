@@ -111,7 +111,7 @@
       "previous_stage": "verified"
     },
     "20812274": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-russian",
       "offer_id": "4630065137234",
       "originals_sha256": [
