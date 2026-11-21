@@ -9387,6 +9387,16 @@
         0.0,
         0.0
       ]
+    },
+    "55591751": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "UMBLP4",
+      "originals_sha256": [
+        "d8530ca6e77fb4bc2e0a2b7073815f28f711ac77670971bdb2ae8b43e72841ae",
+        "d607a551142f3eb65bfde837a36030531e2ec9ba292a03e346a709f1a313de22"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
