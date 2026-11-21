@@ -249,7 +249,7 @@
       ]
     },
     "27674626": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "SEW3158",
       "variant": "import-vinyl-info",
       "before_count": 3,
@@ -257,7 +257,8 @@
         "0461bebdce08f29db5b95bfe037b3f09bb9c3a132c90e3432238356626f324c8",
         "d60e340b662596125e841f7eeb811b250f79cdc6ebdd85b20845d1e299a56969",
         "a36acbb1babbe893dd4edfe4ed74e256f622954abe06f988b75da50b036ed30f"
-      ]
+      ],
+      "task_id": 6094418298
     }
   }
 }
