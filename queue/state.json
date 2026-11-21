@@ -1318,6 +1318,16 @@
         0.0,
         0.0
       ]
+    },
+    "26912161": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NPR600JC",
+      "originals_sha256": [
+        "3a884723a94634442811297117b27ec36d44a0764bb491596d259eec2aab9c2d",
+        "e11580e4e201b84792083d4f61c4f4750da685cf61c243627d41e03581bc3277"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
