@@ -8770,6 +8770,16 @@
         0.0,
         0.0
       ]
+    },
+    "50546030": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB2643-2",
+      "originals_sha256": [
+        "eac4ba70ad1bf56979f8fe6528123f09291e0041f5d92071d44f42b016964c7d",
+        "14f82d9973b6918e4b2bc2f26ef9184b0ddfba3980e1953b947cf9c1ebf854fb"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
