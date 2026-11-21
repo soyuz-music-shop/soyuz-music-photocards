@@ -9253,7 +9253,7 @@
       ]
     },
     "55578171": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XLCD779",
       "originals_sha256": [
@@ -9262,7 +9262,12 @@
         "46fe5528b6e0714a72d671af9fa5b736ea7b4c643c5e8e194bbe10fc236e4782"
       ],
       "before_count": 3,
-      "task_id": 6097662062
+      "task_id": 6097662062,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
