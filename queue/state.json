@@ -7575,6 +7575,17 @@
         0.0,
         0.0
       ]
+    },
+    "39381108": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "YT191CD",
+      "originals_sha256": [
+        "a9b0b72d5987b055d1a7c6570a102a8430703a612513e81ade06645cf88c87a9",
+        "9d0744b621d00a4cec756feb0d59e502c1cdd742f4181fa87cc2bc10aa68c2b0",
+        "3b828b5759762ab9d9ab7da4aa2caf523a298db598414586ebcfa35089cd430e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
