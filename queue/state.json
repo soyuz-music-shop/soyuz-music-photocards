@@ -11224,7 +11224,7 @@
       ]
     },
     "87316929": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JDNCCD57X",
       "originals_sha256": [
@@ -11235,7 +11235,8 @@
         "2b92fe641cb32bc41abedd5866b71fe405655228a321fab346703f1d7ce8324b",
         "dc9092bb7247390026ac5abb354361bc85403935a7ac6f57aea365d06e38ffa9"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6097759069
     }
   },
   "reason": null
