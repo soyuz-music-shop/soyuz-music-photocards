@@ -3661,6 +3661,18 @@
         0.0,
         0.0
       ]
+    },
+    "31066738": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP782B",
+      "originals_sha256": [
+        "7cd9c24c632af616a03768ef57d4aa0b2050dc550a1444839d19ba11d115ff83",
+        "011f360e7b625d7ca75da58a841e305bfe7195ab65897b379bf9e7d30e21e3a4",
+        "d0c7f917c86914680d18690b9e5c1aeb1b60cba809f512aeafe9aff056844811",
+        "d6c430376119f382194fc4d3994c5dade4a3bd8d32a3ecb523810d0518a036df"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
