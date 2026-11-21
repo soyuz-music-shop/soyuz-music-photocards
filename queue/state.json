@@ -10320,6 +10320,17 @@
         0.0,
         0.0
       ]
+    },
+    "70456998": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0213255EMX",
+      "originals_sha256": [
+        "84993b9aaa24744e3be282281462386af63b213aa5392f09dc32201895f418ae",
+        "e8e13be9d121bb16ce1058f7570da103fd4985fb81c0060edd088fac907e8076",
+        "367cd739e626318277ee582925057290df52ec17d4c3ef22797d5cc9c2588ff0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
