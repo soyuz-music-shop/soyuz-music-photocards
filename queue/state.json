@@ -3968,7 +3968,7 @@
       ]
     },
     "31811388": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0211LP",
       "originals_sha256": [
@@ -3984,7 +3984,12 @@
         "7d5c904df3fbea39913bfbe6fd12c39c8a8930fae74ff27c394dc5e100160e87"
       ],
       "before_count": 10,
-      "task_id": 6097378935
+      "task_id": 6097378935,
+      "after_count": 12,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
