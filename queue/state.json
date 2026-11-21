@@ -8348,7 +8348,7 @@
       ]
     },
     "50187003": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMCD52",
       "originals_sha256": [
@@ -8357,7 +8357,12 @@
         "773c65ca86a870b2b387ae3629dc74fc05eb2ceef77c70d1c1909c8e6f20c28e"
       ],
       "before_count": 3,
-      "task_id": 6097623007
+      "task_id": 6097623007,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
