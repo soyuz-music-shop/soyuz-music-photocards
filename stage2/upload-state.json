@@ -266,7 +266,7 @@
       ]
     },
     "27681324": {
-      "stage": "imported",
+      "stage": "verified",
       "offer_id": "BGP2150",
       "variant": "import-vinyl-info",
       "before_count": 2,
@@ -274,7 +274,12 @@
         "e425b32426cd760b90e80f433d4b41c2d6aa103ef0759124a986d22fd856f207",
         "c9035ca92a921c14131de26e31d7b49271e5c93b38e4fac0d5eec2459c17d66e"
       ],
-      "task_id": 6094421212
+      "task_id": 6094421212,
+      "after_count": 4,
+      "image_distances": [
+        0.0,
+        0.0
+      ]
     }
   }
 }
