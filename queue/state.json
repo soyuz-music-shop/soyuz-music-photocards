@@ -11222,6 +11222,20 @@
         0.0,
         0.0
       ]
+    },
+    "87316929": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JDNCCD57X",
+      "originals_sha256": [
+        "6591d6fd6ca03dd62145f3f458aefb93a00d28b3ec3b44e2dd4c4d6e6ca9beed",
+        "c0f0acffbb700713e602d92e8221847edd6fea42bb3b70767c8c288aca06e63f",
+        "8ed174c32a6a55b67b1d99ce23b586ec26a0ec2fbd497735bbe66ade979cc59f",
+        "1464635376708ef1b8100ecc3016da179a312f89189a223a00279cc4824408b0",
+        "2b92fe641cb32bc41abedd5866b71fe405655228a321fab346703f1d7ce8324b",
+        "dc9092bb7247390026ac5abb354361bc85403935a7ac6f57aea365d06e38ffa9"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
