@@ -174,7 +174,7 @@
       ]
     },
     "23314999": {
-      "stage": "locked",
+      "stage": "submitted",
       "offer_id": "WIGCD339",
       "variant": "cd-import",
       "before_count": 4,
@@ -183,7 +183,8 @@
         "7e180ba34580d5a5a8de85b5a4f45d0bdd99665a050552d876801fb4ee5148c4",
         "25e51024f6948e26892d954a4b5ecaf29368059c22a037fcaa4a13e1f69c531c",
         "cca4fd040d89a218d7a90f0276504459b6160fd7c2d96849f11cfb9207b8e4b9"
-      ]
+      ],
+      "task_id": 6094406450
     }
   }
 }
