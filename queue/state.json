@@ -5263,7 +5263,7 @@
       ]
     },
     "34467089": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "KCSP13",
       "originals_sha256": [
@@ -5273,7 +5273,12 @@
         "623043863a1179fc49113234404c2d9af104cb496ae3209076e71cb1b7097932"
       ],
       "before_count": 4,
-      "task_id": 6097451599
+      "task_id": 6097451599,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
