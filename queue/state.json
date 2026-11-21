@@ -9733,6 +9733,18 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "56823516": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0213944EMU",
+      "originals_sha256": [
+        "112c0f1fc9e132d4794a261f36d22f3b5871d2c4cd06b74ccaae6cdf32851933",
+        "455869ccbbe4d748956c9afbbf94135d12b0b88c28fd20863bcec09b77e7ee8a",
+        "40df5991bf36e8e7cbed8ef5c9cb8347a4e92fde06d984a99d6203000b61a85c",
+        "d216104ab41769ac4fbed6c6e2f80c7e0fa591ae31c3e1f1015c825b8346354e"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
