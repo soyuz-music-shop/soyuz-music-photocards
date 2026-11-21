@@ -970,6 +970,19 @@
         0.0,
         0.0
       ]
+    },
+    "23872371": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KCSP15",
+      "originals_sha256": [
+        "69d932eedd8b349d466d40c01bfeebce20c284d9be558cbffe35672b9a115c48",
+        "2fef4dba7465aaff541c213b1d27c9c0b2f0f0373749870963ffe15ed4a1fef7",
+        "8b65af683c286cd473c6629c56d912a248deeb7cdffb6ffd2dba6b5dae857883",
+        "817c44186fb6fb4d53dc2c3956e56ba3b5e3b0b98cc9ea82c928940e906fc0ce",
+        "7f09479520b2efb1967a4011496cf1a42f45c0834a71c0b5e3d22e5c86f55b9c"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
