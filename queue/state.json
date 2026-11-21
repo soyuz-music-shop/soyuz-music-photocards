@@ -11224,7 +11224,7 @@
       ]
     },
     "87316929": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JDNCCD57X",
       "originals_sha256": [
@@ -11236,7 +11236,12 @@
         "dc9092bb7247390026ac5abb354361bc85403935a7ac6f57aea365d06e38ffa9"
       ],
       "before_count": 6,
-      "task_id": 6097759069
+      "task_id": 6097759069,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
