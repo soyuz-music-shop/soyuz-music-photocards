@@ -5802,6 +5802,17 @@
         0.0,
         0.0
       ]
+    },
+    "34793324": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2634",
+      "originals_sha256": [
+        "d8801f3f03921b8842cf9c86809364ef7531b3812a2e679b4a90272b416c5c9b",
+        "1f5a50ac8242e3feefabf2d0b50a8ab6cb3d7269477de5d38f9c67c61870e7b5",
+        "58630559d066c33adecf6a39abecd2bb2cbe96dc13e5b664611950ce7309c2b6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
