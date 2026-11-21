@@ -7709,6 +7709,17 @@
         0.0,
         0.0
       ]
+    },
+    "40550728": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "0214763EMU",
+      "originals_sha256": [
+        "f91346cff0b37735f6d521f554b1721a14dc0b7ecc42de4e6e17c492e03fab6f",
+        "712454409e7c178f1645d8b67fdbf68afdb703c6f622cdb3972c4c0db3ee2312",
+        "a524d6ec477fc37585a6094c8961a24b91cb105244996f454cfb1289a03e188b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
