@@ -10822,7 +10822,7 @@
       ]
     },
     "75591456": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "VILELP378",
       "originals_sha256": [
@@ -10830,7 +10830,8 @@
         "aee175f44510e493e62c7b2f9507304c35a5d37db1a19c39c5860bbf40047cd8",
         "6292bb50de248d526f753bce116dcd3998da5cb224d76ece3475e45b0a484772"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097742203
     }
   },
   "reason": null
