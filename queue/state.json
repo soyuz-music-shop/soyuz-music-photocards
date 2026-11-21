@@ -4668,6 +4668,16 @@
         0.0,
         0.0
       ]
+    },
+    "33489969": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLP9",
+      "originals_sha256": [
+        "66a62dc34b3837e1b8a8de532a434fb2309e8e1df8c79bd9f0f321835ae7db91",
+        "48ab8633f184f3551ea29fadc8113209ad0843c67239e8c8e8a2095f0435aaf1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
