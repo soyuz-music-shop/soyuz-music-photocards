@@ -6668,14 +6668,19 @@
       ]
     },
     "36170177": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SPV 98130",
       "originals_sha256": [
         "eafd6838d8a19f7d4fd022e40dacbce17c6a1a0e7fcae7874f17b13d4f712c1b"
       ],
       "before_count": 1,
-      "task_id": 6097541604
+      "task_id": 6097541604,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
