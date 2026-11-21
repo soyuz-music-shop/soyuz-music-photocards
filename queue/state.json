@@ -10273,7 +10273,7 @@
       ]
     },
     "69833092": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC2719",
       "originals_sha256": [
@@ -10281,7 +10281,8 @@
         "bbf69f49212c1054d824fdd6ac524b41610d2808264f35adbd475e05655897ab",
         "1339cf95af7158f077416913760364ed8c1182bb6564def1bbf27d3da8bef9cc"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097716349
     }
   },
   "reason": null
