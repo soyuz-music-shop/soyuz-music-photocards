@@ -9596,7 +9596,7 @@
       ]
     },
     "55612352": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BYE004CD",
       "originals_sha256": [
@@ -9605,7 +9605,12 @@
         "eaa8304484ead43469edbf2bca81b724547e8dfd49c55028ffc6d6d6ac4d6d74"
       ],
       "before_count": 3,
-      "task_id": 6097680399
+      "task_id": 6097680399,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
