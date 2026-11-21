@@ -5787,7 +5787,7 @@
       ]
     },
     "34793056": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2498",
       "originals_sha256": [
@@ -5796,7 +5796,12 @@
         "b21a00effb2963fe85185f84265e25ff677fa125dc610a83a5446137b3f50ec5"
       ],
       "before_count": 3,
-      "task_id": 6097493504
+      "task_id": 6097493504,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
