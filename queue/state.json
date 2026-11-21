@@ -4137,6 +4137,17 @@
         0.0,
         0.0
       ]
+    },
+    "32314057": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIK 2",
+      "originals_sha256": [
+        "43650e07e0ef0269bfe68bf947d4f2e5c47fb9f19371c457b0ab1dccdefa8b65",
+        "cfd0c807e90410589e3c23f91f16a8483d6152f7645ce827940836c746d51eb5",
+        "671657f08380225915d5f56156beee929555e53445dcfb04f788855a780e9fbf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
