@@ -8464,14 +8464,15 @@
       ]
     },
     "50202953": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GLAMCD139",
       "originals_sha256": [
         "73a9688874927a0aacb5749a15418c0b9c12ffe5d9d23870f351ff07351e08d2",
         "14bc7439ebbb909c0d3079e562603df504be68d2830169ce7aee7ccdac6c66fb"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097627336
     }
   },
   "reason": null
