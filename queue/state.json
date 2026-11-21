@@ -1025,6 +1025,17 @@
         0.0,
         0.0
       ]
+    },
+    "24207678": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "APEEP902CD",
+      "originals_sha256": [
+        "98fdc8f36b54868acbac2148e34b86101c2f5e02d5c92afd2fc29a9f4c1e788a",
+        "08c166aa99c82badf4d3c0073d58aaeb3c12dd125658dc177e6e084d76e4bc58",
+        "bcfc55a33470252595ac9884f1354562fee88ed120329d060cc201992c6fd31f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
