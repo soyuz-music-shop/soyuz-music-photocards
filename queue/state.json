@@ -6899,7 +6899,7 @@
       ]
     },
     "37953550": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLUB48",
       "originals_sha256": [
@@ -6907,7 +6907,8 @@
         "d2b042c0c8a023c7b00fc8f72f614292e1b20be19d97f01c334e0f78dcdc7ce8",
         "28559e98887692e47e66806277a70a78a7196f9ff8b34290184b3680806130fd"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097550074
     }
   },
   "reason": null
