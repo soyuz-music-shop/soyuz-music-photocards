@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "phase": "active",
+  "items": {
+    "20807385": {
+      "status": "verified_previous_pilot",
+      "source": "pilot/ozon-20807385.json"
+    },
+    "6961317504": {
+      "status": "verified_previous_pilot",
+      "source": "pilot/ozon-6961317504.json"
+    },
+    "20811913": {
+      "status": "protected_previous_run",
+      "source": "batch1/status.json",
+      "previous_stage": "verified"
+    },
+    "20811938": {
+      "status": "protected_previous_run",
+      "source": "batch1/status.json",
+      "previous_stage": "verified"
+    },
+    "20812054": {
+      "status": "protected_previous_run",
+      "source": "batch1/status.json",
+      "previous_stage": "verified"
+    },
+    "20812153": {
+      "status": "protected_previous_run",
+      "source": "batch1/status.json",
+      "previous_stage": "verified"
+    },
+    "21476982": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "21770915": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "21771092": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "22722226": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "21477097": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "22497352": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "22497565": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "26605476": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "23103351": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "23260962": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "23314999": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "23316382": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "27000301": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "27296267": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "27674626": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "27681324": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    }
+  },
+  "reason": null
+}
