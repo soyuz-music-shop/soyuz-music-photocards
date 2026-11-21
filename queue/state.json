@@ -8788,7 +8788,7 @@
       ]
     },
     "50564389": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2650",
       "originals_sha256": [
@@ -8796,7 +8796,12 @@
         "af234f6b626ce28ed49740241488dc376668847824b023824d8909166b33dc1e"
       ],
       "before_count": 2,
-      "task_id": 6097640109
+      "task_id": 6097640109,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
