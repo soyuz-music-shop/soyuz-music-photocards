@@ -3358,6 +3358,20 @@
         0.0,
         0.0
       ]
+    },
+    "30911413": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP339",
+      "originals_sha256": [
+        "03baeab40c4b3e4d8326e27d5a44bbd0f077fdf5a5fa0dc008a71d1791ffd674",
+        "c91c8d0f8243fafa91cbc85e6dc40801e998e6265b08e67ed3210b75de4aacf9",
+        "513f3844b61079513a4f7a7159cc38e1c53c317cb68b825a90d844e90cdf8b3f",
+        "a9ceb1e553a71bb0767c95f14766e285926f508d16506c4f4bd4f2a75a5cfeb2",
+        "f9ec2cb6fd24efc678bdfe657a4c907c0d7ccb35b2852bd7f1d04fe0fdaadde9",
+        "883d9241dea23f4ddf2c0811c70341b1729cf81070ab6ef2d5da9d119fadb979"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
