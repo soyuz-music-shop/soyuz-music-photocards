@@ -64,6 +64,20 @@
         0.0,
         0.0
       ]
+    },
+    "21477097": {
+      "stage": "locked",
+      "offer_id": "XLLP520",
+      "variant": "import-vinyl-info",
+      "before_count": 6,
+      "original_url_sha256": [
+        "689104dba4559d8dd9017180e5c9be5aa7b63e14a942d9327a8baadc65e71829",
+        "ce0e739f124834525836070d4b1b78aac4e0b926acc58c6a3492d27f23f47ba0",
+        "9489151a9487c7ca60cc4197a68bd76ce06f58549dbfabc7c9755db6b5a94b2a",
+        "0ef94b3b0acf6cf50121e179312a09f25aba451c4778a66c384297dfb2ae81ff",
+        "aefa783b99f9a338b0421aabf6bfc097d9f6fc506dc8b8146a5e720024929f56",
+        "437c18d7036c85ca5b7b5efc1d89edc02970dc04b470bbd5fd0cc9c340b3a02d"
+      ]
     }
   }
 }
