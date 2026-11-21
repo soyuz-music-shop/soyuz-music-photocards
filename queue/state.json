@@ -8819,6 +8819,16 @@
         0.0,
         0.0
       ]
+    },
+    "50564513": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNEBOX099",
+      "originals_sha256": [
+        "339eaed83aec41b97e2aa8bd9a8614e1b277e9899c7cd9e7b5401784ced7c7cb",
+        "8eb1ad58b8c7dee7042ff03b0bfef4bb1636613dd89bca726c5223907bb5aaee"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
