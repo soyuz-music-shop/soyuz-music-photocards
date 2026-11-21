@@ -3492,7 +3492,7 @@
       ]
     },
     "31023934": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL987LP",
       "originals_sha256": [
@@ -3501,7 +3501,12 @@
         "edeaf8ab21501a91129b16eafc96615c056cae7472edfc3cbc5f0a2d2face822"
       ],
       "before_count": 3,
-      "task_id": 6097357203
+      "task_id": 6097357203,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
