@@ -11828,6 +11828,16 @@
         0.0,
         0.0
       ]
+    },
+    "119092393": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NPR976VINYL",
+      "originals_sha256": [
+        "e5e8fabc7af8a423000e35d16aad475378745a2215380ad530d40e835077d650",
+        "0da7ab530f9797f8f9d209b816c5292bab358bd46615e3299a350c9bfdff55e3"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
