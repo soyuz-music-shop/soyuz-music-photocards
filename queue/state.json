@@ -2938,6 +2938,17 @@
         0.0,
         0.0
       ]
+    },
+    "28938063": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD770",
+      "originals_sha256": [
+        "923f5546731f859edc7cf75d18c5f9d10211e1879cf1d2587b9e361eccc9e587",
+        "b1c3cac839b53a1defd8efd6b3acee23c31252343ec6a5380d2fb97a208f1e45",
+        "f2dccdcd8551e4a5e76754debfd4fe5ccfd1d25dc9574db1431a65cb79d6729d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
