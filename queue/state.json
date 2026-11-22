@@ -14175,7 +14175,7 @@
       ]
     },
     "224660451": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHM 1011",
       "originals_sha256": [
@@ -14183,7 +14183,12 @@
         "5164b1b0d061e86e9dce1b6592de647033d6a1f75b7dc2f134c6b69d2b62c4b8"
       ],
       "before_count": 2,
-      "task_id": 6101200496
+      "task_id": 6101200496,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
