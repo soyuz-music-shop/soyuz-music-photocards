@@ -22238,7 +22238,7 @@
       ]
     },
     "441327871": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPC3241",
       "originals_sha256": [
@@ -22246,7 +22246,12 @@
         "54e64f02b655a6c486b970632aac72d593b7a4f5fd95756e3f885b79824e471b"
       ],
       "before_count": 2,
-      "task_id": 6102224827
+      "task_id": 6102224827,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
