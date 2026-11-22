@@ -22149,7 +22149,7 @@
       ]
     },
     "438957643": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ARSM602547954374",
       "originals_sha256": [
@@ -22158,7 +22158,8 @@
         "e9fb0d48a740183bda1610100d2dfa83b8d50b15a76b4cfe90349cb224db0793",
         "4d822116d3e9a550b69bcbbc15b1631a4be148cba21f6810374f64ed4310a782"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6102217666
     }
   },
   "reason": null
