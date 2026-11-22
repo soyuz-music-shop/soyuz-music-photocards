@@ -19703,6 +19703,15 @@
         0.0,
         0.0
       ]
+    },
+    "374588794": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLPB2763",
+      "originals_sha256": [
+        "4499f1ed03b630b796f3e9422fbc6b9e7c43afe1d6cf19815b16e204a2f6f2ad"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
