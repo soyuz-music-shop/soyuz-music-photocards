@@ -22364,6 +22364,17 @@
         0.0,
         0.0
       ]
+    },
+    "441848644": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DRS81227931810",
+      "originals_sha256": [
+        "f48eb7604ceec26209881c6fe7fed12f7b4c0d8cc462502bef41ba015f376d52",
+        "1f57d2ed36357627e943699a901992ca04eb1049504407f43da99a765d3015ba",
+        "8c2214a7503249c5e54fa37528bc2542166926726918e5e02fd19b844e920ddf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
