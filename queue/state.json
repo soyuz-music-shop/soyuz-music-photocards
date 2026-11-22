@@ -13159,6 +13159,16 @@
         0.0,
         0.0
       ]
+    },
+    "153117139": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD208S",
+      "originals_sha256": [
+        "541b437434cf471df418a20f2db02ef8554472a13df7738575cc0c6e73f2efad",
+        "00b60e63667cbdfe861529eb9572234ceec1199ded93f6b17be553d4bab3493a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
