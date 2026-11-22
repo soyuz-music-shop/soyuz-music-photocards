@@ -20688,13 +20688,14 @@
       ]
     },
     "394432415": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "FO381CD",
       "originals_sha256": [
         "a0410ab8a7434f91ae8ced2a9e171ba24e0a3cbd5d37f0eef93d565f89a82a31"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6102084199
     }
   },
   "reason": null
