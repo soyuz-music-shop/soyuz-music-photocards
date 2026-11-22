@@ -14798,14 +14798,15 @@
       ]
     },
     "279097373": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CD 33003-2",
       "originals_sha256": [
         "eb60ae2622bc78d248e312571d429a5a43a4e4cbb3ab763431596ac7096d2301",
         "923a83b170ad5894ead46e9249df34af0410f07d97b53d1fc1f7c2eb6b7bb590"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101282994
     }
   },
   "reason": null
