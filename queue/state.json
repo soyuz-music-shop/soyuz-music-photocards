@@ -16139,7 +16139,7 @@
       ]
     },
     "305802298": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "REP 2234",
       "originals_sha256": [
@@ -16148,7 +16148,8 @@
         "6cf92ba3418030324b471a07b6435dc719a9c2c9e93d33c6c9695d8dc95d271a",
         "a88b0df8d1ad1dbfbaee005dff0d460f2ccd4784406093522f17ef3a9fc95b50"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6101498076
     }
   },
   "reason": null
