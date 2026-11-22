@@ -35,7 +35,7 @@ jobs:
           import sys
           sys.path.insert(0,"scripts")
           import auto_queue as q
-          assert q.BATCH_LIMIT==8
+          assert q.BATCH_LIMIT==24
           assert q.SAFE_VARIANTS=={"cd-russian","cd-import","import-vinyl-info","vinyl-colored-import","vinyl-russian"}
           assert q.russian_colored({"name":"Example (LP Red/Виниловая пластинка)"})
           assert not q.russian_colored({"name":"Example (LP Black/Виниловая пластинка)"})
@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name soyuz-music-bot
           git config user.email actions@users.noreply.github.com
-      - name: Process at most 8 new products, verify each before proceeding
+      - name: Process at most 24 new products, verify each before proceeding
         id: queue
         env:
           OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
@@ -73,7 +73,7 @@ jobs:
               if os.environ.get("GITHUB_STEP_SUMMARY"):
                   pathlib.Path(os.environ["GITHUB_STEP_SUMMARY"]).open("a",encoding="utf-8").write(summary)
           PY
-      - name: Continue automatically with the next eight
+      - name: Continue automatically with the next batch
         if: success() && steps.queue.outputs.more == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
