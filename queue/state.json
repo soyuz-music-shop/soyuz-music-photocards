@@ -13140,7 +13140,7 @@
       ]
     },
     "152513980": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DGM5009",
       "originals_sha256": [
@@ -13153,7 +13153,12 @@
         "777553363c03fe2623f332925aef08ecb175b8fffb3f6ac3e6e2a4c22c97f32a"
       ],
       "before_count": 7,
-      "task_id": 6101070359
+      "task_id": 6101070359,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
