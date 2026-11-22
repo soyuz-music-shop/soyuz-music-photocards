@@ -15032,6 +15032,22 @@
         0.0,
         0.0
       ]
+    },
+    "295516190": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM446",
+      "originals_sha256": [
+        "86e7432c14b936cc33a8583fe92c599730163adae62832344e55317fff11262b",
+        "4f9aefe67b6e8f8b51d534f431bb0692cc4c139f9478e5e625e020bbc9acadc2",
+        "3dd16b4f1a5aafd074d87f635f6e7b650d14d3975d41ee13865960d68d47d767",
+        "7fa0992991aa2125395538ec0c09d001673b201b81d33b2c8bb2aeab63866601",
+        "afbe694d47affa8c5f89b24c61f67ccc093be6c1c7bbba6f047e4695e49a5fac",
+        "271a017c34f141ea468d0163e8232845706299c0c9e8fd06b108f7c65d35b274",
+        "841f0fb30008225307c7988893dc546a338a16316fa41cca27b76b17d473e626",
+        "218dd04884b8dd91049cfbc7173007ec1aeb43f566e666185ac9ee26c17e8fb2"
+      ],
+      "before_count": 8
     }
   },
   "reason": null
