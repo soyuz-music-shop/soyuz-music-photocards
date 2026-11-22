@@ -12599,7 +12599,7 @@
       ]
     },
     "136780453": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BGPD 1041",
       "originals_sha256": [
@@ -12608,7 +12608,12 @@
         "1d1e44bea1897c1fd86cb4323c6a1f5cbbb80f2d2460367acc58cbdc2743f4ef"
       ],
       "before_count": 3,
-      "task_id": 6097849437
+      "task_id": 6097849437,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
