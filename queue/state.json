@@ -22206,7 +22206,7 @@
       ]
     },
     "440870274": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MOCCD14099",
       "originals_sha256": [
@@ -22214,7 +22214,12 @@
         "42c6006497616258e04a7657bea990865b2d997063404e05bbdbc47f7520cf9c"
       ],
       "before_count": 2,
-      "task_id": 6102222127
+      "task_id": 6102222127,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
