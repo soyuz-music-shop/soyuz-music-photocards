@@ -13352,6 +13352,24 @@
         0.0,
         0.0
       ]
+    },
+    "161340507": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "REWIGCD162",
+      "originals_sha256": [
+        "953f4499fa6877f760dc43792cac6e8635ccdcf869dbf404e2dedef614664299",
+        "62b5905fc71ffe0adf15a05ffa08b37a7508462fe659a0404e02d3ef9f6da732",
+        "31927dee587ca8937a9b9d14ddd7866ba68987373f75f21949a93860d9b52a8d",
+        "bfc3fbcd34c2dc8c3e49182d3f68ad124e46b842f8eb5559511ba3090c6970e7",
+        "60a80a0d73ffe6364a7479eb0e6ced6a67d9e13ae8e5f529016535e4b83a0094",
+        "fd925a846dc3693c40bfd2890b7cf80e71dfb87a12eca7146d8bd2a8f7b32883",
+        "ebee87d4bfc4b35c1dcb61bd84533284cb39329ce893b9274eeeb91994370dd6",
+        "02046db10fac6c954f4bed12d925cc68f9ef0d4bd82e66f6909d1b91747e0bf8",
+        "1e6ba6e95f2ce509145057c14e5d38966c536f576c141db5eba2a77cbafb42c0",
+        "434f04fd6af29067597c2cb3dec8120989072031fcf5e9076a75adc7b33b6f03"
+      ],
+      "before_count": 10
     }
   },
   "reason": null
