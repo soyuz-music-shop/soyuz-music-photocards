@@ -20624,6 +20624,26 @@
         0.0,
         0.0
       ]
+    },
+    "394160626": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TS0602508148453",
+      "originals_sha256": [
+        "a6b5d399b7013314f8d3fcf4dfffc01635c4ec3e5148befe7c857a1442e72d8b",
+        "a5150f5f2d24e4c59b11396662ae696e26c491f110a98388ac58f9b25c15de42",
+        "a0f9bcbd98320c9e4de24f3da876c4cfe6b48290a07710f6d3f9e43cdb6a07bf",
+        "30231e343d1c5ecfa45df483a3929a9d3c2d38da4c73159db409784a5f3a7b48",
+        "0ae3cd10cb868267ab81a9b45b7ea01dcd2c27331cbac68d37d348fbd3b75e35",
+        "639dbc48dc1d1ba430c2e67776a379f9c916179847b2639ff228d2bb3e255768",
+        "3af876ca42d1b21221229c359eb870d807c9822791f464639d96cf5e77ff4fdd",
+        "f63957d3a435e7288f7d91e2d9eedb1ede055657f016c14496ece732a1ef62a2",
+        "1a9672805bc5e476640283c947e4ae686aa547a97bb34ea4e3e87d5e900f406e",
+        "fbcb6ef87e6042acba3d5e4ab06d17c7361fc01c08221bc802d149fcd314876e",
+        "f10681526e846d1a9ae6f0315624f593c0c1c63251f3afb36d96d39c5ead870b",
+        "3ffb3c0ba5bea72229dba2ae7db4df6b9326aa09d078f34de0ac6c521f54a584"
+      ],
+      "before_count": 12
     }
   },
   "reason": null
