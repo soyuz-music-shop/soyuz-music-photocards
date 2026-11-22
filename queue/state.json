@@ -22459,6 +22459,21 @@
         0.0,
         0.0
       ]
+    },
+    "442577770": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD455",
+      "originals_sha256": [
+        "61230e6f6d06db5efac44684775e304b083ff9bdfbba23df91751ce90624daed",
+        "0b8ad72e2f69e85e6ca6174c9f7f315ac48c0bbe02963466813bfd9c32fa09e7",
+        "89a948a060e3205022a9b4e1109e6f927fd4d34b8e465205d24f2548f3c807f2",
+        "30c41b9c3174c7541cd2ebbcd4d8c0de9c202cd8e6df7afc96d6cd14e5e3da56",
+        "dbd58b6a7a392016243787bb6f75588c070d8e7c8c4921a8898e9b2db9969178",
+        "284ad0ff734071c8e12aa5ffe38b3b104557481565a5c28aacb4a57f5bd0ab91",
+        "c9eacc03cf109f2fee6aef959fb59a1d04aefa3bfa3bceefc93d24774ccb51f7"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
