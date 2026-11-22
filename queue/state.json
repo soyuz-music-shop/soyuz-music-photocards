@@ -12990,7 +12990,7 @@
       ]
     },
     "148068512": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBL92LPX",
       "originals_sha256": [
@@ -12999,7 +12999,12 @@
         "960c4534dc21130726b57bc3014481d2fd3609429d95e9eddd8174a0f99e4591"
       ],
       "before_count": 3,
-      "task_id": 6097887104
+      "task_id": 6097887104,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
