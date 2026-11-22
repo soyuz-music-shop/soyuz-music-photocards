@@ -14710,6 +14710,18 @@
         0.0,
         0.0
       ]
+    },
+    "276218855": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD 1182",
+      "originals_sha256": [
+        "3f0aba9cfda00980fb126503d5ee93a0b5af7b729a1ce6ccdbc12d6e59aa4518",
+        "ddc00b1c27c24bd08ff55045b892d1b52143b85fe06a68a41436d09df0734de7",
+        "37d14bfaf63fedaee7473f741f7d6507ef41cf544007764831d1e6b205509c77",
+        "965c8896522b7715d4dfd84fd8e0143a74a175306ce5b9a0ebe7b084c5bc55a4"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
