@@ -12001,6 +12001,18 @@
         0.0,
         0.0
       ]
+    },
+    "121273660": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LTP001CD",
+      "originals_sha256": [
+        "a7a3c730cec687de91607517d1faef156d3b1bea277c9257fe1118b267563302",
+        "d4931a25493a259c2b83863c2adba2c94369af870f59ef8f9bceca6f2ef4b178",
+        "beaf1c94616af3224093279912c76ffefc49883f9b93fd3dc9cbd5891c1ac124",
+        "c101cb44aa347dac3805e781e20872193b1bb7c8756243e782d1780a747ace86"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
