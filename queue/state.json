@@ -12373,7 +12373,7 @@
       ]
     },
     "124191974": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMBOX166",
       "originals_sha256": [
@@ -12382,7 +12382,12 @@
         "0286118a731a7313a247a1046f960aef9d32f1d8dbc8faf3c62d887a1227e8d8"
       ],
       "before_count": 3,
-      "task_id": 6097826805
+      "task_id": 6097826805,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
