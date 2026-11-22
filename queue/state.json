@@ -18870,6 +18870,17 @@
         0.0,
         0.0
       ]
+    },
+    "360861231": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP480",
+      "originals_sha256": [
+        "35d1d63e7f41f5fa7d89162d1bb6f629f0f10e18d3bada2c3940dab3a14091fd",
+        "0343918a60445b626b587cfdabfb06182175640e45fee0f0aa58992ce518071d",
+        "b1e10477fbe628ffd8315426a0361c86543174e0ef91e0589e69c5b4ecc7fc72"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
