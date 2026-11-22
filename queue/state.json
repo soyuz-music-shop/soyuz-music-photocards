@@ -21078,14 +21078,15 @@
       ]
     },
     "396618278": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CNDR0042283007628",
       "originals_sha256": [
         "f5d214f14b2030c8bca5e6dba40e65b3f09485c080d963328480edf7feddb363",
         "c19ace05ea5408c2ecea2497559bceece04c85dc541e5ed3a3c8c221163feb6e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102120558
     }
   },
   "reason": null
