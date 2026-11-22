@@ -21348,6 +21348,16 @@
         0.0,
         0.0
       ]
+    },
+    "400131095": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RNB0731454736626",
+      "originals_sha256": [
+        "14fea7d2f6e119404c9a22fd3fbec3aeaab8b15a695be5d9905da077d6925e95",
+        "26d7ed8c66b7afe3567a5678211d69df3b99edde99dd60fbe093776c9fa86da7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
