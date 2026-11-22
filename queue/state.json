@@ -22401,6 +22401,17 @@
         0.0,
         0.0
       ]
+    },
+    "442349654": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DP190295565091",
+      "originals_sha256": [
+        "c16569d81ae2acf78a2db6f1e56c8cda8c54c8a04b648019088cfabe0416d89f",
+        "57a3c3c14bc45f7b9af7f6de5052a1c5bda5f9ca917b982a9c1e9b5dd6d67aeb",
+        "dc7b592d4d5a7ce576ba613826371f75957df70bfae9a8b11123a712c3d57aab"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
