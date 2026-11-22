@@ -12126,7 +12126,7 @@
       ]
     },
     "121906614": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBBRX0365",
       "originals_sha256": [
@@ -12134,7 +12134,12 @@
         "6741754097d1ce8751e7502cbabeca61c2aa62ba2a3d5c544f355172ef90013d"
       ],
       "before_count": 2,
-      "task_id": 6097806706
+      "task_id": 6097806706,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
