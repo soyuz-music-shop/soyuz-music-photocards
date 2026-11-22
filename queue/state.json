@@ -11844,6 +11844,18 @@
         0.0,
         0.0
       ]
+    },
+    "120684217": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDMUTE629",
+      "originals_sha256": [
+        "ee45acbea21273374dbb4691d61bfebb4d738702a8f78b48633a1c0d3c212bb9",
+        "8db2743d3f7a9b02eee41ea35b973f72bc99ea25e7f1df7024749865a12735bb",
+        "85916e003fda922cfacb6c03ae1d69190cdeb4dc18de2bac28de7c33bee2e281",
+        "93ab247d3d86c5c7549dddc1cadac063bf70cf0ae3af441ae5a019c6b70745cd"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
