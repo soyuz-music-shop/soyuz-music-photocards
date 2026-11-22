@@ -12456,6 +12456,18 @@
         0.0,
         0.0
       ]
+    },
+    "127538513": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDMRED237",
+      "originals_sha256": [
+        "a67573bcfce9dca6c417a57eccfdcb1ae9dada37705e2882a32ea04f32e5963e",
+        "4098c82f78225f8b95084b63e2c987e985cdea04e6eadb93d3942f64689c5785",
+        "dd925985f5c6ae3282952fb07cfb1c46e0145a06dc5438c5a78d473dc762bc0f",
+        "b9babf2966857420e20111497937117c92478e91d9972c1f01faa6904968c396"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
