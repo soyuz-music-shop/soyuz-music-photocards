@@ -20521,6 +20521,15 @@
         0.0,
         0.0
       ]
+    },
+    "391243841": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KL0602537439430",
+      "originals_sha256": [
+        "7690109dc7f3325a76861913ca859d731842e5ee614afa9f6a0d9483ff47f61a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
