@@ -18300,7 +18300,7 @@
       ]
     },
     "354754009": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HOSPLP001",
       "originals_sha256": [
@@ -18317,7 +18317,12 @@
         "29a9467a9ebec9ea039357f7130e322a829535a8d62f57082c42d2dc49f90c37"
       ],
       "before_count": 11,
-      "task_id": 6101795787
+      "task_id": 6101795787,
+      "after_count": 13,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
