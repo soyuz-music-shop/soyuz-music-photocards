@@ -14159,14 +14159,15 @@
       ]
     },
     "224655337": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTOP1531",
       "originals_sha256": [
         "d273c189c71455adb7b3dcd35d76f4af70ec95c51b70873e16d9190ef5d70a43",
         "d241bc05648639c7a41b95438200667951190e638fc09bec8cb495eba8e5efb8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101197964
     }
   },
   "reason": null
