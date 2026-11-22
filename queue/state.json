@@ -11984,6 +11984,17 @@
         0.0,
         0.0
       ]
+    },
+    "121253552": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2206",
+      "originals_sha256": [
+        "023ca83520c36451a05096963dedff79ac85a87c1491ce951fe8a5fc3140106c",
+        "12f24de1d48d1a54c5d8ceb94ece928d8710a4cf6787480b873f1c166cd7b774",
+        "b53cad3234767b8edd44a18d9611d0901c01df45976f762258b65cb685950815"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
