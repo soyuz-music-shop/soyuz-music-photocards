@@ -22727,6 +22727,11 @@
         0.0,
         0.0
       ]
+    },
+    "444018237": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Ozon /v3/product/info/list connection URLError"
     }
   },
   "reason": null
