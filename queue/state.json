@@ -21334,7 +21334,7 @@
       ]
     },
     "399338301": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RNB0731454736428",
       "originals_sha256": [
@@ -21342,7 +21342,12 @@
         "2c85aa7754cbd6a8cf922318f28c3d4ced84e11afe6a235f24221f0f6ad819a3"
       ],
       "before_count": 2,
-      "task_id": 6102142569
+      "task_id": 6102142569,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
