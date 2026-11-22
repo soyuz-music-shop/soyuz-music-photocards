@@ -12550,14 +12550,15 @@
       ]
     },
     "135547456": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP017",
       "originals_sha256": [
         "d57999b6aada776627c73580ec6611051491c6c89f5134baa315d5f27b96e5f1",
         "567a1d68b2c1bdcef72221af7fd196bfae060c7f356493572d51b005e44b3df3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097845291
     }
   },
   "reason": null
