@@ -21535,6 +21535,15 @@
         0.0,
         0.0
       ]
+    },
+    "408914691": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MA0602557009637",
+      "originals_sha256": [
+        "6fdf8973a287b248d27cd3a15606c8fbb1e039b50653f12dd14e870ff3e0bb0b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
