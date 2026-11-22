@@ -16368,7 +16368,7 @@
       ]
     },
     "323565096": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SOM 407D",
       "originals_sha256": [
@@ -16378,7 +16378,8 @@
         "0c6a98406a9e9ab7ba7a32db636c24a0d82bf330059d282958f780d03ed14953",
         "382774fac3df45fca8d394b086c3d30f50b0f5f93362024c1973cef9d29a7d6c"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6101529291
     }
   },
   "reason": null
