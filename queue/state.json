@@ -22737,6 +22737,11 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info connection URLError"
+    },
+    "444039880": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Ozon /v2/product/pictures/info connection URLError"
     }
   },
   "reason": null
