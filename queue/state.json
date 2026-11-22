@@ -22270,7 +22270,7 @@
       ]
     },
     "441420675": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MS4034677231579",
       "originals_sha256": [
@@ -22280,7 +22280,12 @@
         "0c0c330ce867583dae6246fe0f9fcbd15bd826e27a2692a3c7d7986c858a5781"
       ],
       "before_count": 4,
-      "task_id": 6102227829
+      "task_id": 6102227829,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
