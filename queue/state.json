@@ -18267,7 +18267,7 @@
       ]
     },
     "354023278": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AF0040DP",
       "originals_sha256": [
@@ -18275,7 +18275,12 @@
         "4e143900fcfb1fbfa4ac82573a19493e8b51cb4a9e36301012d02d2267c095c4"
       ],
       "before_count": 2,
-      "task_id": 6101789839
+      "task_id": 6101789839,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
