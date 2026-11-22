@@ -19874,14 +19874,15 @@
       ]
     },
     "376073974": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACC0042281098727",
       "originals_sha256": [
         "d5fdcbbeb2300b030d90def47e84685238c39ea6ea86de78c74787eed4b89781",
         "6404f6eb62c5c4d6f07f6537d52110206fe750de8b440b55111ff1b497bac260"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102005145
     }
   },
   "reason": null
