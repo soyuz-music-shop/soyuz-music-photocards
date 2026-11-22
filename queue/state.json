@@ -12867,6 +12867,17 @@
         0.0,
         0.0
       ]
+    },
+    "143787101": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CAD3535CD",
+      "originals_sha256": [
+        "db841ef5351c17e505bb923b40dd6bc2258af3f6fe153f9ffa50011d25fa034f",
+        "d47656ec4263ab59fa7dd83d59cebdf2e300fc714e928daf835ad2fbdf8bd8a7",
+        "929bbd0e7c250acdea4b53f0ebf8b46dd40f5f27e82b10d35e40b7ce7c2c3264"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
