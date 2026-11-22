@@ -14361,7 +14361,7 @@
       ]
     },
     "232972511": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MRGCD474",
       "originals_sha256": [
@@ -14372,7 +14372,12 @@
         "f26ca74fac5519895825d0930af0249c007c3eece05e426bbe130feac550a3bf"
       ],
       "before_count": 5,
-      "task_id": 6101226502
+      "task_id": 6101226502,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
