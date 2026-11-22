@@ -13334,7 +13334,7 @@
       ]
     },
     "160982190": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "REWIGCD160",
       "originals_sha256": [
@@ -13345,7 +13345,8 @@
         "8ab71945d6eb5071fb20523b43d822cd6fad97baa799ee860836c49f2ee4e1e9",
         "04703c18458d6e251fde5f7fa80c0ac714abc4937fd7911db746a13b6e2fd9dc"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6101098410
     }
   },
   "reason": null
