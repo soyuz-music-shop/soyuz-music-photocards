@@ -15543,7 +15543,7 @@
       ]
     },
     "301075993": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2189",
       "originals_sha256": [
@@ -15552,7 +15552,12 @@
         "e169887178dc180ec3fda7d1ed9471b417fd9f0e10488eca405926fc442dfd32"
       ],
       "before_count": 3,
-      "task_id": 6101406441
+      "task_id": 6101406441,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
