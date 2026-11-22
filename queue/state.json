@@ -12228,7 +12228,7 @@
       ]
     },
     "123227096": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDLEM205",
       "originals_sha256": [
@@ -12236,7 +12236,8 @@
         "4298e143633d84499c9e12e1577eb7f21cc856c8c7cef0a904a9fd1ddbeea5fc",
         "ee4e248097768b15390d93ef8318a920cccdd5c23c951b793859877eae7d4236"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097814345
     }
   },
   "reason": null
