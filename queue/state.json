@@ -12194,7 +12194,7 @@
       ]
     },
     "122782216": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM203",
       "originals_sha256": [
@@ -12203,7 +12203,12 @@
         "f376c7b42056cf03d797db093be08dfe359dddce63613a1385846f63136e4e0c"
       ],
       "before_count": 3,
-      "task_id": 6097811977
+      "task_id": 6097811977,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
