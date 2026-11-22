@@ -15346,7 +15346,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "300546731": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2637",
       "originals_sha256": [
@@ -15354,7 +15354,12 @@
         "0ed59924bbcab3e234b2e815069904c17726b00575d29d6f0e97e1e5583dd960"
       ],
       "before_count": 2,
-      "task_id": 6101373075
+      "task_id": 6101373075,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
