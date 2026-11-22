@@ -17891,6 +17891,17 @@
         0.0,
         0.0
       ]
+    },
+    "347570273": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP385",
+      "originals_sha256": [
+        "21cc1b60f80a7355f354226465cf12abbca6f09204322dde23496e5e8a5f1271",
+        "e234248182a38a9090e3626b27a24718d0af5ecfb047e870d7e14e8eb05d5729",
+        "69ebaf0d003e5691d09feec0357a996f1d4a49a4d51df84dc372191235633464"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
