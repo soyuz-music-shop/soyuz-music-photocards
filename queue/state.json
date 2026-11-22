@@ -21677,6 +21677,16 @@
         0.0,
         0.0
       ]
+    },
+    "419257771": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SK75678637803",
+      "originals_sha256": [
+        "7da52440135ef3cf681b62bb8e031c23f5d626f1c4432075ceb52017b7423400",
+        "6fa513be790dbb87a4e646028e24d819cf9c71b875b70dd8631a1a58a56a0a78"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
