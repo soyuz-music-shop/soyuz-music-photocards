@@ -16349,6 +16349,17 @@
         0.0,
         0.0
       ]
+    },
+    "323531269": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PSYCH021CD",
+      "originals_sha256": [
+        "f3ee7243dace9782582ffc3646ddc5ad41d2fef604bc346001b0ee73cd4fc9e9",
+        "2c469be0c74ee4501f0339eec8041f3aac9fef779f84457cdd0e04e7108b14ba",
+        "b37d1fe099c65a0a8466b7699e21d8fe816d4ac823346129a66e909de155b86b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
