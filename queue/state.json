@@ -18212,6 +18212,16 @@
         0.0,
         0.0
       ]
+    },
+    "353305140": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMBTL00602435789507",
+      "originals_sha256": [
+        "3dacf4be6be47d00154cc519725f38b6f95bc9aa1a8dac9b65b04f6fcee7f7f7",
+        "0fedfd97103b9a3ce3183c2b275280e78c50e86cb9d35796a44c1fdb4179efdf"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
