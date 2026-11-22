@@ -22480,6 +22480,19 @@
         0.0,
         0.0
       ]
+    },
+    "442580485": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP455",
+      "originals_sha256": [
+        "6aab6b9f1dbee1bf25e037b70c958dbe1e3c988d04be7c6a4446c063f9700c87",
+        "47c542a794d4457575edc744c107aa99cacac884d5e4a571b9ec2a47d3529580",
+        "bdd176b00b14e01ede3feb207672e287e6cd31e3508e08d5b6d1948d1bf46222",
+        "7f3afb6fcf9acbc1b53123fa715b8f18ed5811007ec0a0f68565c3e1d2e723fa",
+        "1f8bd61892efde135f3f8ee63d5f90c15c31f257fa0c6627d1b2ef3493585087"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
