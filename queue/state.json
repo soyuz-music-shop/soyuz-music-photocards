@@ -16795,7 +16795,7 @@
       ]
     },
     "330522340": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MUS 81287-2",
       "originals_sha256": [
@@ -16803,7 +16803,12 @@
         "c26ca0930cc6c7919f139a9b806078f6ea2396b38e7997cb695327aca6f5a079"
       ],
       "before_count": 2,
-      "task_id": 6101582553
+      "task_id": 6101582553,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
