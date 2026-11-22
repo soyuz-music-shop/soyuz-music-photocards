@@ -17515,6 +17515,19 @@
         0.0,
         0.0
       ]
+    },
+    "335377582": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RMS60252729669",
+      "originals_sha256": [
+        "8f27672bbf1cc23357d86e177b853d4ef10f7fdbba65e0531785f5bd4f87fac2",
+        "230022ebb4d9acfbf870a3724082a14a13667536a13fb26dbc9a62730cd46de6",
+        "6fea060372bcdc90ae5c76557fe2de05a786e850c2214adf5d0d438d4f9f733b",
+        "dcec65278123423b532d8c2f9edc2d81cc4946132e66647bfacd312cafd1067a",
+        "1d1f14dbd83575714549f432418a1c7a2c2e3373eeb31114444bbaa88dcdf635"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
