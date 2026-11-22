@@ -12835,7 +12835,7 @@
       ]
     },
     "141711981": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BBL65CD",
       "originals_sha256": [
@@ -12843,7 +12843,8 @@
         "ea9ae594f1b89223d1c452ec089efedde5adf7bbf196fe97200ec17c654ef298",
         "c4b75cd4105baebe706d4e9aad0d97e511a98fe87b6431ddb7741814575267c2"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097873348
     }
   },
   "reason": null
