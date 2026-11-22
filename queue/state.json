@@ -12884,6 +12884,19 @@
         0.0,
         0.0
       ]
+    },
+    "143994928": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE1504LP",
+      "originals_sha256": [
+        "89186fb77f786fcac21671ef9215b4a214b896c849c036e0ff1268a174b01172",
+        "160e21bfb4364f6368c9645a55a315edb2b151a983f2803578e766a2e029f83a",
+        "3c789de7ed01421cf934d96aec93494e3fe902c03350ae9a3752312d7f8bdb68",
+        "0c1c10e00b38f82530911f1c865cdff5d76e81a6d894b738ce14866af95816ba",
+        "22e11019653bde69a3a4ff28ab9280533be632acf7a122c44a7e2a07e8481b38"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
