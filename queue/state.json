@@ -18198,7 +18198,7 @@
       ]
     },
     "353244267": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMAW00602438623037",
       "originals_sha256": [
@@ -18206,7 +18206,12 @@
         "a7f25c697223e0b10bcb3004dedd532010525d5a31777da5fc2bb71abe769222"
       ],
       "before_count": 2,
-      "task_id": 6101780470
+      "task_id": 6101780470,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
