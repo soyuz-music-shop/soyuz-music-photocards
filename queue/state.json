@@ -14765,7 +14765,7 @@
       ]
     },
     "278565966": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "Ears069",
       "originals_sha256": [
@@ -14774,7 +14774,12 @@
         "266390bb9bd83347da0adf7399074384fd3f6ee0e87e9a4f7adf0b5d06e82709"
       ],
       "before_count": 3,
-      "task_id": 6101279710
+      "task_id": 6101279710,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
