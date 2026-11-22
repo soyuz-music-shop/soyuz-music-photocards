@@ -22101,13 +22101,14 @@
       ]
     },
     "435604007": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "FO372CD",
       "originals_sha256": [
         "ab13a6e6818741f10f36ea3e9e2bdb52517284a8d3155e263eaf25813141a147"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6102212983
     }
   },
   "reason": null
