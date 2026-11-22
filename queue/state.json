@@ -13205,7 +13205,7 @@
       ]
     },
     "153361134": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XL936CD",
       "originals_sha256": [
@@ -13213,7 +13213,13 @@
         "149fc396dac4f66545683b33723cf32fae1a75329ffdc03323f1674c9cdcc104"
       ],
       "before_count": 2,
-      "task_id": 6101078921
+      "task_id": 6101078921,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ],
+      "recovered_after_interrupted_run": true
     },
     "6961317504": {
       "status": "verified_previous_pilot",
