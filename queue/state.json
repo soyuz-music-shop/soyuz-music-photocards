@@ -14885,7 +14885,7 @@
       ]
     },
     "289090721": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE11241",
       "originals_sha256": [
@@ -14896,7 +14896,8 @@
         "8660e1af6aeaa58168973d3fea730598fce507af879e108789e0550ab6f78f12",
         "a2b22b1e5e6be8ca1e9f45d6d90a9207fc790653371c99294bac0ce42e1c4d38"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6101299785
     }
   },
   "reason": null
