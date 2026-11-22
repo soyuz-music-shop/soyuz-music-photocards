@@ -13619,14 +13619,15 @@
       ]
     },
     "170868364": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SPV 241242 CD",
       "originals_sha256": [
         "2e8e16507247fbf6c006d5cfa009d49d1825cec623ed0b875bf2f2b6403e6338",
         "4e003c5f46be8e5f0263d9e89a58e5e5cd02f145780d08c35a29d039390f678e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101129405
     }
   },
   "reason": null
