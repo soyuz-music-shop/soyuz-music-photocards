@@ -13074,7 +13074,7 @@
       "source": "pilot/ozon-6961317504.json"
     },
     "149076890": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4620107933689",
       "originals_sha256": [
@@ -13082,7 +13082,12 @@
         "fe4f7bf18ead7e0c86f5328c95c73b9d4ce39c9d082b594544df2112796a4fac"
       ],
       "before_count": 2,
-      "task_id": 6101062235
+      "task_id": 6101062235,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
