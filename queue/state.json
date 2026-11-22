@@ -13060,6 +13060,15 @@
         0.0,
         0.0
       ]
+    },
+    "149027752": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD0010CD",
+      "originals_sha256": [
+        "0c19bfcbc3c7562441362ec255661f000cb67c8d701d0bdbc1b229ac43bec480"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
