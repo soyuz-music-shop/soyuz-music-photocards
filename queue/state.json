@@ -19183,7 +19183,7 @@
       ]
     },
     "371356188": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NN0602547378781",
       "originals_sha256": [
@@ -19196,7 +19196,12 @@
         "6d8d0f4b09e15f58c30c206275c2761f65c069256f64cb231bb385109cf64cdd"
       ],
       "before_count": 7,
-      "task_id": 6101916617
+      "task_id": 6101916617,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
