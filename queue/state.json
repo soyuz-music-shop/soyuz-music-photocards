@@ -17693,7 +17693,7 @@
       ]
     },
     "345256123": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP880",
       "originals_sha256": [
@@ -17701,7 +17701,8 @@
         "b6756bddcbc66cd828e65a3e215ee7445bef9c2c19d6876ebfc71f7506e837b2",
         "4bff0fe5a9658a543affa0d00e4c261233a1ce84a035e5a43d339f3a2bfa8334"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101708048
     }
   },
   "reason": null
