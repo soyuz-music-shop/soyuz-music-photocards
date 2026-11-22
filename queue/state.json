@@ -12678,6 +12678,17 @@
         0.0,
         0.0
       ]
+    },
+    "137098857": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP 066",
+      "originals_sha256": [
+        "41c075f4cd2913a87b178fcaf4ac4c9c34448d1daae0231bcb1ec1541e5c4b65",
+        "6310c0e5b341d53a03d5eff4ebf8b1b1627b9c64b5c8262604035199c149b10b",
+        "2c351656b23411fbc18cd5345b0f79575b92c37950a5c6fb8eae54c2891b4f70"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
