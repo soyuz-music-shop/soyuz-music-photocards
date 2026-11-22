@@ -21988,7 +21988,7 @@
       ]
     },
     "432529354": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TMR-139US",
       "originals_sha256": [
@@ -22002,7 +22002,8 @@
         "d401378480922b82ddac74c0c3bba8bba963f204c632285b5c513679361b653b",
         "d1d24cd9b204c9478f2ed862c3b2ca3aa2ead13ad4d90ab622bf74db37e34a09"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6102203200
     }
   },
   "reason": null
