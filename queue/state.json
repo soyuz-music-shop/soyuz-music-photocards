@@ -21502,6 +21502,17 @@
         0.0,
         0.0
       ]
+    },
+    "405728067": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DP0600753635872",
+      "originals_sha256": [
+        "b2598da6422560eaea83e575cbf6fcdb4b71ce3e7c0846ca24f73c60945f5d5e",
+        "cde74e63c496017a622cafac667ab15ced61423f1a7cc2825ab3fb6524efc826",
+        "b3b26944ce0c0c19498c7cb4ea55b4a60b78935beb248645f61bfdaf1e7ee4e6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
