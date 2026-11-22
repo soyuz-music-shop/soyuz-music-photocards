@@ -16368,7 +16368,7 @@
       ]
     },
     "323565096": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOM 407D",
       "originals_sha256": [
@@ -16379,7 +16379,12 @@
         "382774fac3df45fca8d394b086c3d30f50b0f5f93362024c1973cef9d29a7d6c"
       ],
       "before_count": 5,
-      "task_id": 6101529291
+      "task_id": 6101529291,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
