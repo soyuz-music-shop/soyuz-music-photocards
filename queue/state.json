@@ -20943,14 +20943,15 @@
       ]
     },
     "395579561": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NRVN0720642450420",
       "originals_sha256": [
         "d7ca48be25ebe7acb5f27418d8c87b8a8e9e042c44a987210f23a0a1b789aef2",
         "e40e54b639fbf382d5bc12b3752e07b244f6b5e4005699fc762a75184ad480d8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102107249
     }
   },
   "reason": null
