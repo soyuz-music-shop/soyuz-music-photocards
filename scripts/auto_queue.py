@@ -310,6 +310,48 @@ def run_one(item,known,state):
             pause(state,pid,"Verification read failed: "+type(exc).__name__)
         raise
 
+def recover_imported(state, ids):
+    """Read-only gallery reconciliation after a durable imported status."""
+    pending=[(pid,rec) for pid,rec in state["items"].items()
+             if pid in ids and rec.get("status")=="imported"]
+    if not pending:
+        return
+    known=images()
+    for pid,rec in pending:
+        variant=rec.get("variant")
+        original_hashes=rec.get("originals_sha256") or []
+        before=rec.get("before_count")
+        if variant not in SAFE_VARIANTS or not isinstance(before,int) or len(original_hashes)!=before:
+            pause(state,int(pid),"Imported record lacks safe verification metadata")
+            raise RuntimeError("Cannot reconcile imported record without original hashes")
+        for _ in range(12):
+            info=photo_api.single(photo_api.post("/v3/product/info/list",
+                                                 {"product_id":[int(pid)]}))
+            if str(info.get("id") or info.get("product_id"))!=pid or info.get("offer_id")!=rec.get("offer_id"):
+                pause(state,int(pid),"Imported record identity mismatch")
+                raise RuntimeError("Imported identity mismatch")
+            after=gallery(info)
+            if len(after)!=before+2:
+                time.sleep(5)
+                continue
+            if [hashlib.sha256(u.encode()).hexdigest() for u in after[:before]]!=original_hashes:
+                pause(state,int(pid),"Imported record original photo order changed")
+                raise RuntimeError("Imported original gallery changed")
+            actual=[photo_api.thumb(photo_api.get(u)) for u in after[-2:]]
+            d1=photo_api.dist(actual[0],known[variant+".png"])
+            d2=photo_api.dist(actual[1],known["packaging.png"])
+            if d1>=25 or d2>=25:
+                pause(state,int(pid),"Imported record visual mismatch")
+                raise RuntimeError("Imported images do not match approved templates")
+            set_status(state,int(pid),"verified",after_count=len(after),
+                       photo_distances=[round(d1,3),round(d2,3)],
+                       recovered_after_interrupted_run=True)
+            print("RECOVERED_VERIFIED",pid)
+            break
+        else:
+            pause(state,int(pid),"Imported gallery not confirmed after retry")
+            raise RuntimeError("Imported gallery not confirmed")
+
 def summary(known_total,state):
     counts=collections.Counter(x.get("status","?") for x in state["items"].values())
     done=len([x for x in state["items"] if x in known_total])
@@ -335,6 +377,7 @@ def main():
     items=plan["items"]
     ids={str(x["id"]) for x in items}
     if len(ids)!=len(items):raise RuntimeError("Duplicate IDs in queue catalog")
+    recover_imported(state,ids)
     unresolved=[k for k,v in state["items"].items() if k in ids and v.get("status") in STOP_STAGES]
     if unresolved:
         pause(state,int(unresolved[0]),"Prior write needs manual verification")
