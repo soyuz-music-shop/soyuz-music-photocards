@@ -22304,13 +22304,14 @@
       ]
     },
     "441811991": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IRM5054197157608",
       "originals_sha256": [
         "0c1c6c6732cb528da9a7bacea364e98e4d9701fd35abb6f10e72f0a81308f3bb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6102231367
     }
   },
   "reason": null
