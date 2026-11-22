@@ -12886,7 +12886,7 @@
       ]
     },
     "143994928": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE1504LP",
       "originals_sha256": [
@@ -12896,7 +12896,8 @@
         "0c1c10e00b38f82530911f1c865cdff5d76e81a6d894b738ce14866af95816ba",
         "22e11019653bde69a3a4ff28ab9280533be632acf7a122c44a7e2a07e8481b38"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097877528
     }
   },
   "reason": null
