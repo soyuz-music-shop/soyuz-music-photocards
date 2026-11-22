@@ -21248,7 +21248,7 @@
       ]
     },
     "398520179": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MDN0603497859344",
       "originals_sha256": [
@@ -21257,7 +21257,12 @@
         "1adcebccc53ff5b0f5a7cde0863b0dfe4377ee949464c2fecc1317d3057937e3"
       ],
       "before_count": 3,
-      "task_id": 6102135137
+      "task_id": 6102135137,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
