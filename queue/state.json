@@ -17517,7 +17517,7 @@
       ]
     },
     "335377582": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RMS60252729669",
       "originals_sha256": [
@@ -17527,7 +17527,8 @@
         "dcec65278123423b532d8c2f9edc2d81cc4946132e66647bfacd312cafd1067a",
         "1d1f14dbd83575714549f432418a1c7a2c2e3373eeb31114444bbaa88dcdf635"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6101682766
     }
   },
   "reason": null
