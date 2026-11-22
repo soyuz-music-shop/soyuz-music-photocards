@@ -16005,7 +16005,7 @@
       ]
     },
     "304569551": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2870",
       "originals_sha256": [
@@ -16013,7 +16013,12 @@
         "2e132b4b0ed718ce7c2fb90454e81a214815d9409276fcc64dfb21f2ffe6bfe7"
       ],
       "before_count": 2,
-      "task_id": 6101477918
+      "task_id": 6101477918,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
