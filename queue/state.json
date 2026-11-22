@@ -17331,6 +17331,17 @@
         0.0,
         0.0
       ]
+    },
+    "334581265": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD14065",
+      "originals_sha256": [
+        "23516f32ef48927a4ebfc9d326c9793925c2ea6cb0c47d72a3c68ef0db2a4897",
+        "2fc49884dfeeecefe2698ca14a35d059c2b9abf4438838b59d5ee4f8248fd802",
+        "37b4c665f5d3b95c765b66558ac953e2044f80819b92414c5e8f0f22ecd95a98"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
