@@ -21317,7 +21317,7 @@
       ]
     },
     "399260016": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PMC0888072352711",
       "originals_sha256": [
@@ -21326,7 +21326,12 @@
         "4fd0e366e420dc9849afafd8aa7cd31d3dc1bdad15b40787eff9ca2f51d4957c"
       ],
       "before_count": 3,
-      "task_id": 6102141153
+      "task_id": 6102141153,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
