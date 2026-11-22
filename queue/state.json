@@ -16420,7 +16420,7 @@
       ]
     },
     "324052611": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BC212",
       "originals_sha256": [
@@ -16428,7 +16428,12 @@
         "15873878cb1b9f7bc29207f2dbd8293e5e74537c325d48356fff548d6cf5fd52"
       ],
       "before_count": 2,
-      "task_id": 6101535284
+      "task_id": 6101535284,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
