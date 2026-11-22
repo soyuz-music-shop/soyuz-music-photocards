@@ -16484,6 +16484,16 @@
         0.0,
         0.0
       ]
+    },
+    "327168938": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TECD344",
+      "originals_sha256": [
+        "1abf462da1ced162888f8b156c1af532ba83e9d6697637f530f0365ec05e05ac",
+        "5caad02a5b2fc5964a3362e52043e1542b7df91fdccfc0f18256a7a1501332a2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
