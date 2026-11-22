@@ -14340,6 +14340,19 @@
         0.0,
         0.0
       ]
+    },
+    "232938070": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MRGCD354",
+      "originals_sha256": [
+        "a705453c0f617a32dee5ad39e1d1a0e8bb4bcaa6323783be832a49bae4092bb4",
+        "2273fcfe16a9e99036c8bdd56b591edb8a0cde74ac993dac5b48bee9f34ab603",
+        "c15175296099baf1a8d789a7bcbf52bc955ff5cf040ac30cc6372118104dc7a4",
+        "6122c35332819ff87b4056327b24e13f679ee89d6fa212747138d71ce9102ff2",
+        "4309cac9f5119bc36ae880e8d60e9ab772c2e6eaa082a426be42194e377829bc"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
