@@ -14428,7 +14428,7 @@
       ]
     },
     "241399848": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MIG2282",
       "originals_sha256": [
@@ -14436,7 +14436,12 @@
         "f2ff0690cca71d105f47e559eaca9a87759b96971220ca6600166187e6bfe372"
       ],
       "before_count": 2,
-      "task_id": 6101235466
+      "task_id": 6101235466,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
