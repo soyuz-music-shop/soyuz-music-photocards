@@ -13177,14 +13177,15 @@
       ]
     },
     "153130299": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RUG799T",
       "originals_sha256": [
         "bf032eb98a096918a0f95d458c3dcd8fe3ad465ea596b04438cd756a565b04e1",
         "bcfddb8560edbc04483b6410bf112355b4d81b69050c4b2294d269d7d24aec82"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101074560
     }
   },
   "reason": null
