@@ -16237,7 +16237,7 @@
       ]
     },
     "313224854": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ZYX82983-2",
       "originals_sha256": [
@@ -16245,7 +16245,12 @@
         "a78974de276b41b72639d124268d9c6bd515f7d7542b658a67cae8f42f1e43a0"
       ],
       "before_count": 2,
-      "task_id": 6101512074
+      "task_id": 6101512074,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
