@@ -12263,7 +12263,7 @@
       ]
     },
     "123340307": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QECLEC22748",
       "originals_sha256": [
@@ -12275,7 +12275,12 @@
         "73b239ce5db9bbbcba932500d2f961c264a6d8d677d71b1ef028360ecb286c78"
       ],
       "before_count": 6,
-      "task_id": 6097817845
+      "task_id": 6097817845,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
