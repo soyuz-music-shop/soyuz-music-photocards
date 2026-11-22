@@ -21212,6 +21212,16 @@
         0.0,
         0.0
       ]
+    },
+    "398438475": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KS0731453238121",
+      "originals_sha256": [
+        "53b65aa9acf27098f7a98a613b4ac2200748598e7cd9dbc21c088f2db78fc381",
+        "c768ce16987b49794fe6cd104246929b7b0c3d92f50f0677e307195bf9f8ac05"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
