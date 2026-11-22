@@ -12458,7 +12458,7 @@
       ]
     },
     "127538513": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDMRED237",
       "originals_sha256": [
@@ -12467,7 +12467,8 @@
         "dd925985f5c6ae3282952fb07cfb1c46e0145a06dc5438c5a78d473dc762bc0f",
         "b9babf2966857420e20111497937117c92478e91d9972c1f01faa6904968c396"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097837367
     }
   },
   "reason": null
