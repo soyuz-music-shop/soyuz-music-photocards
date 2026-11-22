@@ -20081,6 +20081,16 @@
         0.0,
         0.0
       ]
+    },
+    "384516685": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JL0600753570951",
+      "originals_sha256": [
+        "6aca58cd670d08ae125198ffc8b1c6c5243c79da7fc264edfea070752e1c53cf",
+        "3308524dacc09e9639233e64caa3fb0137015a41336442c0e8befd78c946c3f5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
