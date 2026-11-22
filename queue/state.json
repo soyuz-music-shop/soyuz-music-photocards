@@ -14342,7 +14342,7 @@
       ]
     },
     "232938070": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MRGCD354",
       "originals_sha256": [
@@ -14352,7 +14352,8 @@
         "6122c35332819ff87b4056327b24e13f679ee89d6fa212747138d71ce9102ff2",
         "4309cac9f5119bc36ae880e8d60e9ab772c2e6eaa082a426be42194e377829bc"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6101224409
     }
   },
   "reason": null
