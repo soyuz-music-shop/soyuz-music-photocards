@@ -18489,7 +18489,7 @@
       ]
     },
     "357400602": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TMR752A1",
       "originals_sha256": [
@@ -18503,7 +18503,8 @@
         "4b3bddb43ca6681967669c675a5b4f527e012373f5d37e6ba26c93bb59403f50",
         "bbe8abe533e14467e0d4232ce48f393d5085877ebe193879a14e61073164ecf8"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6101820501
     }
   },
   "reason": null
