@@ -13107,13 +13107,14 @@
       ]
     },
     "150517640": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP480",
       "originals_sha256": [
         "bdf6faa580cbb44def60ee3eed80c513c36d5caa0b1ebdcec46aacc607a6a037"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6101066454
     }
   },
   "reason": null
