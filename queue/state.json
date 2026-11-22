@@ -12566,7 +12566,7 @@
       ]
     },
     "136206034": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PSALM23105",
       "originals_sha256": [
@@ -12575,7 +12575,12 @@
         "4addfccf304c8aea34c860b9feb00c133cac4d2a71b3ed07b9e6f458b83dec0c"
       ],
       "before_count": 3,
-      "task_id": 6097846828
+      "task_id": 6097846828,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
