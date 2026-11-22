@@ -21762,7 +21762,7 @@
       ]
     },
     "422438661": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "INFECT701ELP",
       "originals_sha256": [
@@ -21772,7 +21772,8 @@
         "e08b225fe6965525ec008879b6e04818b7fc8c8738c6257e4fffb0fcaa304110",
         "4affab23342753cee98d942fe7e6a1a9409828ff0f15c731a41178c1b6233c9e"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6102182684
     }
   },
   "reason": null
