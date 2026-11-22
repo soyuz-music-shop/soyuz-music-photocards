@@ -13090,7 +13090,7 @@
       ]
     },
     "149080932": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PURE10LP",
       "originals_sha256": [
@@ -13099,7 +13099,12 @@
         "b026e2dc3b5cd8dc3c71729435ea266ebb23b22ce2f00f2df1030e445d7a7ed8"
       ],
       "before_count": 3,
-      "task_id": 6101064805
+      "task_id": 6101064805,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
