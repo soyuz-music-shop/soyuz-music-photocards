@@ -22085,7 +22085,7 @@
       ]
     },
     "435585114": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "FO351CD",
       "originals_sha256": [
@@ -22093,7 +22093,12 @@
         "8147664e5190a634dad1be56bf6dd885d87a533c6c892483804875db587a270f"
       ],
       "before_count": 2,
-      "task_id": 6102211800
+      "task_id": 6102211800,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
