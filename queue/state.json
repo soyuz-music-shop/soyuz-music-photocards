@@ -21366,7 +21366,7 @@
       ]
     },
     "400156272": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RS0602527016450",
       "originals_sha256": [
@@ -21374,7 +21374,8 @@
         "00c4205d0bae2df84efaf878aba0da2d9ab7ab033a73ad75b1c9f68c8fd42013",
         "195f0554abd05bcb6d7606ed181ba3c4b305e1fb0d25d31961dacf7d7b983897"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6102145426
     }
   },
   "reason": null
