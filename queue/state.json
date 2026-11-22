@@ -12664,7 +12664,7 @@
       ]
     },
     "137094190": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHM 1409",
       "originals_sha256": [
@@ -12672,7 +12672,12 @@
         "9e8c0d0f8939bee76216778f66b10e04cef4cbe4848a06b7cf9c35f9b619e8a6"
       ],
       "before_count": 2,
-      "task_id": 6097855009
+      "task_id": 6097855009,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
