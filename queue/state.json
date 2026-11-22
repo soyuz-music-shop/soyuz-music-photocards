@@ -16760,6 +16760,17 @@
         0.0,
         0.0
       ]
+    },
+    "330473685": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FIT 10007-2",
+      "originals_sha256": [
+        "4f5676e30509856e6af963c63e8abc3a8b81867e8c1243164b538779d8e7113a",
+        "8a15469cd210f06d1297597a1d804d695026c1360d7f0d84b17624d87dd0e5e6",
+        "9073d9764b313aafdc1e889f3d24e058e6fa621f43d5293205a9eac2507590fa"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
