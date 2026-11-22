@@ -21400,7 +21400,7 @@
       ]
     },
     "400649394": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVCL013",
       "originals_sha256": [
@@ -21409,7 +21409,12 @@
         "e5c4abd8917349c382aa995f89befe2a2982f3fd4ac353b5552360627c793025"
       ],
       "before_count": 3,
-      "task_id": 6102148059
+      "task_id": 6102148059,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
