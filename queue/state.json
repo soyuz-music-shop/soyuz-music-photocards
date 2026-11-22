@@ -12157,6 +12157,18 @@
         0.0,
         0.0
       ]
+    },
+    "121954290": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IF007LP",
+      "originals_sha256": [
+        "0480d4d54e830d082fd8a591aef2a5069a6b03d9fd8023a92269c2b4b8604494",
+        "15456751f9d52728e472097e74d70999735af221d04971c819420812725ef0f5",
+        "f419c0c183591eb1e80e962bb0a6d575ca3fa167352103f303301d0cb475c52b",
+        "c4ce161d9efe543ba01d1bb35474b343fa3d178aff8244cd340c36fe4cf30ab8"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
