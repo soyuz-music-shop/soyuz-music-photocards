@@ -12850,6 +12850,17 @@
         0.0,
         0.0
       ]
+    },
+    "143360849": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YT098",
+      "originals_sha256": [
+        "b24a11e5403b423c9ecf016f71b0078b288ccd5ae74b4eb7a501c5f65a6a6a97",
+        "94a475e2d21ea1459a3292752b60d5b495acca3f9e6715166e266fdc3538c125",
+        "01be0319786fe48ed1c1935625835f857d4b3630f4f187c955dcfa68cd0a8a87"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
