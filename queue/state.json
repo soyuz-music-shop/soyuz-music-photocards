@@ -20398,6 +20398,16 @@
         0.0,
         0.0
       ]
+    },
+    "389932141": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MDN0081227973568",
+      "originals_sha256": [
+        "783510da5a213cdffb3e6bbfd4296276221e7bacdf230cb97219dc7fa774de48",
+        "b1703a56172df1752eb997319115a03fd89df84029f7e2961028b2b10794a21f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
