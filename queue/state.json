@@ -12819,7 +12819,7 @@
       ]
     },
     "141300523": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD3510",
       "originals_sha256": [
@@ -12827,7 +12827,12 @@
         "7ab525095875b19e692fd55ec4abed17a3c498ca1ff6446d509e28a87d1dcf6b"
       ],
       "before_count": 2,
-      "task_id": 6097871933
+      "task_id": 6097871933,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
