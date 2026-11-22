@@ -14695,7 +14695,7 @@
       ]
     },
     "272717286": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CD-MMG031",
       "originals_sha256": [
@@ -14703,7 +14703,8 @@
         "5baa7be4e64807bbb9dd95c4b573828da4f2b7f2ae747581ff03f6ff54c33061",
         "3d8230e112fb73ade95e23f0ec3679ea5043d72b5521a378bbf544080e7e6a1d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101272171
     }
   },
   "reason": null
