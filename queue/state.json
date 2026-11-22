@@ -16387,7 +16387,7 @@
       ]
     },
     "324005911": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FREEM5031",
       "originals_sha256": [
@@ -16396,7 +16396,12 @@
         "413c7ce9f8fa0f4307ecf820bac8811f55cab1ef2708b3c265825c7c1b26c0b6"
       ],
       "before_count": 3,
-      "task_id": 6101531152
+      "task_id": 6101531152,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
