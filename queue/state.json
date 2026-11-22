@@ -17416,7 +17416,7 @@
       ]
     },
     "335224812": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FTM60243893647",
       "originals_sha256": [
@@ -17424,7 +17424,12 @@
         "95ef9b5af6e135f91fb3034236fc3303da4c7ed8d8833987432e857fe727bcc7"
       ],
       "before_count": 2,
-      "task_id": 6101667432
+      "task_id": 6101667432,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
