@@ -20924,6 +20924,17 @@
         0.0,
         0.0
       ]
+    },
+    "395520306": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NRVN0602537502950",
+      "originals_sha256": [
+        "1248d30e0d3094a11a6442b9dbb0469a71eda2415c07644a2465556c0bcc5860",
+        "5df9d277c0c1d1520520ee185f21b2eae0d133f7582b30f78183732cf4226d94",
+        "8cb3915e7796c315f1bb3da81c923dc1dcefea5dd8c71bda602d6e7bac949116"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
