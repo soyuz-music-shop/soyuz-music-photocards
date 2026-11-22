@@ -14885,7 +14885,7 @@
       ]
     },
     "289090721": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OLE11241",
       "originals_sha256": [
@@ -14897,7 +14897,12 @@
         "a2b22b1e5e6be8ca1e9f45d6d90a9207fc790653371c99294bac0ce42e1c4d38"
       ],
       "before_count": 6,
-      "task_id": 6101299785
+      "task_id": 6101299785,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
