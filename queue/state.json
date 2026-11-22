@@ -21315,6 +21315,17 @@
         0.0,
         0.0
       ]
+    },
+    "399260016": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PMC0888072352711",
+      "originals_sha256": [
+        "919bee158ac01ad747ddc631b3e7978122f408e82fef319701d54260bdb51acf",
+        "616d124b5201bbac85415d3a031cee47c136044ab7c6e1ee9d2b2a16432379d0",
+        "4fd0e366e420dc9849afafd8aa7cd31d3dc1bdad15b40787eff9ca2f51d4957c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
