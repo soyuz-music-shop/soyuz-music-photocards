@@ -12597,6 +12597,17 @@
         0.0,
         0.0
       ]
+    },
+    "136780453": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGPD 1041",
+      "originals_sha256": [
+        "3d785268f55da64aeb45845612eb5ab390f30ba2e2c3286d8ab97e2844e5bb40",
+        "31ec448558cf3232875a5209304675a12213a3736d024e7a440f7eaf717095b3",
+        "1d1e44bea1897c1fd86cb4323c6a1f5cbbb80f2d2460367acc58cbdc2743f4ef"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
