@@ -19288,7 +19288,7 @@
       ]
     },
     "372040163": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MTLC0602557156416",
       "originals_sha256": [
@@ -19297,7 +19297,12 @@
         "dfff948354bed9fa96f4057758e05e93fde39df72940684a30c360db56db70a6"
       ],
       "before_count": 3,
-      "task_id": 6101929995
+      "task_id": 6101929995,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
