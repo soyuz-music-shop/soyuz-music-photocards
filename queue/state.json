@@ -12550,7 +12550,7 @@
       ]
     },
     "135547456": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP017",
       "originals_sha256": [
@@ -12558,7 +12558,12 @@
         "567a1d68b2c1bdcef72221af7fd196bfae060c7f356493572d51b005e44b3df3"
       ],
       "before_count": 2,
-      "task_id": 6097845291
+      "task_id": 6097845291,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
