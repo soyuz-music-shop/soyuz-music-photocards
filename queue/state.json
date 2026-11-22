@@ -22420,7 +22420,7 @@
       ]
     },
     "442426581": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AHA194399822920",
       "originals_sha256": [
@@ -22433,7 +22433,12 @@
         "1fa672c9945c4ede225d4e805444d11c6b8d2d9bdf698b34fd41e359f64a615b"
       ],
       "before_count": 7,
-      "task_id": 6102242114
+      "task_id": 6102242114,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
