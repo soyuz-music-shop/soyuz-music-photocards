@@ -21742,7 +21742,7 @@
       ]
     },
     "420508131": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNC196587445027",
       "originals_sha256": [
@@ -21754,7 +21754,12 @@
         "16b7c57b2c3f719a39887da4313fa476d081877540c917f5f776cb2549507377"
       ],
       "before_count": 6,
-      "task_id": 6102180930
+      "task_id": 6102180930,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
