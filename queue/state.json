@@ -17247,6 +17247,16 @@
         0.0,
         0.0
       ]
+    },
+    "334008210": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CDG60075354843",
+      "originals_sha256": [
+        "7b022a7476496c63414f9cb04186d0d323f9feb505baad08e894fc5ff6345f47",
+        "697ad22cd2f7a1a9d7386978c08814f8ee39a42b877358fdc59a0d570e7ba4a1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
