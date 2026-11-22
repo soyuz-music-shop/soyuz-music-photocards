@@ -13399,7 +13399,7 @@
       ]
     },
     "161456271": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2 074",
       "originals_sha256": [
@@ -13412,7 +13412,12 @@
         "8fe1bf337ed7f7e5e686c8263bd4b0da0325865eae92a800987beb3bd13ff0d7"
       ],
       "before_count": 7,
-      "task_id": 6101105013
+      "task_id": 6101105013,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
