@@ -1,14 +1,10 @@
 {
   "schema": 1,
-  "phase": "paused",
+  "phase": "active",
   "items": {
     "20807385": {
       "status": "verified_previous_pilot",
       "source": "pilot/ozon-20807385.json"
-    },
-    "6961317504": {
-      "status": "verified_previous_pilot",
-      "source": "pilot/ozon-6961317504.json"
     },
     "20811913": {
       "status": "protected_previous_run",
@@ -30,22 +26,425 @@
       "source": "batch1/status.json",
       "previous_stage": "verified"
     },
+    "20812274": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065137234",
+      "originals_sha256": [
+        "87ff8cb7663c4936e023346c3681477c0ce8bf47e3492822a8ae43f7a318739c",
+        "f219eee3605630730d6d6ba8c85e4cc326d5a893d5bfdc0a47c210e0c7e9a792"
+      ],
+      "before_count": 2,
+      "task_id": 6097173262,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20812349": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065135728",
+      "originals_sha256": [
+        "fa2c101bbf2d2c82e7ddd48e400ce12e19059eac7208a129e8bba3e57e62c088",
+        "1c72fa5c7d5492a5eb924d2e12b58a1a30118ef01a00f56cb8324065f1b3b7b4",
+        "914fb90bf78f35ec64128c12186ad7adf90260c97e1bf836194fa172c9925824"
+      ],
+      "before_count": 3,
+      "task_id": 6097174378,
+      "after_count": 5,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20812441": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065137210",
+      "originals_sha256": [
+        "e1643c830355f4cd79575b2df4a2f6efa25e85f176423056510f14aa688e177c"
+      ],
+      "before_count": 1,
+      "task_id": 6097175380,
+      "after_count": 3,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20823159": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065138064",
+      "originals_sha256": [
+        "41456721047c5a45cd1401b580543a68afa4d05d5aa65bbe7e6678f8049723d0",
+        "c7d5f4380441b9d01ff4d9829c3e178789397631895f57708253cc1531655269"
+      ],
+      "before_count": 2,
+      "task_id": 6097176480,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20823259": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065136671",
+      "originals_sha256": [
+        "b3272657e3542755598849a429b74f992bc8d6d702620abb03d5de7e3aed90fa",
+        "d4b02b33184efd8e7e8ec67fa210e695d0c14cd2d8ed167475bead4ba2a7f2d8"
+      ],
+      "before_count": 2,
+      "task_id": 6097177520,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20823309": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065138057",
+      "originals_sha256": [
+        "74a32e3b891004ebca00844d4100b68edbbe38e54ca968da5d8c541a18753112",
+        "991665daa60864631dba06c533664b98deff0d01009b9f50651a686510c15856"
+      ],
+      "before_count": 2,
+      "task_id": 6097178625,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "20823603": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065138088",
+      "originals_sha256": [
+        "87c6b7409b65be9dc80ca65a4f27f4d345dc195b2d92016ecc437acd5efa248e",
+        "55100a28b81d7e49e2329b4c280b925e3bff687f4cde6689e022ca6fe5e1197a"
+      ],
+      "before_count": 2,
+      "task_id": 6097179569,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21060471": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065138316",
+      "originals_sha256": [
+        "dab605212582ff4f578556cac84dc2c3a34dd15f474603fd25b257d7a803298f",
+        "1905ae1b9d53f6f3cf8ca715e304d4d091fee1e868017639bd9837b9594ca413"
+      ],
+      "before_count": 2,
+      "task_id": 6097180472,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21078682": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065139221",
+      "originals_sha256": [
+        "3cf370f2d11371d2a6dd98cec85702fc9faebc873285a31ffc32b4254dc5be35",
+        "b5893c3f1eafa833193b070ee20b45475d6cb18e9b2728fcfa1e5efbb9d9f578"
+      ],
+      "before_count": 2,
+      "task_id": 6097182254,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21179793": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065138095",
+      "originals_sha256": [
+        "a63785a11f0aa8db4c4ab3ee0ba04e68f1c4560094de6efcac4784a18abfd1e1",
+        "e02a9e9a10837a86b4fbb7a7111d2dc671ca73df9325aae5f8da03f62b01fbb4"
+      ],
+      "before_count": 2,
+      "task_id": 6097183247,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21198864": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038840093",
+      "originals_sha256": [
+        "604377b0e2fe0d59d7e62eef3157bb8213e233ba890db1a5c3dee6e0e1ab5589",
+        "74ce99e51ca8bd8039566691797fb08a98583c7fa2d6ce2f58264fdefc798322"
+      ],
+      "before_count": 2,
+      "task_id": 6097184607,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21198865": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038840291",
+      "originals_sha256": [
+        "6d282277b3171f00a69d02aa9f16d5ae4a600840e8698bb628f21b3249611f25",
+        "2a8b9d2692e33cb7604a5048fc25333eb48b99795bc4751c6217a5f24cd82028"
+      ],
+      "before_count": 2,
+      "task_id": 6097185532,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21198866": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038840116",
+      "originals_sha256": [
+        "9d393e5d72ea0aad136e34815a32214e872296cad839f039dc0bf3195116b159",
+        "25595de856931f78cd4c1d11c3607430c3140db79f3da918f2f6388dc9e91f7b"
+      ],
+      "before_count": 2,
+      "task_id": 6097186360,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21198867": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038840109",
+      "originals_sha256": [
+        "a1028d3cb21e2228551e8ac801969077b1241bb9b63d7ce7270612e827ac8c2c",
+        "77765741cbcb8f9904657030307dda26654058dc0b00f684ade892bb6c4cd53d"
+      ],
+      "before_count": 2,
+      "task_id": 6097187246,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21260031": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038847061",
+      "originals_sha256": [
+        "79a15f3eb0e8211616d952c440dafdb1d813961868de459757f95ea2a8fb9e5d",
+        "862d9f2eec88754cd4e0305965ec1bde7cb3b0844c4fffdd789365d2de9d3b1f"
+      ],
+      "before_count": 2,
+      "task_id": 6097188138,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21261723": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038847818",
+      "originals_sha256": [
+        "26f470ca0d954016b38695a3090acd6bdb8763a46cf28a1a1a9d8783331a2d58",
+        "b748ffc54ccb519e9e8b82b1696bf9b0e950535e3ec85c7d7b94d187d209d408"
+      ],
+      "before_count": 2,
+      "task_id": 6097189106,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21262878": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4650062361333",
+      "originals_sha256": [
+        "31b198ac2270bf76c37ad0b454386749b2054d1dfa2c42a017a27ad1dde26e11",
+        "2d7a33d6298555f1201bb9dc09bd6ccbae3c264ce659b73aaf040118f650d9e6",
+        "fcc1a0a985f3d6543575a6b102b872b63ab53dd6ad4c2cf8d493650bb0d5326e",
+        "ddad33600bb2822f3163b39fbbce7ca532c96e77d3d583d6b8afda35bceff9ab"
+      ],
+      "before_count": 4,
+      "task_id": 6097190645,
+      "after_count": 6,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21262982": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038847627",
+      "originals_sha256": [
+        "8f4d0359cb155d43a174a251370a0f5103a8f27ab4e503df2963cc552b492f99",
+        "473660678a288fe3b88a58fc5c0231a6a34e73ef13ac9e8bc985c160fa524855"
+      ],
+      "before_count": 2,
+      "task_id": 6097191740,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21263845": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027699918",
+      "originals_sha256": [
+        "fb9477e1a5f096c5f31be613f13c304ec367599fb1bf0a538f10c2a1b2b258c0",
+        "e5ed4c2059f0b5f12341d5ba0c48f7536a4dc30927e0fa2f86ad4ab2bd6eb6ff"
+      ],
+      "before_count": 2,
+      "task_id": 6097192907,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21264712": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4680017663021",
+      "originals_sha256": [
+        "28e3ef6747d4e10704e644a2b0e13f224ddeb31623ad98f5f3c8d87b0c6f3cf1",
+        "b4c2382ea4989791e71820def903dd791e172d19f553890b5c786b6ecfaa76e9"
+      ],
+      "before_count": 2,
+      "task_id": 6097193727,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21388804": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038845418",
+      "originals_sha256": [
+        "2ea8a96150b1bb7073a27ebb598e53d559153079d947109728bd2827f5087e83",
+        "81fb2070a971407334fcbb76a66519f716fa93d60ca33c14d05981d6c8f3d157"
+      ],
+      "before_count": 2,
+      "task_id": 6097194550,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21388838": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065134110",
+      "originals_sha256": [
+        "6fc095e7144827d933bb1dcd0784284cd533544b36ce468497aba907fee7dcb0",
+        "d5dab5db57f9984f5b016c6c601d68574d91fa139ce20be9aaed1c18ab30818d"
+      ],
+      "before_count": 2,
+      "task_id": 6097195403,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21388868": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038846095",
+      "originals_sha256": [
+        "87e22921b2fa270055d2b9436bee40aa00b06e48f38493637841af7c2a1c8352",
+        "2dc81409bdb7f237e4147b7ba5688fdb8edf59ab561aa4dbad639cc85e4cb581"
+      ],
+      "before_count": 2,
+      "task_id": 6097196275,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21389195": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038847504",
+      "originals_sha256": [
+        "2d7068c13c9ee3f99a7dc7bd1b7dcff13d7c1aced4ff08de8b5a75068fca090e",
+        "933fb25ff280b3684dfaefa8a10833cec012b3b5d11a1e8615941e57dab19a37"
+      ],
+      "before_count": 2,
+      "task_id": 6097197143,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21390336": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027698546",
+      "originals_sha256": [
+        "2877b6c803c83424f69bd317c0651a2f639d0733efa5aeae908f2b7cf3050015",
+        "ec6fd08ef869896eccb5adf64c7fc73a65e850ad2de5ea6d6db20857e2b5a2b8"
+      ],
+      "before_count": 2,
+      "task_id": 6097199042,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21391416": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065134226",
+      "originals_sha256": [
+        "a40d709ef5c93ecf1b13b994d5604daee95634b69ddba4ae63e7d4d24fca2a4d",
+        "3dd719275ca102e5037df7c1178462c4f439a7dd3009a7b919a8a74b2cccc52a"
+      ],
+      "before_count": 2,
+      "task_id": 6097200026,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
     "21476982": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "21770915": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "21771092": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "22722226": {
       "status": "protected_previous_run",
       "source": "stage2/upload-state.json",
       "previous_stage": "verified"
@@ -54,6 +453,443 @@
       "status": "protected_previous_run",
       "source": "stage2/upload-state.json",
       "previous_stage": "verified"
+    },
+    "21770779": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027690731",
+      "originals_sha256": [
+        "e7820624879695ba00ced22b9144d445ab5fe4c0bb91f319488c863bb7322a39",
+        "07e11b58f9e98cdeb2eef5040e61b25bde6bef8eaa6542d7431f9f73410a75ad",
+        "1d729a986e206058e906f44cb4d05e87321e385d9c1cd4d8d5eba0b29c4649bd",
+        "1fd6e8627272c1a199c0b0bf6902f1f698f22054cdcbdfaa3b83d49c81acf891"
+      ],
+      "before_count": 4,
+      "task_id": 6097201011,
+      "after_count": 6,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21770915": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "21770954": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038842158",
+      "originals_sha256": [
+        "e071eef8c28b5abee9d3b2711124198b44aadba69fc5192f8b55095d58f88552",
+        "5232da8121f2af0c22350be8a5c1ea5a2308f4fb3ded6377c735e127b1f4f528",
+        "b05ef42555d54636d3f78d93c9202459177f28c954654016c6b85505191b93ec",
+        "aca9f1b658f3bd8dead36a6e3337e8c989285066c8aee9189924a6b4aba2b92b",
+        "9166180dbb445cbc195fcaa8515499bb58737c43ee0b0d64f1838b49b460b1e8"
+      ],
+      "before_count": 5,
+      "task_id": 6097202056,
+      "after_count": 7,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771056": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065132857",
+      "originals_sha256": [
+        "a2ed1c4b7876915c3e6fd4037311fdbc13a87a466c1e975f74c3e6128096096e",
+        "4c29493749c86b6fecda4adf1987fc3c1aafbfbbebc0cfdd32346175af5c5cbd"
+      ],
+      "before_count": 2,
+      "task_id": 6097203139,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771092": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "21771123": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027696665",
+      "originals_sha256": [
+        "c4ad8b764be94c7db85d20dcc074f0139c1b0f8076cc686a9e465a4ae4a83997",
+        "3b3918174cc347002d47e8d98749c0c2b8f5f52b9d1f2d6fc4c6ab4ca1ce0177",
+        "0f5fe828a5728e57d5115f607270203b068357287b2a3300f46425ffe1fc5507",
+        "fddf4431fdafa1fb9fa9b60f3b20d5f7784821d14054475615fcc36715df9f7b"
+      ],
+      "before_count": 4,
+      "task_id": 6097204094,
+      "after_count": 6,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771310": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4601250358307",
+      "originals_sha256": [
+        "899e70b93e93d908260b822ea1d5d882b423b7b3d7ae0c107ab0acb57002a66e",
+        "aadcf9d8f401cbdb2faa76816a3dc66ae068cbfe4bb1a2d7501444bf7b9f2a90",
+        "7d53c9dd75901e616f942de6cdcd2236dca6313f42fe971364bb324a3ccfbb8e",
+        "419da95e89821b1d5ba0718f5500744ab3ded36f9a4a6b947e367dceea459b95"
+      ],
+      "before_count": 4,
+      "task_id": 6097205154,
+      "after_count": 6,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771419": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065134844",
+      "originals_sha256": [
+        "83c18cbd7e330fa578c5ec20e52270462aaeae2b031490282b9a148a90b8bc9e",
+        "be49261be68928ebfc86f29d9cff9ecec457527e27536500fed93aa88fb7ede6"
+      ],
+      "before_count": 2,
+      "task_id": 6097206146,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771487": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038841649",
+      "originals_sha256": [
+        "b1292d0c12a855cc0a96e211eebf0d804c56b25ab7e9ef111a430c4335bf0d01",
+        "ac628dae4e20af83d04a6778ffa2347a9d8107fba1a3fe133a3cd43718befc1f",
+        "2e86ff88793d268c480fbefc455fb370dae5a6c6cd48dc1a286baced2bf2f602"
+      ],
+      "before_count": 3,
+      "task_id": 6097207994,
+      "after_count": 5,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21771526": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065130433SM",
+      "originals_sha256": [
+        "7d276f54cc73c849305dd74828f541734a325253b70015f38df4874a3fce3288",
+        "3fd84b7a9ce2238b89c8c0486f90abe46885bb026b2bc8d054542ec0a19aafe2"
+      ],
+      "before_count": 2,
+      "task_id": 6097208938,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21772101": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4601250372068",
+      "originals_sha256": [
+        "5991670531e3285573f13b986b9bce2e8812bf4cf02fcfe27083cd9baf09c22a",
+        "416f5db9695f4e5aca0cfad3a22de1a2892c3d057688f9df772e860432025393",
+        "d90c975a3cecdf1f86e4f5023ba0aa1a58484aee5173005b0397b6880a1f5692",
+        "d8533602184db6c57b7cb065cceb1992e2a0d3e7b77b09630f7b64f48a1d0c9f",
+        "bad3ba594788e775a3d23235dae5b803a8316ca86dc3c9ae24b0a0fea44dc7f8",
+        "6f69063ccda718b3cb7a2836c54dd330078e50e41f94ff389c7f0b9f0ed6c049"
+      ],
+      "before_count": 6,
+      "task_id": 6097209805,
+      "after_count": 8,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21772931": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038849447",
+      "originals_sha256": [
+        "c02b8fcf59c646590a1d0689e2ddbe0ee113e59e661b66d3db8209c2d3939891",
+        "a52f72cfab444bdb95e57b5388f32b20d55e834638f9ce6ef2d57de69ffe79b9"
+      ],
+      "before_count": 2,
+      "task_id": 6097210588,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773092": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038849942",
+      "originals_sha256": [
+        "781f257fd946409d2f98686ac45ac3b150cc0c6232f1a1543159a21d2b70208f",
+        "123e8b7417d14f130c597cc83921f39abf44e4c146f9a402b161b095af3fb085"
+      ],
+      "before_count": 2,
+      "task_id": 6097211457,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773122": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065130174",
+      "originals_sha256": [
+        "6817bf4480ba96012a7e7819624343f525dc4ddb719fcd15c927d92e391a4f07",
+        "9b48012d7bb46c739115505768b6b081010fc4c8724fd1cae79461e1b64657b0"
+      ],
+      "before_count": 2,
+      "task_id": 6097212216,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773176": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4650075218433",
+      "originals_sha256": [
+        "c69ca6fd61badf310ce1832710506fa54db54374bcc168d2121f81bf38b70070",
+        "52ed9dfe5a02229746506b42c24e90d5b219eab6434f54bd8685105b028af254"
+      ],
+      "before_count": 2,
+      "task_id": 6097212918,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773191": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027691806",
+      "originals_sha256": [
+        "bc09dedda503650495df643d006839e384e66b73ce2e97ab60ca93f188cd5f93",
+        "1875195d54b5d0ca32fbcf4feebc0c40ca3157a2e165575be83e3b3f327a1e9e",
+        "3bc5fe3f17c08f43b01b6613f1951642a607f6072fb4a4eb9d021d92cf7338bf"
+      ],
+      "before_count": 3,
+      "task_id": 6097213775,
+      "after_count": 5,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773213": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4601250358284",
+      "originals_sha256": [
+        "ad4d80fb8627e54145f3bd3453de64745ee6ed0aa04b9571429015a279e0c4d0",
+        "8aad8f1145d4475f13ec751b86bfa90031e06512eec449501f304127335be034"
+      ],
+      "before_count": 2,
+      "task_id": 6097215437,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21773552": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4680017668408",
+      "originals_sha256": [
+        "e8675950ac4c4f7f882dccc58a185eaf050835bf41f86e0116989d0a793566d2",
+        "c0cff0ff6be01f5cf18c23d151e628b7bbed4e964cd97c45930f5496cf4496de",
+        "deb61289c8154c4cc009e3f3d64d958231c58750d4be41ff8738f1839f60f621",
+        "52ce6a61c575e946fd133b93116046af2d60956deb659e7f020d5e959f3b9c73",
+        "992bec9b9e48770ba75bd6298ab31fd02043c6e39f6dbc35514ab23d0066ceb9"
+      ],
+      "before_count": 5,
+      "task_id": 6097216597,
+      "after_count": 7,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21849803": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065131959",
+      "originals_sha256": [
+        "a52b8e383a6d58a25f3eebe37b6a1b2e1b61a9bd4892cf0215e49b74ef7d5947",
+        "c65d3a3862a09aaabe0370f03ee5aca42e3a401b79f3184d749992cdb854a1d2"
+      ],
+      "before_count": 2,
+      "task_id": 6097217944,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21849935": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027699727",
+      "originals_sha256": [
+        "ba41b134473ce1eab89ff115a88962c8e3d9885bb54c2298c7e64cd4aafa0b9a",
+        "dad8295b292d606cb1a7ce5a0352445f1bbea35ab3a6e7991b64d1c3a2c5ca8f"
+      ],
+      "before_count": 2,
+      "task_id": 6097218826,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21849958": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027692117",
+      "originals_sha256": [
+        "56282343883cfa067185ef33b6dbd238d92469defef3e5e7c0f44dde67726d62",
+        "2936cd0fb1a67c889fd7d7ce6818e7fb4285f9f808c301d74dc0f1a7e390650d",
+        "2ffceda11866215863ef6c806233bc7c4434475dbc735cd9bb72f3543e42e022",
+        "459ab87cfd8c7a460f12a54cdc6be3bc7dba446ce76d2995f40e09fb37d1076f",
+        "cda98e9861ee8ee5897f5e70987c8623ac748fe61e692a8eab9a1a42ef54a170"
+      ],
+      "before_count": 5,
+      "task_id": 6097219792,
+      "after_count": 7,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21849978": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065130969",
+      "originals_sha256": [
+        "393529713db8b915015ccc7160619b27bafd22f06e5a399b92787198952a3ef5",
+        "58fa471a463cdcb070c6af567ea027c8fd75282739b555ae0d97b39006ca084d"
+      ],
+      "before_count": 2,
+      "task_id": 6097220592,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21850056": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630038842813",
+      "originals_sha256": [
+        "e35366cdf3b6bbf63bc8452d52a5ba8a752c890dc7eab02c13dff2c3a8e0f5e0",
+        "8d1c69b0c693652921c0433ff4cee08f0466f3d4c0df1be3185300f359c72209",
+        "947fc1e708bc90d1029c40989753043bdf217e96a00d0fee5ba592dd63a7db10",
+        "c0b81031fe81345f4d43c84da2177ee43be6f118131f88169eee535256666a9a",
+        "6767e36bad6b497520a0db024aca3f6ece42a731a715be6f2ca1efbc9536ce96"
+      ],
+      "before_count": 5,
+      "task_id": 6097221989,
+      "after_count": 7,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21851003": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4601250375625",
+      "originals_sha256": [
+        "ddcbcd15e81ddebdfa8ba654fac2ee0cd014867aa6ae203124c893f3143d0c76",
+        "b7ef8d36f68c2aa49b809c6cfb4359832443e4b8f4703ea1b96e300290233627"
+      ],
+      "before_count": 2,
+      "task_id": 6097222648,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21851319": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4610027694586",
+      "originals_sha256": [
+        "294bfeae6fd6989760f400baaa2c29a1b851bdee56fd72914a68bcd684a3e48a",
+        "3153308b74664e43ddba61de0d2a510b0240a355f716bca41ac22f202e7ddaad",
+        "e989c1a83f5a3fabf4f2537341fa37eefeafb8fe3dcbb9b5af2ddbf151ba555b"
+      ],
+      "before_count": 3,
+      "task_id": 6097224120,
+      "after_count": 5,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21851327": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4630065131980",
+      "originals_sha256": [
+        "840489623926b9ecd1ccafac6dbf26cb814d3b5e2925e148d59b1427f5bf3edf",
+        "3b378b75e6d04746082eb385c524105570a1679a71f9b03c813dd3a3691ef4ad"
+      ],
+      "before_count": 2,
+      "task_id": 6097224985,
+      "after_count": 4,
+      "photo_distances": [
+        0,
+        0
+      ]
+    },
+    "21851389": {
+      "status": "verified",
+      "variant": "cd-russian",
+      "offer_id": "4650075218570",
+      "originals_sha256": [
+        "c212decf85954ab160d93b5e6233e558fb471e209bc3ae23d38772cecc9df428",
+        "00a9d7a65183c6bc7f3d23b97b5bb76856c8cbd213de0ab63723808b67c91862",
+        "b8dff40a6d2204e095a2c6fa6a05882494f05639ce65b4933bd282d877bacc9f",
+        "d73335730bfe435017bcbbd076cd36ffeec17527a051fae4d9827d401dfc38c6"
+      ],
+      "before_count": 4,
+      "task_id": 6097225913,
+      "after_count": 6,
+      "photo_distances": [
+        0,
+        0
+      ]
     },
     "22497352": {
       "status": "protected_previous_run",
@@ -65,7 +901,7 @@
       "source": "stage2/upload-state.json",
       "previous_stage": "verified"
     },
-    "26605476": {
+    "22722226": {
       "status": "protected_previous_run",
       "source": "stage2/upload-state.json",
       "previous_stage": "verified"
@@ -90,871 +926,6 @@
       "source": "stage2/upload-state.json",
       "previous_stage": "verified"
     },
-    "27000301": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "27296267": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "27674626": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "27681324": {
-      "status": "protected_previous_run",
-      "source": "stage2/upload-state.json",
-      "previous_stage": "verified"
-    },
-    "20812274": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065137234",
-      "originals_sha256": [
-        "87ff8cb7663c4936e023346c3681477c0ce8bf47e3492822a8ae43f7a318739c",
-        "f219eee3605630730d6d6ba8c85e4cc326d5a893d5bfdc0a47c210e0c7e9a792"
-      ],
-      "before_count": 2,
-      "task_id": 6097173262,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20812349": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065135728",
-      "originals_sha256": [
-        "fa2c101bbf2d2c82e7ddd48e400ce12e19059eac7208a129e8bba3e57e62c088",
-        "1c72fa5c7d5492a5eb924d2e12b58a1a30118ef01a00f56cb8324065f1b3b7b4",
-        "914fb90bf78f35ec64128c12186ad7adf90260c97e1bf836194fa172c9925824"
-      ],
-      "before_count": 3,
-      "task_id": 6097174378,
-      "after_count": 5,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20812441": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065137210",
-      "originals_sha256": [
-        "e1643c830355f4cd79575b2df4a2f6efa25e85f176423056510f14aa688e177c"
-      ],
-      "before_count": 1,
-      "task_id": 6097175380,
-      "after_count": 3,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20823159": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065138064",
-      "originals_sha256": [
-        "41456721047c5a45cd1401b580543a68afa4d05d5aa65bbe7e6678f8049723d0",
-        "c7d5f4380441b9d01ff4d9829c3e178789397631895f57708253cc1531655269"
-      ],
-      "before_count": 2,
-      "task_id": 6097176480,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20823259": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065136671",
-      "originals_sha256": [
-        "b3272657e3542755598849a429b74f992bc8d6d702620abb03d5de7e3aed90fa",
-        "d4b02b33184efd8e7e8ec67fa210e695d0c14cd2d8ed167475bead4ba2a7f2d8"
-      ],
-      "before_count": 2,
-      "task_id": 6097177520,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20823309": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065138057",
-      "originals_sha256": [
-        "74a32e3b891004ebca00844d4100b68edbbe38e54ca968da5d8c541a18753112",
-        "991665daa60864631dba06c533664b98deff0d01009b9f50651a686510c15856"
-      ],
-      "before_count": 2,
-      "task_id": 6097178625,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "20823603": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065138088",
-      "originals_sha256": [
-        "87c6b7409b65be9dc80ca65a4f27f4d345dc195b2d92016ecc437acd5efa248e",
-        "55100a28b81d7e49e2329b4c280b925e3bff687f4cde6689e022ca6fe5e1197a"
-      ],
-      "before_count": 2,
-      "task_id": 6097179569,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21060471": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065138316",
-      "originals_sha256": [
-        "dab605212582ff4f578556cac84dc2c3a34dd15f474603fd25b257d7a803298f",
-        "1905ae1b9d53f6f3cf8ca715e304d4d091fee1e868017639bd9837b9594ca413"
-      ],
-      "before_count": 2,
-      "task_id": 6097180472,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21078682": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065139221",
-      "originals_sha256": [
-        "3cf370f2d11371d2a6dd98cec85702fc9faebc873285a31ffc32b4254dc5be35",
-        "b5893c3f1eafa833193b070ee20b45475d6cb18e9b2728fcfa1e5efbb9d9f578"
-      ],
-      "before_count": 2,
-      "task_id": 6097182254,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21179793": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065138095",
-      "originals_sha256": [
-        "a63785a11f0aa8db4c4ab3ee0ba04e68f1c4560094de6efcac4784a18abfd1e1",
-        "e02a9e9a10837a86b4fbb7a7111d2dc671ca73df9325aae5f8da03f62b01fbb4"
-      ],
-      "before_count": 2,
-      "task_id": 6097183247,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21198864": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038840093",
-      "originals_sha256": [
-        "604377b0e2fe0d59d7e62eef3157bb8213e233ba890db1a5c3dee6e0e1ab5589",
-        "74ce99e51ca8bd8039566691797fb08a98583c7fa2d6ce2f58264fdefc798322"
-      ],
-      "before_count": 2,
-      "task_id": 6097184607,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21198865": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038840291",
-      "originals_sha256": [
-        "6d282277b3171f00a69d02aa9f16d5ae4a600840e8698bb628f21b3249611f25",
-        "2a8b9d2692e33cb7604a5048fc25333eb48b99795bc4751c6217a5f24cd82028"
-      ],
-      "before_count": 2,
-      "task_id": 6097185532,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21198866": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038840116",
-      "originals_sha256": [
-        "9d393e5d72ea0aad136e34815a32214e872296cad839f039dc0bf3195116b159",
-        "25595de856931f78cd4c1d11c3607430c3140db79f3da918f2f6388dc9e91f7b"
-      ],
-      "before_count": 2,
-      "task_id": 6097186360,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21198867": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038840109",
-      "originals_sha256": [
-        "a1028d3cb21e2228551e8ac801969077b1241bb9b63d7ce7270612e827ac8c2c",
-        "77765741cbcb8f9904657030307dda26654058dc0b00f684ade892bb6c4cd53d"
-      ],
-      "before_count": 2,
-      "task_id": 6097187246,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21260031": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038847061",
-      "originals_sha256": [
-        "79a15f3eb0e8211616d952c440dafdb1d813961868de459757f95ea2a8fb9e5d",
-        "862d9f2eec88754cd4e0305965ec1bde7cb3b0844c4fffdd789365d2de9d3b1f"
-      ],
-      "before_count": 2,
-      "task_id": 6097188138,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21261723": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038847818",
-      "originals_sha256": [
-        "26f470ca0d954016b38695a3090acd6bdb8763a46cf28a1a1a9d8783331a2d58",
-        "b748ffc54ccb519e9e8b82b1696bf9b0e950535e3ec85c7d7b94d187d209d408"
-      ],
-      "before_count": 2,
-      "task_id": 6097189106,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21262878": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4650062361333",
-      "originals_sha256": [
-        "31b198ac2270bf76c37ad0b454386749b2054d1dfa2c42a017a27ad1dde26e11",
-        "2d7a33d6298555f1201bb9dc09bd6ccbae3c264ce659b73aaf040118f650d9e6",
-        "fcc1a0a985f3d6543575a6b102b872b63ab53dd6ad4c2cf8d493650bb0d5326e",
-        "ddad33600bb2822f3163b39fbbce7ca532c96e77d3d583d6b8afda35bceff9ab"
-      ],
-      "before_count": 4,
-      "task_id": 6097190645,
-      "after_count": 6,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21262982": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038847627",
-      "originals_sha256": [
-        "8f4d0359cb155d43a174a251370a0f5103a8f27ab4e503df2963cc552b492f99",
-        "473660678a288fe3b88a58fc5c0231a6a34e73ef13ac9e8bc985c160fa524855"
-      ],
-      "before_count": 2,
-      "task_id": 6097191740,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21263845": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027699918",
-      "originals_sha256": [
-        "fb9477e1a5f096c5f31be613f13c304ec367599fb1bf0a538f10c2a1b2b258c0",
-        "e5ed4c2059f0b5f12341d5ba0c48f7536a4dc30927e0fa2f86ad4ab2bd6eb6ff"
-      ],
-      "before_count": 2,
-      "task_id": 6097192907,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21264712": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4680017663021",
-      "originals_sha256": [
-        "28e3ef6747d4e10704e644a2b0e13f224ddeb31623ad98f5f3c8d87b0c6f3cf1",
-        "b4c2382ea4989791e71820def903dd791e172d19f553890b5c786b6ecfaa76e9"
-      ],
-      "before_count": 2,
-      "task_id": 6097193727,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21388804": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038845418",
-      "originals_sha256": [
-        "2ea8a96150b1bb7073a27ebb598e53d559153079d947109728bd2827f5087e83",
-        "81fb2070a971407334fcbb76a66519f716fa93d60ca33c14d05981d6c8f3d157"
-      ],
-      "before_count": 2,
-      "task_id": 6097194550,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21388838": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065134110",
-      "originals_sha256": [
-        "6fc095e7144827d933bb1dcd0784284cd533544b36ce468497aba907fee7dcb0",
-        "d5dab5db57f9984f5b016c6c601d68574d91fa139ce20be9aaed1c18ab30818d"
-      ],
-      "before_count": 2,
-      "task_id": 6097195403,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21388868": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038846095",
-      "originals_sha256": [
-        "87e22921b2fa270055d2b9436bee40aa00b06e48f38493637841af7c2a1c8352",
-        "2dc81409bdb7f237e4147b7ba5688fdb8edf59ab561aa4dbad639cc85e4cb581"
-      ],
-      "before_count": 2,
-      "task_id": 6097196275,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21389195": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038847504",
-      "originals_sha256": [
-        "2d7068c13c9ee3f99a7dc7bd1b7dcff13d7c1aced4ff08de8b5a75068fca090e",
-        "933fb25ff280b3684dfaefa8a10833cec012b3b5d11a1e8615941e57dab19a37"
-      ],
-      "before_count": 2,
-      "task_id": 6097197143,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21390336": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027698546",
-      "originals_sha256": [
-        "2877b6c803c83424f69bd317c0651a2f639d0733efa5aeae908f2b7cf3050015",
-        "ec6fd08ef869896eccb5adf64c7fc73a65e850ad2de5ea6d6db20857e2b5a2b8"
-      ],
-      "before_count": 2,
-      "task_id": 6097199042,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21391416": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065134226",
-      "originals_sha256": [
-        "a40d709ef5c93ecf1b13b994d5604daee95634b69ddba4ae63e7d4d24fca2a4d",
-        "3dd719275ca102e5037df7c1178462c4f439a7dd3009a7b919a8a74b2cccc52a"
-      ],
-      "before_count": 2,
-      "task_id": 6097200026,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21770779": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027690731",
-      "originals_sha256": [
-        "e7820624879695ba00ced22b9144d445ab5fe4c0bb91f319488c863bb7322a39",
-        "07e11b58f9e98cdeb2eef5040e61b25bde6bef8eaa6542d7431f9f73410a75ad",
-        "1d729a986e206058e906f44cb4d05e87321e385d9c1cd4d8d5eba0b29c4649bd",
-        "1fd6e8627272c1a199c0b0bf6902f1f698f22054cdcbdfaa3b83d49c81acf891"
-      ],
-      "before_count": 4,
-      "task_id": 6097201011,
-      "after_count": 6,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21770954": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038842158",
-      "originals_sha256": [
-        "e071eef8c28b5abee9d3b2711124198b44aadba69fc5192f8b55095d58f88552",
-        "5232da8121f2af0c22350be8a5c1ea5a2308f4fb3ded6377c735e127b1f4f528",
-        "b05ef42555d54636d3f78d93c9202459177f28c954654016c6b85505191b93ec",
-        "aca9f1b658f3bd8dead36a6e3337e8c989285066c8aee9189924a6b4aba2b92b",
-        "9166180dbb445cbc195fcaa8515499bb58737c43ee0b0d64f1838b49b460b1e8"
-      ],
-      "before_count": 5,
-      "task_id": 6097202056,
-      "after_count": 7,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771056": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065132857",
-      "originals_sha256": [
-        "a2ed1c4b7876915c3e6fd4037311fdbc13a87a466c1e975f74c3e6128096096e",
-        "4c29493749c86b6fecda4adf1987fc3c1aafbfbbebc0cfdd32346175af5c5cbd"
-      ],
-      "before_count": 2,
-      "task_id": 6097203139,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771123": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027696665",
-      "originals_sha256": [
-        "c4ad8b764be94c7db85d20dcc074f0139c1b0f8076cc686a9e465a4ae4a83997",
-        "3b3918174cc347002d47e8d98749c0c2b8f5f52b9d1f2d6fc4c6ab4ca1ce0177",
-        "0f5fe828a5728e57d5115f607270203b068357287b2a3300f46425ffe1fc5507",
-        "fddf4431fdafa1fb9fa9b60f3b20d5f7784821d14054475615fcc36715df9f7b"
-      ],
-      "before_count": 4,
-      "task_id": 6097204094,
-      "after_count": 6,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771310": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4601250358307",
-      "originals_sha256": [
-        "899e70b93e93d908260b822ea1d5d882b423b7b3d7ae0c107ab0acb57002a66e",
-        "aadcf9d8f401cbdb2faa76816a3dc66ae068cbfe4bb1a2d7501444bf7b9f2a90",
-        "7d53c9dd75901e616f942de6cdcd2236dca6313f42fe971364bb324a3ccfbb8e",
-        "419da95e89821b1d5ba0718f5500744ab3ded36f9a4a6b947e367dceea459b95"
-      ],
-      "before_count": 4,
-      "task_id": 6097205154,
-      "after_count": 6,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771419": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065134844",
-      "originals_sha256": [
-        "83c18cbd7e330fa578c5ec20e52270462aaeae2b031490282b9a148a90b8bc9e",
-        "be49261be68928ebfc86f29d9cff9ecec457527e27536500fed93aa88fb7ede6"
-      ],
-      "before_count": 2,
-      "task_id": 6097206146,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771487": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038841649",
-      "originals_sha256": [
-        "b1292d0c12a855cc0a96e211eebf0d804c56b25ab7e9ef111a430c4335bf0d01",
-        "ac628dae4e20af83d04a6778ffa2347a9d8107fba1a3fe133a3cd43718befc1f",
-        "2e86ff88793d268c480fbefc455fb370dae5a6c6cd48dc1a286baced2bf2f602"
-      ],
-      "before_count": 3,
-      "task_id": 6097207994,
-      "after_count": 5,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21771526": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065130433SM",
-      "originals_sha256": [
-        "7d276f54cc73c849305dd74828f541734a325253b70015f38df4874a3fce3288",
-        "3fd84b7a9ce2238b89c8c0486f90abe46885bb026b2bc8d054542ec0a19aafe2"
-      ],
-      "before_count": 2,
-      "task_id": 6097208938,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21772101": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4601250372068",
-      "originals_sha256": [
-        "5991670531e3285573f13b986b9bce2e8812bf4cf02fcfe27083cd9baf09c22a",
-        "416f5db9695f4e5aca0cfad3a22de1a2892c3d057688f9df772e860432025393",
-        "d90c975a3cecdf1f86e4f5023ba0aa1a58484aee5173005b0397b6880a1f5692",
-        "d8533602184db6c57b7cb065cceb1992e2a0d3e7b77b09630f7b64f48a1d0c9f",
-        "bad3ba594788e775a3d23235dae5b803a8316ca86dc3c9ae24b0a0fea44dc7f8",
-        "6f69063ccda718b3cb7a2836c54dd330078e50e41f94ff389c7f0b9f0ed6c049"
-      ],
-      "before_count": 6,
-      "task_id": 6097209805,
-      "after_count": 8,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21772931": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038849447",
-      "originals_sha256": [
-        "c02b8fcf59c646590a1d0689e2ddbe0ee113e59e661b66d3db8209c2d3939891",
-        "a52f72cfab444bdb95e57b5388f32b20d55e834638f9ce6ef2d57de69ffe79b9"
-      ],
-      "before_count": 2,
-      "task_id": 6097210588,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773092": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038849942",
-      "originals_sha256": [
-        "781f257fd946409d2f98686ac45ac3b150cc0c6232f1a1543159a21d2b70208f",
-        "123e8b7417d14f130c597cc83921f39abf44e4c146f9a402b161b095af3fb085"
-      ],
-      "before_count": 2,
-      "task_id": 6097211457,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773122": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065130174",
-      "originals_sha256": [
-        "6817bf4480ba96012a7e7819624343f525dc4ddb719fcd15c927d92e391a4f07",
-        "9b48012d7bb46c739115505768b6b081010fc4c8724fd1cae79461e1b64657b0"
-      ],
-      "before_count": 2,
-      "task_id": 6097212216,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773176": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4650075218433",
-      "originals_sha256": [
-        "c69ca6fd61badf310ce1832710506fa54db54374bcc168d2121f81bf38b70070",
-        "52ed9dfe5a02229746506b42c24e90d5b219eab6434f54bd8685105b028af254"
-      ],
-      "before_count": 2,
-      "task_id": 6097212918,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773191": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027691806",
-      "originals_sha256": [
-        "bc09dedda503650495df643d006839e384e66b73ce2e97ab60ca93f188cd5f93",
-        "1875195d54b5d0ca32fbcf4feebc0c40ca3157a2e165575be83e3b3f327a1e9e",
-        "3bc5fe3f17c08f43b01b6613f1951642a607f6072fb4a4eb9d021d92cf7338bf"
-      ],
-      "before_count": 3,
-      "task_id": 6097213775,
-      "after_count": 5,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773213": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4601250358284",
-      "originals_sha256": [
-        "ad4d80fb8627e54145f3bd3453de64745ee6ed0aa04b9571429015a279e0c4d0",
-        "8aad8f1145d4475f13ec751b86bfa90031e06512eec449501f304127335be034"
-      ],
-      "before_count": 2,
-      "task_id": 6097215437,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21773552": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4680017668408",
-      "originals_sha256": [
-        "e8675950ac4c4f7f882dccc58a185eaf050835bf41f86e0116989d0a793566d2",
-        "c0cff0ff6be01f5cf18c23d151e628b7bbed4e964cd97c45930f5496cf4496de",
-        "deb61289c8154c4cc009e3f3d64d958231c58750d4be41ff8738f1839f60f621",
-        "52ce6a61c575e946fd133b93116046af2d60956deb659e7f020d5e959f3b9c73",
-        "992bec9b9e48770ba75bd6298ab31fd02043c6e39f6dbc35514ab23d0066ceb9"
-      ],
-      "before_count": 5,
-      "task_id": 6097216597,
-      "after_count": 7,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21849803": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065131959",
-      "originals_sha256": [
-        "a52b8e383a6d58a25f3eebe37b6a1b2e1b61a9bd4892cf0215e49b74ef7d5947",
-        "c65d3a3862a09aaabe0370f03ee5aca42e3a401b79f3184d749992cdb854a1d2"
-      ],
-      "before_count": 2,
-      "task_id": 6097217944,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21849935": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027699727",
-      "originals_sha256": [
-        "ba41b134473ce1eab89ff115a88962c8e3d9885bb54c2298c7e64cd4aafa0b9a",
-        "dad8295b292d606cb1a7ce5a0352445f1bbea35ab3a6e7991b64d1c3a2c5ca8f"
-      ],
-      "before_count": 2,
-      "task_id": 6097218826,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21849958": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027692117",
-      "originals_sha256": [
-        "56282343883cfa067185ef33b6dbd238d92469defef3e5e7c0f44dde67726d62",
-        "2936cd0fb1a67c889fd7d7ce6818e7fb4285f9f808c301d74dc0f1a7e390650d",
-        "2ffceda11866215863ef6c806233bc7c4434475dbc735cd9bb72f3543e42e022",
-        "459ab87cfd8c7a460f12a54cdc6be3bc7dba446ce76d2995f40e09fb37d1076f",
-        "cda98e9861ee8ee5897f5e70987c8623ac748fe61e692a8eab9a1a42ef54a170"
-      ],
-      "before_count": 5,
-      "task_id": 6097219792,
-      "after_count": 7,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21849978": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065130969",
-      "originals_sha256": [
-        "393529713db8b915015ccc7160619b27bafd22f06e5a399b92787198952a3ef5",
-        "58fa471a463cdcb070c6af567ea027c8fd75282739b555ae0d97b39006ca084d"
-      ],
-      "before_count": 2,
-      "task_id": 6097220592,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21850056": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630038842813",
-      "originals_sha256": [
-        "e35366cdf3b6bbf63bc8452d52a5ba8a752c890dc7eab02c13dff2c3a8e0f5e0",
-        "8d1c69b0c693652921c0433ff4cee08f0466f3d4c0df1be3185300f359c72209",
-        "947fc1e708bc90d1029c40989753043bdf217e96a00d0fee5ba592dd63a7db10",
-        "c0b81031fe81345f4d43c84da2177ee43be6f118131f88169eee535256666a9a",
-        "6767e36bad6b497520a0db024aca3f6ece42a731a715be6f2ca1efbc9536ce96"
-      ],
-      "before_count": 5,
-      "task_id": 6097221989,
-      "after_count": 7,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21851003": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4601250375625",
-      "originals_sha256": [
-        "ddcbcd15e81ddebdfa8ba654fac2ee0cd014867aa6ae203124c893f3143d0c76",
-        "b7ef8d36f68c2aa49b809c6cfb4359832443e4b8f4703ea1b96e300290233627"
-      ],
-      "before_count": 2,
-      "task_id": 6097222648,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21851319": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4610027694586",
-      "originals_sha256": [
-        "294bfeae6fd6989760f400baaa2c29a1b851bdee56fd72914a68bcd684a3e48a",
-        "3153308b74664e43ddba61de0d2a510b0240a355f716bca41ac22f202e7ddaad",
-        "e989c1a83f5a3fabf4f2537341fa37eefeafb8fe3dcbb9b5af2ddbf151ba555b"
-      ],
-      "before_count": 3,
-      "task_id": 6097224120,
-      "after_count": 5,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21851327": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4630065131980",
-      "originals_sha256": [
-        "840489623926b9ecd1ccafac6dbf26cb814d3b5e2925e148d59b1427f5bf3edf",
-        "3b378b75e6d04746082eb385c524105570a1679a71f9b03c813dd3a3691ef4ad"
-      ],
-      "before_count": 2,
-      "task_id": 6097224985,
-      "after_count": 4,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
-    "21851389": {
-      "status": "verified",
-      "variant": "cd-russian",
-      "offer_id": "4650075218570",
-      "originals_sha256": [
-        "c212decf85954ab160d93b5e6233e558fb471e209bc3ae23d38772cecc9df428",
-        "00a9d7a65183c6bc7f3d23b97b5bb76856c8cbd213de0ab63723808b67c91862",
-        "b8dff40a6d2204e095a2c6fa6a05882494f05639ce65b4933bd282d877bacc9f",
-        "d73335730bfe435017bcbbd076cd36ffeec17527a051fae4d9827d401dfc38c6"
-      ],
-      "before_count": 4,
-      "task_id": 6097225913,
-      "after_count": 6,
-      "photo_distances": [
-        0.0,
-        0.0
-      ]
-    },
     "23364785": {
       "status": "verified",
       "variant": "cd-russian",
@@ -967,8 +938,8 @@
       "task_id": 6097226764,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "23872371": {
@@ -986,8 +957,8 @@
       "task_id": 6097227701,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "24043053": {
@@ -1005,8 +976,8 @@
       "task_id": 6097228539,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "24044529": {
@@ -1022,8 +993,8 @@
       "task_id": 6097229474,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "24207678": {
@@ -1039,8 +1010,8 @@
       "task_id": 6097230317,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26023903": {
@@ -1055,8 +1026,8 @@
       "task_id": 6097231659,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26024204": {
@@ -1072,8 +1043,8 @@
       "task_id": 6097232425,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26024530": {
@@ -1088,8 +1059,8 @@
       "task_id": 6097233082,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26024603": {
@@ -1104,8 +1075,8 @@
       "task_id": 6097233761,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26024841": {
@@ -1120,8 +1091,8 @@
       "task_id": 6097234475,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26025642": {
@@ -1136,8 +1107,8 @@
       "task_id": 6097235196,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26026138": {
@@ -1152,8 +1123,8 @@
       "task_id": 6097235856,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26026542": {
@@ -1169,8 +1140,8 @@
       "task_id": 6097236519,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26026906": {
@@ -1185,8 +1156,8 @@
       "task_id": 6097237558,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26027233": {
@@ -1201,8 +1172,8 @@
       "task_id": 6097238244,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26027341": {
@@ -1217,8 +1188,8 @@
       "task_id": 6097239105,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26027455": {
@@ -1233,8 +1204,8 @@
       "task_id": 6097239976,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26027748": {
@@ -1249,8 +1220,8 @@
       "task_id": 6097240766,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26027890": {
@@ -1266,8 +1237,8 @@
       "task_id": 6097241441,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26030630": {
@@ -1283,8 +1254,8 @@
       "task_id": 6097242205,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26032777": {
@@ -1299,9 +1270,14 @@
       "task_id": 6097242963,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
+    },
+    "26605476": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
     },
     "26794366": {
       "status": "verified",
@@ -1315,8 +1291,8 @@
       "task_id": 6097244171,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "26912161": {
@@ -1331,9 +1307,14 @@
       "task_id": 6097244925,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
+    },
+    "27000301": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
     },
     "27267904": {
       "status": "verified",
@@ -1347,9 +1328,14 @@
       "task_id": 6097245814,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
+    },
+    "27296267": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
     },
     "27300916": {
       "status": "verified",
@@ -1366,8 +1352,8 @@
       "task_id": 6097246770,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27302800": {
@@ -1383,8 +1369,8 @@
       "task_id": 6097247508,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27365068": {
@@ -1400,8 +1386,8 @@
       "task_id": 6097248417,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27371308": {
@@ -1419,8 +1405,8 @@
       "task_id": 6097249256,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27371657": {
@@ -1438,8 +1424,8 @@
       "task_id": 6097250106,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27371921": {
@@ -1455,8 +1441,8 @@
       "task_id": 6097251391,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27439352": {
@@ -1472,8 +1458,8 @@
       "task_id": 6097252294,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27439412": {
@@ -1490,8 +1476,8 @@
       "task_id": 6097253185,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27439500": {
@@ -1506,8 +1492,8 @@
       "task_id": 6097254038,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27444005": {
@@ -1524,8 +1510,8 @@
       "task_id": 6097254862,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27444625": {
@@ -1540,8 +1526,8 @@
       "task_id": 6097255709,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27448836": {
@@ -1556,8 +1542,8 @@
       "task_id": 6097256502,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27449145": {
@@ -1572,8 +1558,8 @@
       "task_id": 6097257311,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27449345": {
@@ -1590,8 +1576,8 @@
       "task_id": 6097258698,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27449603": {
@@ -1606,8 +1592,8 @@
       "task_id": 6097259506,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27450391": {
@@ -1622,8 +1608,8 @@
       "task_id": 6097260311,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27455661": {
@@ -1638,8 +1624,8 @@
       "task_id": 6097260962,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27456197": {
@@ -1654,8 +1640,8 @@
       "task_id": 6097261575,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27457823": {
@@ -1671,8 +1657,8 @@
       "task_id": 6097262246,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27524060": {
@@ -1691,8 +1677,8 @@
       "task_id": 6097263193,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27569611": {
@@ -1707,8 +1693,8 @@
       "task_id": 6097263948,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27587328": {
@@ -1723,8 +1709,8 @@
       "task_id": 6097265033,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27587376": {
@@ -1739,8 +1725,8 @@
       "task_id": 6097266635,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27593076": {
@@ -1755,8 +1741,8 @@
       "task_id": 6097268481,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27593432": {
@@ -1771,8 +1757,8 @@
       "task_id": 6097270215,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27594511": {
@@ -1787,8 +1773,8 @@
       "task_id": 6097271837,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27595173": {
@@ -1803,8 +1789,8 @@
       "task_id": 6097272556,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27595210": {
@@ -1819,8 +1805,8 @@
       "task_id": 6097273186,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27595315": {
@@ -1836,8 +1822,8 @@
       "task_id": 6097273950,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27595673": {
@@ -1853,8 +1839,8 @@
       "task_id": 6097275326,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27595892": {
@@ -1872,8 +1858,8 @@
       "task_id": 6097276174,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27598056": {
@@ -1889,8 +1875,8 @@
       "task_id": 6097276916,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27598076": {
@@ -1906,8 +1892,8 @@
       "task_id": 6097277603,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27598146": {
@@ -1923,8 +1909,8 @@
       "task_id": 6097278289,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27598626": {
@@ -1939,8 +1925,8 @@
       "task_id": 6097278907,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27598662": {
@@ -1955,8 +1941,8 @@
       "task_id": 6097279577,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27599135": {
@@ -1971,8 +1957,8 @@
       "task_id": 6097280073,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27599296": {
@@ -1987,8 +1973,8 @@
       "task_id": 6097281037,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27599336": {
@@ -2003,8 +1989,8 @@
       "task_id": 6097281485,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27600519": {
@@ -2021,8 +2007,8 @@
       "task_id": 6097282043,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27602796": {
@@ -2038,8 +2024,8 @@
       "task_id": 6097282544,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27603032": {
@@ -2056,8 +2042,8 @@
       "task_id": 6097283050,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27672783": {
@@ -2072,8 +2058,8 @@
       "task_id": 6097283607,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27672839": {
@@ -2088,9 +2074,19 @@
       "task_id": 6097284781,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
+    },
+    "27674626": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
+    },
+    "27681324": {
+      "status": "protected_previous_run",
+      "source": "stage2/upload-state.json",
+      "previous_stage": "verified"
     },
     "27681354": {
       "status": "verified",
@@ -2104,8 +2100,8 @@
       "task_id": 6097285639,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "27699612": {
@@ -2121,8 +2117,8 @@
       "task_id": 6097287145,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28103429": {
@@ -2137,8 +2133,8 @@
       "task_id": 6097287942,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28106225": {
@@ -2154,8 +2150,8 @@
       "task_id": 6097288784,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28203167": {
@@ -2171,8 +2167,8 @@
       "task_id": 6097289463,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28203412": {
@@ -2188,8 +2184,8 @@
       "task_id": 6097290192,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28203545": {
@@ -2204,8 +2200,8 @@
       "task_id": 6097290952,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28204538": {
@@ -2220,8 +2216,8 @@
       "task_id": 6097291586,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28296879": {
@@ -2238,8 +2234,8 @@
       "task_id": 6097292253,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28297950": {
@@ -2256,8 +2252,8 @@
       "task_id": 6097293380,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28298028": {
@@ -2272,8 +2268,8 @@
       "task_id": 6097294045,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28309057": {
@@ -2290,8 +2286,8 @@
       "task_id": 6097294791,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28309085": {
@@ -2307,8 +2303,8 @@
       "task_id": 6097295505,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28314178": {
@@ -2324,8 +2320,8 @@
       "task_id": 6097296206,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28314795": {
@@ -2342,8 +2338,8 @@
       "task_id": 6097297016,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28318734": {
@@ -2360,8 +2356,8 @@
       "task_id": 6097298803,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28318924": {
@@ -2377,8 +2373,8 @@
       "task_id": 6097299555,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28318980": {
@@ -2395,8 +2391,8 @@
       "task_id": 6097300909,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28319121": {
@@ -2412,8 +2408,8 @@
       "task_id": 6097301966,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28319252": {
@@ -2429,8 +2425,8 @@
       "task_id": 6097302945,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28324521": {
@@ -2446,8 +2442,8 @@
       "task_id": 6097303633,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28324644": {
@@ -2463,8 +2459,8 @@
       "task_id": 6097304483,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28325378": {
@@ -2480,8 +2476,8 @@
       "task_id": 6097305346,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28336374": {
@@ -2501,8 +2497,8 @@
       "task_id": 6097306346,
       "after_count": 9,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28380644": {
@@ -2517,8 +2513,8 @@
       "task_id": 6097307359,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28380664": {
@@ -2534,8 +2530,8 @@
       "task_id": 6097308988,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28466470": {
@@ -2550,8 +2546,8 @@
       "task_id": 6097309828,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28471537": {
@@ -2566,8 +2562,8 @@
       "task_id": 6097310625,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28471632": {
@@ -2582,8 +2578,8 @@
       "task_id": 6097311521,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28483095": {
@@ -2599,8 +2595,8 @@
       "task_id": 6097312430,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28485370": {
@@ -2617,8 +2613,8 @@
       "task_id": 6097313165,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28486565": {
@@ -2633,8 +2629,8 @@
       "task_id": 6097313939,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28486627": {
@@ -2649,8 +2645,8 @@
       "task_id": 6097314626,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28488725": {
@@ -2666,8 +2662,8 @@
       "task_id": 6097315844,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28490816": {
@@ -2683,8 +2679,8 @@
       "task_id": 6097316672,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28490931": {
@@ -2700,8 +2696,8 @@
       "task_id": 6097317846,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28491005": {
@@ -2716,8 +2712,8 @@
       "task_id": 6097318818,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28494205": {
@@ -2732,8 +2728,8 @@
       "task_id": 6097319786,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28507337": {
@@ -2748,8 +2744,8 @@
       "task_id": 6097320616,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28627782": {
@@ -2764,8 +2760,8 @@
       "task_id": 6097321423,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28681277": {
@@ -2782,8 +2778,8 @@
       "task_id": 6097322199,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28681380": {
@@ -2799,8 +2795,8 @@
       "task_id": 6097323526,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28687845": {
@@ -2815,8 +2811,8 @@
       "task_id": 6097324226,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28687857": {
@@ -2833,8 +2829,8 @@
       "task_id": 6097325094,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28687877": {
@@ -2851,8 +2847,8 @@
       "task_id": 6097325924,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28694286": {
@@ -2869,8 +2865,8 @@
       "task_id": 6097326700,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28694416": {
@@ -2885,8 +2881,8 @@
       "task_id": 6097327417,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28894598": {
@@ -2903,8 +2899,8 @@
       "task_id": 6097328259,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28895420": {
@@ -2919,8 +2915,8 @@
       "task_id": 6097329116,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28897839": {
@@ -2935,8 +2931,8 @@
       "task_id": 6097330338,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28938063": {
@@ -2952,8 +2948,8 @@
       "task_id": 6097331242,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "28938105": {
@@ -2969,8 +2965,8 @@
       "task_id": 6097332028,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29112872": {
@@ -2985,8 +2981,8 @@
       "task_id": 6097332648,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29223829": {
@@ -3002,8 +2998,8 @@
       "task_id": 6097333475,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29256264": {
@@ -3019,8 +3015,8 @@
       "task_id": 6097334234,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29281408": {
@@ -3035,8 +3031,8 @@
       "task_id": 6097334814,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29497584": {
@@ -3053,8 +3049,8 @@
       "task_id": 6097335627,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29507797": {
@@ -3069,8 +3065,8 @@
       "task_id": 6097336733,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29866106": {
@@ -3087,8 +3083,8 @@
       "task_id": 6097337626,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29866152": {
@@ -3104,8 +3100,8 @@
       "task_id": 6097338365,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "29866395": {
@@ -3123,8 +3119,8 @@
       "task_id": 6097339233,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30049442": {
@@ -3141,8 +3137,8 @@
       "task_id": 6097340070,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30050758": {
@@ -3161,8 +3157,8 @@
       "task_id": 6097341020,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30386732": {
@@ -3178,8 +3174,8 @@
       "task_id": 6097341710,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30388213": {
@@ -3196,8 +3192,8 @@
       "task_id": 6097342389,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30561460": {
@@ -3212,8 +3208,8 @@
       "task_id": 6097343444,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30579530": {
@@ -3228,8 +3224,8 @@
       "task_id": 6097344128,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30582843": {
@@ -3245,8 +3241,8 @@
       "task_id": 6097344834,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30590303": {
@@ -3261,8 +3257,8 @@
       "task_id": 6097345708,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30595954": {
@@ -3277,8 +3273,8 @@
       "task_id": 6097346471,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30898626": {
@@ -3301,8 +3297,8 @@
       "task_id": 6097347243,
       "after_count": 12,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30902816": {
@@ -3321,8 +3317,8 @@
       "task_id": 6097348655,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30906967": {
@@ -3339,8 +3335,8 @@
       "task_id": 6097349395,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30909604": {
@@ -3355,8 +3351,8 @@
       "task_id": 6097350440,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30911413": {
@@ -3375,8 +3371,8 @@
       "task_id": 6097351347,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30917526": {
@@ -3394,8 +3390,8 @@
       "task_id": 6097352182,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30920888": {
@@ -3412,8 +3408,8 @@
       "task_id": 6097352927,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30922705": {
@@ -3434,8 +3430,8 @@
       "task_id": 6097353867,
       "after_count": 10,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30928736": {
@@ -3453,8 +3449,8 @@
       "task_id": 6097354634,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30928839": {
@@ -3470,8 +3466,8 @@
       "task_id": 6097355425,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "30928864": {
@@ -3487,8 +3483,8 @@
       "task_id": 6097356197,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31023934": {
@@ -3504,8 +3500,8 @@
       "task_id": 6097357203,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31034219": {
@@ -3521,8 +3517,8 @@
       "task_id": 6097357822,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31038411": {
@@ -3539,8 +3535,8 @@
       "task_id": 6097358595,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31042077": {
@@ -3556,8 +3552,8 @@
       "task_id": 6097359221,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31043421": {
@@ -3573,8 +3569,8 @@
       "task_id": 6097359884,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31046401": {
@@ -3590,8 +3586,8 @@
       "task_id": 6097360527,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31048269": {
@@ -3607,8 +3603,8 @@
       "task_id": 6097361152,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31049822": {
@@ -3624,8 +3620,8 @@
       "task_id": 6097361840,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31062995": {
@@ -3641,8 +3637,8 @@
       "task_id": 6097362921,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31064831": {
@@ -3658,8 +3654,8 @@
       "task_id": 6097363621,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31066738": {
@@ -3676,8 +3672,8 @@
       "task_id": 6097364328,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31068746": {
@@ -3692,8 +3688,8 @@
       "task_id": 6097365139,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31071208": {
@@ -3710,8 +3706,8 @@
       "task_id": 6097365975,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31072942": {
@@ -3732,8 +3728,8 @@
       "task_id": 6097366910,
       "after_count": 10,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31076494": {
@@ -3754,8 +3750,8 @@
       "task_id": 6097367804,
       "after_count": 10,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31080962": {
@@ -3780,8 +3776,8 @@
       "task_id": 6097369021,
       "after_count": 14,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31083437": {
@@ -3797,8 +3793,8 @@
       "task_id": 6097370254,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31092251": {
@@ -3814,8 +3810,8 @@
       "task_id": 6097370850,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31097435": {
@@ -3832,8 +3828,8 @@
       "task_id": 6097371534,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31246234": {
@@ -3848,8 +3844,8 @@
       "task_id": 6097372135,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31246255": {
@@ -3865,8 +3861,8 @@
       "task_id": 6097372748,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31246277": {
@@ -3881,8 +3877,8 @@
       "task_id": 6097373657,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31246929": {
@@ -3898,8 +3894,8 @@
       "task_id": 6097374240,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31247054": {
@@ -3914,8 +3910,8 @@
       "task_id": 6097374937,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31247117": {
@@ -3930,8 +3926,8 @@
       "task_id": 6097376065,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31247284": {
@@ -3946,8 +3942,8 @@
       "task_id": 6097377226,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31799430": {
@@ -3963,8 +3959,8 @@
       "task_id": 6097378034,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31811388": {
@@ -3987,8 +3983,8 @@
       "task_id": 6097378935,
       "after_count": 12,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31816587": {
@@ -4005,8 +4001,8 @@
       "task_id": 6097379579,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31816663": {
@@ -4034,8 +4030,8 @@
       "task_id": 6097380605,
       "after_count": 17,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31828286": {
@@ -4050,8 +4046,8 @@
       "task_id": 6097381128,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31861385": {
@@ -4066,8 +4062,8 @@
       "task_id": 6097381584,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31875396": {
@@ -4083,8 +4079,8 @@
       "task_id": 6097382650,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "31875535": {
@@ -4101,8 +4097,8 @@
       "task_id": 6097383225,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32274105": {
@@ -4117,8 +4113,8 @@
       "task_id": 6097383895,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32313243": {
@@ -4134,8 +4130,8 @@
       "task_id": 6097384494,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32314057": {
@@ -4151,8 +4147,8 @@
       "task_id": 6097385207,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32376117": {
@@ -4167,8 +4163,8 @@
       "task_id": 6097385876,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32386915": {
@@ -4184,8 +4180,8 @@
       "task_id": 6097386434,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32409575": {
@@ -4205,8 +4201,8 @@
       "task_id": 6097387168,
       "after_count": 9,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32413599": {
@@ -4223,8 +4219,8 @@
       "task_id": 6097388148,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32429097": {
@@ -4241,8 +4237,8 @@
       "task_id": 6097388764,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32429107": {
@@ -4260,8 +4256,8 @@
       "task_id": 6097389548,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32429132": {
@@ -4277,8 +4273,8 @@
       "task_id": 6097390187,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32429189": {
@@ -4295,8 +4291,8 @@
       "task_id": 6097390782,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32432117": {
@@ -4312,8 +4308,8 @@
       "task_id": 6097391395,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32432169": {
@@ -4328,8 +4324,8 @@
       "task_id": 6097392016,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32432744": {
@@ -4344,8 +4340,8 @@
       "task_id": 6097392598,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32440255": {
@@ -4360,8 +4356,8 @@
       "task_id": 6097393540,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32442663": {
@@ -4377,8 +4373,8 @@
       "task_id": 6097394159,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32488993": {
@@ -4393,8 +4389,8 @@
       "task_id": 6097394882,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32528252": {
@@ -4409,8 +4405,8 @@
       "task_id": 6097395616,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32531231": {
@@ -4427,8 +4423,8 @@
       "task_id": 6097396296,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32567334": {
@@ -4444,8 +4440,8 @@
       "task_id": 6097396998,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32567655": {
@@ -4460,8 +4456,8 @@
       "task_id": 6097397619,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32607369": {
@@ -4476,8 +4472,8 @@
       "task_id": 6097398219,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "32613404": {
@@ -4492,8 +4488,8 @@
       "task_id": 6097399226,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33175233": {
@@ -4509,8 +4505,8 @@
       "task_id": 6097399803,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489340": {
@@ -4526,8 +4522,8 @@
       "task_id": 6097400367,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489379": {
@@ -4542,8 +4538,8 @@
       "task_id": 6097401179,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489389": {
@@ -4559,8 +4555,8 @@
       "task_id": 6097402369,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489397": {
@@ -4582,8 +4578,8 @@
       "task_id": 6097403355,
       "after_count": 11,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489514": {
@@ -4598,8 +4594,8 @@
       "task_id": 6097404152,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489525": {
@@ -4614,8 +4610,8 @@
       "task_id": 6097404915,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489571": {
@@ -4631,8 +4627,8 @@
       "task_id": 6097406282,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489617": {
@@ -4648,8 +4644,8 @@
       "task_id": 6097407312,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489700": {
@@ -4665,8 +4661,8 @@
       "task_id": 6097408286,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33489969": {
@@ -4681,8 +4677,8 @@
       "task_id": 6097409220,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33490148": {
@@ -4698,8 +4694,8 @@
       "task_id": 6097410065,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33490234": {
@@ -4714,8 +4710,8 @@
       "task_id": 6097410812,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33490240": {
@@ -4730,8 +4726,8 @@
       "task_id": 6097411683,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508240": {
@@ -4747,8 +4743,8 @@
       "task_id": 6097412526,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508259": {
@@ -4765,8 +4761,8 @@
       "task_id": 6097414085,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508324": {
@@ -4782,8 +4778,8 @@
       "task_id": 6097415098,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508331": {
@@ -4798,8 +4794,8 @@
       "task_id": 6097416176,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508420": {
@@ -4814,8 +4810,8 @@
       "task_id": 6097417928,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508440": {
@@ -4832,8 +4828,8 @@
       "task_id": 6097419276,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508662": {
@@ -4851,8 +4847,8 @@
       "task_id": 6097420257,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33508791": {
@@ -4868,8 +4864,8 @@
       "task_id": 6097421160,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33564135": {
@@ -4897,8 +4893,8 @@
       "task_id": 6097422480,
       "after_count": 17,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33566019": {
@@ -4914,8 +4910,8 @@
       "task_id": 6097424094,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579365": {
@@ -4930,8 +4926,8 @@
       "task_id": 6097424924,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579417": {
@@ -4946,8 +4942,8 @@
       "task_id": 6097426104,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579455": {
@@ -4965,8 +4961,8 @@
       "task_id": 6097427596,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579489": {
@@ -4982,8 +4978,8 @@
       "task_id": 6097428996,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579583": {
@@ -4999,8 +4995,8 @@
       "task_id": 6097430370,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579725": {
@@ -5016,8 +5012,8 @@
       "task_id": 6097431860,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579881": {
@@ -5033,8 +5029,8 @@
       "task_id": 6097433277,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33579968": {
@@ -5050,8 +5046,8 @@
       "task_id": 6097435364,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33580033": {
@@ -5067,8 +5063,8 @@
       "task_id": 6097437272,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33580075": {
@@ -5084,8 +5080,8 @@
       "task_id": 6097438296,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33638851": {
@@ -5106,8 +5102,8 @@
       "task_id": 6097439630,
       "after_count": 10,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33639784": {
@@ -5123,8 +5119,8 @@
       "task_id": 6097440593,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33640184": {
@@ -5140,8 +5136,8 @@
       "task_id": 6097441822,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33640346": {
@@ -5158,8 +5154,8 @@
       "task_id": 6097442966,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "33993034": {
@@ -5175,8 +5171,8 @@
       "task_id": 6097444356,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34007063": {
@@ -5191,8 +5187,8 @@
       "task_id": 6097446169,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34007255": {
@@ -5207,8 +5203,8 @@
       "task_id": 6097447233,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34008182": {
@@ -5224,8 +5220,8 @@
       "task_id": 6097448290,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34010640": {
@@ -5242,8 +5238,8 @@
       "task_id": 6097449490,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34011238": {
@@ -5258,8 +5254,8 @@
       "task_id": 6097450586,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34467089": {
@@ -5276,8 +5272,8 @@
       "task_id": 6097451599,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34498635": {
@@ -5292,8 +5288,8 @@
       "task_id": 6097452556,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34512760": {
@@ -5310,8 +5306,8 @@
       "task_id": 6097454007,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34512828": {
@@ -5327,8 +5323,8 @@
       "task_id": 6097456565,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34515096": {
@@ -5345,8 +5341,8 @@
       "task_id": 6097457701,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34515123": {
@@ -5363,8 +5359,8 @@
       "task_id": 6097458802,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34590370": {
@@ -5381,8 +5377,8 @@
       "task_id": 6097460009,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34591408": {
@@ -5398,8 +5394,8 @@
       "task_id": 6097461364,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34599024": {
@@ -5415,8 +5411,8 @@
       "task_id": 6097462632,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34600040": {
@@ -5431,8 +5427,8 @@
       "task_id": 6097463758,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34600243": {
@@ -5448,8 +5444,8 @@
       "task_id": 6097465011,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34669563": {
@@ -5465,8 +5461,8 @@
       "task_id": 6097466856,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34724251": {
@@ -5482,8 +5478,8 @@
       "task_id": 6097467955,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34725023": {
@@ -5500,8 +5496,8 @@
       "task_id": 6097469053,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34728881": {
@@ -5516,8 +5512,8 @@
       "task_id": 6097470060,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34729036": {
@@ -5532,8 +5528,8 @@
       "task_id": 6097471175,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34729148": {
@@ -5548,8 +5544,8 @@
       "task_id": 6097472575,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34730471": {
@@ -5565,8 +5561,8 @@
       "task_id": 6097474377,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34730768": {
@@ -5581,8 +5577,8 @@
       "task_id": 6097475722,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34732933": {
@@ -5597,8 +5593,8 @@
       "task_id": 6097477490,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34746678": {
@@ -5613,8 +5609,8 @@
       "task_id": 6097478738,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34747048": {
@@ -5629,8 +5625,8 @@
       "task_id": 6097479899,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34747163": {
@@ -5647,8 +5643,8 @@
       "task_id": 6097481068,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34747298": {
@@ -5663,8 +5659,8 @@
       "task_id": 6097482215,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34748080": {
@@ -5681,8 +5677,8 @@
       "task_id": 6097483461,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34750811": {
@@ -5697,8 +5693,8 @@
       "task_id": 6097484745,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34750892": {
@@ -5714,8 +5710,8 @@
       "task_id": 6097485911,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34751231": {
@@ -5730,8 +5726,8 @@
       "task_id": 6097487944,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34792857": {
@@ -5747,8 +5743,8 @@
       "task_id": 6097488967,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34792965": {
@@ -5764,8 +5760,8 @@
       "task_id": 6097490364,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34793002": {
@@ -5782,8 +5778,8 @@
       "task_id": 6097491947,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34793056": {
@@ -5799,8 +5795,8 @@
       "task_id": 6097493504,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34793324": {
@@ -5816,8 +5812,8 @@
       "task_id": 6097494963,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "34800196": {
@@ -5833,8 +5829,8 @@
       "task_id": 6097496113,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35090411": {
@@ -5850,8 +5846,8 @@
       "task_id": 6097497309,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35115940": {
@@ -5867,8 +5863,8 @@
       "task_id": 6097499251,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35121252": {
@@ -5883,8 +5879,8 @@
       "task_id": 6097500238,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35190651": {
@@ -5900,8 +5896,8 @@
       "task_id": 6097501201,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35209102": {
@@ -5917,8 +5913,8 @@
       "task_id": 6097501837,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35210576": {
@@ -5933,8 +5929,8 @@
       "task_id": 6097502482,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35213871": {
@@ -5950,8 +5946,8 @@
       "task_id": 6097503139,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35231615": {
@@ -5966,8 +5962,8 @@
       "task_id": 6097503831,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35234819": {
@@ -5985,8 +5981,8 @@
       "task_id": 6097504542,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35268012": {
@@ -6001,8 +5997,8 @@
       "task_id": 6097505945,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35268497": {
@@ -6017,8 +6013,8 @@
       "task_id": 6097506707,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35269085": {
@@ -6033,8 +6029,8 @@
       "task_id": 6097508038,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35272333": {
@@ -6050,8 +6046,8 @@
       "task_id": 6097509690,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35274613": {
@@ -6068,8 +6064,8 @@
       "task_id": 6097510587,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35278406": {
@@ -6084,8 +6080,8 @@
       "task_id": 6097511383,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35282025": {
@@ -6100,8 +6096,8 @@
       "task_id": 6097512151,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35286232": {
@@ -6117,8 +6113,8 @@
       "task_id": 6097513165,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35295983": {
@@ -6134,8 +6130,8 @@
       "task_id": 6097514487,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35296697": {
@@ -6151,8 +6147,8 @@
       "task_id": 6097515262,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35494160": {
@@ -6168,8 +6164,8 @@
       "task_id": 6097516022,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35519541": {
@@ -6186,8 +6182,8 @@
       "task_id": 6097516743,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35550402": {
@@ -6202,8 +6198,8 @@
       "task_id": 6097517500,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35702483": {
@@ -6219,8 +6215,8 @@
       "task_id": 6097518259,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35704489": {
@@ -6236,8 +6232,8 @@
       "task_id": 6097518960,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35704953": {
@@ -6252,8 +6248,8 @@
       "task_id": 6097519688,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35705589": {
@@ -6269,8 +6265,8 @@
       "task_id": 6097522149,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35705921": {
@@ -6286,8 +6282,8 @@
       "task_id": 6097523135,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35706264": {
@@ -6303,8 +6299,8 @@
       "task_id": 6097523861,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35706300": {
@@ -6321,8 +6317,8 @@
       "task_id": 6097524539,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35706330": {
@@ -6339,8 +6335,8 @@
       "task_id": 6097525198,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35721539": {
@@ -6359,8 +6355,8 @@
       "task_id": 6097526408,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35725154": {
@@ -6376,8 +6372,8 @@
       "task_id": 6097527168,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35725676": {
@@ -6393,8 +6389,8 @@
       "task_id": 6097527852,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35776832": {
@@ -6409,8 +6405,8 @@
       "task_id": 6097529130,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35779322": {
@@ -6426,8 +6422,8 @@
       "task_id": 6097529919,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "35791557": {
@@ -6443,8 +6439,8 @@
       "task_id": 6097530708,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36005189": {
@@ -6460,8 +6456,8 @@
       "task_id": 6097531439,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36005415": {
@@ -6477,8 +6473,8 @@
       "task_id": 6097532214,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36005492": {
@@ -6494,8 +6490,8 @@
       "task_id": 6097533600,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36006034": {
@@ -6511,8 +6507,8 @@
       "task_id": 6097534861,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36006042": {
@@ -6527,8 +6523,8 @@
       "task_id": 6097535826,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36006070": {
@@ -6544,8 +6540,8 @@
       "task_id": 6097537245,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36006378": {
@@ -6561,8 +6557,8 @@
       "task_id": 6097537871,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36006963": {
@@ -6577,8 +6573,8 @@
       "task_id": 6097538402,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36008370": {
@@ -6594,8 +6590,8 @@
       "task_id": 6097538983,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36008382": {
@@ -6611,8 +6607,8 @@
       "task_id": 6097539403,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36008385": {
@@ -6628,8 +6624,8 @@
       "task_id": 6097539873,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36008401": {
@@ -6645,8 +6641,8 @@
       "task_id": 6097540329,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36008560": {
@@ -6663,8 +6659,8 @@
       "task_id": 6097540813,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36170177": {
@@ -6678,8 +6674,8 @@
       "task_id": 6097541604,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36208130": {
@@ -6695,8 +6691,8 @@
       "task_id": 6097542133,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36220816": {
@@ -6712,8 +6708,8 @@
       "task_id": 6097543009,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36221551": {
@@ -6729,8 +6725,8 @@
       "task_id": 6097544265,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36221841": {
@@ -6745,8 +6741,8 @@
       "task_id": 6097544969,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36754839": {
@@ -6761,8 +6757,8 @@
       "task_id": 6097545422,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36757841": {
@@ -6777,8 +6773,8 @@
       "task_id": 6097545868,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "36768139": {
@@ -6793,8 +6789,8 @@
       "task_id": 6097546458,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37052620": {
@@ -6812,8 +6808,8 @@
       "task_id": 6097547296,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37331683": {
@@ -6828,8 +6824,8 @@
       "task_id": 6097547720,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37340404": {
@@ -6845,8 +6841,8 @@
       "task_id": 6097548145,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37418739": {
@@ -6862,8 +6858,8 @@
       "task_id": 6097548584,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37419170": {
@@ -6878,8 +6874,8 @@
       "task_id": 6097549041,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37852027": {
@@ -6894,8 +6890,8 @@
       "task_id": 6097549564,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "37953550": {
@@ -6911,8 +6907,8 @@
       "task_id": 6097550074,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38026483": {
@@ -6928,8 +6924,8 @@
       "task_id": 6097550724,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38027175": {
@@ -6945,8 +6941,8 @@
       "task_id": 6097552282,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38028070": {
@@ -6961,8 +6957,8 @@
       "task_id": 6097553372,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38028481": {
@@ -6978,8 +6974,8 @@
       "task_id": 6097554805,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38030373": {
@@ -6994,8 +6990,8 @@
       "task_id": 6097556233,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38033010": {
@@ -7011,8 +7007,8 @@
       "task_id": 6097556990,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38033681": {
@@ -7028,8 +7024,8 @@
       "task_id": 6097557653,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38033884": {
@@ -7045,8 +7041,8 @@
       "task_id": 6097558307,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38116987": {
@@ -7061,8 +7057,8 @@
       "task_id": 6097558847,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38118111": {
@@ -7077,8 +7073,8 @@
       "task_id": 6097559931,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38143611": {
@@ -7093,8 +7089,8 @@
       "task_id": 6097560444,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38151108": {
@@ -7109,8 +7105,8 @@
       "task_id": 6097561045,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38151934": {
@@ -7125,8 +7121,8 @@
       "task_id": 6097561683,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38154940": {
@@ -7141,8 +7137,8 @@
       "task_id": 6097562285,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38165246": {
@@ -7157,8 +7153,8 @@
       "task_id": 6097562920,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38166427": {
@@ -7173,8 +7169,8 @@
       "task_id": 6097563431,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38169258": {
@@ -7189,8 +7185,8 @@
       "task_id": 6097564042,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38169389": {
@@ -7205,8 +7201,8 @@
       "task_id": 6097566008,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38172114": {
@@ -7221,8 +7217,8 @@
       "task_id": 6097567393,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38176311": {
@@ -7237,8 +7233,8 @@
       "task_id": 6097568183,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38177572": {
@@ -7253,8 +7249,8 @@
       "task_id": 6097568864,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38218931": {
@@ -7269,8 +7265,8 @@
       "task_id": 6097569553,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38233286": {
@@ -7285,8 +7281,8 @@
       "task_id": 6097570222,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38558188": {
@@ -7302,8 +7298,8 @@
       "task_id": 6097571000,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38641850": {
@@ -7318,8 +7314,8 @@
       "task_id": 6097571740,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "38660320": {
@@ -7334,8 +7330,8 @@
       "task_id": 6097572735,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39177842": {
@@ -7352,8 +7348,8 @@
       "task_id": 6097573529,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39185019": {
@@ -7367,8 +7363,8 @@
       "task_id": 6097574163,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39233558": {
@@ -7383,8 +7379,8 @@
       "task_id": 6097574843,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39235524": {
@@ -7399,8 +7395,8 @@
       "task_id": 6097575528,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39259264": {
@@ -7417,8 +7413,8 @@
       "task_id": 6097576247,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39326771": {
@@ -7434,8 +7430,8 @@
       "task_id": 6097577582,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39327255": {
@@ -7452,8 +7448,8 @@
       "task_id": 6097579127,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39349689": {
@@ -7469,8 +7465,8 @@
       "task_id": 6097580855,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39350161": {
@@ -7487,8 +7483,8 @@
       "task_id": 6097581558,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39350856": {
@@ -7504,8 +7500,8 @@
       "task_id": 6097582403,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39351207": {
@@ -7521,8 +7517,8 @@
       "task_id": 6097583207,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39351578": {
@@ -7539,8 +7535,8 @@
       "task_id": 6097584119,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39379126": {
@@ -7555,8 +7551,8 @@
       "task_id": 6097585029,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39379462": {
@@ -7572,8 +7568,8 @@
       "task_id": 6097585837,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39381108": {
@@ -7589,8 +7585,8 @@
       "task_id": 6097586586,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39390675": {
@@ -7608,8 +7604,8 @@
       "task_id": 6097587905,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39477471": {
@@ -7624,8 +7620,8 @@
       "task_id": 6097588908,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39478105": {
@@ -7640,8 +7636,8 @@
       "task_id": 6097589918,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39490746": {
@@ -7656,8 +7652,8 @@
       "task_id": 6097590758,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39491150": {
@@ -7672,8 +7668,8 @@
       "task_id": 6097591468,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39630942": {
@@ -7689,8 +7685,8 @@
       "task_id": 6097592468,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "39650441": {
@@ -7706,8 +7702,8 @@
       "task_id": 6097593863,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "40550728": {
@@ -7723,8 +7719,8 @@
       "task_id": 6097595124,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "41186050": {
@@ -7740,8 +7736,8 @@
       "task_id": 6097596185,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "41187222": {
@@ -7756,8 +7752,8 @@
       "task_id": 6097596847,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "41187572": {
@@ -7772,8 +7768,8 @@
       "task_id": 6097597648,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "41743864": {
@@ -7789,8 +7785,8 @@
       "task_id": 6097598500,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42668286": {
@@ -7805,8 +7801,8 @@
       "task_id": 6097599310,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42669391": {
@@ -7821,8 +7817,8 @@
       "task_id": 6097600057,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42673936": {
@@ -7837,8 +7833,8 @@
       "task_id": 6097600793,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42676811": {
@@ -7853,8 +7849,8 @@
       "task_id": 6097601392,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42677427": {
@@ -7869,8 +7865,8 @@
       "task_id": 6097602313,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "42688200": {
@@ -7888,8 +7884,8 @@
       "task_id": 6097603012,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43384350": {
@@ -7904,8 +7900,8 @@
       "task_id": 6097603652,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43385031": {
@@ -7920,8 +7916,8 @@
       "task_id": 6097604312,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43385186": {
@@ -7936,8 +7932,8 @@
       "task_id": 6097604930,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43803506": {
@@ -7952,8 +7948,8 @@
       "task_id": 6097605625,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43804011": {
@@ -7968,8 +7964,8 @@
       "task_id": 6097606165,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43804215": {
@@ -7984,8 +7980,8 @@
       "task_id": 6097606738,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "43804609": {
@@ -8000,8 +7996,8 @@
       "task_id": 6097607675,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "44059852": {
@@ -8016,8 +8012,8 @@
       "task_id": 6097608217,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "44060113": {
@@ -8032,8 +8028,8 @@
       "task_id": 6097608853,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "44060526": {
@@ -8048,8 +8044,8 @@
       "task_id": 6097609485,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "44275107": {
@@ -8064,8 +8060,8 @@
       "task_id": 6097610030,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "44311475": {
@@ -8082,8 +8078,8 @@
       "task_id": 6097610683,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "45708931": {
@@ -8098,8 +8094,8 @@
       "task_id": 6097611294,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "45724515": {
@@ -8119,8 +8115,8 @@
       "task_id": 6097611929,
       "after_count": 9,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "46978697": {
@@ -8136,8 +8132,8 @@
       "task_id": 6097612892,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "47050498": {
@@ -8153,8 +8149,8 @@
       "task_id": 6097614022,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "47553340": {
@@ -8173,8 +8169,8 @@
       "task_id": 6097614906,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "47806468": {
@@ -8190,8 +8186,8 @@
       "task_id": 6097615572,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "48029141": {
@@ -8207,8 +8203,8 @@
       "task_id": 6097616258,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "48030938": {
@@ -8226,8 +8222,8 @@
       "task_id": 6097616986,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "48031250": {
@@ -8243,8 +8239,8 @@
       "task_id": 6097617737,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "48445597": {
@@ -8259,8 +8255,8 @@
       "task_id": 6097618498,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "48543716": {
@@ -8275,8 +8271,8 @@
       "task_id": 6097619689,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "49114911": {
@@ -8294,8 +8290,8 @@
       "task_id": 6097620497,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "49731753": {
@@ -8310,8 +8306,8 @@
       "task_id": 6097621115,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50151787": {
@@ -8327,8 +8323,8 @@
       "task_id": 6097621747,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50186822": {
@@ -8343,8 +8339,8 @@
       "task_id": 6097622364,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50187003": {
@@ -8360,8 +8356,8 @@
       "task_id": 6097623007,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50188151": {
@@ -8376,8 +8372,8 @@
       "task_id": 6097623607,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50188207": {
@@ -8392,8 +8388,8 @@
       "task_id": 6097624209,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50191156": {
@@ -8409,8 +8405,8 @@
       "task_id": 6097625071,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50192342": {
@@ -8426,8 +8422,8 @@
       "task_id": 6097625612,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50192818": {
@@ -8442,8 +8438,8 @@
       "task_id": 6097626123,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50193289": {
@@ -8459,8 +8455,8 @@
       "task_id": 6097626707,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50202953": {
@@ -8475,8 +8471,8 @@
       "task_id": 6097627336,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50204723": {
@@ -8491,8 +8487,8 @@
       "task_id": 6097627992,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50204901": {
@@ -8507,8 +8503,8 @@
       "task_id": 6097628616,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50205097": {
@@ -8523,8 +8519,8 @@
       "task_id": 6097629275,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50205295": {
@@ -8539,8 +8535,8 @@
       "task_id": 6097630204,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50206911": {
@@ -8556,8 +8552,8 @@
       "task_id": 6097630780,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213226": {
@@ -8576,8 +8572,8 @@
       "task_id": 6097631473,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213291": {
@@ -8593,8 +8589,8 @@
       "task_id": 6097632076,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213703": {
@@ -8610,8 +8606,8 @@
       "task_id": 6097632665,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213830": {
@@ -8628,8 +8624,8 @@
       "task_id": 6097633304,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213854": {
@@ -8646,8 +8642,8 @@
       "task_id": 6097633858,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213875": {
@@ -8664,8 +8660,8 @@
       "task_id": 6097634422,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50213886": {
@@ -8682,8 +8678,8 @@
       "task_id": 6097635378,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50214306": {
@@ -8700,8 +8696,8 @@
       "task_id": 6097636123,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50217244": {
@@ -8717,8 +8713,8 @@
       "task_id": 6097636695,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50265416": {
@@ -8733,8 +8729,8 @@
       "task_id": 6097637248,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50543626": {
@@ -8751,8 +8747,8 @@
       "task_id": 6097637851,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50545804": {
@@ -8767,8 +8763,8 @@
       "task_id": 6097638387,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50546030": {
@@ -8783,8 +8779,8 @@
       "task_id": 6097639586,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50564389": {
@@ -8799,8 +8795,8 @@
       "task_id": 6097640109,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50564407": {
@@ -8816,8 +8812,8 @@
       "task_id": 6097641129,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50564513": {
@@ -8832,8 +8828,8 @@
       "task_id": 6097641673,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50565454": {
@@ -8848,8 +8844,8 @@
       "task_id": 6097642205,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50565566": {
@@ -8864,8 +8860,8 @@
       "task_id": 6097642710,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50567460": {
@@ -8886,8 +8882,8 @@
       "task_id": 6097643361,
       "after_count": 10,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50573235": {
@@ -8902,8 +8898,8 @@
       "task_id": 6097643890,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50575615": {
@@ -8919,8 +8915,8 @@
       "task_id": 6097644453,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50577328": {
@@ -8935,8 +8931,8 @@
       "task_id": 6097644911,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50577354": {
@@ -8952,8 +8948,8 @@
       "task_id": 6097645849,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "50921424": {
@@ -8968,8 +8964,8 @@
       "task_id": 6097646503,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "51068758": {
@@ -8984,8 +8980,8 @@
       "task_id": 6097647089,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "51068979": {
@@ -9001,8 +8997,8 @@
       "task_id": 6097647665,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "51198601": {
@@ -9017,8 +9013,8 @@
       "task_id": 6097648176,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "51855947": {
@@ -9034,8 +9030,8 @@
       "task_id": 6097648701,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "52406300": {
@@ -9050,8 +9046,8 @@
       "task_id": 6097650058,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "52494763": {
@@ -9066,8 +9062,8 @@
       "task_id": 6097651542,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "52742981": {
@@ -9083,8 +9079,8 @@
       "task_id": 6097654346,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53151211": {
@@ -9100,8 +9096,8 @@
       "task_id": 6097655269,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53151267": {
@@ -9116,8 +9112,8 @@
       "task_id": 6097655808,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53151432": {
@@ -9135,8 +9131,8 @@
       "task_id": 6097656418,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53151627": {
@@ -9151,8 +9147,8 @@
       "task_id": 6097657069,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53290933": {
@@ -9167,8 +9163,8 @@
       "task_id": 6097657582,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "53291561": {
@@ -9183,8 +9179,8 @@
       "task_id": 6097658208,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "54209439": {
@@ -9198,8 +9194,8 @@
       "task_id": 6097658776,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55150053": {
@@ -9214,8 +9210,8 @@
       "task_id": 6097659898,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55153450": {
@@ -9231,8 +9227,8 @@
       "task_id": 6097660734,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55577441": {
@@ -9248,8 +9244,8 @@
       "task_id": 6097661395,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55578171": {
@@ -9265,8 +9261,8 @@
       "task_id": 6097662062,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55579174": {
@@ -9282,8 +9278,8 @@
       "task_id": 6097662815,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55580809": {
@@ -9301,8 +9297,8 @@
       "task_id": 6097663489,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55584052": {
@@ -9318,8 +9314,8 @@
       "task_id": 6097664128,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55584771": {
@@ -9334,8 +9330,8 @@
       "task_id": 6097664770,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55584944": {
@@ -9351,8 +9347,8 @@
       "task_id": 6097665984,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55587252": {
@@ -9368,8 +9364,8 @@
       "task_id": 6097666828,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55589979": {
@@ -9384,8 +9380,8 @@
       "task_id": 6097668079,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55591751": {
@@ -9400,8 +9396,8 @@
       "task_id": 6097668966,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55592538": {
@@ -9417,8 +9413,8 @@
       "task_id": 6097669798,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55593274": {
@@ -9433,8 +9429,8 @@
       "task_id": 6097670649,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55593992": {
@@ -9450,8 +9446,8 @@
       "task_id": 6097671503,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55595405": {
@@ -9466,8 +9462,8 @@
       "task_id": 6097672258,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55595492": {
@@ -9483,8 +9479,8 @@
       "task_id": 6097674186,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55601662": {
@@ -9501,8 +9497,8 @@
       "task_id": 6097675181,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55603964": {
@@ -9519,8 +9515,8 @@
       "task_id": 6097676049,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55604082": {
@@ -9535,8 +9531,8 @@
       "task_id": 6097676717,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55604496": {
@@ -9552,8 +9548,8 @@
       "task_id": 6097677565,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55606997": {
@@ -9573,8 +9569,8 @@
       "task_id": 6097678526,
       "after_count": 9,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55607146": {
@@ -9591,8 +9587,8 @@
       "task_id": 6097679457,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55612352": {
@@ -9608,8 +9604,8 @@
       "task_id": 6097680399,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55612817": {
@@ -9626,8 +9622,8 @@
       "task_id": 6097681997,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55617382": {
@@ -9642,8 +9638,8 @@
       "task_id": 6097682736,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55617647": {
@@ -9658,8 +9654,8 @@
       "task_id": 6097683482,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "55618958": {
@@ -9675,8 +9671,8 @@
       "task_id": 6097684277,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "56029127": {
@@ -9692,8 +9688,8 @@
       "task_id": 6097685129,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "56029934": {
@@ -9708,8 +9704,8 @@
       "task_id": 6097686072,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "56030800": {
@@ -9725,8 +9721,8 @@
       "task_id": 6097687154,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "56479129": {
@@ -9748,8 +9744,8 @@
       "task_id": 6097688601,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "56824788": {
@@ -9766,8 +9762,8 @@
       "task_id": 6097689405,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "57590181": {
@@ -9782,8 +9778,8 @@
       "task_id": 6097690171,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "57591081": {
@@ -9798,8 +9794,8 @@
       "task_id": 6097690992,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "57802695": {
@@ -9813,8 +9809,8 @@
       "task_id": 6097691840,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "58715999": {
@@ -9830,8 +9826,8 @@
       "task_id": 6097692938,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "58738120": {
@@ -9847,8 +9843,8 @@
       "task_id": 6097693918,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "58739825": {
@@ -9867,8 +9863,8 @@
       "task_id": 6097694905,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "59333316": {
@@ -9883,8 +9879,8 @@
       "task_id": 6097696505,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "60652307": {
@@ -9899,8 +9895,8 @@
       "task_id": 6097697360,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "63128265": {
@@ -9916,8 +9912,8 @@
       "task_id": 6097698252,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "64837046": {
@@ -9933,8 +9929,8 @@
       "task_id": 6097699013,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65154164": {
@@ -9950,8 +9946,8 @@
       "task_id": 6097699790,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65533183": {
@@ -9966,8 +9962,8 @@
       "task_id": 6097700524,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65549353": {
@@ -9982,8 +9978,8 @@
       "task_id": 6097701431,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65609149": {
@@ -10001,8 +9997,8 @@
       "task_id": 6097702453,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65801622": {
@@ -10018,8 +10014,8 @@
       "task_id": 6097703878,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65802176": {
@@ -10034,8 +10030,8 @@
       "task_id": 6097704654,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "65802400": {
@@ -10050,8 +10046,8 @@
       "task_id": 6097705393,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66353909": {
@@ -10068,8 +10064,8 @@
       "task_id": 6097706129,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66367269": {
@@ -10085,8 +10081,8 @@
       "task_id": 6097706783,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66441790": {
@@ -10102,8 +10098,8 @@
       "task_id": 6097707479,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66442786": {
@@ -10119,8 +10115,8 @@
       "task_id": 6097708118,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66446866": {
@@ -10136,8 +10132,8 @@
       "task_id": 6097708821,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "66455539": {
@@ -10152,8 +10148,8 @@
       "task_id": 6097709806,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "68415821": {
@@ -10168,8 +10164,8 @@
       "task_id": 6097710483,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "68538470": {
@@ -10185,8 +10181,8 @@
       "task_id": 6097711268,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "68538891": {
@@ -10200,8 +10196,8 @@
       "task_id": 6097711964,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "69816114": {
@@ -10216,8 +10212,8 @@
       "task_id": 6097712650,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "69824848": {
@@ -10234,8 +10230,8 @@
       "task_id": 6097713526,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "69826568": {
@@ -10252,8 +10248,8 @@
       "task_id": 6097714329,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "69827617": {
@@ -10268,8 +10264,8 @@
       "task_id": 6097715054,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "69833092": {
@@ -10285,8 +10281,8 @@
       "task_id": 6097716349,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70034990": {
@@ -10301,8 +10297,8 @@
       "task_id": 6097717183,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70035902": {
@@ -10317,8 +10313,8 @@
       "task_id": 6097718023,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70456998": {
@@ -10334,8 +10330,8 @@
       "task_id": 6097718950,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70483025": {
@@ -10350,8 +10346,8 @@
       "task_id": 6097719855,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70662837": {
@@ -10367,8 +10363,8 @@
       "task_id": 6097720735,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70663282": {
@@ -10389,8 +10385,8 @@
       "task_id": 6097721733,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70849297": {
@@ -10407,8 +10403,8 @@
       "task_id": 6097723209,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70858895": {
@@ -10424,8 +10420,8 @@
       "task_id": 6097724041,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70868467": {
@@ -10441,8 +10437,8 @@
       "task_id": 6097724832,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "70937016": {
@@ -10463,8 +10459,8 @@
       "task_id": 6097725700,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71296435": {
@@ -10480,8 +10476,8 @@
       "task_id": 6097726547,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71489247": {
@@ -10497,8 +10493,8 @@
       "task_id": 6097727363,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71555011": {
@@ -10513,8 +10509,8 @@
       "task_id": 6097728170,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71556099": {
@@ -10530,8 +10526,8 @@
       "task_id": 6097729532,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71560607": {
@@ -10548,8 +10544,8 @@
       "task_id": 6097730187,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71634562": {
@@ -10564,8 +10560,8 @@
       "task_id": 6097730777,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71668912": {
@@ -10580,8 +10576,8 @@
       "task_id": 6097731313,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71716379": {
@@ -10598,8 +10594,8 @@
       "task_id": 6097732424,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71721365": {
@@ -10614,8 +10610,8 @@
       "task_id": 6097733145,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71721666": {
@@ -10632,8 +10628,8 @@
       "task_id": 6097733799,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71826867": {
@@ -10649,8 +10645,8 @@
       "task_id": 6097734556,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71838006": {
@@ -10665,8 +10661,8 @@
       "task_id": 6097735655,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71865838": {
@@ -10683,8 +10679,8 @@
       "task_id": 6097736392,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71873070": {
@@ -10699,8 +10695,8 @@
       "task_id": 6097737100,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "71893485": {
@@ -10724,8 +10720,8 @@
       "task_id": 6097737781,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "73770716": {
@@ -10742,8 +10738,8 @@
       "task_id": 6097738385,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "73771547": {
@@ -10760,8 +10756,8 @@
       "task_id": 6097739127,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "74548685": {
@@ -10778,8 +10774,8 @@
       "task_id": 6097740167,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "74570234": {
@@ -10801,8 +10797,8 @@
       "task_id": 6097740924,
       "after_count": 11,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "75516202": {
@@ -10817,8 +10813,8 @@
       "task_id": 6097741616,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "75591456": {
@@ -10834,8 +10830,8 @@
       "task_id": 6097742203,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "75598301": {
@@ -10850,8 +10846,8 @@
       "task_id": 6097742843,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "76320401": {
@@ -10867,8 +10863,8 @@
       "task_id": 6097743545,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "76529497": {
@@ -10883,8 +10879,8 @@
       "task_id": 6097744350,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "77831370": {
@@ -10902,8 +10898,8 @@
       "task_id": 6097745122,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "78029365": {
@@ -10919,8 +10915,8 @@
       "task_id": 6097746167,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "79077995": {
@@ -10935,8 +10931,8 @@
       "task_id": 6097746843,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "79104326": {
@@ -10950,8 +10946,8 @@
       "task_id": 6097747436,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "80081586": {
@@ -10966,8 +10962,8 @@
       "task_id": 6097748097,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "80085265": {
@@ -10982,8 +10978,8 @@
       "task_id": 6097748761,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "80088073": {
@@ -10998,8 +10994,8 @@
       "task_id": 6097749330,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "81394483": {
@@ -11016,8 +11012,8 @@
       "task_id": 6097749901,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "81406667": {
@@ -11034,8 +11030,8 @@
       "task_id": 6097750576,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "81407890": {
@@ -11051,8 +11047,8 @@
       "task_id": 6097751593,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "81408608": {
@@ -11068,8 +11064,8 @@
       "task_id": 6097752203,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "82953716": {
@@ -11084,8 +11080,8 @@
       "task_id": 6097752767,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "82972099": {
@@ -11102,8 +11098,8 @@
       "task_id": 6097753482,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "83231090": {
@@ -11119,8 +11115,8 @@
       "task_id": 6097754089,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "83950670": {
@@ -11136,8 +11132,8 @@
       "task_id": 6097754599,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "84081493": {
@@ -11151,8 +11147,8 @@
       "task_id": 6097755189,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "85456920": {
@@ -11167,8 +11163,8 @@
       "task_id": 6097755815,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "85460854": {
@@ -11184,8 +11180,8 @@
       "task_id": 6097756826,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "86774794": {
@@ -11200,8 +11196,8 @@
       "task_id": 6097757338,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "86923499": {
@@ -11219,8 +11215,8 @@
       "task_id": 6097758057,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87316929": {
@@ -11239,8 +11235,8 @@
       "task_id": 6097759069,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87431533": {
@@ -11256,8 +11252,8 @@
       "task_id": 6097759726,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87431831": {
@@ -11271,8 +11267,8 @@
       "task_id": 6097760369,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87966607": {
@@ -11287,8 +11283,8 @@
       "task_id": 6097761013,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87966838": {
@@ -11306,8 +11302,8 @@
       "task_id": 6097761644,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "87969175": {
@@ -11321,8 +11317,8 @@
       "task_id": 6097762663,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88029985": {
@@ -11337,8 +11333,8 @@
       "task_id": 6097763355,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88030950": {
@@ -11353,8 +11349,8 @@
       "task_id": 6097763965,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88033510": {
@@ -11371,8 +11367,8 @@
       "task_id": 6097764611,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88035024": {
@@ -11389,8 +11385,8 @@
       "task_id": 6097765251,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88039491": {
@@ -11405,8 +11401,8 @@
       "task_id": 6097765862,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88040491": {
@@ -11422,8 +11418,8 @@
       "task_id": 6097766531,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88044688": {
@@ -11439,8 +11435,8 @@
       "task_id": 6097767154,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "88944498": {
@@ -11455,8 +11451,8 @@
       "task_id": 6097768261,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "89441908": {
@@ -11471,8 +11467,8 @@
       "task_id": 6097768834,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "90425005": {
@@ -11488,8 +11484,8 @@
       "task_id": 6097769538,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "90428199": {
@@ -11506,8 +11502,8 @@
       "task_id": 6097770087,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "90429749": {
@@ -11522,8 +11518,8 @@
       "task_id": 6097770537,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "91406968": {
@@ -11541,8 +11537,8 @@
       "task_id": 6097771269,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "94737443": {
@@ -11558,8 +11554,8 @@
       "task_id": 6097771816,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "96779393": {
@@ -11574,8 +11570,8 @@
       "task_id": 6097772375,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "106439884": {
@@ -11591,8 +11587,8 @@
       "task_id": 6097773297,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "106754990": {
@@ -11608,8 +11604,8 @@
       "task_id": 6097773880,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "109248080": {
@@ -11624,8 +11620,8 @@
       "task_id": 6097774369,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "109566784": {
@@ -11641,8 +11637,8 @@
       "task_id": 6097774956,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "115446827": {
@@ -11658,8 +11654,8 @@
       "task_id": 6097775614,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "115772723": {
@@ -11674,8 +11670,8 @@
       "task_id": 6097776076,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "115802691": {
@@ -11689,8 +11685,8 @@
       "task_id": 6097776561,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "115831475": {
@@ -11705,8 +11701,8 @@
       "task_id": 6097777289,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "116132522": {
@@ -11723,8 +11719,8 @@
       "task_id": 6097778246,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "116134400": {
@@ -11739,8 +11735,8 @@
       "task_id": 6097778820,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "117967117": {
@@ -11759,8 +11755,8 @@
       "task_id": 6097779437,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "118621090": {
@@ -11775,8 +11771,8 @@
       "task_id": 6097780058,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "118627192": {
@@ -11792,8 +11788,8 @@
       "task_id": 6097780602,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "118632122": {
@@ -11808,8 +11804,8 @@
       "task_id": 6097781129,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "119072103": {
@@ -11825,8 +11821,8 @@
       "task_id": 6097781791,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "119092393": {
@@ -11841,8 +11837,8 @@
       "task_id": 6097782366,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "120684217": {
@@ -11859,8 +11855,8 @@
       "task_id": 6097784186,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "120686615": {
@@ -11879,8 +11875,8 @@
       "task_id": 6097786732,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "120983997": {
@@ -11896,8 +11892,8 @@
       "task_id": 6097788624,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "120989485": {
@@ -11913,8 +11909,8 @@
       "task_id": 6097789895,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "120991227": {
@@ -11929,8 +11925,8 @@
       "task_id": 6097791263,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121010847": {
@@ -11945,8 +11941,8 @@
       "task_id": 6097792523,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121043772": {
@@ -11962,8 +11958,8 @@
       "task_id": 6097793812,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121097309": {
@@ -11981,8 +11977,8 @@
       "task_id": 6097794991,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121253552": {
@@ -11998,8 +11994,8 @@
       "task_id": 6097796892,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121273660": {
@@ -12016,8 +12012,8 @@
       "task_id": 6097797861,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121280082": {
@@ -12033,8 +12029,8 @@
       "task_id": 6097799030,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121367310": {
@@ -12049,8 +12045,8 @@
       "task_id": 6097800179,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121539951": {
@@ -12066,8 +12062,8 @@
       "task_id": 6097801371,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121583244": {
@@ -12086,8 +12082,8 @@
       "task_id": 6097802634,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121835573": {
@@ -12103,8 +12099,8 @@
       "task_id": 6097803817,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121868388": {
@@ -12121,8 +12117,8 @@
       "task_id": 6097805098,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121906614": {
@@ -12137,8 +12133,8 @@
       "task_id": 6097806706,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121920420": {
@@ -12154,8 +12150,8 @@
       "task_id": 6097807990,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "121954290": {
@@ -12172,8 +12168,8 @@
       "task_id": 6097809458,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "122756221": {
@@ -12189,8 +12185,8 @@
       "task_id": 6097810678,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "122782216": {
@@ -12206,8 +12202,8 @@
       "task_id": 6097811977,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123111766": {
@@ -12223,8 +12219,8 @@
       "task_id": 6097813168,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123227096": {
@@ -12240,8 +12236,8 @@
       "task_id": 6097814345,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123305860": {
@@ -12258,8 +12254,8 @@
       "task_id": 6097815638,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123340307": {
@@ -12278,8 +12274,8 @@
       "task_id": 6097817845,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123363548": {
@@ -12295,8 +12291,8 @@
       "task_id": 6097819335,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123410692": {
@@ -12315,8 +12311,8 @@
       "task_id": 6097820832,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123773472": {
@@ -12332,8 +12328,8 @@
       "task_id": 6097822290,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123872876": {
@@ -12349,8 +12345,8 @@
       "task_id": 6097823958,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "123890949": {
@@ -12368,8 +12364,8 @@
       "task_id": 6097825451,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "124191974": {
@@ -12385,8 +12381,8 @@
       "task_id": 6097826805,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "124238620": {
@@ -12402,8 +12398,8 @@
       "task_id": 6097828260,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "124280486": {
@@ -12419,8 +12415,8 @@
       "task_id": 6097830657,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "124600471": {
@@ -12437,8 +12433,8 @@
       "task_id": 6097832019,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "124614229": {
@@ -12453,8 +12449,8 @@
       "task_id": 6097835917,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "127538513": {
@@ -12471,8 +12467,8 @@
       "task_id": 6097837367,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "134200976": {
@@ -12489,8 +12485,8 @@
       "task_id": 6097838804,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "134334922": {
@@ -12507,8 +12503,8 @@
       "task_id": 6097840195,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "134621654": {
@@ -12525,8 +12521,8 @@
       "task_id": 6097841609,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "134692331": {
@@ -12545,8 +12541,8 @@
       "task_id": 6097843253,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "135547456": {
@@ -12561,8 +12557,8 @@
       "task_id": 6097845291,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "136206034": {
@@ -12578,8 +12574,8 @@
       "task_id": 6097846828,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "136761569": {
@@ -12594,8 +12590,8 @@
       "task_id": 6097848159,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "136780453": {
@@ -12611,8 +12607,8 @@
       "task_id": 6097849437,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "136836880": {
@@ -12627,8 +12623,8 @@
       "task_id": 6097850670,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "136846783": {
@@ -12643,8 +12639,8 @@
       "task_id": 6097851952,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137081843": {
@@ -12659,8 +12655,8 @@
       "task_id": 6097853245,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137094190": {
@@ -12675,8 +12671,8 @@
       "task_id": 6097855009,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137098857": {
@@ -12692,8 +12688,8 @@
       "task_id": 6097857377,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137101551": {
@@ -12708,8 +12704,8 @@
       "task_id": 6097860243,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137433361": {
@@ -12727,8 +12723,8 @@
       "task_id": 6097861824,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137437115": {
@@ -12744,8 +12740,8 @@
       "task_id": 6097863565,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "137439722": {
@@ -12761,8 +12757,8 @@
       "task_id": 6097865146,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "139512847": {
@@ -12780,8 +12776,8 @@
       "task_id": 6097866684,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "140049040": {
@@ -12798,8 +12794,8 @@
       "task_id": 6097868184,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "141246518": {
@@ -12814,8 +12810,8 @@
       "task_id": 6097869746,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "141300523": {
@@ -12830,8 +12826,8 @@
       "task_id": 6097871933,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "141711981": {
@@ -12847,8 +12843,8 @@
       "task_id": 6097873348,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "143360849": {
@@ -12864,8 +12860,8 @@
       "task_id": 6097874601,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "143787101": {
@@ -12881,8 +12877,8 @@
       "task_id": 6097875957,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "143994928": {
@@ -12900,8 +12896,8 @@
       "task_id": 6097877528,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "144032859": {
@@ -12916,8 +12912,8 @@
       "task_id": 6097878951,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "144613407": {
@@ -12934,8 +12930,8 @@
       "task_id": 6097880408,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "144764412": {
@@ -12951,8 +12947,8 @@
       "task_id": 6097881854,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "144815899": {
@@ -12968,8 +12964,8 @@
       "task_id": 6097884132,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "146239480": {
@@ -12985,8 +12981,8 @@
       "task_id": 6097885625,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "148068512": {
@@ -13002,8 +12998,8 @@
       "task_id": 6097887104,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "148223202": {
@@ -13021,8 +13017,8 @@
       "task_id": 6097889739,
       "after_count": 7,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "148726942": {
@@ -13037,8 +13033,8 @@
       "task_id": 6097892584,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "148923236": {
@@ -13057,20 +13053,26 @@
       "task_id": 6097894743,
       "after_count": 8,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "149027752": {
-      "status": "needs_review_gallery_pending",
+      "status": "skipped_manual_review",
       "variant": "cd-import",
       "offer_id": "GAD0010CD",
       "originals_sha256": [
         "0c19bfcbc3c7562441362ec255661f000cb67c8d701d0bdbc1b229ac43bec480"
       ],
       "before_count": 1,
-      "task_id": 6097899331
+      "task_id": 6097899331,
+      "previous_status": "needs_review_gallery_pending",
+      "manual_review_reason": "Ozon gallery +2 photos not confirmed; intentionally skipped without marking verified or retrying"
+    },
+    "6961317504": {
+      "status": "verified_previous_pilot",
+      "source": "pilot/ozon-6961317504.json"
     }
   },
-  "reason": "ID 149027752: Ozon gallery did not show +2 photos"
+  "reason": null
 }
