@@ -22662,7 +22662,7 @@
       ]
     },
     "442954445": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BTLS602445599684",
       "originals_sha256": [
@@ -22672,7 +22672,12 @@
         "0d745aebe537c2b35051a39b257a48881c1f841e934eda489b86e1c9569a91cf"
       ],
       "before_count": 4,
-      "task_id": 6102261650
+      "task_id": 6102261650,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
