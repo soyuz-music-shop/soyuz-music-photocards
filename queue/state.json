@@ -14219,6 +14219,17 @@
         0.0,
         0.0
       ]
+    },
+    "225319096": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LLCD 0004",
+      "originals_sha256": [
+        "bc2006aa01bd86f7e682b24bcf7b5637e6549d07c782b99e25a89888f5698c38",
+        "57b26afff1c0d0b4e9c5faede5d33ac48c35997fb9bafcb8d489971aa7dd6ec4",
+        "98f4d1719266566ac1c6b1044dd77f93a35ffd812ffc8ca0c8772079010f06cc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
