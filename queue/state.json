@@ -22612,7 +22612,7 @@
       ]
     },
     "442934529": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PCS7009",
       "originals_sha256": [
@@ -22622,7 +22622,8 @@
         "c1dd2b8e832f09b8cf0ea0bb8d023ef79cc7dd61144f98c6bc220c7f64f3a364",
         "c35b2768b66ae767da3555173d765a6a20e8578a78b6c8e8aa8ade66ea9ccaec"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6102256962
     }
   },
   "reason": null
