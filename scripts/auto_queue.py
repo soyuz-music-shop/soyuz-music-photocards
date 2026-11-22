@@ -1,6 +1,6 @@
 """SOYUZ PhotoCards — self-continuing, guarded full-catalog Ozon queue.
 
-Each GitHub Actions invocation processes at most 8 products sequentially.
+Each GitHub Actions invocation processes at most 24 products sequentially.
 A separate repo holds the queue, progress and immutable template hashes.
 The worker deliberately stops on uncertain mutations, never silently retries.
 """
@@ -21,8 +21,8 @@ import batch1_russian_cd as photo_api
 ROOT = pathlib.Path("queue")
 CATALOG = ROOT / "catalog.json"
 STATE = ROOT / "state.json"
-BATCH_LIMIT = 8
-BATCH_SELECT = 8
+BATCH_LIMIT = 24
+BATCH_SELECT = 24
 SAFE_VARIANTS = {"cd-russian", "cd-import", "import-vinyl-info",
                  "vinyl-colored-import", "vinyl-russian"}
 STOP_STAGES = {"locked", "submitted", "imported", "unknown_after_submission",
