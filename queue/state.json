@@ -12766,7 +12766,7 @@
       ]
     },
     "139512847": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLSPOON12",
       "originals_sha256": [
@@ -12777,7 +12777,12 @@
         "a1275c070347c9ff08f9b4c4d9fb2585b48ef6ba85596f9fc0cd7f55f5d5a8c8"
       ],
       "before_count": 5,
-      "task_id": 6097866684
+      "task_id": 6097866684,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
