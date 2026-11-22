@@ -19582,6 +19582,17 @@
         0.0,
         0.0
       ]
+    },
+    "373963480": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QN0602547202727",
+      "originals_sha256": [
+        "ddfccf736a6c45ad712fd7399c12bd3cb9c5343331bae3188bfe10698fe76214",
+        "86db5c8873297d357fa3634183494768f916a6e49694b9c3229c530ef75e4499",
+        "5d9498a6d1098326e48ec80698c50d01c576b2baf8f4ac76f9e1fdcc511ff8fe"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
