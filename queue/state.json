@@ -18357,7 +18357,7 @@
       ]
     },
     "356169063": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP90080",
       "originals_sha256": [
@@ -18366,7 +18366,12 @@
         "a82118bb727c425ace404e83e8a70bd2cda72694c3369c1d72586e0f21c358b0"
       ],
       "before_count": 3,
-      "task_id": 6101802439
+      "task_id": 6101802439,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
