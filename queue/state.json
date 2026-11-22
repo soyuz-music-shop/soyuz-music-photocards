@@ -21334,14 +21334,15 @@
       ]
     },
     "399338301": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RNB0731454736428",
       "originals_sha256": [
         "337986acc47e5d06ee54aa68fe3df901f9289637d24abe11809535e4d0b2658b",
         "2c85aa7754cbd6a8cf922318f28c3d4ced84e11afe6a235f24221f0f6ad819a3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102142569
     }
   },
   "reason": null
