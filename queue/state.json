@@ -15777,6 +15777,20 @@
         0.0,
         0.0
       ]
+    },
+    "302238405": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP403",
+      "originals_sha256": [
+        "9015b9833b929d7e286c80dfb1e7a24f81c9a0374d1133993d636915f56f27c4",
+        "1e83cb36c5a21ecb25631ac7a60d7cb21834c0d204c60c02a81cc3c0b4af1e5d",
+        "5b853dbd7a65a3ab26f5b76bea238405542e35e32c59e46dbfbe98be497cbec5",
+        "4a2faf476c5f30409b331bc2ec0637366fc741ce9bb644ebcba19103e6ff453d",
+        "314447e9261a4e778fa63db0f9232955fc4c6cd1feffb612848e7aa21de228c2",
+        "85e2334d17c827cfb2bdcbc862816c2f19430095d5fc040fd17b556ff126380b"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
