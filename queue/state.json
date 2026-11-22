@@ -14507,6 +14507,16 @@
         0.0,
         0.0
       ]
+    },
+    "253770284": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ESM3143",
+      "originals_sha256": [
+        "bfaf9e457908f13cf8e0b92cfc85b2ede8bbc703254b5009ee2366764d291035",
+        "ec77bb6db11812cd5c4ab33aea8f074ccd736e9519581b84b2f404ae97a5f8ba"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
