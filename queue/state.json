@@ -17400,7 +17400,7 @@
       ]
     },
     "335197226": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL6025800722",
       "originals_sha256": [
@@ -17408,7 +17408,12 @@
         "66bc6d75ce63b2ca52c5ae3e4f7d0ba7454b231be5aa19d8c552e7275f436d55"
       ],
       "before_count": 2,
-      "task_id": 6101665051
+      "task_id": 6101665051,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
