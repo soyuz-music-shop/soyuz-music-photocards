@@ -12142,7 +12142,7 @@
       ]
     },
     "121920420": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOUM001CD",
       "originals_sha256": [
@@ -12151,7 +12151,12 @@
         "ae4fb3200817e2f8e2887d22b2b2fbe4125056477d15dd85941d1fca2b9ff3c0"
       ],
       "before_count": 3,
-      "task_id": 6097807990
+      "task_id": 6097807990,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
