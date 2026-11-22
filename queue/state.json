@@ -17103,6 +17103,16 @@
         0.0,
         0.0
       ]
+    },
+    "333363808": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DL60255777362",
+      "originals_sha256": [
+        "26c70a3e0925d9f65d1aa40722c0755ce6a44a46d64349669b6bd9cbda900640",
+        "31cccee74c7074f2bda3b25b8f828cc651fe9b40f395e0b41d76769b4e085924"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
