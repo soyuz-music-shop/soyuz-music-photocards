@@ -18265,6 +18265,16 @@
         0.0,
         0.0
       ]
+    },
+    "354023278": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AF0040DP",
+      "originals_sha256": [
+        "699b51a8b343bd558f74e72f4c6b998a56608ef6c228cbb88acc8ba5e15aea40",
+        "4e143900fcfb1fbfa4ac82573a19493e8b51cb4a9e36301012d02d2267c095c4"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
