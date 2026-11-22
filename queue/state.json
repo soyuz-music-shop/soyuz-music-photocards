@@ -16402,6 +16402,16 @@
         0.0,
         0.0
       ]
+    },
+    "324037814": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "B2K_0053",
+      "originals_sha256": [
+        "65c65202bc4ee3bfd05c72c60d59cb2d46e9411d6ec387410c051dbd09a748a9",
+        "fbd467acd7459548ff4b751b32be9103f3e77998ce79e27a2aeb2baca0c86e2b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
