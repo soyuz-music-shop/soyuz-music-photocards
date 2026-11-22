@@ -18852,7 +18852,7 @@
       ]
     },
     "360829115": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVATM100",
       "originals_sha256": [
@@ -18864,7 +18864,12 @@
         "68a3de6061156abdbbfb3c52957f1f617394b25402e524c199c9578f1ce5567c"
       ],
       "before_count": 6,
-      "task_id": 6101869890
+      "task_id": 6101869890,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
