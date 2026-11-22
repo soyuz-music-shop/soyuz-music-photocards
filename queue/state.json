@@ -12492,6 +12492,18 @@
         0.0,
         0.0
       ]
+    },
+    "134334922": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC193LP",
+      "originals_sha256": [
+        "644a319a1be0a25059a25cf43cd5050b754a7f68fc4a7cc8132b7ab902eb2431",
+        "aa139e99be86d0d0e8324bf42797043897155dfe926c6ce7a65ab224dd55fa1a",
+        "6c50ec65bb4a322448473ecaa31695f425f72e930a1ed17c799987a58fdb05b8",
+        "ecb55f84a3c6e0486fda8436e9626cbcba0cde7a2bf448ab5504d570bbe42a19"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
