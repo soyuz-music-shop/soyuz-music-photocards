@@ -18081,7 +18081,7 @@
       ]
     },
     "349701307": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP80716",
       "originals_sha256": [
@@ -18090,7 +18090,12 @@
         "ab4878c5349de99ebd9c4a07d7ab63e2708deafec93d11396deac66cc58dc2bb"
       ],
       "before_count": 3,
-      "task_id": 6101762674
+      "task_id": 6101762674,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
