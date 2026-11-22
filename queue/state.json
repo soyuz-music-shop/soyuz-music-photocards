@@ -21043,6 +21043,17 @@
         0.0,
         0.0
       ]
+    },
+    "396522660": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CML0042288292524",
+      "originals_sha256": [
+        "d01c19ac1998d576a294591e5111c3dd901204747625a11dd8ec86ebd5abe73e",
+        "52e8a00c9e417deb9f6ee267d1d76148897cee36a2428b8518d8a56151c8ad5c",
+        "6fad18a3fef39d41416898cdfadc8f517fb9824097eb9c7bd45b3a5fed68cef2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
