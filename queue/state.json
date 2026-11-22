@@ -18079,6 +18079,17 @@
         0.0,
         0.0
       ]
+    },
+    "349701307": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP80716",
+      "originals_sha256": [
+        "0d05e3a7a2f8705bd5ae030226d2be4c6158ebfd069526d8ee15ca375d0fe530",
+        "7018d1923242a5f34227838a0b724979591de4dd01cf2f9edf4e927253bbb4a4",
+        "ab4878c5349de99ebd9c4a07d7ab63e2708deafec93d11396deac66cc58dc2bb"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
