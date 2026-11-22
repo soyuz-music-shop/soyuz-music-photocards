@@ -14596,7 +14596,7 @@
       ]
     },
     "262232087": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BGOCD1173",
       "originals_sha256": [
@@ -14604,7 +14604,12 @@
         "1ee3d3488c6ff5a23029237bb622f1a29b69323d8df01f86e5329847fbe812e1"
       ],
       "before_count": 2,
-      "task_id": 6101259558
+      "task_id": 6101259558,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
