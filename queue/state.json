@@ -12632,7 +12632,7 @@
       ]
     },
     "136846783": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SX2 129",
       "originals_sha256": [
@@ -12640,7 +12640,12 @@
         "813c8e87e33d1bfae30e91213592ad1e12cb4f66507d2dcd357fb4d56711fa4a"
       ],
       "before_count": 2,
-      "task_id": 6097851952
+      "task_id": 6097851952,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
