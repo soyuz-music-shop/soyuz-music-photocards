@@ -13907,6 +13907,28 @@
         0.0,
         0.0
       ]
+    },
+    "203317649": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL1166LP",
+      "originals_sha256": [
+        "d2ea664a1c062730d3d13eb998c030c52b58825a71aeae0315693914ba6e15c9",
+        "316c060aae1b1d05df3777e858aaf647f736b5433ea3c01e937508b5a2158a7f",
+        "263c165d0a4e55932874ca75c8d508ceb4291c203c4ef7692f46d64671d8aece",
+        "d5cb658b74ec76e81a2d4d70deb713fb205f004a7cc58a43a044225266aa157f",
+        "157adc5eeabe7cfae80151db0d77d5729f4bfa441f755236e445bad1ffca3b19",
+        "e68a07cd4661ca47a019e44add228de00711bc83d5b144250a3512e468b2c25a",
+        "c1b938c405dc5f170145fd515670302db0502733be619f9723803e7030afd646",
+        "82fbef2232768427e5505a2297abd37d12ffd0cf5c95425e43d2eb694c1e678c",
+        "f3c5883f504accb830f6d28fcde04bed41b122178cc91675a3fafbf7689fbdbf",
+        "b82dbf43b5ffc962bdf8589f9df074ddf69531a5be929f513be3ffd4dd569629",
+        "20315411b62ab707abbbb6f73e035bf80c1a88388a35e142a8e43ab4e1f6e75f",
+        "ed5783878867d8cbcafa91aaeb712abaf5ac3c482ed5f64cb27ee195d979426a",
+        "d02c5942d1cfdd85b2d2a9222a3aebc400e87735cebca1632ebe77241fcd78bb",
+        "97967bb326f0bbc3d48c02d078106a15120782d12f23907513fcd8c9319d0f88"
+      ],
+      "before_count": 14
     }
   },
   "reason": null
