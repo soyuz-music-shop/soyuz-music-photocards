@@ -12354,7 +12354,7 @@
       ]
     },
     "123890949": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PRESS7CD",
       "originals_sha256": [
@@ -12364,7 +12364,8 @@
         "83c1727c9b2aa6598527fc1bc4e27b2380f61973cfadf6c1a0eefe6bee104674",
         "df404f12bd447eaec46fe19d478361764ed13c77481c9b382948e4cd16dc8776"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097825451
     }
   },
   "reason": null
