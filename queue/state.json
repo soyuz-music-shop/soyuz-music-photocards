@@ -12494,7 +12494,7 @@
       ]
     },
     "134334922": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOC193LP",
       "originals_sha256": [
@@ -12503,7 +12503,8 @@
         "6c50ec65bb4a322448473ecaa31695f425f72e930a1ed17c799987a58fdb05b8",
         "ecb55f84a3c6e0486fda8436e9626cbcba0cde7a2bf448ab5504d570bbe42a19"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097840195
     }
   },
   "reason": null
