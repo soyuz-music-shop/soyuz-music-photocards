@@ -20209,6 +20209,17 @@
         0.0,
         0.0
       ]
+    },
+    "385740460": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MDN0081227973599",
+      "originals_sha256": [
+        "e041cb37e47b89c79334f65afde277ffdca557d97b646bae5123b568a081e966",
+        "05c57005302627fdcb21fa2dbf74badaa33e9e14fb7e9793db6ecda664178ff9",
+        "f7fa6f7b2d24ea0da6e85a79603a08400ed6b3af169e28918f36ac3976fc816b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
