@@ -22631,14 +22631,19 @@
       ]
     },
     "442951869": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MJ194398891019",
       "originals_sha256": [
         "79cfbc397b5920803bca1e94ee232795cce2727c86b7e2759b1b1dddeaaece81"
       ],
       "before_count": 1,
-      "task_id": 6102258315
+      "task_id": 6102258315,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
