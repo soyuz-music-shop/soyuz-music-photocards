@@ -13007,7 +13007,7 @@
       ]
     },
     "148223202": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBL69LPX",
       "originals_sha256": [
@@ -13018,7 +13018,12 @@
         "33e6fb6069f9e740ace0008aba74ae31e43c0f8ac79f078155eb308f254c9174"
       ],
       "before_count": 5,
-      "task_id": 6097889739
+      "task_id": 6097889739,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
