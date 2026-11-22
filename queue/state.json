@@ -19518,7 +19518,7 @@
       ]
     },
     "373882027": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JP0889853909216",
       "originals_sha256": [
@@ -19526,7 +19526,12 @@
         "8965b0d6ea6e6a1a5553cb0abc8ae7f837c17f68249406da071bc6852c344595"
       ],
       "before_count": 2,
-      "task_id": 6101958828
+      "task_id": 6101958828,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
