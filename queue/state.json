@@ -17844,7 +17844,7 @@
       ]
     },
     "347471048": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP80024",
       "originals_sha256": [
@@ -17853,7 +17853,12 @@
         "e2a0403c6a2f924908963e554c05658fba3150a6151d38f759844fcf369c866a"
       ],
       "before_count": 3,
-      "task_id": 6101728396
+      "task_id": 6101728396,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
