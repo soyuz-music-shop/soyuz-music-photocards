@@ -12564,6 +12564,17 @@
         0.0,
         0.0
       ]
+    },
+    "136206034": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PSALM23105",
+      "originals_sha256": [
+        "8bcd05f7991b2f5e7b0652b4f43e62d2dda58acf6e668cfcee601002a96c05f4",
+        "b8fbe709d5fbd038de490306322c5a451dcd783b930ad840e82dd537533ecc53",
+        "4addfccf304c8aea34c860b9feb00c133cac4d2a71b3ed07b9e6f458b83dec0c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
