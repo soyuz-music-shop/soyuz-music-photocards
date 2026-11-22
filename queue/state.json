@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "active",
+  "phase": "paused",
   "items": {
     "20807385": {
       "status": "verified_previous_pilot",
@@ -13220,5 +13220,5 @@
       "task_id": 6101078921
     }
   },
-  "reason": null
+  "reason": "ID 153361134: Prior write needs manual verification"
 }
