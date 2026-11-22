@@ -13665,6 +13665,15 @@
         0.0,
         0.0
       ]
+    },
+    "185518516": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "FO770CD",
+      "originals_sha256": [
+        "3867e1ca6bdab894254406bd16bc4d8e0650bc4aec617aa50892241e95892982"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
