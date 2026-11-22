@@ -14780,6 +14780,16 @@
         0.0,
         0.0
       ]
+    },
+    "278660249": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0149552BC",
+      "originals_sha256": [
+        "0aece03d19a52f3a57ba5b4097b8c24b8082e3fc6fb7bbf93edf2042a4ae6c40",
+        "5520ed2cc830b338ae25616d76cc83810b96c226760b392afde573e041f48d22"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
