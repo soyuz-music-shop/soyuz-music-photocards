@@ -21572,7 +21572,7 @@
       ]
     },
     "409104438": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AHA0190295384388",
       "originals_sha256": [
@@ -21580,7 +21580,12 @@
         "477857d56a609b6bad365dbe16a65ebfac7bc196bc9d46f858925eb3d6080174"
       ],
       "before_count": 2,
-      "task_id": 6102164829
+      "task_id": 6102164829,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
