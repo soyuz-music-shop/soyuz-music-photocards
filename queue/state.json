@@ -13523,7 +13523,7 @@
       ]
     },
     "165010804": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAI001LP",
       "originals_sha256": [
@@ -13536,7 +13536,12 @@
         "5551813e56b30195ccc31aad9aa3914a4305508798640ef521f178f76a39683d"
       ],
       "before_count": 7,
-      "task_id": 6101118403
+      "task_id": 6101118403,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
