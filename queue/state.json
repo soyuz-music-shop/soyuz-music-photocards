@@ -18341,7 +18341,7 @@
       ]
     },
     "356090053": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VPC85030",
       "originals_sha256": [
@@ -18349,7 +18349,12 @@
         "e9ff4fb0daa5f0d5518b162d667d69bb873bfb4ac3d52c71895b9313095f36ae"
       ],
       "before_count": 2,
-      "task_id": 6101800288
+      "task_id": 6101800288,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
