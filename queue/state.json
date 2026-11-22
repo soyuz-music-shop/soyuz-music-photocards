@@ -14321,7 +14321,7 @@
       ]
     },
     "232370016": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MRGCD424",
       "originals_sha256": [
@@ -14333,7 +14333,8 @@
         "5d066e32ad6534a4822e89297eb10377a9e7beaae23dd5f780ffa45b17407fc1",
         "03805a9467de5b0ac03ee0d33dd720f5b2ec372ec46f0ae8e3058ab04c14b07f"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6101221972
     }
   },
   "reason": null
