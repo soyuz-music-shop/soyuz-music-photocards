@@ -13207,6 +13207,16 @@
         0.0,
         0.0
       ]
+    },
+    "153361134": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XL936CD",
+      "originals_sha256": [
+        "50b004033992a25a7bf30fbf3c8975fe6065bf94e164f7bb121ef8851c24bd32",
+        "149fc396dac4f66545683b33723cf32fae1a75329ffdc03323f1674c9cdcc104"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
