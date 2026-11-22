@@ -16502,7 +16502,7 @@
       ]
     },
     "328336305": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ZYX 82986-2",
       "originals_sha256": [
@@ -16511,7 +16511,12 @@
         "c1960f3908f05ecbd9d9e1095de062b10ccf6849439a93574a8eaaafa44f6934"
       ],
       "before_count": 3,
-      "task_id": 6101546721
+      "task_id": 6101546721,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
