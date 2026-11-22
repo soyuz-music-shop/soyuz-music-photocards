@@ -13138,6 +13138,21 @@
         0.0,
         0.0
       ]
+    },
+    "152513980": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DGM5009",
+      "originals_sha256": [
+        "e496366fc6b2d0cc9d5f836dafa53ad464e7b6c776f5f1b8fd1800c521cc0776",
+        "950a555b6d39d7ee230900cb9a6c14ad328dee67c32449170c8543ec461cb904",
+        "3bb7a00909ea6cb9f6c74f36be92370b115d7aeba4ada0b82475f071543c1190",
+        "9a28e7984fb171576853e599151436ea1e3ca28323107302dee9d5760d4c473c",
+        "d5a1492db83e5ea75648fe4f8b18c02e379c131ddda9e5b0ab7a1c02365a7bda",
+        "684594f165bf4d0842f0e20aa8ca722d77a08ac51205ddd20e67518c870e1500",
+        "777553363c03fe2623f332925aef08ecb175b8fffb3f6ac3e6e2a4c22c97f32a"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
