@@ -13275,7 +13275,7 @@
       ]
     },
     "158621777": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2060",
       "originals_sha256": [
@@ -13285,7 +13285,8 @@
         "d1a5e8b362d5336ad244646e8961c87fc833142a7ed1cdc7ded5c78ae91e9c3e",
         "87d8fd98fa31b0e63e85e7c7502f1bf7b2a0587571b06a13699416dc0eb9cf78"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6101092122
     }
   },
   "reason": null
