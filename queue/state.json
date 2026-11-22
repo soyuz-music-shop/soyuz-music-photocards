@@ -20608,7 +20608,7 @@
       ]
     },
     "394151742": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AHA0190295384418",
       "originals_sha256": [
@@ -20617,7 +20617,8 @@
         "ac8cafd50adc0e7f5ea11e951184e2526dd7bb9ea4827ecae87ed11c240348a3",
         "b6895697957a54a26c4464599e84e0ecae4e274cd297e64cff457040ed9fb2df"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6102077928
     }
   },
   "reason": null
