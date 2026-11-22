@@ -21898,6 +21898,17 @@
         0.0,
         0.0
       ]
+    },
+    "430226264": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "APP42283282018",
+      "originals_sha256": [
+        "72b5a8e43381985e67e42ec2625c88edc9cf754ea6dbab0c94613d2be33765c6",
+        "3ac34da7ab53483bfcde86f1dac3fbe9816dc9c7e34318e4240bff45809715e2",
+        "f1ddce49e129b0cd8ccc2cb77e47bc8312ed394061ce8fc711a4b92b1335950e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
