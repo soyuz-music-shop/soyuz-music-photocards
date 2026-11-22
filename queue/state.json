@@ -21381,6 +21381,17 @@
         0.0,
         0.0
       ]
+    },
+    "400243101": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SND0724358143324",
+      "originals_sha256": [
+        "d411577676cc9d37302161f28e4b6661cf5b20abc3259d8acd07b21f5ff5e3fb",
+        "d0915375c2643a52a2a642d8f406c427ef2e95487f27bd46a3e039dff7e2f360",
+        "9a2d65dce7af40a43ea99a7fb7eae8674eed97c0745815ffff92b2dce2d36815"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
