@@ -21062,14 +21062,15 @@
       ]
     },
     "396591224": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CNDR0042283461222",
       "originals_sha256": [
         "f89c2763f1b42f90ef49c2c73c5b24d507758dbba0c0cf979e06ac293b08b12d",
         "0ab6577981d0fb7efc5d430ec611ddeb20fbe58ba0db39b7f564ec3c26a3f233"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102119222
     }
   },
   "reason": null
