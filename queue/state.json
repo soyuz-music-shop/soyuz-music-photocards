@@ -19357,6 +19357,17 @@
         0.0,
         0.0
       ]
+    },
+    "372102376": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RMST0602527296661",
+      "originals_sha256": [
+        "f961133c506869bbd404cafde5aa5b73d54fdc65a6a642723fd63c28757b4479",
+        "8ce49e899bd3374dc4718217924151119e05bafb7c5823715e3d831a99fdb1d0",
+        "91d6616951f4038301e8347efad6e60f2068e1cddad2c61a6fba9d96ceac7d8f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
