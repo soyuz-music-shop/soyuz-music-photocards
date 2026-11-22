@@ -14037,6 +14037,16 @@
         0.0,
         0.0
       ]
+    },
+    "214506410": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XSPOON27",
+      "originals_sha256": [
+        "7cc0302285c866157aeab886c9ae1b5b8b742a6bffa4de8a19d154d42154944a",
+        "a8a21c0c1415684bd0580b4a353b660bf92205b2802fbc4d33e7e137439164a5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
