@@ -14765,7 +14765,7 @@
       ]
     },
     "278565966": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "Ears069",
       "originals_sha256": [
@@ -14773,7 +14773,8 @@
         "0b7cf3c3a1ded079671bea5a71dcef48aea3f7c71e61fc3c5bc39e6212e14034",
         "266390bb9bd83347da0adf7399074384fd3f6ee0e87e9a4f7adf0b5d06e82709"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101279710
     }
   },
   "reason": null
