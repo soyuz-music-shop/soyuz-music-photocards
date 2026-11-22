@@ -21588,7 +21588,7 @@
       ]
     },
     "409146893": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP0093624941422",
       "originals_sha256": [
@@ -21597,7 +21597,12 @@
         "611df70b16e4846bab85c9ccd393a1102edb831d1dc1199bb90137d76cfc0821"
       ],
       "before_count": 3,
-      "task_id": 6102166427
+      "task_id": 6102166427,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
