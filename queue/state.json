@@ -13193,7 +13193,7 @@
       ]
     },
     "153183135": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "YT080CD",
       "originals_sha256": [
@@ -13201,7 +13201,12 @@
         "2e58399cfb3c9e41a035cfdb57b6edefca9657be1479f7ec116760b9d92b675c"
       ],
       "before_count": 2,
-      "task_id": 6101076304
+      "task_id": 6101076304,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
