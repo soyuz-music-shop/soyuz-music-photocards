@@ -20028,6 +20028,18 @@
         0.0,
         0.0
       ]
+    },
+    "383775273": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BTLS0094638242017",
+      "originals_sha256": [
+        "16539700ba2937736604b43db46b0ffd1766b854e6b0068929fd5cdff053c53c",
+        "d445f08813b80d780b57a527b9e62db34fe10c65120bbec735f741e7554602a1",
+        "70cc55f870b3b4e6cca5d401b7b6f7bbbbbfc43a49afeebae199a421dec6bb4d",
+        "6d497a8d9e6029086878087caeff4efe4a0d55688dcc7856d5a1c634262fb424"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
