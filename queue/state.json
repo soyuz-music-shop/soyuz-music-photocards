@@ -12494,7 +12494,7 @@
       ]
     },
     "134334922": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC193LP",
       "originals_sha256": [
@@ -12504,7 +12504,12 @@
         "ecb55f84a3c6e0486fda8436e9626cbcba0cde7a2bf448ab5504d570bbe42a19"
       ],
       "before_count": 4,
-      "task_id": 6097840195
+      "task_id": 6097840195,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
