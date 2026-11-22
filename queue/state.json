@@ -21586,6 +21586,17 @@
         0.0,
         0.0
       ]
+    },
+    "409146893": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LP0093624941422",
+      "originals_sha256": [
+        "e52d6a090d6f17b96c78044357bdc354a21ae43f72e47400af8adc01da6c6899",
+        "0ffa4e3d36c8054e5abf1c6a9b67b6bd510a282a9d68811520408d321779b72c",
+        "611df70b16e4846bab85c9ccd393a1102edb831d1dc1199bb90137d76cfc0821"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
