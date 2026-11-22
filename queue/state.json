@@ -13909,7 +13909,7 @@
       ]
     },
     "203317649": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL1166LP",
       "originals_sha256": [
@@ -13928,7 +13928,8 @@
         "d02c5942d1cfdd85b2d2a9222a3aebc400e87735cebca1632ebe77241fcd78bb",
         "97967bb326f0bbc3d48c02d078106a15120782d12f23907513fcd8c9319d0f88"
       ],
-      "before_count": 14
+      "before_count": 14,
+      "task_id": 6101164823
     }
   },
   "reason": null
