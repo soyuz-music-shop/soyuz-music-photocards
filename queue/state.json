@@ -13523,7 +13523,7 @@
       ]
     },
     "165010804": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAI001LP",
       "originals_sha256": [
@@ -13535,7 +13535,8 @@
         "daa451ee7fc24eb3fb2cec71d6fb13392fa2ee16641447e1faa047fa2e8e3a63",
         "5551813e56b30195ccc31aad9aa3914a4305508798640ef521f178f76a39683d"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6101118403
     }
   },
   "reason": null
