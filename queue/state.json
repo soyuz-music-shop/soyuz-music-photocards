@@ -14728,6 +14728,18 @@
         0.0,
         0.0
       ]
+    },
+    "276931907": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CD-MMGLZD001",
+      "originals_sha256": [
+        "238e096cf1adc1af633f85dcc400e682ce5569440ec8cfa3b7829d91eec7b43e",
+        "f12a888818c90e7937b282850b41e24ce238dc8025b2d07c6d0d0830654ed8a0",
+        "eaca85355ad87906b7e6f7e249a14e3d82125c6acde6a7a0d0ff94609df2f70f",
+        "ba753c62ee80ed86684551b50890406e41b846033394d0f2adc2c2a6e521df0c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
