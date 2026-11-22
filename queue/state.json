@@ -13007,7 +13007,7 @@
       ]
     },
     "148223202": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBL69LPX",
       "originals_sha256": [
@@ -13017,7 +13017,8 @@
         "aedb898296fd6f9a3aa7ac1461f09aa7929726c4c499b451da986ccd50e119cb",
         "33e6fb6069f9e740ace0008aba74ae31e43c0f8ac79f078155eb308f254c9174"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6097889739
     }
   },
   "reason": null
