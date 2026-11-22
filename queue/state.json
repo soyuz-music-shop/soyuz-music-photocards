@@ -13667,13 +13667,14 @@
       ]
     },
     "185518516": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "FO770CD",
       "originals_sha256": [
         "3867e1ca6bdab894254406bd16bc4d8e0650bc4aec617aa50892241e95892982"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6101136685
     }
   },
   "reason": null
