@@ -13161,7 +13161,7 @@
       ]
     },
     "153117139": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD208S",
       "originals_sha256": [
@@ -13169,7 +13169,12 @@
         "00b60e63667cbdfe861529eb9572234ceec1199ded93f6b17be553d4bab3493a"
       ],
       "before_count": 2,
-      "task_id": 6101072327
+      "task_id": 6101072327,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
