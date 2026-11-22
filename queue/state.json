@@ -17876,7 +17876,7 @@
       ]
     },
     "347542745": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MOCCD13684",
       "originals_sha256": [
@@ -17884,7 +17884,8 @@
         "2a237b722285998861060af52922d81d45783f4d508cc4540a6d5bc7563ad7b4",
         "2438f0032339622d8fa12c9c50609a8f3d98dea5b1b552626aaf46c9fff5172a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101732819
     }
   },
   "reason": null
