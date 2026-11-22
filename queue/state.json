@@ -14883,6 +14883,20 @@
         0.0,
         0.0
       ]
+    },
+    "289090721": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE11241",
+      "originals_sha256": [
+        "98ba90c61ae8246a39a754507dd1526d4d2feecf53b73c28ad168a9a90878c8a",
+        "b22b9d7870dd0c0244af258871ed32beac068cb1602dddc82e48b383e9f23346",
+        "1ec93925c213c40dd63e689a8d39b727a4cf30371f0ea74843bea573f0dae253",
+        "8affc17e1234175f9413afca6791cfc5845700febdb2c902dce491053570c20b",
+        "8660e1af6aeaa58168973d3fea730598fce507af879e108789e0550ab6f78f12",
+        "a2b22b1e5e6be8ca1e9f45d6d90a9207fc790653371c99294bac0ce42e1c4d38"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
