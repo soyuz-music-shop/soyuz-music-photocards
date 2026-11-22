@@ -19167,7 +19167,7 @@
       ]
     },
     "371304230": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "V129C",
       "originals_sha256": [
@@ -19175,7 +19175,12 @@
         "d1616bb432588e7c36bb83a35a926536ccb4df26b6e123004c9babbb3b451eba"
       ],
       "before_count": 2,
-      "task_id": 6101913551
+      "task_id": 6101913551,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
