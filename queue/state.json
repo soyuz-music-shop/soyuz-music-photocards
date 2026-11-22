@@ -21637,7 +21637,7 @@
       ]
     },
     "419028032": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RRI2562",
       "originals_sha256": [
@@ -21646,7 +21646,12 @@
         "9f15a126d76d0667f68c25b025404391f331e0e37011702ac2d15fdbe1501900"
       ],
       "before_count": 3,
-      "task_id": 6102171117
+      "task_id": 6102171117,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
