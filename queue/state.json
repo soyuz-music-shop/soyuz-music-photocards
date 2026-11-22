@@ -12528,6 +12528,20 @@
         0.0,
         0.0
       ]
+    },
+    "134692331": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAMT180",
+      "originals_sha256": [
+        "0c215068727a136b6d89df51145ebc8211526c2ed605f80b1a81429daff54bfc",
+        "05a71aff5e32ba112205e8b3a90b9b5af53a539252a362b8021f06312e990ad9",
+        "ce7d393b7bd273b3677357d01de0255d80ff99cab9241d41dcede08b6320da3a",
+        "35af95014c54c29347b52fff32181b8bb167668c3b452c9bbb13d3fb10d38aea",
+        "20d1bb316e570fa90aafeb5b06184d6875dc959f0f6c1ba3ec835676e777949b",
+        "e10ed7e65920e79dc95a1815bade8fedc2593ab5ecfe83bbf1f9e9648e3b6571"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
