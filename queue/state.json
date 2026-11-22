@@ -12226,6 +12226,17 @@
         0.0,
         0.0
       ]
+    },
+    "123227096": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEM205",
+      "originals_sha256": [
+        "18e4af2fc029d1600b803a98c523e5b177850aac57ae16f1256cd510c5ffb10e",
+        "4298e143633d84499c9e12e1577eb7f21cc856c8c7cef0a904a9fd1ddbeea5fc",
+        "ee4e248097768b15390d93ef8318a920cccdd5c23c951b793859877eae7d4236"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
