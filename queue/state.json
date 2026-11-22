@@ -11862,6 +11862,20 @@
         0.0,
         0.0
       ]
+    },
+    "120686615": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "12MUTE629",
+      "originals_sha256": [
+        "a4f632983b4250459cfbdc64080c21d53e617ea5a9ca97d866724a4456609dfb",
+        "ae176e73edee6aab1d800fb80068ec303ab671acd5c9e655b683ea95115f411b",
+        "3aa36c7772edbcfc0a08cb7c39af29b5d56eb36ee4bfaa2ed0e6ca79bdaf2ac1",
+        "de82591a24965e538d2d08a3905f24912378e52d05b77f224ab217c00583f332",
+        "1f7aac63c0239f9ede03949cf9d3bb645bbc1f6ecda0e7389793661e786e8a35",
+        "93ab247d3d86c5c7549dddc1cadac063bf70cf0ae3af441ae5a019c6b70745cd"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
