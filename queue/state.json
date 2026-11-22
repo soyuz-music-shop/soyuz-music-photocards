@@ -13937,7 +13937,7 @@
       ]
     },
     "206331902": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC230LP",
       "originals_sha256": [
@@ -13952,7 +13952,12 @@
         "eb159b5634a570da3eb73761fc2761a1afaa8d98d2271e2c6afef48676debf54"
       ],
       "before_count": 9,
-      "task_id": 6101167424
+      "task_id": 6101167424,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
