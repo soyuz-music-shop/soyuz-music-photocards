@@ -12956,7 +12956,7 @@
       ]
     },
     "144815899": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL927LP",
       "originals_sha256": [
@@ -12965,7 +12965,12 @@
         "d542be49f99ed7720a016bd0ee7a0c98aaed01492f8d72903e8c93fb2b97301b"
       ],
       "before_count": 3,
-      "task_id": 6097884132
+      "task_id": 6097884132,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
