@@ -13226,14 +13226,15 @@
       "source": "pilot/ozon-6961317504.json"
     },
     "153446159": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4620107933702",
       "originals_sha256": [
         "acda117d3ebbabe5b72f935b2d9af822f12e9619427d5cbf78a081f6cfa73e5d",
         "42474bc1199d0d3166b692ffdd9def2030c44d8c6402c769243b9ae58762c52f"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101086215
     }
   },
   "reason": null
