@@ -13332,6 +13332,20 @@
         0.0,
         0.0
       ]
+    },
+    "160982190": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "REWIGCD160",
+      "originals_sha256": [
+        "a9adc2e7fbf540ac58a86788770068092d810d263ae6f1ae7a0d8e4d62de860a",
+        "a93a2d4bfc59b257e457b14197fbb1e4b7d00c97ec715bd40da23e6de4e72fe0",
+        "214770a31fac444b44ed8aedfdf45304876151aaa6f4ea612caa1c5b6902fae2",
+        "073f126ea8d133f12f615808b61740ccd2d9de1a389a6680090e3c0be5e7c32e",
+        "8ab71945d6eb5071fb20523b43d822cd6fad97baa799ee860836c49f2ee4e1e9",
+        "04703c18458d6e251fde5f7fa80c0ac714abc4937fd7911db746a13b6e2fd9dc"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
