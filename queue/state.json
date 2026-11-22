@@ -18283,7 +18283,7 @@
       ]
     },
     "354593434": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SBM538714570",
       "originals_sha256": [
@@ -18292,7 +18292,12 @@
         "f868d26528fb207bc2ee9adb11e4d6e88ad18ac62536ce02e5313d56635be91f"
       ],
       "before_count": 3,
-      "task_id": 6101792118
+      "task_id": 6101792118,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
