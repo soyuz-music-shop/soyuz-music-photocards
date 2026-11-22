@@ -13062,7 +13062,7 @@
       ]
     },
     "149027752": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "cd-import",
       "offer_id": "GAD0010CD",
       "originals_sha256": [
