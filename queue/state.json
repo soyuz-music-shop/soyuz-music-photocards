@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "paused",
+  "phase": "active",
   "items": {
     "20807385": {
       "status": "verified_previous_pilot",
@@ -13069,10 +13069,6 @@
       "previous_status": "needs_review_gallery_pending",
       "manual_review_reason": "Ozon gallery +2 photos not confirmed; intentionally skipped without marking verified or retrying"
     },
-    "6961317504": {
-      "status": "verified_previous_pilot",
-      "source": "pilot/ozon-6961317504.json"
-    },
     "149076890": {
       "status": "verified",
       "variant": "cd-russian",
@@ -13085,8 +13081,8 @@
       "task_id": 6101062235,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "149080932": {
@@ -13102,8 +13098,8 @@
       "task_id": 6101064805,
       "after_count": 5,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "150517640": {
@@ -13117,8 +13113,8 @@
       "task_id": 6101066454,
       "after_count": 3,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "150576770": {
@@ -13135,8 +13131,8 @@
       "task_id": 6101068188,
       "after_count": 6,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "152513980": {
@@ -13156,8 +13152,8 @@
       "task_id": 6101070359,
       "after_count": 9,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "153117139": {
@@ -13172,8 +13168,8 @@
       "task_id": 6101072327,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "153130299": {
@@ -13188,8 +13184,8 @@
       "task_id": 6101074560,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "153183135": {
@@ -13204,8 +13200,8 @@
       "task_id": 6101076304,
       "after_count": 4,
       "photo_distances": [
-        0.0,
-        0.0
+        0,
+        0
       ]
     },
     "153361134": {
@@ -13218,7 +13214,11 @@
       ],
       "before_count": 2,
       "task_id": 6101078921
+    },
+    "6961317504": {
+      "status": "verified_previous_pilot",
+      "source": "pilot/ozon-6961317504.json"
     }
   },
-  "reason": "ID 153361134: Prior write needs manual verification"
+  "reason": null
 }
