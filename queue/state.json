@@ -18163,6 +18163,17 @@
         0.0,
         0.0
       ]
+    },
+    "351806739": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP133",
+      "originals_sha256": [
+        "75b9e8e74a373817e1de9c72871144821e4601c614bb6fab83b87602cb82205a",
+        "c36dd7d2270fb231175ac056003127cfcfdaaf40780b21d9932de83d49fce0b1",
+        "6ecc7eea4be364559c2a709925bb4c03f378787eb3ba7806ca6ddc150cc9d94d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
