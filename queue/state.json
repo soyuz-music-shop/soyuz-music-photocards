@@ -14191,14 +14191,19 @@
       ]
     },
     "224669794": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIK 972",
       "originals_sha256": [
         "e17cb9949c175c15899915454fe7b87f48921f401f9c348c3b4316725fadcf1f"
       ],
       "before_count": 1,
-      "task_id": 6101202521
+      "task_id": 6101202521,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
