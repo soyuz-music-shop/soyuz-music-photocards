@@ -12069,6 +12069,20 @@
         0.0,
         0.0
       ]
+    },
+    "121583244": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBRED745",
+      "originals_sha256": [
+        "3031cac81842d6c3eb6e97e3b1500681f5e4fc65a6148d631571f88f939c5ed6",
+        "c7bacf36602282ea962efa8b271a82af1fb815e2d626da8ecd1e62056c564fea",
+        "542f53e9079a16e0c5d934469da2785909f60895455ddb5861cc1a3a9522dd8c",
+        "2915739891fba552100a0281a9bc4ae530a6bf9e159fa50b84f70f720592fbf1",
+        "f781e0f6c1526ce7db9ab9c8491371c49c0592fc645a2bc0472926f343405055",
+        "14f7e7c8cb8b4d52a72ef9105aec3d68f2df1a99f764d0289c683049f05f77a8"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
