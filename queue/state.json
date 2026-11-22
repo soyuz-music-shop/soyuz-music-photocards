@@ -19689,7 +19689,7 @@
       ]
     },
     "374583240": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPB2970",
       "originals_sha256": [
@@ -19697,7 +19697,12 @@
         "f879c1c48111a3cf8b1e93fd633a1fb763add4b0a85d5814b8de646e4aa8ba69"
       ],
       "before_count": 2,
-      "task_id": 6101982632
+      "task_id": 6101982632,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
