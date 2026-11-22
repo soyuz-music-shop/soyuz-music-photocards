@@ -12175,6 +12175,17 @@
         0.0,
         0.0
       ]
+    },
+    "122756221": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ATOMCD2009",
+      "originals_sha256": [
+        "51f961580677cd9d9349b257c75dec06c4d708cc2462cb8e927152a538352fc6",
+        "313049baadbdd08bff866a018c1608699e5d407cc6ae866a36cb4b20a3cd88c4",
+        "d86750a05e384c331fbe96cd0aa8a52d20281d6a70d105740d872ef24f1e7758"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
