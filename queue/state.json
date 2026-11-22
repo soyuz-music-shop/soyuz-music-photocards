@@ -12177,7 +12177,7 @@
       ]
     },
     "122756221": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ATOMCD2009",
       "originals_sha256": [
@@ -12185,7 +12185,8 @@
         "313049baadbdd08bff866a018c1608699e5d407cc6ae866a36cb4b20a3cd88c4",
         "d86750a05e384c331fbe96cd0aa8a52d20281d6a70d105740d872ef24f1e7758"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097810678
     }
   },
   "reason": null
