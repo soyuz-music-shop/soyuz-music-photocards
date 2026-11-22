@@ -12442,7 +12442,7 @@
       ]
     },
     "124614229": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDMRED238",
       "originals_sha256": [
@@ -12450,7 +12450,12 @@
         "01d2c61d4ec4df95cffc098a5b9ab14fb2ad57996f00fdaac6df1b5e1dade77e"
       ],
       "before_count": 2,
-      "task_id": 6097835917
+      "task_id": 6097835917,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
