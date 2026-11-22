@@ -14748,7 +14748,7 @@
       ]
     },
     "277815216": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "corp 002",
       "originals_sha256": [
@@ -14757,7 +14757,12 @@
         "f35f9406b2cb740654cabca82d31ebe0a4a9d2d0f3f46729fc7a5d85e044c3a7"
       ],
       "before_count": 3,
-      "task_id": 6101277830
+      "task_id": 6101277830,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
