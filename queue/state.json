@@ -16519,7 +16519,7 @@
       ]
     },
     "329212554": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZYX 55894-2",
       "originals_sha256": [
@@ -16527,7 +16527,8 @@
         "a37cae618133118c0301c1004819c5a687206507ffaea174de2f298d47f2084c",
         "cc47f2464f36c74f1b72889993a5ae7e028772da7400f468611ba53de8767272"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101548673
     }
   },
   "reason": null
