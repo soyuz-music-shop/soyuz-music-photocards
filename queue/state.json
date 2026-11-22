@@ -12713,7 +12713,7 @@
       ]
     },
     "137433361": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RUG398CD",
       "originals_sha256": [
@@ -12724,7 +12724,12 @@
         "3d5ef90461f6a69f516ae703846df14641a906116e00c442a30bb6c57e131562"
       ],
       "before_count": 5,
-      "task_id": 6097861824
+      "task_id": 6097861824,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
