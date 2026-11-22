@@ -19286,6 +19286,17 @@
         0.0,
         0.0
       ]
+    },
+    "372040163": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MTLC0602557156416",
+      "originals_sha256": [
+        "484cbd2a6c3ba6549bb92918f66d189189cabbc015a81e6cf8e3332ee2d42bea",
+        "bd4fb78df1d4dba7c9355af82743d853e908d26ba1940a9ab21c86616d561004",
+        "dfff948354bed9fa96f4057758e05e93fde39df72940684a30c360db56db70a6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
