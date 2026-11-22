@@ -14646,7 +14646,7 @@
       ]
     },
     "268484318": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0210549EMU",
       "originals_sha256": [
@@ -14654,7 +14654,12 @@
         "197084d8f1363aa457be1e066f0c45542100327b6934e68551c2296b1a5a2db1"
       ],
       "before_count": 2,
-      "task_id": 6101265622
+      "task_id": 6101265622,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
