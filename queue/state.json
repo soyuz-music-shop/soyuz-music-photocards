@@ -22383,7 +22383,7 @@
       ]
     },
     "442294221": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PFRLP5",
       "originals_sha256": [
@@ -22395,7 +22395,12 @@
         "e413c7a361d1ef3955d701c72781ddaf5525b5146bb2f9e50eda71f63b8ad35a"
       ],
       "before_count": 6,
-      "task_id": 6102239290
+      "task_id": 6102239290,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
