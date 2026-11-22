@@ -15128,7 +15128,7 @@
       ]
     },
     "298822585": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1671",
       "originals_sha256": [
@@ -15137,7 +15137,12 @@
         "5ba286773cde4ee05457aba96dbd87c05ab5aa7f3939a71b21c69c563400476d"
       ],
       "before_count": 3,
-      "task_id": 6101337654
+      "task_id": 6101337654,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
