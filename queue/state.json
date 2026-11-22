@@ -13122,7 +13122,7 @@
       ]
     },
     "150576770": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP241",
       "originals_sha256": [
@@ -13132,7 +13132,12 @@
         "a7eff6d37dbde26989dca2ca6a665675b60888e832e71d8f0a43a0f195bf843f"
       ],
       "before_count": 4,
-      "task_id": 6101068188
+      "task_id": 6101068188,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
