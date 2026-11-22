@@ -20572,6 +20572,17 @@
         0.0,
         0.0
       ]
+    },
+    "392901025": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CR0190295693459",
+      "originals_sha256": [
+        "58431060e4d2c277fc5e0faaff30770c19c613442a3ec96260c4b16c2b599986",
+        "bbfa3dfb87eefeda5bf31f7630dbdd6b4f777a39c8796f58880b5181323782be",
+        "bf8fdba70a7e3520444e8d86a91e24beaadf77ab90f4e117ae2e96338367be5e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
