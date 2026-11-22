@@ -22027,6 +22027,19 @@
         0.0,
         0.0
       ]
+    },
+    "432571589": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR200",
+      "originals_sha256": [
+        "042d9883cabbd2020fdf5a6ef526fc557dcdff9db6bd4c282149fd296cb4ff3a",
+        "882ef20382e7cac8a042384c071340b7a78d35a48925914a697b22f8971674a7",
+        "a1cc4dbddbe365050164dd995359b4f3dcafaaee2b0e340ee555af00124ad900",
+        "9aa301897bdd89426bd1020cbbd74ce04ec87e13b517d45f0c3b3a4617bcd3d5",
+        "db9d5d937c2d0e8c25227018e63ef4c0d6f8e1bc3af6071e27567b2546c6d450"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
