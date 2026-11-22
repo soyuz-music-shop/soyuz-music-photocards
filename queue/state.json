@@ -14695,7 +14695,7 @@
       ]
     },
     "272717286": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CD-MMG031",
       "originals_sha256": [
@@ -14704,7 +14704,12 @@
         "3d8230e112fb73ade95e23f0ec3679ea5043d72b5521a378bbf544080e7e6a1d"
       ],
       "before_count": 3,
-      "task_id": 6101272171
+      "task_id": 6101272171,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
