@@ -12530,7 +12530,7 @@
       ]
     },
     "134692331": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMT180",
       "originals_sha256": [
@@ -12542,7 +12542,12 @@
         "e10ed7e65920e79dc95a1815bade8fedc2593ab5ecfe83bbf1f9e9648e3b6571"
       ],
       "before_count": 6,
-      "task_id": 6097843253
+      "task_id": 6097843253,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
