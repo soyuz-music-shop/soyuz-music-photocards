@@ -21915,6 +21915,17 @@
         0.0,
         0.0
       ]
+    },
+    "430248130": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SPT81227934248",
+      "originals_sha256": [
+        "75d67dbefc68b561f9a5b7ebec7d17aa3cf9eeb1ff019c52884bfa992fed6657",
+        "13fbf49748c34c185afb7fa7e7af0a402c4b687fa91c959377392487e7b1b008",
+        "2985b8a39c7655cd8100c7152f98a6b017498007001670151f0e2cde1ac29349"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
