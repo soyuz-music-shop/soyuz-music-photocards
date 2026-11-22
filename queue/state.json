@@ -13191,6 +13191,16 @@
         0.0,
         0.0
       ]
+    },
+    "153183135": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "YT080CD",
+      "originals_sha256": [
+        "d5d4bcd2f67fec2ec5ec11d53380dfe975a254359c1ad0cd0d0d94710849a40d",
+        "2e58399cfb3c9e41a035cfdb57b6edefca9657be1479f7ec116760b9d92b675c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
