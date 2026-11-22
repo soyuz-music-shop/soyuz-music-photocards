@@ -17170,6 +17170,16 @@
         0.0,
         0.0
       ]
+    },
+    "333872459": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LZ8122796641",
+      "originals_sha256": [
+        "f4d87e0ca8d1f644c3f8928fca96f6c9f6c8d85e62d32f61ae05f16afce46273",
+        "a5984b5f9c4fa6c9af3518d3b6509e81ed26b0def267787305f742842907c56c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
