@@ -12566,7 +12566,7 @@
       ]
     },
     "136206034": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PSALM23105",
       "originals_sha256": [
@@ -12574,7 +12574,8 @@
         "b8fbe709d5fbd038de490306322c5a451dcd783b930ad840e82dd537533ecc53",
         "4addfccf304c8aea34c860b9feb00c133cac4d2a71b3ed07b9e6f458b83dec0c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097846828
     }
   },
   "reason": null
