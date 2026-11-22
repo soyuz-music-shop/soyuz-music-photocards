@@ -14977,7 +14977,7 @@
       ]
     },
     "293781145": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTOP 1544",
       "originals_sha256": [
@@ -14985,7 +14985,8 @@
         "3ad3021e3f8831f21d2a1d46002d9f39f342c61de54509a6c0fbf05e63738b21",
         "505e313887f9f6580a5b9e9978c12ae21939de8e152652068a4f66a360ffeb5e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101316280
     }
   },
   "reason": null
