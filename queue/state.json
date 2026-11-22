@@ -16552,7 +16552,7 @@
       ]
     },
     "329248180": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZYX82989-2",
       "originals_sha256": [
@@ -16560,7 +16560,8 @@
         "510f078f3a8308cac637929dc308493a568489c16970773d50e5d1b391f09c48",
         "96b88c85ff51167fc9f0b7f1e3d854a127069108a6c99c452067083ddfef93e4"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101552474
     }
   },
   "reason": null
