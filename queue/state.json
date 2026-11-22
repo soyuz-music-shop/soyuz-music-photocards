@@ -21045,7 +21045,7 @@
       ]
     },
     "396522660": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CML0042288292524",
       "originals_sha256": [
@@ -21054,7 +21054,12 @@
         "6fad18a3fef39d41416898cdfadc8f517fb9824097eb9c7bd45b3a5fed68cef2"
       ],
       "before_count": 3,
-      "task_id": 6102117839
+      "task_id": 6102117839,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
