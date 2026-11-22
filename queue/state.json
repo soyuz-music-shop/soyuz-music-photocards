@@ -12905,7 +12905,7 @@
       ]
     },
     "144032859": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YT229LP2",
       "originals_sha256": [
@@ -12913,7 +12913,12 @@
         "9bcef67472f231a92b8488ed33aff03ac7b14601e158a6544c57407a818b77f1"
       ],
       "before_count": 2,
-      "task_id": 6097878951
+      "task_id": 6097878951,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
