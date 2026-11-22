@@ -22147,6 +22147,18 @@
         0.0,
         0.0
       ]
+    },
+    "438957643": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ARSM602547954374",
+      "originals_sha256": [
+        "72ebaf1f2c36b3d00a171c626cb102ab4a861b8dae72cb212f9cb7e160536a46",
+        "310a0b3fc37c8734cae871b9fb4554df2333910dc68358919c98e95786bb90de",
+        "e9fb0d48a740183bda1610100d2dfa83b8d50b15a76b4cfe90349cb224db0793",
+        "4d822116d3e9a550b69bcbbc15b1631a4be148cba21f6810374f64ed4310a782"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
