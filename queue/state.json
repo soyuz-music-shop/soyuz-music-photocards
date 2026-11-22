@@ -18802,7 +18802,7 @@
       ]
     },
     "359706915": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP80072",
       "originals_sha256": [
@@ -18810,7 +18810,12 @@
         "46d58a6feae9672caee4bc357c79652ca6fece8b5ddca1821b601191c96ef92c"
       ],
       "before_count": 2,
-      "task_id": 6101862897
+      "task_id": 6101862897,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
