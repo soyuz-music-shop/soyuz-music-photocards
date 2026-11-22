@@ -14594,6 +14594,16 @@
         0.0,
         0.0
       ]
+    },
+    "262232087": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BGOCD1173",
+      "originals_sha256": [
+        "4213f2ae8974cc23704c69f920d7db0e47d3ae05d3e6c200e89073d13b4a5b81",
+        "1ee3d3488c6ff5a23029237bb622f1a29b69323d8df01f86e5329847fbe812e1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
