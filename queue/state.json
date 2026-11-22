@@ -16912,6 +16912,16 @@
         0.0,
         0.0
       ]
+    },
+    "331872921": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SRSD19439890051",
+      "originals_sha256": [
+        "21ddfd38a6ef1d2db8dd1892a6c97741e58e74fd86ca908986989ca26fb650e7",
+        "c15b957c332e476aba189578304ab7aeaca36f55027fd595b134f1785c8bae07"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
