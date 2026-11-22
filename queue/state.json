@@ -18355,6 +18355,17 @@
         0.0,
         0.0
       ]
+    },
+    "356169063": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP90080",
+      "originals_sha256": [
+        "2f062a40a618f13b8c0288d59426fbf047a7fc77dc78b6aa142da0f5a383a1e6",
+        "afcf94633e3784df21a2514176bcd8a131cd4138bb4e09f5cc5b4cf0d1b58b40",
+        "a82118bb727c425ace404e83e8a70bd2cda72694c3369c1d72586e0f21c358b0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
