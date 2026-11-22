@@ -13005,6 +13005,19 @@
         0.0,
         0.0
       ]
+    },
+    "148223202": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBL69LPX",
+      "originals_sha256": [
+        "3c5a9837039e21d52deec8499b28524d938b250641f5157f17715395ecb4d059",
+        "06efb866a0d1288f054ed1135236792ae5c3dfcdb9a17968f542a9e3fae025d3",
+        "4e96e9c3b4a8c31673f16a81fc68a982b552bbf96c39e4f8dbb020d71d40ba27",
+        "aedb898296fd6f9a3aa7ac1461f09aa7929726c4c499b451da986ccd50e119cb",
+        "33e6fb6069f9e740ace0008aba74ae31e43c0f8ac79f078155eb308f254c9174"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
