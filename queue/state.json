@@ -14730,7 +14730,7 @@
       ]
     },
     "276931907": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CD-MMGLZD001",
       "originals_sha256": [
@@ -14740,7 +14740,12 @@
         "ba753c62ee80ed86684551b50890406e41b846033394d0f2adc2c2a6e521df0c"
       ],
       "before_count": 4,
-      "task_id": 6101275958
+      "task_id": 6101275958,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
