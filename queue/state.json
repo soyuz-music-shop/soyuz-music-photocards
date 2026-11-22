@@ -16762,7 +16762,7 @@
       ]
     },
     "330473685": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FIT 10007-2",
       "originals_sha256": [
@@ -16771,7 +16771,12 @@
         "9073d9764b313aafdc1e889f3d24e058e6fa621f43d5293205a9eac2507590fa"
       ],
       "before_count": 3,
-      "task_id": 6101579019
+      "task_id": 6101579019,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
