@@ -17279,6 +17279,17 @@
         0.0,
         0.0
       ]
+    },
+    "334055705": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP90137",
+      "originals_sha256": [
+        "268c40a2a6f3770080fefaf98c1ca3747fb492dbec0df0e985a1fdb8a681d5cd",
+        "2cfc13e2f640e492458bd1e3af8a7a1b9bcbcf6ed1aba287224e4f20d10c821e",
+        "3b4c5638f5baaa58793281358c92fcb82e1e5bfecd42659058d4d91f92452404"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
