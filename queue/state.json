@@ -15016,7 +15016,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "295150364": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBGPM 211",
       "originals_sha256": [
@@ -15025,7 +15025,8 @@
         "cdc014cbab8c3612fa525b853f8b9d117f3b2242e8bfce33304ab75b08363ecf",
         "98b7bd2d46d2943de6101aab47502dc666c10f7220543fc657a0770cdccc59b9"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6101321963
     }
   },
   "reason": null
