@@ -14006,14 +14006,15 @@
       ]
     },
     "212251832": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XSPOON10",
       "originals_sha256": [
         "2cb4fd1f83ad44208ea3a6c273d3fd621bad0e6d76e7b09a51bac2b55d8a3493",
         "ceb41bf747db6aa05a347850b70edd88442a0dd4b962bf1b118250bec5b5d478"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101176488
     }
   },
   "reason": null
