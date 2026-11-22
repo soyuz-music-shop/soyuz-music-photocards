@@ -14865,7 +14865,7 @@
       ]
     },
     "287616453": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBRED 782",
       "originals_sha256": [
@@ -14877,7 +14877,12 @@
         "ec9f4d807058c6208ae4d688edda7ab47bd9b89201ca48937943c18c90acf0a6"
       ],
       "before_count": 6,
-      "task_id": 6101297188
+      "task_id": 6101297188,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
