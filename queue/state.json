@@ -12228,7 +12228,7 @@
       ]
     },
     "123227096": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM205",
       "originals_sha256": [
@@ -12237,7 +12237,12 @@
         "ee4e248097768b15390d93ef8318a920cccdd5c23c951b793859877eae7d4236"
       ],
       "before_count": 3,
-      "task_id": 6097814345
+      "task_id": 6097814345,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
