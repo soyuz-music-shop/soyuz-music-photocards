@@ -17348,6 +17348,17 @@
         0.0,
         0.0
       ]
+    },
+    "335157378": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TS84393000400",
+      "originals_sha256": [
+        "c814112267850b4c30008cef309bb95abba1cec1b69e01f787d78f5dc114e2e3",
+        "fbdcf157ede579e9fe6f3adea5d3aed9e584463230daa3066fb638f3b4010a31",
+        "cfa425ac2aa1cd2c25e142bf25d833e5136d2c0b9df1121c5a9b795137c5091c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
