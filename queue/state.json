@@ -14319,6 +14319,21 @@
         0.0,
         0.0
       ]
+    },
+    "232370016": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MRGCD424",
+      "originals_sha256": [
+        "fb476c817a420df2c76bc5e153ba540efec900c4656d93ff965f24714f70f955",
+        "800d846d797a04f23f76931f5c71ebaa69a025667eed003c148765364675cd0e",
+        "7134bf8fbedbd5497029f51af4074fa8337031ecf113964c74d42aeaba839904",
+        "0414415b551525c48373875bcd178e956d8be24b067a4373806142443026085b",
+        "b9c40f86cd736955b05575b3e2fb2867e5e3fc805b15bbca01eb7b954bf7d762",
+        "5d066e32ad6534a4822e89297eb10377a9e7beaae23dd5f780ffa45b17407fc1",
+        "03805a9467de5b0ac03ee0d33dd720f5b2ec372ec46f0ae8e3058ab04c14b07f"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
