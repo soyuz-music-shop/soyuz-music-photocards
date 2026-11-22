@@ -13521,6 +13521,21 @@
         0.0,
         0.0
       ]
+    },
+    "165010804": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAI001LP",
+      "originals_sha256": [
+        "5e090a14e3627470cf41539991c0a0b6edc3b7caf34a274e6def162926825ef8",
+        "8e5f2c144c2f04b6a97d7437fc66d111961811b52f00202f897c3b8184c54991",
+        "53b8840bd4f388e3889e69b8eec9f74863dd321da4876dd592b2ec5c7d8b5d69",
+        "5d6c51b4dd66d884bdfac9565fa4104cfd1ae986fb1ea99314d5b7bd4ca986b0",
+        "5decfb2249339a8de9b19495945d8fb90a94f8aaf5ff13e538f20a042aa85143",
+        "daa451ee7fc24eb3fb2cec71d6fb13392fa2ee16641447e1faa047fa2e8e3a63",
+        "5551813e56b30195ccc31aad9aa3914a4305508798640ef521f178f76a39683d"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
