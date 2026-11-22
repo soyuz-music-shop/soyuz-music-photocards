@@ -17350,7 +17350,7 @@
       ]
     },
     "335157378": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TS84393000400",
       "originals_sha256": [
@@ -17359,7 +17359,12 @@
         "cfa425ac2aa1cd2c25e142bf25d833e5136d2c0b9df1121c5a9b795137c5091c"
       ],
       "before_count": 3,
-      "task_id": 6101657295
+      "task_id": 6101657295,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
