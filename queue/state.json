@@ -16795,14 +16795,15 @@
       ]
     },
     "330522340": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MUS 81287-2",
       "originals_sha256": [
         "b23409f91d365403188f3af6b6590f6d20910a5a0f95e146483a9a33d6b06d01",
         "c26ca0930cc6c7919f139a9b806078f6ea2396b38e7997cb695327aca6f5a079"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101582553
     }
   },
   "reason": null
