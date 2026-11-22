@@ -12052,6 +12052,17 @@
         0.0,
         0.0
       ]
+    },
+    "121539951": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QHNEBOX152",
+      "originals_sha256": [
+        "9303a97297298279c2d100ab1d7f98178d9bca76e08df5346bb2394fd574be7c",
+        "2a05f668907ebdc26ecc091b3734b39c59fe3538e7c8ba1ccac0131252462967",
+        "f2b0cea4398a1892193f71128fcf21c9d6f8f6f63ce83bf50a53e8a1e3f07938"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
