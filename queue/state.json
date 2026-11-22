@@ -20505,6 +20505,16 @@
         0.0,
         0.0
       ]
+    },
+    "391144996": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WKD0602557227512",
+      "originals_sha256": [
+        "c974b5427edd203a0cde6ad5410f6c418b47c9d93ad1d7a61851a5e4c54d244c",
+        "9e8ad6d8b728135c0cd968bb05d021a0c63245655130d0c905fec668bf4e42b0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
