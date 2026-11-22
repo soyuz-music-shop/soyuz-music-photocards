@@ -18339,6 +18339,16 @@
         0.0,
         0.0
       ]
+    },
+    "356090053": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VPC85030",
+      "originals_sha256": [
+        "15b9457260730eb8537653f22c26ddd709fbd37ca84f3ea3eaa6172deba1b74a",
+        "e9ff4fb0daa5f0d5518b162d667d69bb873bfb4ac3d52c71895b9313095f36ae"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
