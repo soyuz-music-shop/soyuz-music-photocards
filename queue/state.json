@@ -11864,7 +11864,7 @@
       ]
     },
     "120686615": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "12MUTE629",
       "originals_sha256": [
@@ -11875,7 +11875,8 @@
         "1f7aac63c0239f9ede03949cf9d3bb645bbc1f6ecda0e7389793661e786e8a35",
         "93ab247d3d86c5c7549dddc1cadac063bf70cf0ae3af441ae5a019c6b70745cd"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6097786732
     }
   },
   "reason": null
