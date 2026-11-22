@@ -13935,6 +13935,23 @@
         0.0,
         0.0
       ]
+    },
+    "206331902": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC230LP",
+      "originals_sha256": [
+        "b8dc1280b895ec620326db7f12ed9a31731d42bf9c6dbd17099d46de6bcde2a6",
+        "03d4cfdb1901f6808b9bafcda652464e34156b9bb23a939a44ecd93a96a09dab",
+        "86ac673f2f3bd208e03a9adc80cadbf8f10ff7c1737529681863dbb1d29147ae",
+        "6bbb4101811449b185040d91d12150a1c5ae54592dd048402a484cd36ff97dbe",
+        "09fbd23aed3a6c16392ffc9b71b2de519d17f13c394964b1614f6b4565a7ff53",
+        "9cae728378f7d76460ec691e62f52a23607aa81b38430afbfd5c3439a4fce981",
+        "50fda4f50c54a633c7428fc80dd7f6c080effe162df030cb4dbaeb6ffd84d127",
+        "61a167786fefb40b259b0d5601c2d834068a190d2ab602010c1acc2608e90279",
+        "eb159b5634a570da3eb73761fc2761a1afaa8d98d2271e2c6afef48676debf54"
+      ],
+      "before_count": 9
     }
   },
   "reason": null
