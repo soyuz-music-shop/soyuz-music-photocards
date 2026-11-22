@@ -14428,14 +14428,15 @@
       ]
     },
     "241399848": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MIG2282",
       "originals_sha256": [
         "a02ef1fb3d7b0c0a3e36ecf34f271b58574ade11b44e08b64e27b02c80b4bd7c",
         "f2ff0690cca71d105f47e559eaca9a87759b96971220ca6600166187e6bfe372"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101235466
     }
   },
   "reason": null
