@@ -16452,14 +16452,15 @@
       ]
     },
     "325020877": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ROXBRO003",
       "originals_sha256": [
         "6d6ddcc50e91bd8c8fbfdd175a80ec0c03b93ad01e4580e408425ed80301dd37",
         "accff522efa2e313b5d4c8dafb7b2fc0d21ef4020df2772fd430b61719f3aba3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101539615
     }
   },
   "reason": null
