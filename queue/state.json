@@ -12973,7 +12973,7 @@
       ]
     },
     "146239480": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0312LP",
       "originals_sha256": [
@@ -12982,7 +12982,12 @@
         "ae24938883bd95dead1edd80c3411a2c7e7c21c2ebe29d8029ceeaec3fadb865"
       ],
       "before_count": 3,
-      "task_id": 6097885625
+      "task_id": 6097885625,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
