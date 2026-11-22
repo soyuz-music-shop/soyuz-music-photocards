@@ -12354,7 +12354,7 @@
       ]
     },
     "123890949": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PRESS7CD",
       "originals_sha256": [
@@ -12365,7 +12365,12 @@
         "df404f12bd447eaec46fe19d478361764ed13c77481c9b382948e4cd16dc8776"
       ],
       "before_count": 5,
-      "task_id": 6097825451
+      "task_id": 6097825451,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
