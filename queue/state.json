@@ -13275,7 +13275,7 @@
       ]
     },
     "158621777": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2060",
       "originals_sha256": [
@@ -13286,7 +13286,12 @@
         "87d8fd98fa31b0e63e85e7c7502f1bf7b2a0587571b06a13699416dc0eb9cf78"
       ],
       "before_count": 5,
-      "task_id": 6101092122
+      "task_id": 6101092122,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
