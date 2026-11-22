@@ -13976,13 +13976,14 @@
       ]
     },
     "210258224": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDSPOON61",
       "originals_sha256": [
         "a18e9d68e1ac317cbe86c4c8b59190010f6ed29751bef1f09fa3be7bc733387d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6101171064
     }
   },
   "reason": null
