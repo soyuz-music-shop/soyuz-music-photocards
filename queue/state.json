@@ -16536,7 +16536,7 @@
       ]
     },
     "329221554": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SESHDCD225",
       "originals_sha256": [
@@ -16544,7 +16544,12 @@
         "0b3737ffc5dfdbaa722ae65697e30e419333f02d3e611a7a97a5ba212f9423e5"
       ],
       "before_count": 2,
-      "task_id": 6101550420
+      "task_id": 6101550420,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
