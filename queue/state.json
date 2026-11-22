@@ -12852,7 +12852,7 @@
       ]
     },
     "143360849": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YT098",
       "originals_sha256": [
@@ -12861,7 +12861,12 @@
         "01be0319786fe48ed1c1935625835f857d4b3630f4f187c955dcfa68cd0a8a87"
       ],
       "before_count": 3,
-      "task_id": 6097874601
+      "task_id": 6097874601,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
