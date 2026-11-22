@@ -20995,7 +20995,7 @@
       ]
     },
     "395862880": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ACPT0743219321121",
       "originals_sha256": [
@@ -21005,7 +21005,12 @@
         "776a139616a2a8ed73beef4c0d8de4d831c42341480228e950049762134b2a16"
       ],
       "before_count": 4,
-      "task_id": 6102112218
+      "task_id": 6102112218,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
