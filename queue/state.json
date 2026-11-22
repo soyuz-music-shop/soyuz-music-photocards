@@ -21246,6 +21246,17 @@
         0.0,
         0.0
       ]
+    },
+    "398520179": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MDN0603497859344",
+      "originals_sha256": [
+        "acac0f23516c585246a3907255f5a5bbd271f9f5949efc3ef03bbdc7e001be65",
+        "41f92e218831d06c2fd12c03bbf47aa5c4db01b8101fa51602e0ffa6025b6149",
+        "1adcebccc53ff5b0f5a7cde0863b0dfe4377ee949464c2fecc1317d3057937e3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
