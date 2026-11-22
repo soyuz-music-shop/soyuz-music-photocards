@@ -17432,7 +17432,7 @@
       ]
     },
     "335293108": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SLK7567864571",
       "originals_sha256": [
@@ -17443,7 +17443,12 @@
         "54fe3547123bec56920177d96bf90afc952ad845554cf39309d529778102a20f"
       ],
       "before_count": 5,
-      "task_id": 6101670317
+      "task_id": 6101670317,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
