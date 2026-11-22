@@ -16466,6 +16466,18 @@
         0.0,
         0.0
       ]
+    },
+    "325097092": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SESHDCD212",
+      "originals_sha256": [
+        "59994be88da4535f1a065f32b42991a5dccace9f586524b52c0ca36e5b96df10",
+        "3ace591da29600733ccca208bf60430b17bfd8d8a0cb12b50079f637db7e638f",
+        "74fbcc08d714d83ee9c0e1d4349ff85131416740281722c4e73e4dabee8e42b8",
+        "f6c1dea68054e01b8fe45ce243ee1ea8225cb6eb016b3317312cb47d226bfdcb"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
