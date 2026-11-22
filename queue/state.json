@@ -22680,7 +22680,7 @@
       ]
     },
     "443886636": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MDN603497838837",
       "originals_sha256": [
@@ -22688,7 +22688,12 @@
         "714cabe145c0b21c59845107d2800e3c76c1ac41f6a8d44baa59e392d2677fd4"
       ],
       "before_count": 2,
-      "task_id": 6102263224
+      "task_id": 6102263224,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
