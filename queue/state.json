@@ -16811,14 +16811,15 @@
       ]
     },
     "330627498": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZYX 82990-2",
       "originals_sha256": [
         "27b708d1cd3d54434515e16550112319c166ecc94433cd5690fed2d23b718a66",
         "fc3765467dc5d1625ab2fcf5df0f2ed65e845953cd2db9fb320802660a84e586"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101584560
     }
   },
   "reason": null
