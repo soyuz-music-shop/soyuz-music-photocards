@@ -21986,6 +21986,23 @@
         0.0,
         0.0
       ]
+    },
+    "432529354": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR-139US",
+      "originals_sha256": [
+        "b5f722664d320e49cc716cd54bc3851129651122e408d8f22be1d893169d16f4",
+        "4317c5e6b2b75314fc469c78e97ee89b3aec72f2b316d06efeae7b4e5277202f",
+        "cff29fd03d5606c2401637c49c21255a9c6cb315966ef83a0f433bb462c296d0",
+        "a580c22d97d43de579760b1314b7002c649315fae74c06c11773f5e2aa64e86a",
+        "8645bd0e8a1e1ea03700dea29e98ec987e6945f2e6406592c9ed75b613193f50",
+        "3dade439e3b9c9d98cafa4f651ee78027fd6885318118e3421780dce663bcb30",
+        "2dc45bd63f639fd137e3c93b967af1b6f14d0b636a6eb804332e03ad4e71606b",
+        "d401378480922b82ddac74c0c3bba8bba963f204c632285b5c513679361b653b",
+        "d1d24cd9b204c9478f2ed862c3b2ca3aa2ead13ad4d90ab622bf74db37e34a09"
+      ],
+      "before_count": 9
     }
   },
   "reason": null
