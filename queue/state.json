@@ -20114,13 +20114,14 @@
       ]
     },
     "384978334": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RLST0602508773273",
       "originals_sha256": [
         "3b82b9db0249d7b45fb705a3fe2400ddd4712af3be205ff515f3812d286e08d1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6102028103
     }
   },
   "reason": null
