@@ -22517,6 +22517,22 @@
         0.0,
         0.0
       ]
+    },
+    "442807470": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PRN93624930242",
+      "originals_sha256": [
+        "c771b3f5bf4928cc5f69a389a098abc65731fc60b4fe20e4ef7fef5a7ed05362",
+        "37b031230616f9cefb0b66daf013048a4f7b6365fc98f6248a4ac67a9fe7316d",
+        "9c7c0b1e77ed19e37ba64b3e279d4fa2861b02d1dd90a7ca455638b3796dd4b5",
+        "354d712a7c5a0d24be5acd0ceeba9a5029dd43a551078f1615a106259cedd278",
+        "852997bab88e92ef49233f0f59146c8a2872a63edb490cdd1513d6e2c2f460c1",
+        "b58e699d2f357346c8a9b8ca523ea31c303b8d87d087753f789a7849dc13b084",
+        "43e1a5ebc580733ea18f37dcf007003993c529cbd1352c0270e5b229cbe95bce",
+        "0158faa7c3bec9153fd112a8f47ca5890d943a57fcbc12e1d131bd7f932ffc75"
+      ],
+      "before_count": 8
     }
   },
   "reason": null
