@@ -21263,6 +21263,19 @@
         0.0,
         0.0
       ]
+    },
+    "398527040": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MK0731451473227",
+      "originals_sha256": [
+        "585cad78686726f38e05dfe4c2737c5facd8c7f9be0d25cb003f042a86c6e98e",
+        "063d52f8231b950432b40347d25f85f92c990f9f19f38a8d0d2586e6c447a8bb",
+        "4c43ea26a04656185e19c7a1c68ee91b946114e328312c9b19a3f08b0eb2bb4c",
+        "12b4d888d95aacdeb5825e601c200bfdb9b41dccaabefd6eea5dc71c0fa4429c",
+        "9989d823c6b83998cbbf8f3fb8f298805a6f6581a905b89e7d453cf1e2e0a4eb"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
