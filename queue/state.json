@@ -18251,7 +18251,7 @@
       ]
     },
     "354001191": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AF0026White",
       "originals_sha256": [
@@ -18259,7 +18259,12 @@
         "3079e84eff9a67b176d030befb5959f27ced0beacd81cb2bde8360b8b11539a0"
       ],
       "before_count": 2,
-      "task_id": 6101787682
+      "task_id": 6101787682,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
