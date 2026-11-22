@@ -13418,6 +13418,17 @@
         0.0,
         0.0
       ]
+    },
+    "161456555": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD 1582",
+      "originals_sha256": [
+        "c07c91cdb8d437922742f92ec1067068aacaac3d6141f12781a1a76aee548067",
+        "b242f3f0aacc73a5d11af62e275c5e2791e831246b1e15d0ae2146587fb68c8e",
+        "24b970539a8da13567f3af57fa223857e8b550f9875b870271996795ffccd421"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
