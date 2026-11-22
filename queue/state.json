@@ -13273,6 +13273,19 @@
         0.0,
         0.0
       ]
+    },
+    "158621777": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP2060",
+      "originals_sha256": [
+        "db98f0de65fe5fae97d74e51407120ae19549654bc31f2c22fcd9c1b45ec94de",
+        "ab08675f5dace16d9b12ff2e2cdc56db448d5f9421c42a59480402513c3f167f",
+        "b5860fbc450abd69fb288f1a3944fdbdc33de953f417db185ba0241916cf2840",
+        "d1a5e8b362d5336ad244646e8961c87fc833142a7ed1cdc7ded5c78ae91e9c3e",
+        "87d8fd98fa31b0e63e85e7c7502f1bf7b2a0587571b06a13699416dc0eb9cf78"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
