@@ -22319,14 +22319,19 @@
       ]
     },
     "441828599": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DBZS50",
       "originals_sha256": [
         "e8f194620d61b957cbfe91698ab4336a43b1ca5087a88fdd27fe23d88cad9b5b"
       ],
       "before_count": 1,
-      "task_id": 6102232979
+      "task_id": 6102232979,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
