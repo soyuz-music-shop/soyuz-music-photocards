@@ -13698,13 +13698,14 @@
       ]
     },
     "192780055": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4632000120622",
       "originals_sha256": [
         "0c496cb22ee6523df9d1028d72b6fa153fceb33cf7b54b5dad59ff86fc6764f6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6101139987
     }
   },
   "reason": null
