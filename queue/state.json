@@ -17400,14 +17400,15 @@
       ]
     },
     "335197226": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DL6025800722",
       "originals_sha256": [
         "b6b22a547ee046f18220071faee59113057a0ea3ee0f316db60bd59911c82b66",
         "66bc6d75ce63b2ca52c5ae3e4f7d0ba7454b231be5aa19d8c552e7275f436d55"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101665051
     }
   },
   "reason": null
