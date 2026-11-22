@@ -12245,7 +12245,7 @@
       ]
     },
     "123305860": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC2757",
       "originals_sha256": [
@@ -12254,7 +12254,8 @@
         "c11d4b42cee323329ef6b8af4fa3f366310807f5474f46d0ef0fbe8ba7be69c4",
         "d486bc37931b6b2879288110787a7196ad07c9c1036e66c6ee6eecc5882c8f05"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097815638
     }
   },
   "reason": null
