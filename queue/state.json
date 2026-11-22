@@ -12954,6 +12954,17 @@
         0.0,
         0.0
       ]
+    },
+    "144815899": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL927LP",
+      "originals_sha256": [
+        "08dc5b78352ffe71ee247e2b66b32cfd8a043db85fdd2f3abcc3c454ceab257e",
+        "6bdcf066e95585208d86bf284bf366d4dadda680d14ecdaf035d335495374234",
+        "d542be49f99ed7720a016bd0ee7a0c98aaed01492f8d72903e8c93fb2b97301b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
