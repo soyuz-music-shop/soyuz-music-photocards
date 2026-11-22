@@ -20701,6 +20701,15 @@
         0.0,
         0.0
       ]
+    },
+    "394439890": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "FO352CD",
+      "originals_sha256": [
+        "29b48bee9055c2a31111ed41ae0d142a6cb6053936767992fdea8e9e769e5b3e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null
