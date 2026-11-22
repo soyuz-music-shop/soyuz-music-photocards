@@ -17037,7 +17037,7 @@
       ]
     },
     "333306071": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP80702",
       "originals_sha256": [
@@ -17046,7 +17046,12 @@
         "bf8620322071c064dee77e403963aa3400081c7e3404631f6303851d6e7a4edb"
       ],
       "before_count": 3,
-      "task_id": 6101614091
+      "task_id": 6101614091,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
