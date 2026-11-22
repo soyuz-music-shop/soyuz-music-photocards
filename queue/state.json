@@ -13937,7 +13937,7 @@
       ]
     },
     "206331902": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOC230LP",
       "originals_sha256": [
@@ -13951,7 +13951,8 @@
         "61a167786fefb40b259b0d5601c2d834068a190d2ab602010c1acc2608e90279",
         "eb159b5634a570da3eb73761fc2761a1afaa8d98d2271e2c6afef48676debf54"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6101167424
     }
   },
   "reason": null
