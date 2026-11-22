@@ -18198,14 +18198,15 @@
       ]
     },
     "353244267": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMAW00602438623037",
       "originals_sha256": [
         "06a39d2f3aef0f54c1ceb95bd84b0a23de39a1e9fe17159b97ec8c2d4f30a4d0",
         "a7f25c697223e0b10bcb3004dedd532010525d5a31777da5fc2bb71abe769222"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101780470
     }
   },
   "reason": null
