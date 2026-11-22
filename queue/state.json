@@ -12512,7 +12512,7 @@
       ]
     },
     "134621654": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM59",
       "originals_sha256": [
@@ -12522,7 +12522,12 @@
         "c710ed11eab147cce5a36352ee6075f935fb3005a47d67302872957236bf2160"
       ],
       "before_count": 4,
-      "task_id": 6097841609
+      "task_id": 6097841609,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
