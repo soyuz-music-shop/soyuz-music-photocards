@@ -76,7 +76,7 @@ class AutoQueueTests(unittest.TestCase):
         self.assertIn("unknown_after_submission",q.STOP_STAGES)
 
     def test_safe_limit_and_allowed_variants(self):
-        self.assertEqual(q.BATCH_LIMIT,8)
+        self.assertEqual(q.BATCH_LIMIT,24)
         self.assertNotIn("tape",q.SAFE_VARIANTS)
         self.assertNotIn("dvd",q.SAFE_VARIANTS)
 
