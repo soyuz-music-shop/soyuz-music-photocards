@@ -20626,7 +20626,7 @@
       ]
     },
     "394160626": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TS0602508148453",
       "originals_sha256": [
@@ -20644,7 +20644,12 @@
         "3ffb3c0ba5bea72229dba2ae7db4df6b9326aa09d078f34de0ac6c521f54a584"
       ],
       "before_count": 12,
-      "task_id": 6102079879
+      "task_id": 6102079879,
+      "after_count": 14,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
