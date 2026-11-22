@@ -13991,14 +13991,19 @@
       ]
     },
     "210352326": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSPOON62",
       "originals_sha256": [
         "fb8486320ae2c0f8e2123a40a9f6fde57fe5450cc2823418a036735ace7bb21c"
       ],
       "before_count": 1,
-      "task_id": 6101173450
+      "task_id": 6101173450,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
