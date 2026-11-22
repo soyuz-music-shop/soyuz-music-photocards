@@ -21383,7 +21383,7 @@
       ]
     },
     "400243101": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SND0724358143324",
       "originals_sha256": [
@@ -21391,7 +21391,8 @@
         "d0915375c2643a52a2a642d8f406c427ef2e95487f27bd46a3e039dff7e2f360",
         "9a2d65dce7af40a43ea99a7fb7eae8674eed97c0745815ffff92b2dce2d36815"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6102146826
     }
   },
   "reason": null
