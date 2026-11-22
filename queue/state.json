@@ -12803,7 +12803,7 @@
       ]
     },
     "141246518": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GAD807CD",
       "originals_sha256": [
@@ -12811,7 +12811,12 @@
         "669a6cfe5bd9305d6e123f1504ce1ad57605e8bc45d3319763449b0663ac6fa4"
       ],
       "before_count": 2,
-      "task_id": 6097869746
+      "task_id": 6097869746,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
