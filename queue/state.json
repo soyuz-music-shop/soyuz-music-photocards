@@ -14394,6 +14394,16 @@
         0.0,
         0.0
       ]
+    },
+    "240016633": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IN820001",
+      "originals_sha256": [
+        "912575a3493d8b9e8534b1a3ce368d8ec36a565fa4879b9fd333ecfe49f6bbad",
+        "d1c1cb54f4f481944c274ab9d84d8e148c9102f42875282c01cf4ba884208caa"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
