@@ -12695,6 +12695,16 @@
         0.0,
         0.0
       ]
+    },
+    "137101551": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGP2 196",
+      "originals_sha256": [
+        "9381da69d56eec47f77f322c58b095d5cd18c10a326f72041fd0959b8d361036",
+        "4e57bd49ee9bdbb33030775d815d74fed7a33e2ffafb56b5c59b445bdfe5f265"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
