@@ -17035,6 +17035,17 @@
         0.0,
         0.0
       ]
+    },
+    "333306071": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP80702",
+      "originals_sha256": [
+        "016ba6c2ee51a04e844625633706fe5a4824329acb306e00ac934a04cb3e488d",
+        "51ea932d7a295588eeca9d071a646f7875ef7d3c1a42a6ad4a0c6c90e73ee0d4",
+        "bf8620322071c064dee77e403963aa3400081c7e3404631f6303851d6e7a4edb"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
