@@ -20589,6 +20589,17 @@
         0.0,
         0.0
       ]
+    },
+    "393819484": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AC0602527878874",
+      "originals_sha256": [
+        "ab76579febf7a716eec528ee365b8a0fad58d107abe300c46e8722beffb41ef2",
+        "2197be4005616d74c23cd9ad94c500733b0321b6c69e0fbd6a0e095fb430391e",
+        "08afc014cd0b7f5f3a0feb815c939d88a33269defb9d0e128fa1019e10f283b7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
