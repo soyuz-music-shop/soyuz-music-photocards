@@ -11864,7 +11864,7 @@
       ]
     },
     "120686615": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "12MUTE629",
       "originals_sha256": [
@@ -11876,7 +11876,12 @@
         "93ab247d3d86c5c7549dddc1cadac063bf70cf0ae3af441ae5a019c6b70745cd"
       ],
       "before_count": 6,
-      "task_id": 6097786732
+      "task_id": 6097786732,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
