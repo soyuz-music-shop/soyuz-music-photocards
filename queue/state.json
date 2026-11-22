@@ -12662,6 +12662,16 @@
         0.0,
         0.0
       ]
+    },
+    "137094190": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHM 1409",
+      "originals_sha256": [
+        "912e0dcd14b2539067c5d70777a74b241bbf9d83d8ca0305ad767549b0cbf6c3",
+        "9e8c0d0f8939bee76216778f66b10e04cef4cbe4848a06b7cf9c35f9b619e8a6"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
