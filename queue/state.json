@@ -12903,6 +12903,16 @@
         0.0,
         0.0
       ]
+    },
+    "144032859": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YT229LP2",
+      "originals_sha256": [
+        "4ce99284a7a1a5f0d84e7864b40feb7f5e3eb57d0e9288b1f76434e7b551c1a4",
+        "9bcef67472f231a92b8488ed33aff03ac7b14601e158a6544c57407a818b77f1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
