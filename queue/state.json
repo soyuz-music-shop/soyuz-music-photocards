@@ -13882,7 +13882,7 @@
       ]
     },
     "203298770": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XL1166CD",
       "originals_sha256": [
@@ -13900,7 +13900,8 @@
         "caa14665181a0ae1da9fbc6ef981148c9b906fa355c1b684fc21733aefc12cb9",
         "18674365b558af73d6a51ddb9a9b01fb1526ff051800f89010dd9ccefa4e21c7"
       ],
-      "before_count": 13
+      "before_count": 13,
+      "task_id": 6101161562
     }
   },
   "reason": null
