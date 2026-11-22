@@ -22381,6 +22381,20 @@
         0.0,
         0.0
       ]
+    },
+    "442294221": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PFRLP5",
+      "originals_sha256": [
+        "da82b90433a3e9d37e0e9030f7bfbaeba6f7e6559a1398ce93f4ace5229c4ecf",
+        "707b81f782ba337642e325fc29bb2169bde69081407e3a4fa0d5b348848023b3",
+        "cc1498285685b30cb60c94a85126d809bdc81f55840b14b5f3322c70916427bc",
+        "9d340e922f157b1f78072987e55ff63e3e5b0ead4d61453a134ac0374a015198",
+        "5fb7be5c80131cd45ffa346dca3f80b094dae678b5a2efbb7d9b89c3aa70a49c",
+        "e413c7a361d1ef3955d701c72781ddaf5525b5146bb2f9e50eda71f63b8ad35a"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
