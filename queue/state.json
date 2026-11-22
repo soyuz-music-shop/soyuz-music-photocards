@@ -20327,6 +20327,17 @@
         0.0,
         0.0
       ]
+    },
+    "388359001": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MS0825646912223",
+      "originals_sha256": [
+        "5b8706009e449e653acac4b7f140fce295a4b7ccff6b44b804f41c561396f921",
+        "53ddc09c400340ac518345a1842a9fa566313e84fd63e0a530ba992038e001aa",
+        "81ea9144cd083e8d5aa86cf991d793eb21ea88fd7e3f4ac8740b0dd3fcb98609"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
