@@ -17481,6 +17481,17 @@
         0.0,
         0.0
       ]
+    },
+    "335345701": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SRB60243886351",
+      "originals_sha256": [
+        "80b68d7ec1ea4bad99a9276e3fed77440b91ae5f9e3624ada682c23d038a0608",
+        "cb5699c172c934e42a471680753d42095df1e2157c7287484fcf55889c4316c9",
+        "6559a7c8de1b888301a1e887336b979afb12b3a26e304240b632e2963bf793ce"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
