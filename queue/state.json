@@ -13309,6 +13309,23 @@
         0.0,
         0.0
       ]
+    },
+    "160978215": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "REWIGLP160X",
+      "originals_sha256": [
+        "52ceae51ec326ec309019839578d1127aa5d9d452e9fcd0b97b418361898c109",
+        "092d383d36909e04033d0f415054573ab9fea3e7469cf52c38672ef63da55781",
+        "614fb7de845275ce6c3f9cfdc0db5b8c22457b0468bb54a8426116c4afc986e1",
+        "fbd3bd472cc9d55c8128147bfdc2f9a5757cec68c577e542217a12f1ac323e9f",
+        "ff009e80534f3a69332e2ada1af1a161447d40334ee508691a8503633cfb230c",
+        "ec80da4337aa1ec6e871399415f73d4098b04ea4b1520357912b6bba33f59da4",
+        "46e530fa2e51bf4bc34995aa8b6c2601e5a5c3a2de2925b0c33f55546c7602aa",
+        "6b55c5fee3368b722066ae2febd297cb2334f997733abdaa264f30fd113cd48c",
+        "3f9d7368b1a0f1b433c2de6e42cdfefdf918324f147a350d6c41982a53026ea7"
+      ],
+      "before_count": 9
     }
   },
   "reason": null
