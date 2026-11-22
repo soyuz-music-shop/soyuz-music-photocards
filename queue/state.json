@@ -12583,14 +12583,15 @@
       ]
     },
     "136761569": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBGP 1011",
       "originals_sha256": [
         "9bc64c5bc009035e13393b88d6f6f54f9e30964febb1d50c7ae55cf9927dba13",
         "6ba9ee3c55ce19cd3bc243b8f64405d0e864001ce032abadf10154837022ee00"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6097848159
     }
   },
   "reason": null
