@@ -12003,7 +12003,7 @@
       ]
     },
     "121273660": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LTP001CD",
       "originals_sha256": [
@@ -12012,7 +12012,8 @@
         "beaf1c94616af3224093279912c76ffefc49883f9b93fd3dc9cbd5891c1ac124",
         "c101cb44aa347dac3805e781e20872193b1bb7c8756243e782d1780a747ace86"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097797861
     }
   },
   "reason": null
