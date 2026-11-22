@@ -17842,6 +17842,17 @@
         0.0,
         0.0
       ]
+    },
+    "347471048": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP80024",
+      "originals_sha256": [
+        "f7a7c87add9cbb6d5fd74804bbdc7d953462d88b301efcf241b4f7ee43dbaa38",
+        "86142ff025e6312e1d0da0fab80e21a6f40b4974d1d68b9a7a5494683a0f01d0",
+        "e2a0403c6a2f924908963e554c05658fba3150a6151d38f759844fcf369c866a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
