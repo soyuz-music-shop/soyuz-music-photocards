@@ -16366,6 +16366,19 @@
         0.0,
         0.0
       ]
+    },
+    "323565096": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SOM 407D",
+      "originals_sha256": [
+        "3ebdede985a2082a38afff8db308b7e64b2e71394d384735717f61efb8bc2422",
+        "cd60c3224857554e2f4be0abe7f8dc6e5e260520acde67abc8b71d610bc90ed9",
+        "cf0eb4c6fbfc75a453162260e41d8d8b2ecea8b9f39cda5f95b496649a6ccb86",
+        "0c6a98406a9e9ab7ba7a32db636c24a0d82bf330059d282958f780d03ed14953",
+        "382774fac3df45fca8d394b086c3d30f50b0f5f93362024c1973cef9d29a7d6c"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
