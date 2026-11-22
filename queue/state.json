@@ -12019,6 +12019,17 @@
         0.0,
         0.0
       ]
+    },
+    "121280082": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBBR0143",
+      "originals_sha256": [
+        "e7a616239359c7085233afb3bd6fda17c771ad9d31c469bc9a483780de7f162e",
+        "2f96d70a07ae65ab8757cabb7a73a42cd9d42a49dd594c431cab0ff6907c8e0d",
+        "abe1023395c31c4552922bf3598362130ff3b4b6a3445fc3c5d8afb3e59862a8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
