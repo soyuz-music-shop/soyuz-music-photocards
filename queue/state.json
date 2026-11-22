@@ -12614,6 +12614,16 @@
         0.0,
         0.0
       ]
+    },
+    "136836880": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSEWD 133",
+      "originals_sha256": [
+        "7e17d3ec7d9da439fd2a7ec18475b48ba49c664e4752641e1b85a63eaa9a5f88",
+        "816bca4f9e8a8912f759a5f8f8d88d4c594770b730b9ce406453be1d9eda3880"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
