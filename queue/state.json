@@ -22662,7 +22662,7 @@
       ]
     },
     "442954445": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BTLS602445599684",
       "originals_sha256": [
@@ -22671,7 +22671,8 @@
         "e29789c121a29a9792cf103cee87b88f51e4b6e6f0275def54fb7c9e00de5820",
         "0d745aebe537c2b35051a39b257a48881c1f841e934eda489b86e1c9569a91cf"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6102261650
     }
   },
   "reason": null
