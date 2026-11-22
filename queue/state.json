@@ -16517,6 +16517,17 @@
         0.0,
         0.0
       ]
+    },
+    "329212554": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZYX 55894-2",
+      "originals_sha256": [
+        "91924758b5c63c5a3208033901f6fa230dfa70e3c03105fbea7e47bf43bc7de7",
+        "a37cae618133118c0301c1004819c5a687206507ffaea174de2f298d47f2084c",
+        "cc47f2464f36c74f1b72889993a5ae7e028772da7400f468611ba53de8767272"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
