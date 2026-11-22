@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "active",
+  "phase": "paused",
   "items": {
     "20807385": {
       "status": "verified_previous_pilot",
@@ -13072,5 +13072,5 @@
       "task_id": 6097899331
     }
   },
-  "reason": null
+  "reason": "ID 149027752: Ozon gallery did not show +2 photos"
 }
