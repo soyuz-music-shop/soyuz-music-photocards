@@ -16500,6 +16500,17 @@
         0.0,
         0.0
       ]
+    },
+    "328336305": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZYX 82986-2",
+      "originals_sha256": [
+        "a9a52a116014e1c93055688f58f94ec946a1ad9a289a06e649d7169768459ece",
+        "325a98819863b01e155a8147332cd65aa3171f9f09c9b9e744b93bb882fcd3ba",
+        "c1960f3908f05ecbd9d9e1095de062b10ccf6849439a93574a8eaaafa44f6934"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
