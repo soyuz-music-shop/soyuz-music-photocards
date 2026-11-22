@@ -15867,6 +15867,17 @@
         0.0,
         0.0
       ]
+    },
+    "302755519": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP132",
+      "originals_sha256": [
+        "dce9a58d82acaa1ed3574bd569ad2de321420cf8e93c244f154f0331ac021025",
+        "aaf6ff18ff0ffbd5dc9ca05d4d249efd8daf118f58b411e6857ed484af5d63db",
+        "613c131b862aaf95c66ab09c6cb7b13106921d6dee5634e28d6a3c167f704daa"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
