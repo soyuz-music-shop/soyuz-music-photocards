@@ -20733,6 +20733,17 @@
         0.0,
         0.0
       ]
+    },
+    "394784934": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AB0602517247321",
+      "originals_sha256": [
+        "8296cf30ae88d4933cbc4a76729270384dabd482f723c04116fcd4b3c4f132d6",
+        "7a6fae4a9d62649aa0788bdb0da2e1cc439c5544ca07848787e2b4ce52dbe139",
+        "c4e9498f6c22fd7a47b3b2f59a17927a9c0aafaea60444f7b0faaa7a78c7a35f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
