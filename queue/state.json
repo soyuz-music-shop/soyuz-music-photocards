@@ -12646,6 +12646,16 @@
         0.0,
         0.0
       ]
+    },
+    "137081843": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKM 209",
+      "originals_sha256": [
+        "2417e23d6e8cd540ed1436415fadc8483b7ebce06acc6698db462872a9beab57",
+        "dbe92299aeb54c958411c6dd40e05d7c3de088789cf2b2f956d203431ed1c86f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
