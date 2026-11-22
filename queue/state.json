@@ -16139,7 +16139,7 @@
       ]
     },
     "305802298": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "REP 2234",
       "originals_sha256": [
@@ -16149,7 +16149,12 @@
         "a88b0df8d1ad1dbfbaee005dff0d460f2ccd4784406093522f17ef3a9fc95b50"
       ],
       "before_count": 4,
-      "task_id": 6101498076
+      "task_id": 6101498076,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
