@@ -14173,6 +14173,16 @@
         0.0,
         0.0
       ]
+    },
+    "224660451": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHM 1011",
+      "originals_sha256": [
+        "8af0b7ad0520a204151e51243d0bd421f6bcabb534ebd7c829bcd6900a27bf87",
+        "5164b1b0d061e86e9dce1b6592de647033d6a1f75b7dc2f134c6b69d2b62c4b8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
