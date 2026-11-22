@@ -16387,7 +16387,7 @@
       ]
     },
     "324005911": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FREEM5031",
       "originals_sha256": [
@@ -16395,7 +16395,8 @@
         "54a31c750883eaf5df43d8b041f26059e04c9b53b7085683a11ff2a03a9d7df2",
         "413c7ce9f8fa0f4307ecf820bac8811f55cab1ef2708b3c265825c7c1b26c0b6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101531152
     }
   },
   "reason": null
