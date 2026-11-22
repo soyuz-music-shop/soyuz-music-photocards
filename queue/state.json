@@ -17018,6 +17018,17 @@
         0.0,
         0.0
       ]
+    },
+    "333266082": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DB9029569273",
+      "originals_sha256": [
+        "52ed6bbe736a64ea7e80556553afe43312cb7de97659c88bf7d8860da6145281",
+        "0f043545416e27c2f139cfa2e5f2d7a9ab8e2bde1b126a1229045d376506afad",
+        "2a0edbdb3b9b91c853a815dd8a7246724981e0acef0cd0eef1732ee5ff746863"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
