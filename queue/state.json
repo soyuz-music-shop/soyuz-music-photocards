@@ -20127,6 +20127,16 @@
         0.0,
         0.0
       ]
+    },
+    "384989500": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SNT0889854461515",
+      "originals_sha256": [
+        "4578fcd7ac928deddf17ada24e3b743ead7a1101eeaf5acdfc1746ffa3d20c32",
+        "66d42ddef693ca4f3bd16f4dd3b1f40261bb8833964503c55f0d2d243beb63c2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
