@@ -12352,6 +12352,19 @@
         0.0,
         0.0
       ]
+    },
+    "123890949": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PRESS7CD",
+      "originals_sha256": [
+        "1b21a261c0f2c2845bdfce18a973bf27d44ae5c57a0c9a9b1fee2a4dd4150215",
+        "f9da85af980698c36a9cc6aad44f925adf8e69823e1009201eb017aa09f78eab",
+        "e54240789aa15dd2f0382ddce09fee95918f99ca23aee2abf08b94e09873771a",
+        "83c1727c9b2aa6598527fc1bc4e27b2380f61973cfadf6c1a0eefe6bee104674",
+        "df404f12bd447eaec46fe19d478361764ed13c77481c9b382948e4cd16dc8776"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
