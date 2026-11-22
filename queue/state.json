@@ -13960,7 +13960,7 @@
       ]
     },
     "209657299": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SPOON044",
       "originals_sha256": [
@@ -13968,7 +13968,12 @@
         "e3636361256f4c3d785a21283c010212ddfae00771c517cc50a0bfa4e19aea8f"
       ],
       "before_count": 2,
-      "task_id": 6101169372
+      "task_id": 6101169372,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
