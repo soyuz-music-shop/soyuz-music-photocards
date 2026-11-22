@@ -21144,6 +21144,17 @@
         0.0,
         0.0
       ]
+    },
+    "396734115": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DIO0042284603324",
+      "originals_sha256": [
+        "53c6d263cede3dab9188f959d83b65200b81a2e39ab6d5fb192c2c658be12858",
+        "4749cf398bda755f7086606cf7b17aa07eef3e5b9cf47e0b01d553d7027a4cdb",
+        "58fb43b44a50d5428a42b447cbdc84b62d5ab50d8e6c37352ba85e9df95cac27"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
