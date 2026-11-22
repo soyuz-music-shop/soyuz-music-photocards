@@ -21317,7 +21317,7 @@
       ]
     },
     "399260016": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PMC0888072352711",
       "originals_sha256": [
@@ -21325,7 +21325,8 @@
         "616d124b5201bbac85415d3a031cee47c136044ab7c6e1ee9d2b2a16432379d0",
         "4fd0e366e420dc9849afafd8aa7cd31d3dc1bdad15b40787eff9ca2f51d4957c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6102141153
     }
   },
   "reason": null
