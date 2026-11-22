@@ -16420,14 +16420,15 @@
       ]
     },
     "324052611": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BC212",
       "originals_sha256": [
         "fd735e44f03785f2d8fbac0892ce3ac1ab02374ecac49d43585c9ca3a0e22e0b",
         "15873878cb1b9f7bc29207f2dbd8293e5e74537c325d48356fff548d6cf5fd52"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6101535284
     }
   },
   "reason": null
