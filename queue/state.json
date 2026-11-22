@@ -12510,6 +12510,18 @@
         0.0,
         0.0
       ]
+    },
+    "134621654": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEM59",
+      "originals_sha256": [
+        "318087f11c21b0da6447c8d21b74d8719b5190652633c0b96b974b95c6d763aa",
+        "48a1223a4b235141ee2c11ee4be4f07d3fb282684f23313a68217897c069fa3e",
+        "bd22346e6fda9b0a29daa54557d14f53aa6ce9066b566e88f013ad0828bcd76b",
+        "c710ed11eab147cce5a36352ee6075f935fb3005a47d67302872957236bf2160"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
