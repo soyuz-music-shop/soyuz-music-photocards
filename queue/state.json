@@ -16434,6 +16434,16 @@
         0.0,
         0.0
       ]
+    },
+    "324065985": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SIS 1230-2",
+      "originals_sha256": [
+        "e1541de4257cc8a9e8540fc225c860e8a017589052ffa89f392056314795c7b2",
+        "e186351149be313f9a3d8e3ffdd5e85239e6169a35e33346bdd59f01d56262d5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
