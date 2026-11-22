@@ -19502,7 +19502,7 @@
       ]
     },
     "373867974": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DP0889854384517",
       "originals_sha256": [
@@ -19510,7 +19510,12 @@
         "ecc87b9beda9ecb07d859217c71ea62455e26921ef24e99ebe4733fa2f40f854"
       ],
       "before_count": 2,
-      "task_id": 6101956332
+      "task_id": 6101956332,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
