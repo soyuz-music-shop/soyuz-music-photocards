@@ -21900,7 +21900,7 @@
       ]
     },
     "430226264": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "APP42283282018",
       "originals_sha256": [
@@ -21909,7 +21909,12 @@
         "f1ddce49e129b0cd8ccc2cb77e47bc8312ed394061ce8fc711a4b92b1335950e"
       ],
       "before_count": 3,
-      "task_id": 6102196027
+      "task_id": 6102196027,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
