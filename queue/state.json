@@ -21693,6 +21693,18 @@
         0.0,
         0.0
       ]
+    },
+    "419282408": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SK75678645761",
+      "originals_sha256": [
+        "416fc42f0550f3410cb9d142b81a573c818879a704ed04c0cc95ebd73b47ea76",
+        "d6f905f4602965ad3734e1d8cea6f5b76dd66469b0a4cdc6db92fd7ce65ace5f",
+        "16dbc9a442a9af0865fef9c89f3aa6d3b29bc17d16ce00cc31a26dfb1d38bde9",
+        "352a13b7cb83d5a496b632b51d2a7b2ba9a7b185924de0bd59d1b5a076ec0068"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
