@@ -14863,6 +14863,20 @@
         0.0,
         0.0
       ]
+    },
+    "287616453": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBRED 782",
+      "originals_sha256": [
+        "f55c180d33a0cb61da4873fdc816ecdff0f5af8dfd5a3c566a81fa37ba7b43d2",
+        "40070c9bb8b32de74b1153f5f67e1329f38232619eb58c069d0fcb8791b4f012",
+        "b54e3e4502875242a4e3ff8153364e0baaec0a92f62bd443eb3ed4d8b9d2f4b3",
+        "35d9ba6735e1d82856ac5554427316d47deb3a05f174bfafd1f27d402ad58eca",
+        "1227f45734e3c092eeda142e9eac54e36570cd5f112eb6e843ae31e52cd3cfdd",
+        "ec9f4d807058c6208ae4d688edda7ab47bd9b89201ca48937943c18c90acf0a6"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
