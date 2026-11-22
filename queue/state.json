@@ -12648,7 +12648,7 @@
       ]
     },
     "137081843": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKM 209",
       "originals_sha256": [
@@ -12656,7 +12656,12 @@
         "dbe92299aeb54c958411c6dd40e05d7c3de088789cf2b2f956d203431ed1c86f"
       ],
       "before_count": 2,
-      "task_id": 6097853245
+      "task_id": 6097853245,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
