@@ -19516,6 +19516,16 @@
         0.0,
         0.0
       ]
+    },
+    "373882027": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JP0889853909216",
+      "originals_sha256": [
+        "88909c29e9084ec902eacc0392faf2606a7753847c0a90c6d08595cd312d7a01",
+        "8965b0d6ea6e6a1a5553cb0abc8ae7f837c17f68249406da071bc6852c344595"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
