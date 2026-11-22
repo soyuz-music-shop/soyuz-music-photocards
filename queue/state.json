@@ -11846,7 +11846,7 @@
       ]
     },
     "120684217": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDMUTE629",
       "originals_sha256": [
@@ -11856,7 +11856,12 @@
         "93ab247d3d86c5c7549dddc1cadac063bf70cf0ae3af441ae5a019c6b70745cd"
       ],
       "before_count": 4,
-      "task_id": 6097784186
+      "task_id": 6097784186,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
