@@ -17281,7 +17281,7 @@
       ]
     },
     "334055705": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP90137",
       "originals_sha256": [
@@ -17290,7 +17290,12 @@
         "3b4c5638f5baaa58793281358c92fcb82e1e5bfecd42659058d4d91f92452404"
       ],
       "before_count": 3,
-      "task_id": 6101647208
+      "task_id": 6101647208,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
