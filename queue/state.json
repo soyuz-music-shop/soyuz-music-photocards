@@ -13311,7 +13311,7 @@
       ]
     },
     "160978215": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "REWIGLP160X",
       "originals_sha256": [
@@ -13326,7 +13326,12 @@
         "3f9d7368b1a0f1b433c2de6e42cdfefdf918324f147a350d6c41982a53026ea7"
       ],
       "before_count": 9,
-      "task_id": 6101096462
+      "task_id": 6101096462,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
