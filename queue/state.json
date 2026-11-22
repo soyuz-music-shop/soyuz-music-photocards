@@ -12801,6 +12801,16 @@
         0.0,
         0.0
       ]
+    },
+    "141246518": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD807CD",
+      "originals_sha256": [
+        "e07fa78666908ae16f058b1815774c199c4414fb630ecf63e2642c9a7fd21c02",
+        "669a6cfe5bd9305d6e123f1504ce1ad57605e8bc45d3319763449b0663ac6fa4"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
