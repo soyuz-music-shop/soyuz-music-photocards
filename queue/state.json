@@ -13042,7 +13042,7 @@
       ]
     },
     "148923236": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ2210LPX",
       "originals_sha256": [
@@ -13053,7 +13053,8 @@
         "a8e46b3c11361348f5d0a3204dc6e66bec0cb56121cd874f8e93ce01e2f56d2a",
         "73e6c2d9f2c559ff03ae3f2731831ebad5a42158bdd431f3ca87699f7f670fbf"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6097894743
     }
   },
   "reason": null
