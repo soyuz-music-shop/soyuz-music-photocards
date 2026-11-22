@@ -12833,6 +12833,17 @@
         0.0,
         0.0
       ]
+    },
+    "141711981": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBL65CD",
+      "originals_sha256": [
+        "3e51ac014a0466810b01a9b80aacdbc066f86133b7ff5bd0a0190d600af57e2a",
+        "ea9ae594f1b89223d1c452ec089efedde5adf7bbf196fe97200ec17c654ef298",
+        "c4b75cd4105baebe706d4e9aad0d97e511a98fe87b6431ddb7741814575267c2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
