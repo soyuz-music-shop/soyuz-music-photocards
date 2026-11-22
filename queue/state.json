@@ -14075,7 +14075,7 @@
       ]
     },
     "216071493": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "0216905EMU",
       "originals_sha256": [
@@ -14083,7 +14083,8 @@
         "b2bf21b7b54c7ba1fee8c279cff1d518eb60f7d6ddde7790511d6a1d967690eb",
         "d5c5256f4074a62d48ce87ba37da658bc1555b3a9b0bb5151189c417937f7aa2"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101185633
     }
   },
   "reason": null
