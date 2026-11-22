@@ -12298,6 +12298,20 @@
         0.0,
         0.0
       ]
+    },
+    "123410692": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNECD144",
+      "originals_sha256": [
+        "09016ceb81a9a4c548f570d3c7d8542c526fd7d4d0e3df2dbcbd25c4560778f1",
+        "0af3ddc3f90b608b2b9586a5c6c05a8bab76810d5bb630dcefffd503c3372936",
+        "b8c54ded7a81e6215bea65eef8a11dee9b2ee645fab8327c52e9595490e1aaad",
+        "503fffbf9e455d28408504e07af8d1546d0ef72c0a6ecc4f79c6fe0ed67fe379",
+        "02439c8956118aee27e4c2e31f622c61b5d0d9fd56d25ea286752831fdcaa3b8",
+        "ffa6324ae07ff8f68c5a4644366b1b45a19c77b32fe1ff43321dcd13029c9ad2"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
