@@ -20344,6 +20344,16 @@
         0.0,
         0.0
       ]
+    },
+    "388449651": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WSN0190295785178",
+      "originals_sha256": [
+        "beae491a46ef2ed9dca28eb4c044150e56fc8bc7fdeac55fd1308a84aadbb8ce",
+        "3a36b6788eb17b5bae73ccebba37cbf785451747582e64a23081492ccfadce29"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
