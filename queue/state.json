@@ -17265,7 +17265,7 @@
       ]
     },
     "334040602": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LDR60252793424",
       "originals_sha256": [
@@ -17273,7 +17273,12 @@
         "4a2ea63c7724a5c8b80b76c9a62686c78c9b53c8111246e99826d67aa659019c"
       ],
       "before_count": 2,
-      "task_id": 6101645166
+      "task_id": 6101645166,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
