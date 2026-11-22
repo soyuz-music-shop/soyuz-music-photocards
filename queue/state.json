@@ -19047,7 +19047,7 @@
       ]
     },
     "363177881": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RH0602507485139",
       "originals_sha256": [
@@ -19061,7 +19061,8 @@
         "4bd449e92c150283d5125390192298444790ebb459032326054ad5959c4ffe9e",
         "c093afdc2b6bbcb45189e87ec1042fd8752ce3779e83db3b5c9190cd557e0a2a"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6101897023
     }
   },
   "reason": null
