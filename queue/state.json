@@ -22610,6 +22610,19 @@
         0.0,
         0.0
       ]
+    },
+    "442934529": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PCS7009",
+      "originals_sha256": [
+        "0933e99d934221f1706206e269a2030bbf8efb07832aad810391ae5abcc26a12",
+        "b8c60c4a505fe6f39ee1a9675deba64bf7f8c6eba6a8ae93e854aaa819e28d81",
+        "4f7fb2fad31a9eb37ea216b7eea0de67744d1115b44e78496f6083c192a09c28",
+        "c1dd2b8e832f09b8cf0ea0bb8d023ef79cc7dd61144f98c6bc220c7f64f3a364",
+        "c35b2768b66ae767da3555173d765a6a20e8578a78b6c8e8aa8ade66ea9ccaec"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
