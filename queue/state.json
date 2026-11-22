@@ -16351,7 +16351,7 @@
       ]
     },
     "323531269": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PSYCH021CD",
       "originals_sha256": [
@@ -16359,7 +16359,8 @@
         "2c469be0c74ee4501f0339eec8041f3aac9fef779f84457cdd0e04e7108b14ba",
         "b37d1fe099c65a0a8466b7699e21d8fe816d4ac823346129a66e909de155b86b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101526827
     }
   },
   "reason": null
