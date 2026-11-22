@@ -12159,7 +12159,7 @@
       ]
     },
     "121954290": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IF007LP",
       "originals_sha256": [
@@ -12168,7 +12168,8 @@
         "f419c0c183591eb1e80e962bb0a6d575ca3fa167352103f303301d0cb475c52b",
         "c4ce161d9efe543ba01d1bb35474b343fa3d178aff8244cd340c36fe4cf30ab8"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6097809458
     }
   },
   "reason": null
