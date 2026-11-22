@@ -21760,6 +21760,19 @@
         0.0,
         0.0
       ]
+    },
+    "422438661": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "INFECT701ELP",
+      "originals_sha256": [
+        "546926c357f730dc625e3ded2a7daff85352754e89e57ac74fd69cda6bb78c43",
+        "729e6d8f8513291212cf7d714eeaced7bde11a8f6216f86ca5b60b5122eff11d",
+        "986c05022cd2dbf84d443b50f51e5da7b672904c7f8dc7008e40271c03262288",
+        "e08b225fe6965525ec008879b6e04818b7fc8c8738c6257e4fffb0fcaa304110",
+        "4affab23342753cee98d942fe7e6a1a9409828ff0f15c731a41178c1b6233c9e"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
