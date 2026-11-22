@@ -16452,7 +16452,7 @@
       ]
     },
     "325020877": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ROXBRO003",
       "originals_sha256": [
@@ -16460,7 +16460,12 @@
         "accff522efa2e313b5d4c8dafb7b2fc0d21ef4020df2772fd430b61719f3aba3"
       ],
       "before_count": 2,
-      "task_id": 6101539615
+      "task_id": 6101539615,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
