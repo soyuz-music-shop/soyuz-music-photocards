@@ -14221,7 +14221,7 @@
       ]
     },
     "225319096": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LLCD 0004",
       "originals_sha256": [
@@ -14230,7 +14230,12 @@
         "98f4d1719266566ac1c6b1044dd77f93a35ffd812ffc8ca0c8772079010f06cc"
       ],
       "before_count": 3,
-      "task_id": 6101207137
+      "task_id": 6101207137,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
