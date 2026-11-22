@@ -12630,6 +12630,16 @@
         0.0,
         0.0
       ]
+    },
+    "136846783": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SX2 129",
+      "originals_sha256": [
+        "b5c611afee37bb9e044c25d4a3483f22369cf720fcb57320ffe09d9557b6ab8c",
+        "813c8e87e33d1bfae30e91213592ad1e12cb4f66507d2dcd357fb4d56711fa4a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
