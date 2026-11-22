@@ -12021,7 +12021,7 @@
       ]
     },
     "121280082": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBBR0143",
       "originals_sha256": [
@@ -12030,7 +12030,12 @@
         "abe1023395c31c4552922bf3598362130ff3b4b6a3445fc3c5d8afb3e59862a8"
       ],
       "before_count": 3,
-      "task_id": 6097799030
+      "task_id": 6097799030,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
