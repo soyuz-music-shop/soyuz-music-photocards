@@ -12971,6 +12971,17 @@
         0.0,
         0.0
       ]
+    },
+    "146239480": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0312LP",
+      "originals_sha256": [
+        "93d83a57d35bab7e3555a1d39c89ea2835e0cbed7491883f69e6c6b03d027e78",
+        "54b9a1702eada0c88f86d6e1c312d636d3e8e3357697486867e19d627610ed78",
+        "ae24938883bd95dead1edd80c3411a2c7e7c21c2ebe29d8029ceeaec3fadb865"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
