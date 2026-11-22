@@ -20099,14 +20099,19 @@
       ]
     },
     "384648378": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RLST0602508773310",
       "originals_sha256": [
         "a695f745a6ec6f41a232919e4342d8d8e212bc80bd1535833038ba87d535306d"
       ],
       "before_count": 1,
-      "task_id": 6102026694
+      "task_id": 6102026694,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
