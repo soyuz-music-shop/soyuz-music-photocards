@@ -22660,6 +22660,18 @@
         0.0,
         0.0
       ]
+    },
+    "442954445": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BTLS602445599684",
+      "originals_sha256": [
+        "c9b6b85e9636675aad7da26aa860ca93332eb37bb61204bfe30736ca14dab65f",
+        "dee266281ffbde076a1951f1dc891ca79d5be65e0c7af214298c618177637be7",
+        "e29789c121a29a9792cf103cee87b88f51e4b6e6f0275def54fb7c9e00de5820",
+        "0d745aebe537c2b35051a39b257a48881c1f841e934eda489b86e1c9569a91cf"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
