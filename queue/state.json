@@ -18850,6 +18850,20 @@
         0.0,
         0.0
       ]
+    },
+    "360829115": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVATM100",
+      "originals_sha256": [
+        "a9db77225581e1a16aef05aef0f36e473554140a6051f754fa24eb625b2736bf",
+        "7e09b3c1ad990a927a292fbaf1e563df9af07a655d30993555cc9e0b64bfda2c",
+        "38e8f9d5d5ff478db0798c5765d77fe48dfe73256662d86539406cf09a459aac",
+        "2fb7ee3dd41771530a361a9a3f8cbd78ebdc339e9232de561c1df34476ce58d7",
+        "5bea1c87ec2ae0871e6c9d909222b061b14bf9ebeac8c86bb4101229e23ea5c6",
+        "68a3de6061156abdbbfb3c52957f1f617394b25402e524c199c9578f1ce5567c"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
