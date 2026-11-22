@@ -12003,7 +12003,7 @@
       ]
     },
     "121273660": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LTP001CD",
       "originals_sha256": [
@@ -12013,7 +12013,12 @@
         "c101cb44aa347dac3805e781e20872193b1bb7c8756243e782d1780a747ace86"
       ],
       "before_count": 4,
-      "task_id": 6097797861
+      "task_id": 6097797861,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
