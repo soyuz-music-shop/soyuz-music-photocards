@@ -16486,7 +16486,7 @@
       ]
     },
     "327168938": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TECD344",
       "originals_sha256": [
@@ -16494,7 +16494,12 @@
         "5caad02a5b2fc5964a3362e52043e1542b7df91fdccfc0f18256a7a1501332a2"
       ],
       "before_count": 2,
-      "task_id": 6101543689
+      "task_id": 6101543689,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
