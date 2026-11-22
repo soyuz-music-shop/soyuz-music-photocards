@@ -22011,7 +22011,7 @@
       ]
     },
     "432560092": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TMR-500",
       "originals_sha256": [
@@ -22021,7 +22021,12 @@
         "74976ad3f37b73dff8db91ba1e445acab9ed6175caf708f512ad364483dd9323"
       ],
       "before_count": 4,
-      "task_id": 6102204627
+      "task_id": 6102204627,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
