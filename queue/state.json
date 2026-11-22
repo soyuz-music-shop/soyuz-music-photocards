@@ -17313,6 +17313,18 @@
         0.0,
         0.0
       ]
+    },
+    "334106028": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD13764",
+      "originals_sha256": [
+        "abc40c952d010cf4bfa769480ba64245f9f53accc98bb1e68139209c6673a31d",
+        "77569da0d127d24ee290424f8b7a2bbb4a2edef8c1063006f29e8db6df1a8235",
+        "c0de852abb004eb98e9d091f14bf9d0e364b4bdea65cf67a56fe01753f8ea12d",
+        "5028f8e2e8d89c0c84626a8148390e8120b75155ad88307642b14a4c93da892b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
