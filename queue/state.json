@@ -14763,6 +14763,17 @@
         0.0,
         0.0
       ]
+    },
+    "278565966": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "Ears069",
+      "originals_sha256": [
+        "c3e48dcd4fff8f2306637a94876c293c2639b9e156cbded742bcb94e72aeecc8",
+        "0b7cf3c3a1ded079671bea5a71dcef48aea3f7c71e61fc3c5bc39e6212e14034",
+        "266390bb9bd83347da0adf7399074384fd3f6ee0e87e9a4f7adf0b5d06e82709"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
