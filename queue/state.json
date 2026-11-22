@@ -18852,7 +18852,7 @@
       ]
     },
     "360829115": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVATM100",
       "originals_sha256": [
@@ -18863,7 +18863,8 @@
         "5bea1c87ec2ae0871e6c9d909222b061b14bf9ebeac8c86bb4101229e23ea5c6",
         "68a3de6061156abdbbfb3c52957f1f617394b25402e524c199c9578f1ce5567c"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6101869890
     }
   },
   "reason": null
