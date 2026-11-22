@@ -16468,7 +16468,7 @@
       ]
     },
     "325097092": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SESHDCD212",
       "originals_sha256": [
@@ -16477,7 +16477,8 @@
         "74fbcc08d714d83ee9c0e1d4349ff85131416740281722c4e73e4dabee8e42b8",
         "f6c1dea68054e01b8fe45ce243ee1ea8225cb6eb016b3317312cb47d226bfdcb"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6101541760
     }
   },
   "reason": null
