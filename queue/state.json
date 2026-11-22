@@ -18674,6 +18674,21 @@
         0.0,
         0.0
       ]
+    },
+    "358205317": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR753A1",
+      "originals_sha256": [
+        "e8374c04ff0822cd47399e7d402d5b54cbf675e6e80305d4892a78334c6e9cc9",
+        "cb0c283e2e26982bf7cb3a36a23a0279e3403352ae018d0636ad8f59c7843c8b",
+        "d2a75ebd1ad5bd86e9cff48500bc856695f6627b14c2a1480af173b81eb41984",
+        "10792d5a52eb411d3d7ee7b04bec3b3de6dcee15b9c3889747d2b6539f765d13",
+        "6426bd58c7c0585611da8cb4a9003236c1c9172d81a7b35be94347fb627d3f28",
+        "9b1923d908c013bd4b1aa6f3c766187f61a11c4540f33430be0787e708518414",
+        "58a57843301d81778b1bfa2fd1ab0e50fb0769f701343ae42f6ed0aa8bdd690d"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
