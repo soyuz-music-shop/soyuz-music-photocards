@@ -21398,6 +21398,17 @@
         0.0,
         0.0
       ]
+    },
+    "400649394": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVCL013",
+      "originals_sha256": [
+        "49d919ee80d23328a713ff3b248f36d8106d462172cb55ff5a82efec3449b244",
+        "52c12d4f551c94043f201506e3ed6d119396709cf8b56306f15d6926fdd7ca6b",
+        "e5c4abd8917349c382aa995f89befe2a2982f3fd4ac353b5552360627c793025"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
