@@ -18281,6 +18281,17 @@
         0.0,
         0.0
       ]
+    },
+    "354593434": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SBM538714570",
+      "originals_sha256": [
+        "ed950fa8b1a5099a400423e0d2073a578bf32f6f61dd56d60726e8ce0be8010d",
+        "f7a29ea4a174a0acce6f5e492371d890cd50fa1ccbb1a86841aaea7a0f1ebc71",
+        "f868d26528fb207bc2ee9adb11e4d6e88ad18ac62536ce02e5313d56635be91f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
