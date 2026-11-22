@@ -21298,6 +21298,17 @@
         0.0,
         0.0
       ]
+    },
+    "399196699": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MK0602547129284",
+      "originals_sha256": [
+        "09063f6824eeb124a630db78ec2e411f2c80ca60b331c4681066d512a7a05a16",
+        "2f59e6c41b42c7acfa5ba76165aeb462f244dde270a6cf0b49cf18961cb7a1b7",
+        "7df0e34b91ba96228c1a4783c1ce477f312dd6f8e1fee02b82727694c0e31f65"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
