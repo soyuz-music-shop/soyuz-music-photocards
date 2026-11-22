@@ -16968,7 +16968,7 @@
       ]
     },
     "332836331": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MOCCD13026",
       "originals_sha256": [
@@ -16977,7 +16977,12 @@
         "19e5fcbd11581266714caaff3654f538a5bf123aa6bd024367c71cd8d89f4396"
       ],
       "before_count": 3,
-      "task_id": 6101606487
+      "task_id": 6101606487,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
