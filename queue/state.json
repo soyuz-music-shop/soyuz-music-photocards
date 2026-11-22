@@ -14924,6 +14924,18 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "291768949": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4610199081191",
+      "originals_sha256": [
+        "8655fd42efb3eb5f0789f11464416d27209e3a8c7a29425b48dc5f6e3b9aeb63",
+        "71f9d581e4b1d8b986d023be6bfa726e84704d9275c1a44fd1bc614ee4d308c9",
+        "8fb42223cc49686d2333aa2e2b3767f6ea73006ba4528d5dc02c9b315ef5bcf8",
+        "5f8ca0267150154a7f5c0c948630b3e9692cdb4d73570fd5351c008a85c6873f"
+      ],
+      "before_count": 4
     }
   },
   "reason": null
