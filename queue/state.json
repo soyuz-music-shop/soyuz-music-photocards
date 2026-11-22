@@ -22029,7 +22029,7 @@
       ]
     },
     "432571589": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TMR200",
       "originals_sha256": [
@@ -22039,7 +22039,8 @@
         "9aa301897bdd89426bd1020cbbd74ce04ec87e13b517d45f0c3b3a4617bcd3d5",
         "db9d5d937c2d0e8c25227018e63ef4c0d6f8e1bc3af6071e27567b2546c6d450"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6102206564
     }
   },
   "reason": null
