@@ -12956,7 +12956,7 @@
       ]
     },
     "144815899": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL927LP",
       "originals_sha256": [
@@ -12964,7 +12964,8 @@
         "6bdcf066e95585208d86bf284bf366d4dadda680d14ecdaf035d335495374234",
         "d542be49f99ed7720a016bd0ee7a0c98aaed01492f8d72903e8c93fb2b97301b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097884132
     }
   },
   "reason": null
