@@ -14660,6 +14660,17 @@
         0.0,
         0.0
       ]
+    },
+    "270965808": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0210468EMU",
+      "originals_sha256": [
+        "494b6d8f3dabede5525d6265c13f7dd73e97b59b4403cbe7fc1d57c383d96ab9",
+        "ad0510e4742076c08cf8cd341cb73bda0d74617f67a8197f31123203aeff53b8",
+        "167971849d606989e41d2c994fb7003359559cc51ab984926c2647c060b8c480"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
