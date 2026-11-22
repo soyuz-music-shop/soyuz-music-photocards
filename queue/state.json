@@ -12054,7 +12054,7 @@
       ]
     },
     "121539951": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QHNEBOX152",
       "originals_sha256": [
@@ -12063,7 +12063,12 @@
         "f2b0cea4398a1892193f71128fcf21c9d6f8f6f63ce83bf50a53e8a1e3f07938"
       ],
       "before_count": 3,
-      "task_id": 6097801371
+      "task_id": 6097801371,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
