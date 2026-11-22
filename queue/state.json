@@ -13880,6 +13880,27 @@
         0.0,
         0.0
       ]
+    },
+    "203298770": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XL1166CD",
+      "originals_sha256": [
+        "5b7e1a8829e002e96bff3d3db51b588c5ab323398bcc86fbccd4f4691e1cd40d",
+        "8a5af90f2e34c413a4a93bd577781e722b73805c74fe8f5f857e61e974e49398",
+        "c5c64aa64bcaf37e780f7f93e0d0ce101b2b04f7d2cbd77dcf9dbb24b0ebcd3e",
+        "4a3967583fdde14f1b74efd058c87744e4e5d4e83e7734652fca0fe8129f7f29",
+        "3ef5d47e65db5701e9cb8f0e3f9adb841a8a39a9be57c5631782d4bf614f8d90",
+        "8cb28b0feddb9661116573d389cf48ed1135b30fe55dae0074f0430e6dbfcd09",
+        "7c2be2daf91617a872c152ca6bbb9d6c91a4623759672d8162f4e94bf817cf7f",
+        "4f76e6b2cca3dd487a53b5c8332f98eecc996b0e66b0bfaf243a144695c72e7c",
+        "afe72dde4b1d050df089213a5e21f2e739b89d4cfaf40f7c1acfd0651d565e94",
+        "20315411b62ab707abbbb6f73e035bf80c1a88388a35e142a8e43ab4e1f6e75f",
+        "b82dbf43b5ffc962bdf8589f9df074ddf69531a5be929f513be3ffd4dd569629",
+        "caa14665181a0ae1da9fbc6ef981148c9b906fa355c1b684fc21733aefc12cb9",
+        "18674365b558af73d6a51ddb9a9b01fb1526ff051800f89010dd9ccefa4e21c7"
+      ],
+      "before_count": 13
     }
   },
   "reason": null
