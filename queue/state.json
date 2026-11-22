@@ -16003,6 +16003,16 @@
         0.0,
         0.0
       ]
+    },
+    "304569551": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP2870",
+      "originals_sha256": [
+        "7b435c973c1553ad423972d6acff79c9aa92d215ae3d373ced81092db950ca70",
+        "2e132b4b0ed718ce7c2fb90454e81a214815d9409276fcc64dfb21f2ffe6bfe7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
