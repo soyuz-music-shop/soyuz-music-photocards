@@ -21605,14 +21605,15 @@
       ]
     },
     "409152389": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SCP0602577830822",
       "originals_sha256": [
         "d59170df0d1b26e869dcf29d0ac89716005d705f155c09324d3fecc0b7ecb451",
         "f83db9e55dfa6d2fd3181e455ba47eb12c35cb0a92e526bfe1386183416c1811"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102167837
     }
   },
   "reason": null
