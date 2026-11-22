@@ -14977,7 +14977,7 @@
       ]
     },
     "293781145": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDTOP 1544",
       "originals_sha256": [
@@ -14986,7 +14986,12 @@
         "505e313887f9f6580a5b9e9978c12ae21939de8e152652068a4f66a360ffeb5e"
       ],
       "before_count": 3,
-      "task_id": 6101316280
+      "task_id": 6101316280,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
