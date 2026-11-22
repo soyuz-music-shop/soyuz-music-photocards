@@ -14321,7 +14321,7 @@
       ]
     },
     "232370016": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MRGCD424",
       "originals_sha256": [
@@ -14334,7 +14334,12 @@
         "03805a9467de5b0ac03ee0d33dd720f5b2ec372ec46f0ae8e3058ab04c14b07f"
       ],
       "before_count": 7,
-      "task_id": 6101221972
+      "task_id": 6101221972,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
