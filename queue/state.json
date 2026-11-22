@@ -13599,7 +13599,7 @@
       ]
     },
     "169828896": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "0215715EMU",
       "originals_sha256": [
@@ -13610,7 +13610,8 @@
         "36d212609d6e65b9bd179a16da8123ae83aee0907b695b50250935ff8a47b753",
         "9cb258ccce54250ebd6793d0d05f5833216e5aa0a8708fa82a50f1d894892528"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6101127590
     }
   },
   "reason": null
