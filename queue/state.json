@@ -16534,6 +16534,16 @@
         0.0,
         0.0
       ]
+    },
+    "329221554": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SESHDCD225",
+      "originals_sha256": [
+        "11a85b5680bb1999e178078a39a7e603afaea2e62899bb0120ffc26e440561b4",
+        "0b3737ffc5dfdbaa722ae65697e30e419333f02d3e611a7a97a5ba212f9423e5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
