@@ -18214,7 +18214,7 @@
       ]
     },
     "353305140": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMBTL00602435789507",
       "originals_sha256": [
@@ -18222,7 +18222,12 @@
         "0fedfd97103b9a3ce3183c2b275280e78c50e86cb9d35796a44c1fdb4179efdf"
       ],
       "before_count": 2,
-      "task_id": 6101782659
+      "task_id": 6101782659,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
