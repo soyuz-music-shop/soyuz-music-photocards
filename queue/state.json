@@ -22631,13 +22631,14 @@
       ]
     },
     "442951869": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MJ194398891019",
       "originals_sha256": [
         "79cfbc397b5920803bca1e94ee232795cce2727c86b7e2759b1b1dddeaaece81"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6102258315
     }
   },
   "reason": null
