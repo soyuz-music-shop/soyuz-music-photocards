@@ -15799,7 +15799,7 @@
       ]
     },
     "302243144": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2060RED",
       "originals_sha256": [
@@ -15811,7 +15811,12 @@
         "05e45111f991df0cdde37283deee4ecf5eb23e274f97f8292f7a1802ffe8c9ea"
       ],
       "before_count": 6,
-      "task_id": 6101449668
+      "task_id": 6101449668,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
