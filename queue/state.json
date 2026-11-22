@@ -14693,6 +14693,17 @@
         0.0,
         0.0
       ]
+    },
+    "272717286": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CD-MMG031",
+      "originals_sha256": [
+        "a7a3c7d8cc74726273cafac46b907d7c6740b4d8411395802abf3d575fb6a816",
+        "5baa7be4e64807bbb9dd95c4b573828da4f2b7f2ae747581ff03f6ff54c33061",
+        "3d8230e112fb73ade95e23f0ec3679ea5043d72b5521a378bbf544080e7e6a1d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
