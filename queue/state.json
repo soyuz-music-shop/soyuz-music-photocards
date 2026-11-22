@@ -17121,13 +17121,14 @@
       ]
     },
     "333426194": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPB2682",
       "originals_sha256": [
         "0892e100e96e1fe7e316bf0381a5ebe9b3f3527054dca15096156b226728694a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6101626330
     }
   },
   "reason": null
