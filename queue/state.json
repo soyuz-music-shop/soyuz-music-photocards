@@ -20826,6 +20826,17 @@
         0.0,
         0.0
       ]
+    },
+    "394889202": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IRM0190295852344",
+      "originals_sha256": [
+        "172a499673bab947c0eddca35a89c12392fa68afb4b2f3c59dcd9e70a2165a42",
+        "b4c626339e637679229eee1c48f2b2f5e0063732b0b772f4cb14a40ac42c7347",
+        "3b7fb2614a12b00ec54cc044f3019357306e5d15bc4ca40f93c47cb96b52bbdd"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
