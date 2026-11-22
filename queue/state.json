@@ -16777,6 +16777,16 @@
         0.0,
         0.0
       ]
+    },
+    "330492145": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZYX 55899-2",
+      "originals_sha256": [
+        "736e12a81ca369b2fa2e19a34deca1bb9421615dda8a9df5780f180602058850",
+        "16cbdc6abb248c9625407bd477f745f91be9639fb37d05520d4067107cac9cc0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
