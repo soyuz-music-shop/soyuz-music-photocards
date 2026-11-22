@@ -12764,6 +12764,19 @@
         0.0,
         0.0
       ]
+    },
+    "139512847": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLSPOON12",
+      "originals_sha256": [
+        "b0e18cbf5fef4d8dc32dd9495c274d03ec2de96e44c0e98fa45bf5db3d9198d7",
+        "703981fe7435d41ffb3c28ea241a0347c51e000b0b492e04e355343c8b91437b",
+        "ddf07781b5f3a599ab55679267b5e381d10b0c68d00bd9c125315b46c4ca3479",
+        "5b630de481b9ddaf373e7141aa51a2019f3080b0fe219354647d064243d1e381",
+        "a1275c070347c9ff08f9b4c4d9fb2585b48ef6ba85596f9fc0cd7f55f5d5a8c8"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
