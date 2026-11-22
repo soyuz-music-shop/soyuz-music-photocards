@@ -19856,6 +19856,16 @@
         0.0,
         0.0
       ]
+    },
+    "376049727": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RHCP0093624920168",
+      "originals_sha256": [
+        "f2790cd58cbb284ae81474ab46c6f4c29af1a1a30d4cf6e483d0f35887981c8b",
+        "17f107ff4145706d3e1b7e9c0fbe96408663c3fb0736264eb938b574a27507d6"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
