@@ -12616,7 +12616,7 @@
       ]
     },
     "136836880": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSEWD 133",
       "originals_sha256": [
@@ -12624,7 +12624,12 @@
         "816bca4f9e8a8912f759a5f8f8d88d4c594770b730b9ce406453be1d9eda3880"
       ],
       "before_count": 2,
-      "task_id": 6097850670
+      "task_id": 6097850670,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
