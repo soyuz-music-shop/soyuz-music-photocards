@@ -13579,7 +13579,7 @@
       ]
     },
     "169827536": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0217129EMU",
       "originals_sha256": [
@@ -13591,7 +13591,12 @@
         "93401e32e272348d4c9bf902b0d16bec76c3008bdf1733cf97a9a598fee4d0b9"
       ],
       "before_count": 6,
-      "task_id": 6101125190
+      "task_id": 6101125190,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
