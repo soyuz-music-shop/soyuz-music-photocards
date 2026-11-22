@@ -12124,6 +12124,16 @@
         0.0,
         0.0
       ]
+    },
+    "121906614": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBBRX0365",
+      "originals_sha256": [
+        "988d750113a402ff46619b3b8db23f93b0dfcde7d30a6a7ce61c918fdec84dcd",
+        "6741754097d1ce8751e7502cbabeca61c2aa62ba2a3d5c544f355172ef90013d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
