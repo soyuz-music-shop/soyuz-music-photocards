@@ -20995,7 +20995,7 @@
       ]
     },
     "395862880": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACPT0743219321121",
       "originals_sha256": [
@@ -21004,7 +21004,8 @@
         "278693f349dbcac690534bcaded72382d294c5a53ce9837db19ab1ca55d5b376",
         "776a139616a2a8ed73beef4c0d8de4d831c42341480228e950049762134b2a16"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6102112218
     }
   },
   "reason": null
