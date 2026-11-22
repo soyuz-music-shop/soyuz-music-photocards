@@ -16404,7 +16404,7 @@
       ]
     },
     "324037814": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "B2K_0053",
       "originals_sha256": [
@@ -16412,7 +16412,12 @@
         "fbd467acd7459548ff4b751b32be9103f3e77998ce79e27a2aeb2baca0c86e2b"
       ],
       "before_count": 2,
-      "task_id": 6101533346
+      "task_id": 6101533346,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
