@@ -12261,6 +12261,20 @@
         0.0,
         0.0
       ]
+    },
+    "123340307": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QECLEC22748",
+      "originals_sha256": [
+        "97291649579d7e4bd4c15e828b340b6802a9b683d46b575a6797fd48468a3188",
+        "3e67db0faa8aaaf448af5914524f4d69761019c393909a8f549ec82bcc002fba",
+        "8f62d447878322e96092d8e61b85dbb6ff0c6fbd0de754c52fbba5c7ecd9d7bf",
+        "6a419f27787c554d7fa4b88d50712de0ca73443a3286d572259bd8ce50bd6d8c",
+        "c54b81cef19f1ae19c68cbeecd6e32664e29cd419311b904f1cb310b0c0864a6",
+        "73b239ce5db9bbbcba932500d2f961c264a6d8d677d71b1ef028360ecb286c78"
+      ],
+      "before_count": 6
     }
   },
   "reason": null
