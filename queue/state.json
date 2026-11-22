@@ -13334,7 +13334,7 @@
       ]
     },
     "160982190": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "REWIGCD160",
       "originals_sha256": [
@@ -13346,7 +13346,12 @@
         "04703c18458d6e251fde5f7fa80c0ac714abc4937fd7911db746a13b6e2fd9dc"
       ],
       "before_count": 6,
-      "task_id": 6101098410
+      "task_id": 6101098410,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
