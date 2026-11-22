@@ -18753,7 +18753,7 @@
       ]
     },
     "359589769": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MOCCD13837",
       "originals_sha256": [
@@ -18762,7 +18762,12 @@
         "5ef2ee3284a1305b66aa39a3900a4660ff7c97d7a0a37eea558442ec7faa716b"
       ],
       "before_count": 3,
-      "task_id": 6101855478
+      "task_id": 6101855478,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
