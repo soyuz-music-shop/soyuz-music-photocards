@@ -16945,6 +16945,21 @@
         0.0,
         0.0
       ]
+    },
+    "332813430": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD14040",
+      "originals_sha256": [
+        "63a6f735bca0dc85901bcf09e3c328523aad99357ad5055bbb8466fddf5af996",
+        "541635e2a13962d7de197e4bf4aae3b9dd93dbe144e3c4ba4f6f29a2d8d9ec2a",
+        "5cd10f0fa768f1a8425f01b7ea14232f03a97b49035730b203a6c0f4879c12df",
+        "ba78e4823571f74689f4f9bd209a2758be86c067d54f34214d61c750b147d133",
+        "29ff8c6a41b4d5b40c745e6a3182d90229a37a3e22f82db51d6cc807788d57d8",
+        "3ab0c32d3a6381c865e72fe480b04b42d906a0da25ce52f959d3a08485d5afd1",
+        "66ee8bf5afa5ba01eaedbdb33dad798673cef734dea4bc66ece2556059c071a9"
+      ],
+      "before_count": 7
     }
   },
   "reason": null
