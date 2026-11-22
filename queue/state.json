@@ -22238,14 +22238,15 @@
       ]
     },
     "441327871": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPC3241",
       "originals_sha256": [
         "aaa388bd3ae7fe6b3ec8fe11cbeef0066c4b1d7e86cda43d86f8ccea8686c1b1",
         "54e64f02b655a6c486b970632aac72d593b7a4f5fd95756e3f885b79824e471b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6102224827
     }
   },
   "reason": null
