@@ -12142,7 +12142,7 @@
       ]
     },
     "121920420": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SOUM001CD",
       "originals_sha256": [
@@ -12150,7 +12150,8 @@
         "beeedc283555a0268c947b190f8f3186a2d88c25b070e62d1c2822ad265dbca2",
         "ae4fb3200817e2f8e2887d22b2b2fbe4125056477d15dd85941d1fca2b9ff3c0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097807990
     }
   },
   "reason": null
