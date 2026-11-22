@@ -19532,6 +19532,17 @@
         0.0,
         0.0
       ]
+    },
+    "373888433": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LZ0081227965792",
+      "originals_sha256": [
+        "24dd6c68e93c97942baed73a04c43e362fc46ee51ca2e76c640fbaaa6bae1ee5",
+        "9ad3a93679479dc41f072aaf907fc5d4bbf9874df586843d1cd32cc8ba8eb107",
+        "e9e55ce97eda7c1cfdd8ae601654311f0d8440908d41fa6110becf7f1a551023"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
