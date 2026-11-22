@@ -21013,7 +21013,7 @@
       ]
     },
     "396486043": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BJ0602527523361",
       "originals_sha256": [
@@ -21021,7 +21021,12 @@
         "ff753d72d202912978ca9494ce43a137105e442a07b241c228cd9676dc284080"
       ],
       "before_count": 2,
-      "task_id": 6102113689
+      "task_id": 6102113689,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
