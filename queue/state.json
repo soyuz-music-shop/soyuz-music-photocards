@@ -18800,6 +18800,16 @@
         0.0,
         0.0
       ]
+    },
+    "359706915": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP80072",
+      "originals_sha256": [
+        "abee3a8cac0a6bc055b8bbc05e9e9b665cff62946e06c91cc84d77ecd7bf038e",
+        "46d58a6feae9672caee4bc357c79652ca6fece8b5ddca1821b601191c96ef92c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
