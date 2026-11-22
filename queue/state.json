@@ -18676,7 +18676,7 @@
       ]
     },
     "358205317": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TMR753A1",
       "originals_sha256": [
@@ -18689,7 +18689,12 @@
         "58a57843301d81778b1bfa2fd1ab0e50fb0769f701343ae42f6ed0aa8bdd690d"
       ],
       "before_count": 7,
-      "task_id": 6101847106
+      "task_id": 6101847106,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
