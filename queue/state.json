@@ -12869,7 +12869,7 @@
       ]
     },
     "143787101": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAD3535CD",
       "originals_sha256": [
@@ -12878,7 +12878,12 @@
         "929bbd0e7c250acdea4b53f0ebf8b46dd40f5f27e82b10d35e40b7ce7c2c3264"
       ],
       "before_count": 3,
-      "task_id": 6097875957
+      "task_id": 6097875957,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
