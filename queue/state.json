@@ -16878,6 +16878,16 @@
         0.0,
         0.0
       ]
+    },
+    "331793555": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KR88807229553",
+      "originals_sha256": [
+        "65b8984cce93b4aff1b4231f27bae377bbf86f70bb08c43833a95f3dfa7aafa1",
+        "59f090859d38245f0ac64e945caebf05a3f4d6b98e9eb4b1b999b3fe369836ec"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
