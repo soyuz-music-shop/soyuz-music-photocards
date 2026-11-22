@@ -21570,6 +21570,16 @@
         0.0,
         0.0
       ]
+    },
+    "409104438": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AHA0190295384388",
+      "originals_sha256": [
+        "8bc8d41aa536af7ec62b30265fa6637e5deada96b96123b5e249a4fc20aa2e88",
+        "477857d56a609b6bad365dbe16a65ebfac7bc196bc9d46f858925eb3d6080174"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
