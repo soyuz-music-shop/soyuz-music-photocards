@@ -21350,7 +21350,7 @@
       ]
     },
     "400131095": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RNB0731454736626",
       "originals_sha256": [
@@ -21358,7 +21358,12 @@
         "26d7ed8c66b7afe3567a5678211d69df3b99edde99dd60fbe093776c9fa86da7"
       ],
       "before_count": 2,
-      "task_id": 6102143982
+      "task_id": 6102143982,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
