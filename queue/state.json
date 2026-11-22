@@ -14159,7 +14159,7 @@
       ]
     },
     "224655337": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDTOP1531",
       "originals_sha256": [
@@ -14167,7 +14167,12 @@
         "d241bc05648639c7a41b95438200667951190e638fc09bec8cb495eba8e5efb8"
       ],
       "before_count": 2,
-      "task_id": 6101197964
+      "task_id": 6101197964,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
