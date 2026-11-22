@@ -12054,7 +12054,7 @@
       ]
     },
     "121539951": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QHNEBOX152",
       "originals_sha256": [
@@ -12062,7 +12062,8 @@
         "2a05f668907ebdc26ecc091b3734b39c59fe3538e7c8ba1ccac0131252462967",
         "f2b0cea4398a1892193f71128fcf21c9d6f8f6f63ce83bf50a53e8a1e3f07938"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6097801371
     }
   },
   "reason": null
