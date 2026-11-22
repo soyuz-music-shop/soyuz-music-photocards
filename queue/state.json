@@ -19734,6 +19734,17 @@
         0.0,
         0.0
       ]
+    },
+    "375068006": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACDC5099751076117",
+      "originals_sha256": [
+        "d82ab158ea10f18572b1462efdfc6dd33cdc327171e661f26b956e4059fdf857",
+        "1ab5b174341c7451204f2a3d776b254f7ae8cb5d9a32025cf49f34f81f30dac1",
+        "d3acff13752cbe2e108c341dab8d461b1486d955dbbff7545402113e979b3c4d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
