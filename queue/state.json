@@ -20716,6 +20716,17 @@
         0.0,
         0.0
       ]
+    },
+    "394684110": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AB0731454995221",
+      "originals_sha256": [
+        "067d51aa8b7ecda619d624792ab0a5cacbf31083b97edf5b4c225a18f8d90c3b",
+        "00f74a79bc6c08eeea4ea254c978b4d3c3f3e04a335d8661a7a70453d3304380",
+        "d326b101de032bd4fc7c1bd977b5794764e3aac27f99838098e0c6e2a71414e0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
