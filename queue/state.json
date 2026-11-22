@@ -19616,6 +19616,16 @@
         0.0,
         0.0
       ]
+    },
+    "374536362": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RHCP0093624738619",
+      "originals_sha256": [
+        "9c7e1f07eeedbc34e314406ebd5f192dc3b4b68cb7cf46230347f733d063561f",
+        "99e9cc4e68c051e72ef672170b48230fd35defb61d21063b9fc0cfed04a36760"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
