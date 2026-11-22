@@ -12335,6 +12335,17 @@
         0.0,
         0.0
       ]
+    },
+    "123872876": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2016",
+      "originals_sha256": [
+        "05d0ad29c9c8929da0bc7ec851c3e037a629ced6c1d8ba85cffe07c2449b2df7",
+        "4df2e292de1fd462cd3c76c34c3b6841b5901eecaf8b10cc4357428a6f74696f",
+        "84748f2c5abcc607373ce28022099f17fcc53a1277c312f9ae7cef45462bb92f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
