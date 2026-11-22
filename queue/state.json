@@ -22348,6 +22348,16 @@
         0.0,
         0.0
       ]
+    },
+    "441846635": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1-75005",
+      "originals_sha256": [
+        "7368c8c6b5dd7a23da611a1bd7ec964876fc98568ef2ec8f3974af05122d1f7a",
+        "153e4f1a13ffbb04147195ad07a5d834b6c3405022d1b8a238886c928bc14714"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
