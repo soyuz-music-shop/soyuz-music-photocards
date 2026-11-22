@@ -12440,6 +12440,16 @@
         0.0,
         0.0
       ]
+    },
+    "124614229": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDMRED238",
+      "originals_sha256": [
+        "4a30656bba631cfdd7ffc182e281b7c1b9b26b3f9230d3b0d1c88e82677de2c5",
+        "01d2c61d4ec4df95cffc098a5b9ab14fb2ad57996f00fdaac6df1b5e1dade77e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
