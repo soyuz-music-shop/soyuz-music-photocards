@@ -14748,7 +14748,7 @@
       ]
     },
     "277815216": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "corp 002",
       "originals_sha256": [
@@ -14756,7 +14756,8 @@
         "5be61fce3015e32025854a186e39e7d6205990709bd88ca323d5b8e51bd35e05",
         "f35f9406b2cb740654cabca82d31ebe0a4a9d2d0f3f46729fc7a5d85e044c3a7"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6101277830
     }
   },
   "reason": null
