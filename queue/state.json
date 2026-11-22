@@ -17584,7 +17584,7 @@
       ]
     },
     "344341855": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2435",
       "originals_sha256": [
@@ -17592,7 +17592,12 @@
         "402326f6d9196cf6bf5062d0149488bff08107033dcdb5e805e2e46ec999e4cc"
       ],
       "before_count": 2,
-      "task_id": 6101692751
+      "task_id": 6101692751,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
