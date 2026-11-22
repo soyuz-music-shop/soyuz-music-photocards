@@ -12711,6 +12711,19 @@
         0.0,
         0.0
       ]
+    },
+    "137433361": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RUG398CD",
+      "originals_sha256": [
+        "c85a3e6ef641ee89f7e85ee7a846a61459b1ce667f1b5a8bcf28d6b9b88fd218",
+        "ff94116367c4f0c642e03c9f9196d2cdb16951d921d0e3dff4f8c13a314e7069",
+        "6c22d33a1c704f48f9e9c6d3667c01885936d0e46796f040f0c782f1ce2c405d",
+        "64b4710a6b1debde903cf7af505f8aa091d5c4f59c964ff6469dd4450d1a2865",
+        "3d5ef90461f6a69f516ae703846df14641a906116e00c442a30bb6c57e131562"
+      ],
+      "before_count": 5
     }
   },
   "reason": null
