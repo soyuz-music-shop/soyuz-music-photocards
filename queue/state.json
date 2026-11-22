@@ -14798,7 +14798,7 @@
       ]
     },
     "279097373": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CD 33003-2",
       "originals_sha256": [
@@ -14806,7 +14806,12 @@
         "923a83b170ad5894ead46e9249df34af0410f07d97b53d1fc1f7c2eb6b7bb590"
       ],
       "before_count": 2,
-      "task_id": 6101282994
+      "task_id": 6101282994,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
