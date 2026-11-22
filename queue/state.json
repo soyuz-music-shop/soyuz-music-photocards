@@ -15664,6 +15664,16 @@
         0.0,
         0.0
       ]
+    },
+    "301333084": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP2205ORANGE",
+      "originals_sha256": [
+        "2ebb0984f06cb6be04607bfdf4387bd5f8e192a07736f5f17cdfe63cfe10e96c",
+        "ee2108a7e725e90c892115c012f1bd1b5ab706cdaf07215b2caca17e9e7c1302"
+      ],
+      "before_count": 2
     }
   },
   "reason": null
