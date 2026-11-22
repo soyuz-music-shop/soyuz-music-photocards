@@ -12337,7 +12337,7 @@
       ]
     },
     "123872876": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "ECLEC2016",
       "originals_sha256": [
