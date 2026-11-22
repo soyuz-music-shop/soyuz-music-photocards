@@ -14746,6 +14746,17 @@
         0.0,
         0.0
       ]
+    },
+    "277815216": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "corp 002",
+      "originals_sha256": [
+        "95cc090a8ad26e4b594f6180cbf1664d16205f1c2623d11dbd4be464e9c80590",
+        "5be61fce3015e32025854a186e39e7d6205990709bd88ca323d5b8e51bd35e05",
+        "f35f9406b2cb740654cabca82d31ebe0a4a9d2d0f3f46729fc7a5d85e044c3a7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null
