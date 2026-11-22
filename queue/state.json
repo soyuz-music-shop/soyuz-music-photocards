@@ -17121,14 +17121,19 @@
       ]
     },
     "333426194": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPB2682",
       "originals_sha256": [
         "0892e100e96e1fe7e316bf0381a5ebe9b3f3527054dca15096156b226728694a"
       ],
       "before_count": 1,
-      "task_id": 6101626330
+      "task_id": 6101626330,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
