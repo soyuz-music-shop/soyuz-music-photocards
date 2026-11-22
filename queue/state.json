@@ -19976,7 +19976,7 @@
       ]
     },
     "379793803": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ACC0743219321428",
       "originals_sha256": [
@@ -19986,7 +19986,12 @@
         "1a68217713c1bc4e53714d7aafd45b7883278911bc6bad71ea9ba9098037604d"
       ],
       "before_count": 4,
-      "task_id": 6102014885
+      "task_id": 6102014885,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null
