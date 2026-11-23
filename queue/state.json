@@ -36074,6 +36074,16 @@
         0.0,
         0.0
       ]
+    },
+    "1074055696": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP647",
+      "originals_sha256": [
+        "32aaf505526b25a72bf603ff13cc99a2bce8486838263b30368cb86c0f3df200",
+        "b2fbe4232e2136e27d18b633e9db50ba2938d70178dd52dd88cdeb8feed197d7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
