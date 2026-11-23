@@ -33479,14 +33479,15 @@
       ]
     },
     "874521609": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SEW167",
       "originals_sha256": [
         "838982e3691fc687dc9b3f64f099dc84d261a67f4b0f6f7029468489c1402c49",
         "115b801ec5443b8a48e6826dae74debbce333477fe10a80288bb827d7d2a5f53"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109360144
     }
   },
   "reason": null,
