@@ -34466,7 +34466,7 @@
       ]
     },
     "930213033": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "2000095748779",
       "originals_sha256": [
@@ -34474,7 +34474,12 @@
         "ccb2dc53eff508890b605710598451fc069e01239b0c4382764d00e1229ad586"
       ],
       "before_count": 2,
-      "task_id": 6109506698
+      "task_id": 6109506698,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
