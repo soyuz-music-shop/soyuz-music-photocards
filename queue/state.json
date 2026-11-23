@@ -45410,6 +45410,20 @@
         0.0,
         0.0
       ]
+    },
+    "2153662459": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP495X",
+      "originals_sha256": [
+        "c3197a9e262cb97bd9c3fe2dbc8ac5f90b4ed87c219ec388f085dd7a9ed57f37",
+        "bff57f6a9ef3db491367266d763ad247a1a58ff6de837bca4e6bedc61aa677df",
+        "73e84c9b0f18ec99f9ebca718d44f8db76b088556728aae27e02073c5d662b33",
+        "5f1f5fe7c79fac144a32694ffb55aa65c2f7f3313d91474ef96b98fbecf0441b",
+        "8dd5c8f805b28f770b2df8cd5d902b3deef0d62987b8b635cdd43e17aa758698",
+        "2620d319b2c4d22895497fc18ae5c45518b8a2d80d802d2e0a57101e6c868ea4"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
