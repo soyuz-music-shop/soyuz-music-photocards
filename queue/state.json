@@ -48395,6 +48395,17 @@
         0.0,
         0.0
       ]
+    },
+    "2960736478": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "0220379SBE",
+      "originals_sha256": [
+        "932c9254c7cf15ed4cc57f2debe896a588c91ba1e1969d268cada268c06c490e",
+        "2a3dee54d69cace888df64b889f87e48ea7b53f131d080f27efe1e043712afdf",
+        "59c04c9a617a6350e2ebd8c61f0ee0519b81989d651d781aff7389e5f8d44854"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
