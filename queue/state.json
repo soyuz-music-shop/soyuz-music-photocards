@@ -34817,7 +34817,7 @@
       ]
     },
     "1009485449": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT552DLP",
       "originals_sha256": [
@@ -34834,7 +34834,12 @@
         "b54074ddbbdf0fd060d4fabc36d9308430c039d8f64a7ec15bcb961b29bcecaa"
       ],
       "before_count": 11,
-      "task_id": 6109551130
+      "task_id": 6109551130,
+      "after_count": 13,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
