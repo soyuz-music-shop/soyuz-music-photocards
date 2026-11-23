@@ -49147,7 +49147,7 @@
       ]
     },
     "2984310782": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PMTV 3",
       "originals_sha256": [
@@ -49155,7 +49155,12 @@
         "1b9ee260ef3c8f85e11d1cb7ffcf549f30dfe61525277d5f14fe3aebf75eb903"
       ],
       "before_count": 2,
-      "task_id": 6111047806
+      "task_id": 6111047806,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
