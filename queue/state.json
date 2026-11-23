@@ -45783,6 +45783,16 @@
         0.0,
         0.0
       ]
+    },
+    "2169962163": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CR0832",
+      "originals_sha256": [
+        "ab911fc6f19ba3382e170184d155ab45d3aee52d2d5fb098e68fd8a4bf207fd2",
+        "0ac556729f2cf41e382560bb2fcf500fd69739d90b359064185f5742a645ace0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
