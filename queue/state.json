@@ -25944,6 +25944,16 @@
         0.0,
         0.0
       ]
+    },
+    "518117361": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MCR87813321",
+      "originals_sha256": [
+        "a4e4548b34c79fa89a613bcbfac8083a552c4d434a0ce0dfb08fb00d999ea571",
+        "8af7c01da3e68db32e4d49eda08e44482b9c9dca2e76eb181fb2d861aeda0299"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
