@@ -46220,7 +46220,7 @@
       ]
     },
     "2179771565": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CCR72639911",
       "originals_sha256": [
@@ -46232,7 +46232,12 @@
         "a4e59428ba6d38276ef27abfdb9b17907655b69084269705b5b75259bf51297d"
       ],
       "before_count": 6,
-      "task_id": 6110817093
+      "task_id": 6110817093,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
