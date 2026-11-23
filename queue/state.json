@@ -50016,14 +50016,19 @@
       ]
     },
     "3005736970": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LMS1725203",
       "originals_sha256": [
         "3feced470027e807dd57da888180250d703f845379f3386008d1094dcfc9ea5b"
       ],
       "before_count": 1,
-      "task_id": 6111239619
+      "task_id": 6111239619,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
