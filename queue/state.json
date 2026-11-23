@@ -44443,6 +44443,17 @@
         0.0,
         0.0
       ]
+    },
+    "1796945227": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AF0012VSM",
+      "originals_sha256": [
+        "c50bbc51c97f5896ac87ea9bdd0928b3d620d2ebc776816b367cbb354a299911",
+        "fdda2ff85706c8a0fbe862dbc82517cc3faa1f1ad34fa72ea610b84d4d597ace",
+        "d1e47aa9cab6e1f6484afce14ad918c823a59d36df748530b94446d7bb6ea9b4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
