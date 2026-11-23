@@ -33348,6 +33348,17 @@
         0.0,
         0.0
       ]
+    },
+    "871116873": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AHA27951313",
+      "originals_sha256": [
+        "158dd1f487fa9bcefa2084b1059abc05cc588e94767b697f4dcbf7086555dc2b",
+        "5e711f4ead092bee0b919692fd251289f17c226f779ce7b5917a7bf9a2e91aad",
+        "aa728aad9a9ef7e2990ca99e4ed5e265da988d44c5d06c65b064310c94c47c4f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
