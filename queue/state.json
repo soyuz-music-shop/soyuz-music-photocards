@@ -28717,7 +28717,7 @@
       ]
     },
     "653051824": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT205CDX",
       "originals_sha256": [
@@ -28726,7 +28726,12 @@
         "250fbbda3e760e73c31d401ae12459d9d91d2f5662a9b1732ad44820aa96f90a"
       ],
       "before_count": 3,
-      "task_id": 6108816884
+      "task_id": 6108816884,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
