@@ -24992,6 +24992,16 @@
         0.0,
         0.0
       ]
+    },
+    "482190306": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PRO0538426281",
+      "originals_sha256": [
+        "d5280e02cdb9f1fc34b216aabdd301ca60d5fe0885255ca7b02bf60631e883da",
+        "0205337874d8fe8ababa8f0779dc68f71fae77c535fca49ed0c0345b47887d58"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
