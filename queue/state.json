@@ -34258,7 +34258,7 @@
       ]
     },
     "914932113": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT806LP",
       "originals_sha256": [
@@ -34266,7 +34266,12 @@
         "87886818843270f42dc08ca1f5f4653715fa9db991714ddafdb9b2b9a1c1ed32"
       ],
       "before_count": 2,
-      "task_id": 6109480178
+      "task_id": 6109480178,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
