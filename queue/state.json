@@ -30596,7 +30596,7 @@
       ]
     },
     "754601893": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NB 1923-2",
       "originals_sha256": [
@@ -30604,7 +30604,12 @@
         "4fba8090b731394fe8dd8c3468aa3e1fdabcf0ebaf1367e082209d8df95a529a"
       ],
       "before_count": 2,
-      "task_id": 6109019008
+      "task_id": 6109019008,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
