@@ -39879,6 +39879,16 @@
         0.0,
         0.0
       ]
+    },
+    "1240787325": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RSF71213710",
+      "originals_sha256": [
+        "6e9da9a7d8f217057560517360a9690ef1b3f3ec0e509d0988893f42ee610e60",
+        "24d53adbdd4ef8a898c2ceb45457fa19a0cd9cee75ce8c2b57d5062ad709d68e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
