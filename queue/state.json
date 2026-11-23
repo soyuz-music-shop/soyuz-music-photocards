@@ -24612,6 +24612,16 @@
         0.0,
         0.0
       ]
+    },
+    "475566050": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RM45593422",
+      "originals_sha256": [
+        "1047c24706f8225e4e03ea50f86d19fec9c449030931f10be73cba2297685a94",
+        "4f55069cf5388f9a45a41dd115083565bbc80989e7a2b7826b7c4658da07f7fb"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
