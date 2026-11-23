@@ -29909,6 +29909,17 @@
         0.0,
         0.0
       ]
+    },
+    "727359422": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDXSTUMM92",
+      "originals_sha256": [
+        "8be0fa7cf5e490065671bae68a0b841a63e96a61fa3f329c8c9ce58b0b30b895",
+        "839bd3fcea6037f5e181609a272a79b6cc3f174e2ba1af9638b4aae5fe99fbf5",
+        "de98f22ea8646505e1899699607cdce63ffea0941d2910b5664a95f585fa2bc5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
