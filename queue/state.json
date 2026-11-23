@@ -43683,14 +43683,15 @@
       ]
     },
     "1707288337": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "B0030611-02",
       "originals_sha256": [
         "81b2e3c917ed87973cfaba72127c0ecedd61a2ff9e63ff7be0bd0b2326155c52",
         "836da8b6f97afb8d6a947df41242f3c0f18edaffe9ce5328466009daa884ab80"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110626009
     }
   },
   "reason": null,
