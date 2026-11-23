@@ -29265,7 +29265,7 @@
       ]
     },
     "702877399": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2105",
       "originals_sha256": [
@@ -29279,7 +29279,12 @@
         "8589d37e3a8c503b91d27c4eb3241ea406ef78ccfda74ec2f88ac807be36afa7"
       ],
       "before_count": 8,
-      "task_id": 6108884875
+      "task_id": 6108884875,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
