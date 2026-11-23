@@ -43347,7 +43347,7 @@
       ]
     },
     "1670658628": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "T-2309",
       "originals_sha256": [
@@ -43362,7 +43362,12 @@
         "01e3537f192141e5c5c2f7af0dd26acaf36038603ca498d388f70e0d0cc89aaf"
       ],
       "before_count": 9,
-      "task_id": 6110601996
+      "task_id": 6110601996,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
