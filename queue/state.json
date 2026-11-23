@@ -34224,7 +34224,7 @@
       ]
     },
     "914582672": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UICY-80249K",
       "originals_sha256": [
@@ -34232,7 +34232,8 @@
         "dc0b9765f0ecd868a7d468a751ede7e1e8d86c56bc87fdcf3e230eb8402be056",
         "823ba01f191f77c2567131531273762c387a442f7627f1f955efa2d4a39949e1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109475096
     }
   },
   "reason": null,
