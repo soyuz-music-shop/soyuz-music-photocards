@@ -34430,6 +34430,16 @@
         0.0,
         0.0
       ]
+    },
+    "927796529": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0031911-01",
+      "originals_sha256": [
+        "e9adfb802b9075686573610323af0dc70305e506dac0ab1754a0fda5a600b8ce",
+        "a0ebdec174c7eeeebe89572bb36659f82af81b1cf91fb3b9720b6da5562e12a2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
