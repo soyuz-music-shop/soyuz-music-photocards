@@ -54549,6 +54549,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3033137925": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BL919421",
+      "originals_sha256": [
+        "8b3c73d7bb9d52344bc4778256dcd92954382b7042a710cceebfb1025105e48a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
