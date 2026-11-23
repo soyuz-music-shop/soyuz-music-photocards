@@ -37627,6 +37627,16 @@
         0.0,
         0.0
       ]
+    },
+    "1115249795": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FOODLPX14",
+      "originals_sha256": [
+        "8260bec9e20ece413ab8ecbc5245d997348dd67f37ae3a77b7070357b5892f99",
+        "28163ac19f436b9f4abf0e99aea5fc1d847b9afc6f7c8438befda0e07d6c6fad"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
