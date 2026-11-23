@@ -51358,13 +51358,14 @@
       ]
     },
     "3006255630": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EP506970",
       "originals_sha256": [
         "b52b4f693a64a1a8a6fac5eefe5e068ddd749ae7bebd696397b22254ecc3f68f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111365196
     }
   },
   "reason": null,
