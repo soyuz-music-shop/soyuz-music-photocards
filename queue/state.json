@@ -30581,13 +30581,14 @@
       ]
     },
     "754422887": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219977173",
       "originals_sha256": [
         "92d8bd3b6a5f97cca7371b96ba7cf225bdcc38cb42d54b39b02dc3054076213b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109017222
     }
   },
   "reason": null,
