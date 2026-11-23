@@ -40212,6 +40212,17 @@
         0.0,
         0.0
       ]
+    },
+    "1255255212": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP521X",
+      "originals_sha256": [
+        "46266825f1eb509bfed7ab046ffb5b97bd4b1e67b443dbf4db500623bafe026b",
+        "e1959c9cca0bee5ddf103b473c28a498bd22c29cd21f46ae8af904de2810d231",
+        "d3afad8efbf06e59a5a2a1519c6046038b0a592a08988f15aea635eed554eefc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
