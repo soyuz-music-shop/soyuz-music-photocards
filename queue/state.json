@@ -47510,14 +47510,15 @@
       ]
     },
     "2465919715": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BEATLSHDN38241324",
       "originals_sha256": [
         "b8147fd7f996cc24a02114f8e3a391b21667e728fc0e905eb79a7cbba13d0cde",
         "5733fda02c49920f3360007a492741dbd2faecfeef494d1ca40567d493f9e025"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110925180
     }
   },
   "reason": null,
