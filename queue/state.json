@@ -27106,7 +27106,7 @@
       ]
     },
     "563784193": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "B0029512-01",
       "originals_sha256": [
@@ -27115,7 +27115,12 @@
         "5a054cafaa7fb9f5d5532a7af061776beb67edbb790dc24606a5f3b62509d91a"
       ],
       "before_count": 3,
-      "task_id": 6108614182
+      "task_id": 6108614182,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
