@@ -39487,6 +39487,16 @@
         0.0,
         0.0
       ]
+    },
+    "1216636193": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JFB76605124",
+      "originals_sha256": [
+        "88fc17473979e1abf7e39a932724206a8dcbc6f1e49c58456942590e7213cdd9",
+        "e70fb56947bb2b0106603e4018b11b8ef286a56f9fc567fd60ecc099012acf22"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
