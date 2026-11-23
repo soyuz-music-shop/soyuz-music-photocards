@@ -38213,7 +38213,7 @@
       ]
     },
     "1172216967": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EMICD2113",
       "originals_sha256": [
@@ -38221,7 +38221,8 @@
         "14fec4a8b771f6aae2addf083a29abb236c769b5202aa33f44687379f6ee2cb5",
         "93096f13943910f52d2e0bf1566b1fb1836119452982de093f87c9e513832b36"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110048126
     }
   },
   "reason": null,
