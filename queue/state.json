@@ -42812,7 +42812,7 @@
       ]
     },
     "1572609560": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IPC271LP1",
       "originals_sha256": [
@@ -42820,7 +42820,8 @@
         "0282396b1cf26b2ad9f837619828f042ccc6cc7554fb2a8f943920860227a79b",
         "dfc18667f4703bfa5018c2bb3fc35b670e9005d44cce6eab52724d19f640e6db"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110562442
     }
   },
   "reason": null,
