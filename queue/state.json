@@ -31296,6 +31296,17 @@
         0.0,
         0.0
       ]
+    },
+    "782152573": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGRM086CLP",
+      "originals_sha256": [
+        "fe27f4c2937415cd88c83bf2cd1e6b356b084309a1adade3bc9386f7896f4a4b",
+        "d326bc0d0fe8af7880de9b49a7b965d83281d8a2265539436bc76df7b2278596",
+        "8a29281a7bf87058b00e3d8ede737e4b480bfd62b041a77d8fcc235f967218a2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
