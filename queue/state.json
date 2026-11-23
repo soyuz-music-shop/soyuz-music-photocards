@@ -55332,7 +55332,7 @@
       ]
     },
     "3130010645": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IA-LP-1",
       "originals_sha256": [
@@ -55341,7 +55341,8 @@
         "6be34d754b88691e2e49c1d8cb696f49c0e01593283403f0cba39e03d36570f6",
         "6e53e271959f19be0856acb271a83649d659ab9a6161f5cea5d602b5dc71e5a9"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6111638809
     }
   },
   "reason": null,
