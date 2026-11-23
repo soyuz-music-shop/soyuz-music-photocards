@@ -45216,6 +45216,17 @@
         0.0,
         0.0
       ]
+    },
+    "2026187390": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAIS230",
+      "originals_sha256": [
+        "e7efd2fb825c1c164c92b512349714fbb3c38b24b8bfc210d5f32165fe3d4ace",
+        "9efb6dfa761a9b1925da14d42bbefdf1dc363e56e9b9e7280b60f331d01560fc",
+        "66b9729ab48beb423a82fae1405ca3979a052ef3724b68d1f3cc46648fcfbc2b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
