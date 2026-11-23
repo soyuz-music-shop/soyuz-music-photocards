@@ -39337,7 +39337,7 @@
       ]
     },
     "1213774482": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FTM45641253",
       "originals_sha256": [
@@ -39346,7 +39346,12 @@
         "5010e73b960e7c4923b97a186e665f6e3b04776dbf048783fb24428ed9fa0121"
       ],
       "before_count": 3,
-      "task_id": 6110189802
+      "task_id": 6110189802,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
