@@ -28851,6 +28851,20 @@
         0.0,
         0.0
       ]
+    },
+    "657558915": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2095",
+      "originals_sha256": [
+        "a374bafbb0377c6984cf321bd8967626e1ac66e9ca867506d269fcb3f33c4b16",
+        "bbf8a78f9802e83c002dc680682fcb04f8616bdd5d5e7718f8f9757d77a47c7c",
+        "a2cbf00ce610dfb24e5a030edbfd7a9ca0e3afcaae39361f6166e677809cbc6a",
+        "9662564773b5df0769d3ee75293bc0bdb6e89517b222f5c7ac9e4aa8bd83a4b2",
+        "2db1253801550fc2c3097e6dc016e543e720751a2c4bba20b46df20e0703af86",
+        "0e6cf3ed687c756b91f5948d3a48148834620b88d6f2fb48d32893843642faf6"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
