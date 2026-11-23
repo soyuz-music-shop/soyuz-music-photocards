@@ -47444,6 +47444,16 @@
         0.0,
         0.0
       ]
+    },
+    "2400088638": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CLN2509",
+      "originals_sha256": [
+        "156e20cba01abd05eaad22bc4e4e063370fb29a7057d2307a4f2b30e9ac3d327",
+        "101f064dba2a922873563d4f382f39da076802d888d89e8338dc13224196cc3d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
