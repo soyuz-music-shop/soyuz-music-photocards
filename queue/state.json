@@ -37131,7 +37131,7 @@
       ]
     },
     "1097536822": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QUN325541",
       "originals_sha256": [
@@ -37140,7 +37140,12 @@
         "999959636bccfc846af7be4e86aebb9ee8c2ab259d68ccaadf743a1346d942ed"
       ],
       "before_count": 3,
-      "task_id": 6109895065
+      "task_id": 6109895065,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
