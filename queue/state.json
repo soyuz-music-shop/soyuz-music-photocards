@@ -32449,14 +32449,15 @@
       ]
     },
     "860565439": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP009D",
       "originals_sha256": [
         "fac02d95c8bd19ce8a1b0c88ba066217d82bfceb9b54a86f4dd7c558fce0d296",
         "20e33181bb2cc8adac3683620447b0faa4052caa67191e973a3c5d02e417ca9b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109230316
     }
   },
   "reason": null,
