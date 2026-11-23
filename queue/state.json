@@ -38818,6 +38818,17 @@
         0.0,
         0.0
       ]
+    },
+    "1199546964": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XL1394CD",
+      "originals_sha256": [
+        "fc98b1650b0e3a81be4314a5dd52b8d771034adf3e7a8fd540989e5f690cf162",
+        "df12ff2b5a334f95a655d77b6865e0933fd2e9562eddc7f9e3fc0703b2356854",
+        "67004383b8d15562caa146fa7a762d9629a0cd8a4a67e283101b20141b43bed2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
