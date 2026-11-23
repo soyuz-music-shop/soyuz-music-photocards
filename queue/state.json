@@ -30165,6 +30165,17 @@
         0.0,
         0.0
       ]
+    },
+    "732826798": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "0218576EMU1",
+      "originals_sha256": [
+        "d3ff639f887fa0fe501919e4caf240257addc04fd412f5e3072233f18983d852",
+        "ebc391d0c74fc768759406369c330fa4ce2edfa4713907e3992f320e2fc49437",
+        "e99f0cc4bdeb48c1117cbe150376346ac42d974e2082b8cf7e17762733a14a98"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
