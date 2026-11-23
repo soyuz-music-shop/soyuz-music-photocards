@@ -51162,14 +51162,19 @@
       ]
     },
     "3006255477": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IPC290LP",
       "originals_sha256": [
         "bce965593f82a6f848b05776098af33bb130580c0dc979a003624d86c9e3f7f9"
       ],
       "before_count": 1,
-      "task_id": 6111352215
+      "task_id": 6111352215,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
