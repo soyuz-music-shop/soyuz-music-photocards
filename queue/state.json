@@ -45412,7 +45412,7 @@
       ]
     },
     "2153662459": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP495X",
       "originals_sha256": [
@@ -45423,7 +45423,8 @@
         "8dd5c8f805b28f770b2df8cd5d902b3deef0d62987b8b635cdd43e17aa758698",
         "2620d319b2c4d22895497fc18ae5c45518b8a2d80d802d2e0a57101e6c868ea4"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6110748388
     }
   },
   "reason": null,
