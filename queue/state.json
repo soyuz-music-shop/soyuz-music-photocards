@@ -26820,6 +26820,17 @@
         0.0,
         0.0
       ]
+    },
+    "556890569": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT528DCLP",
+      "originals_sha256": [
+        "75a1753c36059ce5d6d0a94baf43924c2972f0d41c8a0b0510177c1a27367009",
+        "27747ba0b24025bc9662c53a3dd4ba03f4fad41a118c94cc208cbee3409f418e",
+        "b31f5911dd3562a740113c2d9726c6001aaf4f59c384c591cb9f453c94a56670"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
