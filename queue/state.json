@@ -46002,6 +46002,18 @@
         0.0,
         0.0
       ]
+    },
+    "2178880276": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR7313PPBS",
+      "originals_sha256": [
+        "87a269f10872f0882eeb0e16cf49dc69fe0b862becd5b52eb5dd9c009834a6ed",
+        "94570905b320a6ecee75d15ea170abfc381f884be513c732652d99ee5b960310",
+        "f81f807adfea8606e9700e3ca03c6cab0f5a25b54d66bb79b92cadcdfc498b3f",
+        "5ceb59fb7e58f83c3c9421e43cb8ee273ca5130812e253b6c8e7c517e240d8dd"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
