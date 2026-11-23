@@ -39321,7 +39321,7 @@
       ]
     },
     "1210247442": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FMR27967789",
       "originals_sha256": [
@@ -39329,7 +39329,12 @@
         "92741a40729ec1c449624307e1b6ed91522a9f709b0628da11177a41631b2374"
       ],
       "before_count": 2,
-      "task_id": 6110187914
+      "task_id": 6110187914,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
