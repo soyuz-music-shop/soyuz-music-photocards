@@ -36539,6 +36539,17 @@
         0.0,
         0.0
       ]
+    },
+    "1084168647": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GD922810",
+      "originals_sha256": [
+        "323fcf1df0c877ac16da923077fb36f5528d75a894682a90c93c6ac35dc11893",
+        "095287859ad5b44512caaba840333f001c6e6f3c21393e1347527ef7b319b352",
+        "660cb1a17f24581e80ba6f8c518e039c5c29b9269f64e9914f53dc04465926ec"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
