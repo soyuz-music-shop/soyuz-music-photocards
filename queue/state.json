@@ -52291,6 +52291,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277580": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EN467648",
+      "originals_sha256": [
+        "213bffacee21447492aefc0672df03f47a3e732f57692fa2f60ad07e4a28990f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
