@@ -40197,7 +40197,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 502"
     },
     "1255201693": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3679",
       "originals_sha256": [
@@ -40206,7 +40206,12 @@
         "394fa0b9dfddf6a08b2c9f8ff29b398e016b991b59e5cd7eb6b325e1ed0166ee"
       ],
       "before_count": 3,
-      "task_id": 6110301000
+      "task_id": 6110301000,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
