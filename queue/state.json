@@ -41915,6 +41915,20 @@
         0.0,
         0.0
       ]
+    },
+    "1495131951": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CLD58638614",
+      "originals_sha256": [
+        "539fa72741e3d20eb80106b7defe666fdd4d891eb1e377cab2d664f6bac77a74",
+        "7ea713afc83454f3d4f24aa1383d0808c8d9a9087a0ce83dadbd64d419a8ef46",
+        "ce961c7d9e7a009d8dc3234d8be2019b37e58faa9219014470b6880d3e57910d",
+        "1bd0da051c51d525e37e9fd82853ab89a1da04d98f97e14adeb2658ea599bcc6",
+        "fe70a296f368b8f24b5b5f688328a1b900755e9645f22b614cdb27cf74d9a395",
+        "9de6f8af739360a90711570c1ee0d53c3e48f9b2f5af186094e99b5c2f08eb93"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
