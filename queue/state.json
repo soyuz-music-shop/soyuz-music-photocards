@@ -55425,7 +55425,7 @@
       ]
     },
     "3130011287": {
-      "status": "needs_review",
+      "status": "needs_review_interrupted",
       "variant": "import-vinyl-info",
       "offer_id": "STEPLP 233",
       "originals_sha256": [
@@ -55436,7 +55436,7 @@
       "task_status": "rejected",
       "previous_status": "needs_review",
       "error_type": "RuntimeError",
-      "reason": "Ozon import task not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3130107987": {
       "status": "verified",
