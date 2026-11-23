@@ -34172,6 +34172,17 @@
         0.0,
         0.0
       ]
+    },
+    "912045270": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LZ27958282",
+      "originals_sha256": [
+        "dc74937e88ea97d9e3c6d25f73046ddb6a4754e4a215e3ed8ad2fb324f00df7f",
+        "4df4615efe239280590eb346ab7a1ae10ce9343cf60c16188b567b251d375f48",
+        "743e98460a0b509170e6e3b77adafc6d2aa58a7823cf79e4ab3fd2ce77e59b11"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
