@@ -28435,7 +28435,7 @@
       ]
     },
     "641971195": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PPPK-701057",
       "originals_sha256": [
@@ -28444,7 +28444,12 @@
         "a11efed8420bdf03aafefc1937d362721e294a1b08dabee0df5bf0321f35210d"
       ],
       "before_count": 3,
-      "task_id": 6108786910
+      "task_id": 6108786910,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
