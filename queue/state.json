@@ -35333,7 +35333,7 @@
       ]
     },
     "1034692782": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "STG066921",
       "originals_sha256": [
@@ -35341,7 +35341,12 @@
         "fe6ef6029e00d58287432acbfc70de30c33df2418984322021afcee95154cce7"
       ],
       "before_count": 2,
-      "task_id": 6109618427
+      "task_id": 6109618427,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
