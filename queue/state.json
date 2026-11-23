@@ -32197,6 +32197,16 @@
         0.0,
         0.0
       ]
+    },
+    "849687047": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SMO8765072427",
+      "originals_sha256": [
+        "53b2dbe9eec13bfe03fa4e783bfcaf763d3f998726d6ffcf5cf04564ba8307fd",
+        "7732175390022a68846c66b954126dca452fcfd9d8282b0bf0e6c3b0cc75078f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
