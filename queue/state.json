@@ -43602,14 +43602,19 @@
       ]
     },
     "1701901025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 727163",
       "originals_sha256": [
         "445d7787369458562465cd4fac1612b4dccbadc990a2774ce03691e9eecce32c"
       ],
       "before_count": 1,
-      "task_id": 6110620278
+      "task_id": 6110620278,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
