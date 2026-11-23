@@ -42037,7 +42037,7 @@
       ]
     },
     "1508651737": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DMST54116514",
       "originals_sha256": [
@@ -42047,7 +42047,12 @@
         "ff803e07d5c6bef0dbe80bd2b36f37a97f179e7cf068f2860cf5136f686dc84a"
       ],
       "before_count": 4,
-      "task_id": 6110493295
+      "task_id": 6110493295,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
