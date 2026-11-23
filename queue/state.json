@@ -28580,6 +28580,21 @@
         0.0,
         0.0
       ]
+    },
+    "645538868": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT783LPX",
+      "originals_sha256": [
+        "5b0cd4f1f05c4ce4652fbd1a1a7cf67abf4d4134350d35f74fdcb4adc86de4c4",
+        "f7459db68eaebe33bd0dbc2468aab38e523af9d997f01380ced3c022d7968053",
+        "3ffb312a01b98a20e3ca29501ed4a5281128e5523157ae6348b7f597f905e496",
+        "b2d38aa007b84c1abe0691feabd9f636452fc94d8fdc383b7b117b411035e14e",
+        "f47dcc03dca72cef5e4db2c6eebadd43ee4f0d26b07ec3189a45909f50b31961",
+        "83c03c0a09d1c61ad9da8c5b45af2409a12f0a6734dbbccd700423dbc1a94af2",
+        "9a9d675c8b40a0b6bc5d3e412c74d70267a563af919656a806d21b8ff74e9a16"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
