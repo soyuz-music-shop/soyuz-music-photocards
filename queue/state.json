@@ -27827,6 +27827,18 @@
         0.0,
         0.0
       ]
+    },
+    "617239690": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT501LP",
+      "originals_sha256": [
+        "fdbb70ad241abdcf734733c4aac2a0958cc44ec0705d23d15aa6b354f7e737b4",
+        "c08db0b2727590b68f2e55c3c9674aa91a2beeb8f924cbad0d139c9b5a4e31b5",
+        "e1187faaaa8c912651aad7163cad7380a5f4a037f8310322fb6e979dd7807d93",
+        "cfbef95851073432f4b09a2cf6b55e121c171478704216ad0ad581d104fb8df9"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
