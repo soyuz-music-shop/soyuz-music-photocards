@@ -40041,7 +40041,7 @@
       ]
     },
     "1245886015": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP584R",
       "originals_sha256": [
@@ -40050,7 +40050,12 @@
         "4c44c92d979a2d5038415f968e659a506beab64997083c7a582c33d3e0db7dae"
       ],
       "before_count": 3,
-      "task_id": 6110265195
+      "task_id": 6110265195,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
