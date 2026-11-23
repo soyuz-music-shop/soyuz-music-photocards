@@ -33677,6 +33677,18 @@
         0.0,
         0.0
       ]
+    },
+    "883363084": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "THC59652213",
+      "originals_sha256": [
+        "e6cfeea6cc69d37e3756edbfa8fa92eebf8485e8e5b3d3bbd11ebada69c8e041",
+        "90b3171726c24502f6b9dcd78f7bf6adffe7b45cb1a305c8ad03f4dde83103a1",
+        "7086531f986a5414d12c762f8642ec96b6c1581b37a517b621f0e0945b1f9deb",
+        "6e1e2d2ea260249b29a6daac32102af7d6beb897d817415af5f9c10bd16a528e"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
