@@ -27745,7 +27745,7 @@
       ]
     },
     "615094941": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PLC67110460",
       "originals_sha256": [
@@ -27754,7 +27754,12 @@
         "ed60d15183777dde6448cb0a62eac87647bbc1905eb1224d9afa8f916c23d55e"
       ],
       "before_count": 3,
-      "task_id": 6108705127
+      "task_id": 6108705127,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
