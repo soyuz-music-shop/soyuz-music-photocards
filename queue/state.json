@@ -24927,6 +24927,15 @@
         0.0,
         0.0
       ]
+    },
+    "481447743": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OZZ8837147828",
+      "originals_sha256": [
+        "72a5b673e885d05bc56db3a1a62fffb9564576efc618f1c7f046aba5815f1591"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
