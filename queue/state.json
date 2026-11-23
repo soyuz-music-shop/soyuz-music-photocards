@@ -33978,7 +33978,7 @@
       ]
     },
     "899903846": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM-123-1P",
       "originals_sha256": [
@@ -33986,7 +33986,12 @@
         "4b5924d2f5ecd5cfba11644ef231a52d2b818bd24d2fde7067213ae6c206e073"
       ],
       "before_count": 2,
-      "task_id": 6109427596
+      "task_id": 6109427596,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
