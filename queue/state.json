@@ -46055,14 +46055,15 @@
       ]
     },
     "2179613108": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RHCP24854517",
       "originals_sha256": [
         "2ea61738b26584609db1ba088e95dfbf4e1403d6815d873386c9bde513f331ac",
         "80a6ce0f492d60d8a7d1ea6891a1ad64fd6c8d7be84221287124b1869fae7d99"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110801807
     }
   },
   "reason": null,
