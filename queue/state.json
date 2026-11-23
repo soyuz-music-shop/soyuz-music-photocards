@@ -34158,7 +34158,7 @@
       ]
     },
     "911963363": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FORE27958299",
       "originals_sha256": [
@@ -34166,7 +34166,12 @@
         "f5b491c6601a7f28ccca32828de126b8230a5caf101718db7d0ee825f7939f6c"
       ],
       "before_count": 2,
-      "task_id": 6109458930
+      "task_id": 6109458930,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
