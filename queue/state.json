@@ -30891,7 +30891,7 @@
       ]
     },
     "758013025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM101",
       "originals_sha256": [
@@ -30904,7 +30904,12 @@
         "6a5c9b56b5e7e3e70e2f0215143da92256a6fe47abf7543718acd7ff11658bdc"
       ],
       "before_count": 7,
-      "task_id": 6109049586
+      "task_id": 6109049586,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
