@@ -34339,6 +34339,17 @@
         0.0,
         0.0
       ]
+    },
+    "915104756": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TP35217345",
+      "originals_sha256": [
+        "fc50dc199792ea0a72b3c1987dd034a01f714e26fbe7cc3edab1e28388d939aa",
+        "d06bc350c4dc92c900d62a751118a8780d68d09479c35fde8a8375fca2b21973",
+        "7a7f220174458259b4390d9c17d34c55caf0bcee17f763e2f1eff1173703ce7c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
