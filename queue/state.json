@@ -44460,6 +44460,17 @@
         0.0,
         0.0
       ]
+    },
+    "1797086815": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR-752",
+      "originals_sha256": [
+        "5d6df93630d6d7dc69f9c33e30a43f9cf9139ca7e13d26280c808790d0bd6dc9",
+        "621be9a0589b9c9e04d88a58ae48fffb5aaf80a58e380613669d965c8fa66fd6",
+        "46a739bd0e7fb79b996976791c70a6c4072ca2228311437bfda0eec83b7dc325"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
