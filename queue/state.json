@@ -52078,14 +52078,19 @@
       ]
     },
     "3011894330": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ZEN279",
       "originals_sha256": [
         "345deb76524f36efe93a2937156b5790001ec1bed4d49170b481d3db43f14b8b"
       ],
       "before_count": 1,
-      "task_id": 6111411816
+      "task_id": 6111411816,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
