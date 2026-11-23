@@ -22867,7 +22867,7 @@
       ]
     },
     "444570055": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TVUN602537153190",
       "originals_sha256": [
@@ -22876,7 +22876,8 @@
         "e2cb00c933dc5b854b3b9f8ee6d819da2b23447750d7eafb4338f774a35d4ad9",
         "82444bd0b44fd9e9a3ec6a5f16113200720a92b5a7a174676e07d36ee63a62ed"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6106903719
     }
   },
   "reason": null,
