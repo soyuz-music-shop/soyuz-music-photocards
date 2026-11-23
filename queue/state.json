@@ -55637,6 +55637,20 @@
         0.0,
         0.0
       ]
+    },
+    "3130403865": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SRFM0002",
+      "originals_sha256": [
+        "cc6e6c2f51ecc9b1dd41c3e8d3dd03507e1558676e3dae142ae7b9699c575572",
+        "63ca21aedee9609128f73bb7faca75723f7801b9fbb5ac3ab8d2c17687349743",
+        "ca833912dcc1e104a083ae767218732fb593143cea52b08489f8d6280d118c6d",
+        "c7081f5488af7b8e1ea36b25dcdc9b4480832e5c3be58e63fcbfe7f4dc408067",
+        "fb4af7cf11998fe0dd53e1eba9454440b7d6e029e6304783e962c62b2a1b69a0",
+        "a9455e3cbd9471ee5f19101b61b2c897806afc7d25b2112a353757289f6bf752"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
