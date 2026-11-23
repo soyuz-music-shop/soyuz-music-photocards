@@ -35535,6 +35535,17 @@
         0.0,
         0.0
       ]
+    },
+    "1046125428": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LC266023",
+      "originals_sha256": [
+        "524b8b7b08470e980926896280482f826d9d5f59ac01db5a32c0136c5857c0db",
+        "937515a1850486e60ae49e8eda718e2d22208bb7f369fed1d55ca0d3413cfdfe",
+        "71254b0d98cbffec1d277f9081654872876eef457828798c3b7919e9df286e65"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
