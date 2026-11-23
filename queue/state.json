@@ -52218,13 +52218,14 @@
       ]
     },
     "3011894569": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JRA90608",
       "originals_sha256": [
         "7996c75245f8aa185da03b3dc97e05392fed3f077107865a82af9aab2701cbc9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111421494
     }
   },
   "reason": null,
