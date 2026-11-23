@@ -44358,6 +44358,17 @@
         0.0,
         0.0
       ]
+    },
+    "1771504981": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 72091",
+      "originals_sha256": [
+        "26bc210197b0e7fc06b2d6244e08e8ad9865a172cb18788ee31320405bc6de16",
+        "2b4d27596a79dba84820b00775e4c8dff69bc598ba353369842a500dd33a8f0b",
+        "604afd6a876c0e063cb0164aac722c812dea29ce7a612a28dc98a1daa4194562"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
