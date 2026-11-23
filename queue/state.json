@@ -28089,6 +28089,17 @@
         0.0,
         0.0
       ]
+    },
+    "620965241": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNM54092115",
+      "originals_sha256": [
+        "e482e8c3f95cb26913393694389a10a0839aed91e1a3dca6003e8a80b452cf45",
+        "8960c1934c6e5065e0782dd960fb78f8b585d4596358b758ad0db657b78276f6",
+        "80cfb29c1fe03ac6d9ab3dd4389801c5734a1d9dc9082d3eafe448eaf4922438"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
