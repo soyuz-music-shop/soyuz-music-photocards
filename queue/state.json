@@ -48809,7 +48809,7 @@
       ]
     },
     "2974627270": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP213W",
       "originals_sha256": [
@@ -48817,7 +48817,12 @@
         "bdaa3e2012e9dbe89025ace3afb5ee7dc55bb99033cea433230f0abc4eef6f34"
       ],
       "before_count": 2,
-      "task_id": 6111023203
+      "task_id": 6111023203,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
