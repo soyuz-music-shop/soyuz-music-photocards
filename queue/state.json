@@ -31710,7 +31710,7 @@
       ]
     },
     "826248786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297800021",
       "originals_sha256": [
@@ -31720,7 +31720,12 @@
         "e4b4ca3fdfdaa858717bfcb5176a8779f4da130031a80b1fcbf0dcae01e2775a"
       ],
       "before_count": 4,
-      "task_id": 6109147658
+      "task_id": 6109147658,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
