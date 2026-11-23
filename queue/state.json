@@ -48397,7 +48397,7 @@
       ]
     },
     "2960736478": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "0220379SBE",
       "originals_sha256": [
@@ -48406,7 +48406,12 @@
         "59c04c9a617a6350e2ebd8c61f0ee0519b81989d651d781aff7389e5f8d44854"
       ],
       "before_count": 3,
-      "task_id": 6110994194
+      "task_id": 6110994194,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
