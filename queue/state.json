@@ -34842,7 +34842,7 @@
       ]
     },
     "1009526001": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT716LP",
       "originals_sha256": [
@@ -34850,7 +34850,12 @@
         "373af9128c047bf0e4a0796c5970127f0b8856f0e1c13902f7b9473540ae1df5"
       ],
       "before_count": 2,
-      "task_id": 6109553027
+      "task_id": 6109553027,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
