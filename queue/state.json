@@ -37391,7 +37391,7 @@
       ]
     },
     "1104112273": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCD1 9034",
       "originals_sha256": [
@@ -37401,7 +37401,12 @@
         "ed933843dc27998aa5213a70639b0818a5d7e96c827b38373cb684e1c304222f"
       ],
       "before_count": 4,
-      "task_id": 6109931146
+      "task_id": 6109931146,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
