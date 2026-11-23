@@ -23355,6 +23355,16 @@
         0.0,
         0.0
       ]
+    },
+    "448805273": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KRN190758439815",
+      "originals_sha256": [
+        "5bde388dbaf29fa508772b5ac33b6d1506a0848994060b141b37760418126e0a",
+        "0fc444681cd2304082956229a92e8ccd499b02ca020247e628393b78314dea01"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
