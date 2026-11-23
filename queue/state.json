@@ -33350,7 +33350,7 @@
       ]
     },
     "871116873": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AHA27951313",
       "originals_sha256": [
@@ -33359,7 +33359,12 @@
         "aa728aad9a9ef7e2990ca99e4ed5e265da988d44c5d06c65b064310c94c47c4f"
       ],
       "before_count": 3,
-      "task_id": 6109345496
+      "task_id": 6109345496,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
