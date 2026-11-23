@@ -41901,7 +41901,7 @@
       ]
     },
     "1494969087": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCATLP1",
       "originals_sha256": [
@@ -41909,7 +41909,12 @@
         "4f952be082ef999557d004e681337076c3cf4391e8932b71e82ec5b0a66cfaea"
       ],
       "before_count": 2,
-      "task_id": 6110482456
+      "task_id": 6110482456,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
