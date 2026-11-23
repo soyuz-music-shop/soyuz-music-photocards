@@ -48635,7 +48635,7 @@
       ]
     },
     "2973331736": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JT592224",
       "originals_sha256": [
@@ -48643,7 +48643,12 @@
         "8670f8e8eee6b1e0317a2b2be0c2f0231b27d4ee031aa81a89aa222d7631afe5"
       ],
       "before_count": 2,
-      "task_id": 6111012038
+      "task_id": 6111012038,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
