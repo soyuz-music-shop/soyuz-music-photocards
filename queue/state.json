@@ -53890,6 +53890,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032013090": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MET 1401",
+      "originals_sha256": [
+        "786885287fa9c1ff7b400c9c070109aa04ecaf0f2a7ea5cbc77cf4b791714166"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
