@@ -25438,7 +25438,7 @@
       ]
     },
     "491241433": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BTL47567901",
       "originals_sha256": [
@@ -25448,7 +25448,12 @@
         "d2cd825c908701b009d26b3a28712064ecdf6c004819b68ee9a539695a041a26"
       ],
       "before_count": 4,
-      "task_id": 6107468225
+      "task_id": 6107468225,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
