@@ -32081,6 +32081,16 @@
         0.0,
         0.0
       ]
+    },
+    "842971070": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1062952STU",
+      "originals_sha256": [
+        "3a5d42e3b323947472d42d49fcb5827d3bd2f9339d5078a14c818353f6ffb8b0",
+        "c3559c06bd653590d0242652054258a636bb008513672a79cb92c7d3c4dc6de0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
