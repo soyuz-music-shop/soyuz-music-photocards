@@ -46169,6 +46169,15 @@
         0.0,
         0.0
       ]
+    },
+    "2179736170": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IF-121CD",
+      "originals_sha256": [
+        "7c526cfbd47017cf6788c743566a889c9c4a12438fe4e744ccde774f36f54e65"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
