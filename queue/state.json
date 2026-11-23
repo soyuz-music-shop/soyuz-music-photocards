@@ -44120,6 +44120,17 @@
         0.0,
         0.0
       ]
+    },
+    "1753555565": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACDC88733512",
+      "originals_sha256": [
+        "f274b0a14bc553a16fc8282861e6006cc89da51988a9d4c0fa08fb16be63e12f",
+        "b35addb5d903bc74b59765e750b4f93fccae9cd80c4201b62027aa74cf40c15c",
+        "8bcf4437e7fe176c9854e827bac0b218c96bb7ed9d72084192e56f2f8251de0f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
