@@ -41493,6 +41493,17 @@
         0.0,
         0.0
       ]
+    },
+    "1463756348": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR51991",
+      "originals_sha256": [
+        "4cb234773bec939f4bd85018d25e2a230298f9926412c70c677c0fb77c537672",
+        "171cd048665b6dc920c2d486fd86a240df4e8df47eb0dcfe629e03819c8eb912",
+        "f44067cafc31519f3185267f65ac07eb0b969086c71f884c458bf44ae5d46588"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
