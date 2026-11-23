@@ -31965,7 +31965,7 @@
       ]
     },
     "841219479": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LP93624775522",
       "originals_sha256": [
@@ -31973,7 +31973,8 @@
         "7244f9c190e1f3b1ba0db1f46a240a00af87bbe64a3e0bbefe4ee611bf9a2d37",
         "631254bfed7831310cee98da1956b1e189bcdd57f550aefa5a6cba5ea3812866"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109173207
     }
   },
   "reason": null,
