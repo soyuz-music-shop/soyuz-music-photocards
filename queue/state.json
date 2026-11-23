@@ -33114,6 +33114,16 @@
         0.0,
         0.0
       ]
+    },
+    "870149602": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SAD78993823",
+      "originals_sha256": [
+        "be611acd03c2f29aadae712d1d0a2753f1dfdf22e42ee3cc179b320bd2bffb81",
+        "f584400278ada57fceba2bd703322de7bbd9421ab5f6c2acef0174c20237242d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
