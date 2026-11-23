@@ -31500,6 +31500,17 @@
         0.0,
         0.0
       ]
+    },
+    "805247010": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACDC51076919",
+      "originals_sha256": [
+        "4572256dc8e0f722d7222ba491a6b9071deb183aeb790162a5daeee1d78496d5",
+        "c3ecef081796d568d50b66eee68cf715e6c3811bc38cdd4e9cc521a0f9cbca9a",
+        "f1e5e0c35ef6bb39fe5ee42519bed6c4290569e9cc1cf492505443e9e55a9161"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
