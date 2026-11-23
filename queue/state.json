@@ -43729,7 +43729,7 @@
       ]
     },
     "1720284262": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TAON67410724",
       "originals_sha256": [
@@ -43737,7 +43737,12 @@
         "c38ec4b6467d162516e2d8009fb034aa452b010a9f460870435702c5b606cdb9"
       ],
       "before_count": 2,
-      "task_id": 6110629398
+      "task_id": 6110629398,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
