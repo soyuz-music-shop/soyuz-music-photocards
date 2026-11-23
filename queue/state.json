@@ -24760,7 +24760,7 @@
       ]
     },
     "479378051": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BLCKND007R-1",
       "originals_sha256": [
@@ -24768,7 +24768,12 @@
         "9a1488adcc1bb9aad23ba4cf48fe5acb926ff28d2ca557d71be4d94da73b1b22"
       ],
       "before_count": 2,
-      "task_id": 6107315661
+      "task_id": 6107315661,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
