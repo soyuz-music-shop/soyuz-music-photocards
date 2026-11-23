@@ -25846,7 +25846,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "508774487": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "cd-russian",
       "offer_id": "4640219971072",
       "originals_sha256": [
