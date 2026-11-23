@@ -50530,14 +50530,19 @@
       ]
     },
     "3005925899": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CTI 6036",
       "originals_sha256": [
         "4348455cb8ae5fc539398547699075bfe59e3e939a42b603d7fc9239fb05837d"
       ],
       "before_count": 1,
-      "task_id": 6111294176
+      "task_id": 6111294176,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
