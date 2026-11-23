@@ -52764,13 +52764,14 @@
       ]
     },
     "3013420681": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AIC003714",
       "originals_sha256": [
         "34f28ba799d1913b7372e8d6edd084f7da67a599ce3efef8022c13a23e5e0be4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111467779
     }
   },
   "reason": null,
