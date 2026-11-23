@@ -33794,7 +33794,7 @@
       ]
     },
     "893533303": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP524",
       "originals_sha256": [
@@ -33802,7 +33802,12 @@
         "6a0ec28f20df7d213a2f4c0aa3e5b8fbddad79830e72d71f0c5976de1efb1841"
       ],
       "before_count": 2,
-      "task_id": 6109403427
+      "task_id": 6109403427,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
