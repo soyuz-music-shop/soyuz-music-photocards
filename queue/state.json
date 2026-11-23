@@ -24929,14 +24929,19 @@
       ]
     },
     "481447743": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OZZ8837147828",
       "originals_sha256": [
         "72a5b673e885d05bc56db3a1a62fffb9564576efc618f1c7f046aba5815f1591"
       ],
       "before_count": 1,
-      "task_id": 6107350556
+      "task_id": 6107350556,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
