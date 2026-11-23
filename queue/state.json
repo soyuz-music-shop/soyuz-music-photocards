@@ -46702,13 +46702,14 @@
       ]
     },
     "2188921801": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ZEN307N",
       "originals_sha256": [
         "d42c56fed19878f73d738190ff7e424813ce21648aefa75f3f28b77811ae6d6c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110860671
     }
   },
   "reason": null,
