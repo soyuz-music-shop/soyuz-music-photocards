@@ -31566,6 +31566,17 @@
         0.0,
         0.0
       ]
+    },
+    "806400100": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MDN24684718",
+      "originals_sha256": [
+        "4d2fc71b7e938a1f4f36b515ca6b6421f52e0903916e44766fc9e7493beb75b6",
+        "cc7fe219ddd1d6ec4811afa3312334ab1657c5474eae0ff78c5f43cd3782d8e1",
+        "127899f4ead00e53be64d7b725f35f9ddeb7e0e95a6e492d1c9f15c8441ee48a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
