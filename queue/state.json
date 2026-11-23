@@ -28001,6 +28001,17 @@
         0.0,
         0.0
       ]
+    },
+    "619046773": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT502LP",
+      "originals_sha256": [
+        "58f8eb8e8c987e19c577a1fa8ae00b9e3880e8308fd7a4dacef4e3d1f98ded50",
+        "61a5b0cc7c7bcc71229bf2b29f90317f2e7ad802eca3b4b297f26a831decee39",
+        "40a7687c29fa293f110de47b1ec53b7e5059338a23780e8005bebec12fe6f859"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
