@@ -31942,6 +31942,21 @@
         0.0,
         0.0
       ]
+    },
+    "841154787": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FACT 10R",
+      "originals_sha256": [
+        "02e00992b0a5ed0d646dbf569cbf9f148441f49eddb5e4ed1865fd90cee9b69c",
+        "0d262c9d5951d7251380ea317028901e448b4bfffbfe303bc3f4435290103d51",
+        "f54c88cdb14e1ff9b8cce263b9ee06384feffd72e0af67d9fb0897da866f8b5e",
+        "ab6bc4e79e8208c0cb3cd4b593d6aebd5cfde915330d15c542ffd1369c81faaa",
+        "dcdf72ba811ebb701443f0bff8cdcb7004daf27f6bdc5e2af498ad85b37d1c4d",
+        "7e1b0c2de793480eb54870768e4e5efd6040135296fa3aa148e3d320eec98b25",
+        "ef19df9fe073ac7f4062abec2ced15157f0b129f36c9e580fa1910d197e999c8"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
