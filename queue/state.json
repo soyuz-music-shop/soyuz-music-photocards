@@ -37197,6 +37197,17 @@
         0.0,
         0.0
       ]
+    },
+    "1100471028": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CRVX1440",
+      "originals_sha256": [
+        "d5c3b5d83fe2c0c8f70bf34d721ba80cfbe01b5e1d22f23210429cabd25efe00",
+        "d25f867b18e3396040ac133275ea9c541152c0b70d37f53021d7e80bcb572852",
+        "d9e2f97ac34a62c4e282c8e127fbfc799de9d9d58e32c493b8a7240990a1088d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
