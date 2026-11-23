@@ -44375,6 +44375,17 @@
         0.0,
         0.0
       ]
+    },
+    "1771704636": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 72447",
+      "originals_sha256": [
+        "6e8f6d32dca11fe8f869eea62d5bdcd4263774aa5a02da3a96f8aca08e9c31bd",
+        "0a9eb8777b8aad2911becf2f00a23bfe0bf0325a9ae7c9fcef12592d3c51dcd1",
+        "4cc324bbdd867292ae814110c3b80346e3bbcf43a2d95cbb5317c5752cc5a50f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
