@@ -31468,7 +31468,7 @@
       ]
     },
     "804775154": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EAG27979379",
       "originals_sha256": [
@@ -31477,7 +31477,12 @@
         "7b907c34a604a3d726963cee1a2be8c08827e0688076599542e555525298ed7e"
       ],
       "before_count": 3,
-      "task_id": 6109117981
+      "task_id": 6109117981,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
