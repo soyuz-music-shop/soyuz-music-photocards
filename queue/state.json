@@ -55468,6 +55468,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130107989": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OLE1549CD",
+      "originals_sha256": [
+        "9c715c7342224870721d37962a80ee4c122b40efd805943b9d223de1c7925967"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
