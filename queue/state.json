@@ -43727,6 +43727,16 @@
         0.0,
         0.0
       ]
+    },
+    "1720284262": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TAON67410724",
+      "originals_sha256": [
+        "7fc9c940b5abe3508c56f5f89871fcf528f1dcbb74ff64439f84f24a9c324261",
+        "c38ec4b6467d162516e2d8009fb034aa452b010a9f460870435702c5b606cdb9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
