@@ -31502,7 +31502,7 @@
       ]
     },
     "805247010": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ACDC51076919",
       "originals_sha256": [
@@ -31511,7 +31511,12 @@
         "f1e5e0c35ef6bb39fe5ee42519bed6c4290569e9cc1cf492505443e9e55a9161"
       ],
       "before_count": 3,
-      "task_id": 6109122210
+      "task_id": 6109122210,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
