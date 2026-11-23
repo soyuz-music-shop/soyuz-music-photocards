@@ -33580,7 +33580,7 @@
       ]
     },
     "880006833": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DAIS197LP",
       "originals_sha256": [
@@ -33588,7 +33588,12 @@
         "a698b0c9c8d09fc9cbc36cb8eeba4f3e34e10f1f71d322adcce90df578143048"
       ],
       "before_count": 2,
-      "task_id": 6109371831
+      "task_id": 6109371831,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
