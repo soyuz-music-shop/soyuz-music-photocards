@@ -37343,7 +37343,7 @@
       ]
     },
     "1103109766": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IUCY–80299K",
       "originals_sha256": [
@@ -37351,7 +37351,12 @@
         "20338f24fb3104c029cfd9e4ac34dffd0864210dd8778ba427ed9ded4434dacd"
       ],
       "before_count": 2,
-      "task_id": 6109924229
+      "task_id": 6109924229,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
