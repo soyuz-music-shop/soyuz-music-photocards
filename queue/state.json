@@ -51912,6 +51912,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476325": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MV0406-V2",
+      "originals_sha256": [
+        "cb220a38393b3bc556ece63777725e17d160ff28c69adf974e255536641e5995"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
