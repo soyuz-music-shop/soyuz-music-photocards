@@ -55365,14 +55365,19 @@
       ]
     },
     "3130010647": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP789",
       "originals_sha256": [
         "ba44d8361a47b4c31a3b5beee8606cf1dfc4299b7ff0966c074d52c3a35732f8"
       ],
       "before_count": 1,
-      "task_id": 6111640432
+      "task_id": 6111640432,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
