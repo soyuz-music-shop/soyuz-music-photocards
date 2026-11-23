@@ -26172,7 +26172,7 @@
       ]
     },
     "528825376": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AF0040GOLD",
       "originals_sha256": [
@@ -26181,7 +26181,12 @@
         "9ceaf5cb861636fe12f07eeca6adf45944cfd70cddf2b5c9e2a61634287ff84d"
       ],
       "before_count": 3,
-      "task_id": 6107708595
+      "task_id": 6107708595,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
