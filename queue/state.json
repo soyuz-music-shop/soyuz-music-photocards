@@ -29944,7 +29944,7 @@
       ]
     },
     "728983213": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNM77658822",
       "originals_sha256": [
@@ -29953,7 +29953,12 @@
         "92035b223f7f4ad9ec0840c2e16763d54141731165f02435f1687da3ae757e4f"
       ],
       "before_count": 3,
-      "task_id": 6108956462
+      "task_id": 6108956462,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
