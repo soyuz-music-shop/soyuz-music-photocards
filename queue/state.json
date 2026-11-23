@@ -24407,14 +24407,15 @@
       ]
     },
     "469386357": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BTLS45599523",
       "originals_sha256": [
         "a03dd9855beaeb3512568e8f4822d332157286b6ec51dd61e5c55b487ecc1d26",
         "cc0e4bced32df7eaf6778ae019d5fc82a9feaf8653b122ff217b38efd2a471ee"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107248099
     }
   },
   "reason": null,
