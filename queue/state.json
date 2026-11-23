@@ -46753,7 +46753,7 @@
       ]
     },
     "2202086748": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL1445LP",
       "originals_sha256": [
@@ -46762,7 +46762,12 @@
         "bc53ed429ffd76b41b3356b74cae640981684e4602b61a9f204945b4c54566b4"
       ],
       "before_count": 3,
-      "task_id": 6110865158
+      "task_id": 6110865158,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
