@@ -30114,7 +30114,7 @@
       ]
     },
     "732463754": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "0218576EMU",
       "originals_sha256": [
@@ -30124,7 +30124,12 @@
         "a715036fcaa7d3df4a8b1323bad6eafb8b0d43c0050f8978a7d15fa3b4876a34"
       ],
       "before_count": 4,
-      "task_id": 6108973448
+      "task_id": 6108973448,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
