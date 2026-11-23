@@ -44763,6 +44763,17 @@
         0.0,
         0.0
       ]
+    },
+    "1856508599": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAIS234BWS",
+      "originals_sha256": [
+        "7a4501af13b80bc31138be6049c00da8484d4207988e876dcbe8103c0f48ffef",
+        "5949de11258ac7489aba0e424f2a3b115ca8a2ad64783c64a24be9b951588e2b",
+        "2700105db2970107e3bb904e5ee3ae43f38e5243a5e8ba657e18e0b8972b129e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
