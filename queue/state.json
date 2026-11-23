@@ -44324,6 +44324,17 @@
         0.0,
         0.0
       ]
+    },
+    "1771174818": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACAN011LPY",
+      "originals_sha256": [
+        "f86c2336db095445f25f3924b16b02208a1c9b0a7f4d9406d52a05721cc71d4f",
+        "1da82c10ef6f54d40a4ab218f234a70d0d2902d6427460dab3ebce27aea0528b",
+        "51ae461a67b7a14c4afe30c10b240ed925c30fe51581d336714d93fb198c15d2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
