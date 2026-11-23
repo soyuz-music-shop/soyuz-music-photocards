@@ -36398,7 +36398,7 @@
       ]
     },
     "1080503340": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DP611902",
       "originals_sha256": [
@@ -36406,7 +36406,12 @@
         "bd628d9ed85c7c5e0ba3fa759a558d9790f166554bdebba81f708abc2fe58d6f"
       ],
       "before_count": 2,
-      "task_id": 6109781599
+      "task_id": 6109781599,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
