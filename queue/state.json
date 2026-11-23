@@ -42173,7 +42173,7 @@
       ]
     },
     "1521062095": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DRND38777291",
       "originals_sha256": [
@@ -42182,7 +42182,12 @@
         "5528ac5aa0aa6a6468b0fdd2c10dfa4456ba974934759626690d9438dd7b77c4"
       ],
       "before_count": 3,
-      "task_id": 6110503804
+      "task_id": 6110503804,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
