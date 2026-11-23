@@ -37079,14 +37079,15 @@
       ]
     },
     "1096788001": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BLCKND007R-2",
       "originals_sha256": [
         "8b989ecad1044ed84dba128c2c0900477c2e17dd2ca9556cee83d2b09df1c8f5",
         "c32f765894321d3b0a438f22076b7f296a1150341d258e3be5a9d136c5857fa7"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109889013
     }
   },
   "reason": null,
