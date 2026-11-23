@@ -34143,14 +34143,19 @@
       ]
     },
     "911913834": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FM92583824",
       "originals_sha256": [
         "2f34ce67e3115622de6d6cbd895032e6f297929ac6722fb653dae32fde9b7cc2"
       ],
       "before_count": 1,
-      "task_id": 6109452627
+      "task_id": 6109452627,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
