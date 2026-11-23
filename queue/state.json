@@ -39505,7 +39505,7 @@
       ]
     },
     "1216721673": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "REWIGLP158",
       "originals_sha256": [
@@ -39514,7 +39514,8 @@
         "aad9b3b5eb26c215c72d05c55125d48a0dcc34b6340237ec4ddf7557c5ed8b97",
         "24681899c95dd9f3bc3965ebc799d967566c4c87405589b9eed4009c120ed7da"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110211252
     }
   },
   "reason": null,
