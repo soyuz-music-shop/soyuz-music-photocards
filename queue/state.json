@@ -25946,7 +25946,7 @@
       ]
     },
     "518117361": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MCR87813321",
       "originals_sha256": [
@@ -25954,7 +25954,12 @@
         "8af7c01da3e68db32e4d49eda08e44482b9c9dca2e76eb181fb2d861aeda0299"
       ],
       "before_count": 2,
-      "task_id": 6107655810
+      "task_id": 6107655810,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
