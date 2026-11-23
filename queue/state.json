@@ -56241,6 +56241,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020156": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "UWR00100",
+      "originals_sha256": [
+        "5d4bfda76bbfafb1cd57d0d6295d80cc6a60037086e248c7814bed5da3c9a7db"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
