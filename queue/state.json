@@ -55738,7 +55738,7 @@
       ]
     },
     "3130403872": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SRFM0002PD",
       "originals_sha256": [
@@ -55747,7 +55747,12 @@
         "8815a48f0fe43455e42eb45dc2ab36e78afb6c3d66c4bba0f0438a56fec87ad9"
       ],
       "before_count": 3,
-      "task_id": 6111660856
+      "task_id": 6111660856,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
