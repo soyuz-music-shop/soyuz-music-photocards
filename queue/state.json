@@ -46555,6 +46555,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188769686": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EMA800",
+      "originals_sha256": [
+        "09ef4ae61ff541c7276d2d8d63e5e6365e660f052d6b8f1f182bfbeb1b32ec1f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
