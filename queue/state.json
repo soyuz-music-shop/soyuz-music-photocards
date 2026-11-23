@@ -22749,7 +22749,7 @@
       "reason": "Ozon /v4/product/info/attributes connection URLError"
     },
     "444475166": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRVN602537204830",
       "originals_sha256": [
@@ -22763,7 +22763,12 @@
         "5c9aef9c16cc6da467c0dc44fa68348d22eaad9a1332b308abe533236dd3a788"
       ],
       "before_count": 8,
-      "task_id": 6106879523
+      "task_id": 6106879523,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
