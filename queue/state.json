@@ -30081,7 +30081,7 @@
       ]
     },
     "731097031": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GNR45117314",
       "originals_sha256": [
@@ -30089,7 +30089,12 @@
         "1d502ae73f758b5ed3920a52d40ae1cec227466ddbd1605272594ea6872777f2"
       ],
       "before_count": 2,
-      "task_id": 6108969992
+      "task_id": 6108969992,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
