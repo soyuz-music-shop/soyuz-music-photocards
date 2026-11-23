@@ -41446,14 +41446,15 @@
       ]
     },
     "1459955175": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ADRC65625592",
       "originals_sha256": [
         "08c25a54b20dbfa84c641b7f86559bb57f79ffdb5a273ee92a6d32510cd50c08",
         "f806dd40eeeb1e8d1265f3f7d62a50c18483a37306509a57b455d4904bbae698"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110443561
     }
   },
   "reason": null,
