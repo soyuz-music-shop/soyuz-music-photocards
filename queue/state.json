@@ -55071,14 +55071,19 @@
       ]
     },
     "3130010618": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3X38",
       "originals_sha256": [
         "50a4ccaa2f803104a4cfbdbcb12ea0d750a9c7a9ae036fd6c3032c47f8288498"
       ],
       "before_count": 1,
-      "task_id": 6111621139
+      "task_id": 6111621139,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
