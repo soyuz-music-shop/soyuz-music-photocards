@@ -42188,6 +42188,17 @@
         0.0,
         0.0
       ]
+    },
+    "1521140685": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DRND87777277",
+      "originals_sha256": [
+        "ed66b6ef9fc220bce39024cbefc82cdd6965898c318009f425cff8b2292d1103",
+        "f1d301e7df9cc8d6f89c84e7e1838006565f1c0f63d5fda999f3a3d314711065",
+        "8b963b72f95b28033c0facb099c6f399797b5ab7b947725fe7e1a7f413b67822"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
