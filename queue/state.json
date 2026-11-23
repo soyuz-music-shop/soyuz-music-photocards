@@ -24809,6 +24809,16 @@
         0.0,
         0.0
       ]
+    },
+    "479462520": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BLCKND008R-2",
+      "originals_sha256": [
+        "c38c1931ab7dde40a85d117abeac758743090ddd08b8ce40351a3cd93387e2c5",
+        "8f6eb950b7d8a0d7d8b0d8735b765576f274288afc6a945500a7bff481175c58"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
