@@ -35836,7 +35836,7 @@
       ]
     },
     "1061426620": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4620107930237G",
       "originals_sha256": [
@@ -35850,7 +35850,12 @@
         "05244df0bb46cbf447d0c87fd3c015b5b1a4163bd69699dbd6c7bef9e56bd9e8"
       ],
       "before_count": 8,
-      "task_id": 6109698340
+      "task_id": 6109698340,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
