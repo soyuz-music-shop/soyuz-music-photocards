@@ -44999,6 +44999,16 @@
         0.0,
         0.0
       ]
+    },
+    "1915538118": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT885LPX",
+      "originals_sha256": [
+        "546bd7802d3c13843b5816315ccb2e5aff5a09c0c7f57ee193953bbde11801a8",
+        "ec45a5af711d3ad9def619369ad54a3b9fe65047d4b833eaf6e895145ef44e98"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
