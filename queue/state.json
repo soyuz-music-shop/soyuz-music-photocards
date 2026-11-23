@@ -28403,14 +28403,15 @@
       ]
     },
     "640841907": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AF0012V",
       "originals_sha256": [
         "8d816d334c87aa9bac8d2bbb57065db50c4f5cda124e4b2105f9d0014057e207",
         "bc18ea89cd4f6a0d6f12e2ad5803f785d513d7bf6a087c534c0470d6bfa5d591"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108783558
     }
   },
   "reason": null,
