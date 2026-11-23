@@ -39062,7 +39062,7 @@
       ]
     },
     "1207027031": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PMC77289415",
       "originals_sha256": [
@@ -39073,7 +39073,12 @@
         "f77af6a3ae2fccb09a2ece001d60b40cc112d7a508e0b24f1138fbb5997e7332"
       ],
       "before_count": 5,
-      "task_id": 6110154345
+      "task_id": 6110154345,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
