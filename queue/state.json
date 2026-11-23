@@ -45445,6 +45445,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691783": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MAJB78603006",
+      "originals_sha256": [
+        "9b5ee23b984f3874835aa6b8955a0017b96654dd776fdb981332c402eef78bf2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
