@@ -31783,7 +31783,7 @@
       ]
     },
     "830052561": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AFR0095VBL",
       "originals_sha256": [
@@ -31792,7 +31792,8 @@
         "0747d6ade9f44faa0629d620a80392cf306367372af7ee7aeb2bc9724b625a67",
         "9a7b38fb06477b831b5f28266af36d16b023442c5051b8ae89213681911c385d"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109154905
     }
   },
   "reason": null,
