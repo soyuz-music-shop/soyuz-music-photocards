@@ -54101,6 +54101,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899336": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WARPCD323",
+      "originals_sha256": [
+        "314ec952321a46ab04d8e8d1254b7dc6247325712c5980ba040d2c84741c76a6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
