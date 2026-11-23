@@ -27376,14 +27376,15 @@
       ]
     },
     "582890012": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ESH97163395",
       "originals_sha256": [
         "f77d0aca43984290217ca8046f91a93492c9caa3403eaf1f6210972ec53eb22a",
         "e77e99f400b140571f50295badf471e5feb9c4db289761f21c45e0f849e87487"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108651220
     }
   },
   "reason": null,
