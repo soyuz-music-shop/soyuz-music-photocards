@@ -44914,6 +44914,17 @@
         0.0,
         0.0
       ]
+    },
+    "1865863785": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IGGPP57366242",
+      "originals_sha256": [
+        "935505d59ecdbfb1ced89b5bcfadd790024622fcf05b8d501303691d9b85e4ca",
+        "21523b5e3bca4db1a7ddafd1a288e62abaa5b9c89191b6d24ec3bbf3dfb70f1c",
+        "8a434db3d6015acba3d3c577dd5fd3edc21a0ecc5606642118ae62337e8f5083"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
