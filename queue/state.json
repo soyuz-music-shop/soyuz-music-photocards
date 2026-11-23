@@ -34563,6 +34563,17 @@
         0.0,
         0.0
       ]
+    },
+    "943518540": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT247LP",
+      "originals_sha256": [
+        "5edd530f05731a6524886e9c704c1c72d9a7cedb24e38565e48b8c013ac0965b",
+        "bb602e8b0ae383f299ea5afd2746feb1d05950947ef9f9d76fc78e92a75867b2",
+        "90656bd7c260b6b6a47be83137b86a7b75ccbfb6a89de24ce69980316e9b8821"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
