@@ -34274,7 +34274,7 @@
       ]
     },
     "914971947": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CP54050428",
       "originals_sha256": [
@@ -34284,7 +34284,12 @@
         "8c59d14bce650088d6a1b2cb926354db658e95c5fc98509e9a703fda65adaf45"
       ],
       "before_count": 4,
-      "task_id": 6109482852
+      "task_id": 6109482852,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
