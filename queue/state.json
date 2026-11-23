@@ -43697,6 +43697,15 @@
         0.0,
         0.0
       ]
+    },
+    "1707468251": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HRMI36799728",
+      "originals_sha256": [
+        "cc3a484798c7430699db9375e65bb966de834a896af32c6869621c6e4ef45412"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
