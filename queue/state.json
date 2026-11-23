@@ -39762,7 +39762,7 @@
       ]
     },
     "1236749626": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NJV58671490",
       "originals_sha256": [
@@ -39771,7 +39771,12 @@
         "7397eedca225bf781c56e20d06b71ab4633ef89c131a135a95150f99ede4e4b2"
       ],
       "before_count": 3,
-      "task_id": 6110237056
+      "task_id": 6110237056,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
