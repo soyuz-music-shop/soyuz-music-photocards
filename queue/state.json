@@ -37458,6 +37458,17 @@
         0.0,
         0.0
       ]
+    },
+    "1106873874": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ZAZ589578",
+      "originals_sha256": [
+        "ab5a4b07bbe445b752927567ffa8011ae217ce80ed40c58b381691035ef28a1b",
+        "f53e51c6a6d6cdce5649628e8bfca740957b72cfb841d0db89ca138a972b1ff2",
+        "72b692f4a952d859d4ba24bf0e14664941dc1596e9205c6258432707671ba0f8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
