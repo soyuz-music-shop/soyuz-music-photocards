@@ -53419,6 +53419,15 @@
         0.0,
         0.0
       ]
+    },
+    "3017887542": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LAULP3",
+      "originals_sha256": [
+        "04ca0481231e2b5e7c472faea3128311f279f7324beda1897b169832b713e5c3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
