@@ -38820,7 +38820,7 @@
       ]
     },
     "1199546964": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XL1394CD",
       "originals_sha256": [
@@ -38828,7 +38828,8 @@
         "df12ff2b5a334f95a655d77b6865e0933fd2e9562eddc7f9e3fc0703b2356854",
         "67004383b8d15562caa146fa7a762d9629a0cd8a4a67e283101b20141b43bed2"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110122858
     }
   },
   "reason": null,
