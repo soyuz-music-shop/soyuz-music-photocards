@@ -31585,7 +31585,7 @@
       ]
     },
     "808182651": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "2000095748335",
       "originals_sha256": [
@@ -31593,7 +31593,12 @@
         "8161a45f4d6d8425f001fb39fecb69b5f2e18ac988e99c70294a0f5a0d1dfc28"
       ],
       "before_count": 2,
-      "task_id": 6109133238
+      "task_id": 6109133238,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
