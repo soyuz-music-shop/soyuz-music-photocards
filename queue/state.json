@@ -34407,6 +34407,23 @@
         0.0,
         0.0
       ]
+    },
+    "927672185": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JCR53526710",
+      "originals_sha256": [
+        "4f69c7c4f84ffd5370a8f7d29b671372ad85ebb28359ddc040a66382b8e40a66",
+        "224c35e9cd4283c3fb5c6dc287d5445fca4d5aad98f3ca0acf2cf43781aa8386",
+        "3565a89aff79a4aa6b04a4a2e8c37aa8b820c77548f0a512841e3788be4a6eb5",
+        "bdd59f6f5d763bda99eb321f425430a8161208f8f958580f1f3bca78940472a7",
+        "141186f9eb3ef9c631a0e81d202752b52d737b6369e3a2b03814af40aa2f722b",
+        "5a7ed5fd03e0a605f5f96b1471a6f64eee3e87bb332a2b88c6b0319a79d7f967",
+        "19a335a9dac414b074c568a21bc1c2b3c96ef8d7e0095df2ffc1ca24dcb55bee",
+        "0eb0480cf9aad8ab8383e158610308ca3889e47c9b11405db55a8600ed1943c3",
+        "a6dac4d34d70e57ed71b36de9b37e8d602eca328e551fc42cdf3f434e2f365ad"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
