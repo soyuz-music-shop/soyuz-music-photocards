@@ -27973,14 +27973,19 @@
       ]
     },
     "619028218": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JMJ58282619",
       "originals_sha256": [
         "e171547e16430a62a9a6a771f8cd56438a756338f539c7d53b7b91743f3d6166"
       ],
       "before_count": 1,
-      "task_id": 6108735796
+      "task_id": 6108735796,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
