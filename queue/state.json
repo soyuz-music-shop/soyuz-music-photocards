@@ -42413,7 +42413,7 @@
       ]
     },
     "1544356414": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "VNHL92573221",
       "originals_sha256": [
@@ -42421,7 +42421,12 @@
         "625bfc50ab61bcf760a285c8539e375c4ad0c70c2914c59eff75f75200cb0401"
       ],
       "before_count": 2,
-      "task_id": 6110527411
+      "task_id": 6110527411,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
