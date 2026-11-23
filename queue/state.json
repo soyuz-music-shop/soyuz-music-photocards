@@ -32689,7 +32689,7 @@
       ]
     },
     "864922499": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WEE55568809",
       "originals_sha256": [
@@ -32697,7 +32697,12 @@
         "a7f31041013465e5efcb4a64b55ede8518c006db4d5b9c14e30741933ae77d2f"
       ],
       "before_count": 2,
-      "task_id": 6109259391
+      "task_id": 6109259391,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
