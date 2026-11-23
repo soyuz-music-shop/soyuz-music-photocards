@@ -36329,6 +36329,17 @@
         0.0,
         0.0
       ]
+    },
+    "1078379496": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FOODLPX9",
+      "originals_sha256": [
+        "7d3ab144836c49adf3547ce5bccff041a0006a8663c39d84169887e889a575fb",
+        "a9b330df402f373ebfbc0c63f4ec55a5a3a0a82d4f32d2a26bf09e5f454d5d35",
+        "d7168f7b2c1e1c8cafc008de93ed64e718c8213683acedcc923c29be00b919ba"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
