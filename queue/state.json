@@ -33100,7 +33100,7 @@
       ]
     },
     "870096705": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP 675",
       "originals_sha256": [
@@ -33108,7 +33108,12 @@
         "56746be7e86de8a17df0353d7d54981e44bcb031b8c4f9658ee8cf2d3f5aaa4b"
       ],
       "before_count": 2,
-      "task_id": 6109310631
+      "task_id": 6109310631,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
