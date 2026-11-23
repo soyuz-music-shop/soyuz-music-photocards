@@ -39200,6 +39200,17 @@
         0.0,
         0.0
       ]
+    },
+    "1208896226": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DLFN95076139",
+      "originals_sha256": [
+        "135484260c7456f0b464aeff90ce522eb5c22f8c8fbafa2c8f227bbafdc912d2",
+        "5d27b3101f83f528776e8abaaef4773bee339bfcc366b2397f30b65e07ba6c47",
+        "3f278af051d57c4cd2546882914fe654dcad456756ff7b7e6053a960788c06b3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
