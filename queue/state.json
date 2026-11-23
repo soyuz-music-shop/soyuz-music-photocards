@@ -43068,7 +43068,7 @@
       ]
     },
     "1601336807": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SD30347526",
       "originals_sha256": [
@@ -43079,7 +43079,12 @@
         "79ad2e639ff16e337e91ba51cba84bdd519fb0654ce013005e2b07c1c82de525"
       ],
       "before_count": 5,
-      "task_id": 6110582311
+      "task_id": 6110582311,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
