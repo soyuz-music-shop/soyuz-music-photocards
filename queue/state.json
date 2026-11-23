@@ -33031,7 +33031,7 @@
       ]
     },
     "869564234": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0020LPE",
       "originals_sha256": [
@@ -33040,7 +33040,8 @@
         "0dd47b0ec9315578627d2853726ed7672df84ade55d2d03e80592cf94a78238e",
         "b899e0a3ef9679f06b2af51c71fbf8096d5436d62535f749fc2cf9bc8b6f1cda"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109303265
     }
   },
   "reason": null,
