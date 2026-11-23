@@ -45672,14 +45672,19 @@
       ]
     },
     "2153691823": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ARAF58980295",
       "originals_sha256": [
         "fa02698724cac5fe43bcd1513ae6d323aaa0154df3bd8a9272584da4bccf6c2d"
       ],
       "before_count": 1,
-      "task_id": 6110770479
+      "task_id": 6110770479,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
