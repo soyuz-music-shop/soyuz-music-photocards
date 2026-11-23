@@ -41662,6 +41662,17 @@
         0.0,
         0.0
       ]
+    },
+    "1483268192": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT586OLP",
+      "originals_sha256": [
+        "805ed8662fbcf35a11f044442e63d3273a2013173b3c3e4600832b317aaa076a",
+        "d7dadb3ea9abb3c3ac5ed89793c985ca4249190c1fd8ec0710d1e5a258508d93",
+        "de53dcbea88574877a8a7f8d22ed0fd6c746b6bb0533c2b9db4c6735387daf7a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
