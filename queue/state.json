@@ -44765,7 +44765,7 @@
       ]
     },
     "1856508599": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DAIS234BWS",
       "originals_sha256": [
@@ -44774,7 +44774,12 @@
         "2700105db2970107e3bb904e5ee3ae43f38e5243a5e8ba657e18e0b8972b129e"
       ],
       "before_count": 3,
-      "task_id": 6110698668
+      "task_id": 6110698668,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
