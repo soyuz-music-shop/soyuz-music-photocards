@@ -45233,6 +45233,17 @@
         0.0,
         0.0
       ]
+    },
+    "2046820091": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STGRN32364357",
+      "originals_sha256": [
+        "a3d29958ed99f09d273880fa92b2e70f85b938a03e165e1eb1882618462ba676",
+        "f92ac243daaaf685869e8b0fb58356989ee26b86e6b03c40c61d76498c28783d",
+        "3f6365397dd30ab3c48d9b220417611c7aad090047e791835a8570d759e4d82c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
