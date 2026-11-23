@@ -39252,6 +39252,16 @@
         0.0,
         0.0
       ]
+    },
+    "1209028782": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ELW58340976",
+      "originals_sha256": [
+        "6ecd9a8078709b9947da4021d5216cd12340464f192536e00347c0e9bd9bd44d",
+        "c5141a254183e85c2c7b4e18a27f03138b98f8ffe60efcf6218cad566d134707"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
