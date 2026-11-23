@@ -33479,7 +33479,7 @@
       ]
     },
     "874521609": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SEW167",
       "originals_sha256": [
@@ -33487,7 +33487,12 @@
         "115b801ec5443b8a48e6826dae74debbce333477fe10a80288bb827d7d2a5f53"
       ],
       "before_count": 2,
-      "task_id": 6109360144
+      "task_id": 6109360144,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
