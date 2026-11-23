@@ -29875,7 +29875,7 @@
       ]
     },
     "727173477": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BSP87791315",
       "originals_sha256": [
@@ -29887,7 +29887,12 @@
         "19603b67675731d524ea5bc660cf69dcabc852f692a94da2680acaca769f2223"
       ],
       "before_count": 6,
-      "task_id": 6108950026
+      "task_id": 6108950026,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
