@@ -54404,6 +54404,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137700": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MSP593229",
+      "originals_sha256": [
+        "4922a1d9b6a22f3fc967ac2930663f2744c1c5fe91ad3490a8de8f9dcbc64d34"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
