@@ -41986,7 +41986,7 @@
       ]
     },
     "1504156268": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM074LP",
       "originals_sha256": [
@@ -41996,7 +41996,12 @@
         "408178e5387cd719ea483b48eb6922ac619528cab74bb4c0b3aa4ea37d4052f0"
       ],
       "before_count": 4,
-      "task_id": 6110489162
+      "task_id": 6110489162,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
