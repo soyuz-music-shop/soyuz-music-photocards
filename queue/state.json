@@ -43438,14 +43438,19 @@
       ]
     },
     "1676018177": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MET 1385V",
       "originals_sha256": [
         "2d8971c65eac0303c16df296908efa5fdd1a86dfddbf029daec8edb472e1a0fe"
       ],
       "before_count": 1,
-      "task_id": 6110607906
+      "task_id": 6110607906,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
