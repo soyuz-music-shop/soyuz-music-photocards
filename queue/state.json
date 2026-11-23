@@ -38092,6 +38092,16 @@
         0.0,
         0.0
       ]
+    },
+    "1153437805": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DLP943478",
+      "originals_sha256": [
+        "63bf054824020a36275bc2b9064fabc02136d954cd3b888886478c5e75400101",
+        "c67c792da193a638359ad89b0ef0086359d632526ff1c50caf7b4231cee62385"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
