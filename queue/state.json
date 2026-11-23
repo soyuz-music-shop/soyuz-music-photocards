@@ -30968,7 +30968,7 @@
       ]
     },
     "758406031": {
-      "status": "imported",
+      "status": "verified",
       "variant": "vinyl-colored-import",
       "offer_id": "KSCOPE526",
       "originals_sha256": [
@@ -30979,7 +30979,12 @@
         "ccbbaae8fa69bb2e25a2ebb4964b9e83d029f1c17d85a17c50a8ff48e55636f5"
       ],
       "before_count": 5,
-      "task_id": 6109056387
+      "task_id": 6109056387,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
