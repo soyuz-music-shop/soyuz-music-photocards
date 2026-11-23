@@ -38426,6 +38426,17 @@
         0.0,
         0.0
       ]
+    },
+    "1185019909": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MGTH47613943",
+      "originals_sha256": [
+        "63fe3cde059168957877f0f1b593968955a05972750298b617f2afb763e82742",
+        "58b7ab550eeaa604f21432f60654311f3fd02d3f5bb9239da3ed2d553c6fe3f6",
+        "56b59b1e57dbb3438af746402db61853932cbf053f12c45c67ead2c628c30597"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
