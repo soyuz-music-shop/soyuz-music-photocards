@@ -34432,7 +34432,7 @@
       ]
     },
     "927796529": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "B0031911-01",
       "originals_sha256": [
@@ -34440,7 +34440,12 @@
         "a0ebdec174c7eeeebe89572bb36659f82af81b1cf91fb3b9720b6da5562e12a2"
       ],
       "before_count": 2,
-      "task_id": 6109502035
+      "task_id": 6109502035,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
