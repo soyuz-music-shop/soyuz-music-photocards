@@ -33512,7 +33512,7 @@
       ]
     },
     "875166367": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000145021",
       "originals_sha256": [
@@ -33520,7 +33520,12 @@
         "c11878f9c4fc08756cf2e0ef75f6772639d2e263a8ff538f8778f929c111078c"
       ],
       "before_count": 2,
-      "task_id": 6109363736
+      "task_id": 6109363736,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
