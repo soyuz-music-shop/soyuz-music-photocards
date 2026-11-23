@@ -43926,14 +43926,15 @@
       ]
     },
     "1729964000": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MET-276",
       "originals_sha256": [
         "e11aff33ddf0a35afb0b91d6ba94319a4f0eaa130d5134e9d1483af4b1080157",
         "0331016f9c2ac37253de7cfbd2c4b1056d1fbb55b12202990a1d78c00be43ccb"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110643456
     }
   },
   "reason": null,
