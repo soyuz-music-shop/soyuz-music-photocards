@@ -27988,14 +27988,19 @@
       ]
     },
     "619038031": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NVN42453612",
       "originals_sha256": [
         "8eea32e6ef774d5517e3d44224dc03ced5bcb129cc87b45bf58363832406becb"
       ],
       "before_count": 1,
-      "task_id": 6108738196
+      "task_id": 6108738196,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
