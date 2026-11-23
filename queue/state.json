@@ -25401,6 +25401,18 @@
         0.0,
         0.0
       ]
+    },
+    "491165742": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QN27583655",
+      "originals_sha256": [
+        "19f36a999de81bececb6d4aa55af863d9dc0e3400e1523abb22a6a615782cfea",
+        "77e38782e6c95d73eb862f317dc034d64707cfdb29a6e9e192745f8472ba2ab9",
+        "69ff5fc924a6036a85f73479cff4b816888bcb0252daf892e7e86803358727cc",
+        "cf3553c232bbfb8c2b5b135bfa4c944e4505c55a4f81f9061f65232763d0a97d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
