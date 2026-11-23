@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - ".github/workflows/auto-queue-tests.yml"
+      - "scripts/test_auto_queue.py"
+      - "scripts/auto_queue.py"
   workflow_dispatch:
 
 permissions:
