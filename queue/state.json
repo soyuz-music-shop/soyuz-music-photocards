@@ -43553,7 +43553,7 @@
       ]
     },
     "1701291198": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RR1 2602",
       "originals_sha256": [
@@ -43561,7 +43561,8 @@
         "a930fe69bd48e0b327a1f391231524fc262cf873c2ccb1b2706df817bb32c82b",
         "02dccb0bd407b59c6b855b60da3d40d0880d0ded87974e4c445ef8afbef7fa7e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110616983
     }
   },
   "reason": null,
