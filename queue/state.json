@@ -45505,6 +45505,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691790": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHXCX78611674",
+      "originals_sha256": [
+        "9f5d038134cf538de458afaeb59be6ab73a6069b13dd977d53cda1f007285688"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
