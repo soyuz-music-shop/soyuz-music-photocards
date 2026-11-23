@@ -32638,6 +32638,16 @@
         0.0,
         0.0
       ]
+    },
+    "864765891": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1063417STUD",
+      "originals_sha256": [
+        "c13e776afe4c5627679ad2b5e4be1a3f12f9ad36034939f23cb47684d659bc5e",
+        "b5b7d7e597d192d60f29f53f124d00357997c265975c963c21bba291a5d69277"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
