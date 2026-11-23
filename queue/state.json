@@ -45085,7 +45085,7 @@
       ]
     },
     "1952449511": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AFM 915-1",
       "originals_sha256": [
@@ -45093,7 +45093,8 @@
         "679bf673d0661982fefbeba5702146c3086910adfabab92c98e6ccc83a0d51cb",
         "f4a0d6a1d0dd0283c62de00d71938e6d3af35c86f22021e70ad5b0feedc52920"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110723766
     }
   },
   "reason": null,
