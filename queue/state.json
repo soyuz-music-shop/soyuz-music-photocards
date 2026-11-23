@@ -26467,7 +26467,7 @@
       ]
     },
     "541147117": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVCL008",
       "originals_sha256": [
@@ -26475,7 +26475,12 @@
         "566c996205f59755b796688a494a5f137d8d7f6656465c59e53b66a0090001c7"
       ],
       "before_count": 2,
-      "task_id": 6108518402
+      "task_id": 6108518402,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
