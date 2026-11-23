@@ -40953,7 +40953,7 @@
       ]
     },
     "1403888326": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TMR-1000",
       "originals_sha256": [
@@ -40965,7 +40965,12 @@
         "f1ffa13bb0130449323504606759f89c495d754b7f86114eda66cc5694a236cb"
       ],
       "before_count": 6,
-      "task_id": 6110397143
+      "task_id": 6110397143,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
