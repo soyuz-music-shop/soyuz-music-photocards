@@ -53008,6 +53008,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013420761": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VW301418",
+      "originals_sha256": [
+        "b4f4286d562935f9b75a31a4e36107c7b8ff4983fd68e4afb2c47db8b2f45c8f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
