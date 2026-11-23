@@ -41123,6 +41123,17 @@
         0.0,
         0.0
       ]
+    },
+    "1437616138": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SD87848019",
+      "originals_sha256": [
+        "10ef365694b574899b7eab0a60bede42af12a40f769a085331f873c6ce4aa714",
+        "a11ca50d7366db648a045d681cf3080be05365f72de57a993bc2845bca287fc4",
+        "ac2bde3cc6bbcc4a4076ae191f404c76487be5885c8f34f6814cc3a7bf5d5bdf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
