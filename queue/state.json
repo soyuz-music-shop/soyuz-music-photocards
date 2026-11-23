@@ -37987,7 +37987,7 @@
       ]
     },
     "1147583529": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PSB903588",
       "originals_sha256": [
@@ -37999,7 +37999,12 @@
         "7b92e4ca3c22d636be524d002bd7e1eba80265de597b8064fefe7c1f871f4bdd"
       ],
       "before_count": 6,
-      "task_id": 6110016347
+      "task_id": 6110016347,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
