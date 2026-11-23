@@ -41348,6 +41348,17 @@
         0.0,
         0.0
       ]
+    },
+    "1456541838": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SYTH58934786",
+      "originals_sha256": [
+        "10bc32635fa54014d21ecef2c3c068a89faeba32a33eec5c26ca6e314ec954d6",
+        "7af1ea8963f70f005bc7b0b1cb8b1b5bcdebc16210702a00950f774af1bc0fd4",
+        "de01441715529a58440ab035f6cb9e0ae2bf8ec298e8c945582877563c9e7ae1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
