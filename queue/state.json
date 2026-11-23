@@ -54626,7 +54626,7 @@
       ]
     },
     "3033386655": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF709225",
       "originals_sha256": [
@@ -54634,7 +54634,12 @@
         "0bf9223ae40ca0eab10e8f2b2f3214ce6751c4685db41fb5f0ab58cc81903562"
       ],
       "before_count": 2,
-      "task_id": 6111589127
+      "task_id": 6111589127,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
