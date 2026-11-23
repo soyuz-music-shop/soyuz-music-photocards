@@ -26921,6 +26921,16 @@
         0.0,
         0.0
       ]
+    },
+    "557959933": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MH17855755",
+      "originals_sha256": [
+        "666e9584e7b4b65af4013286cc95472f0bc051cc26f7302ccd46e9928e0b45cb",
+        "e068cd0f7b16ec0fda016e12d3699de10333482787a640294c24323b6bdc3d47"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
