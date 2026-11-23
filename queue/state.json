@@ -31872,6 +31872,17 @@
         0.0,
         0.0
       ]
+    },
+    "839072046": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACDC51076216",
+      "originals_sha256": [
+        "77fa7de71a76c0e3182ce584994006abd973a3eb9a41ec67c8f0c3d5ae573e87",
+        "788cded448738717b2569d005246eddcfbb9d2070b564171d598f46ad1034734",
+        "6c457b5b628b5148af907101e50a7557f52e0aa8046afac0cebf4f204f3b0212"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
