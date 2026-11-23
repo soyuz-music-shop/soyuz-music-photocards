@@ -49041,13 +49041,14 @@
       ]
     },
     "2981259885": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 7425",
       "originals_sha256": [
         "24bf90b0e8fc3bad29ee275c30ec6fdcd13710f785d167d9d9ad86c85caf83aa"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111039387
     }
   },
   "reason": null,
