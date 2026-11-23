@@ -40158,6 +40158,18 @@
         0.0,
         0.0
       ]
+    },
+    "1248349863": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TTUR97555466",
+      "originals_sha256": [
+        "b482637f11a54e2b9bc6e32fc5a379620aaf178c3d2bd07bf29bcf5ae2761c24",
+        "08a4d38a31d6a65c65183081cee1ac174808f6734132864bcb9b0b2df15550af",
+        "9f7393f01df3d7ebe0d569b052ed58956412dc26a7f93300b81b98fb25aa7116",
+        "1f2bd97e7d0690c80d250586c9b5e0f115d8e2b1bf0a56add3fe8971a096e4c1"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
