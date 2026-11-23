@@ -26837,6 +26837,17 @@
         0.0,
         0.0
       ]
+    },
+    "556902058": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "INFECT644LP",
+      "originals_sha256": [
+        "bada1450a9b1bb01910b1fef1581e75cdad4ce572d7f610c0b991d68f983c295",
+        "08eadef53607d38d515685127393df0d909c1064ec7577f130e0da454d7d9c8d",
+        "27780694336c32a1ac595a8a6025aa652aaf2f1117768e9aaaae0344b9828763"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
