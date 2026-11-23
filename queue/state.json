@@ -29993,6 +29993,19 @@
         0.0,
         0.0
       ]
+    },
+    "729333336": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BNM99344323",
+      "originals_sha256": [
+        "cc5991bc7442ca68caeec9de01d2343d7336f8fe19d1823af501ea2de49add46",
+        "7c1c87fd5dd4c2385c32f9986e69671935b4f4a7e6b4ac748a64c7c645fbc716",
+        "79472e3bf297f1d178f9871e6e11cf72dd3fbb802c95308b47bea4abc5927db7",
+        "120b3a04e245c12d28901152d1811f48d12759fa298df756f3d28c3d839d116b",
+        "dcfe3e6ad6c320577ad042fac0e61253020c752b092883fa0f78b2a4be4e9708"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
