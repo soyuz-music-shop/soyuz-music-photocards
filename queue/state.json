@@ -26991,6 +26991,25 @@
         0.0,
         0.0
       ]
+    },
+    "559867031": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT550DLP",
+      "originals_sha256": [
+        "ad0b00466f4d547c4fb55f843842e9c067a9a41f3673d07daeb164b63e28aefc",
+        "eb817e6c1a9b3f98facb6ae9334a1d964a9699fba43ae437714803a300f8ade5",
+        "c81e7492fe58805f19c2cafb893d714c71c96a1bd8d60a2e388c8af499a1ab69",
+        "484b3b9f7aec3fbefa0b8c81718db83fc04ac0e1104a4f32534a7a402c141148",
+        "dad3827ecc0e4adf4e0b0d92c6d4bd690deedbd4a9fffa90e954123588bdd5a2",
+        "26c1b6d2d6521a847d2cc8c0dc9dd8d45f417e846726ce452cbcc686943ea6d2",
+        "0ae09ff49542c24c1de0a4766a42f45a48731802d92e014ec91013d18e4bc2b0",
+        "c095d3fe4845a6051df8d835e43688e1bfcf21383d11306f3d55d4724f56a72d",
+        "9b1b8fa62f63d07ced8bcab49279fe47aa299162ff01fabdfbaf9be732b17d06",
+        "60a8d62ae535de57c950b808f8a4110842cd4dd94ce49921ba9cb4c5c06bf7b8",
+        "518e826e912c29548ebb492a0418ca4c535c6d9df2290b371113e7c141bc0f8a"
+      ],
+      "before_count": 11
     }
   },
   "reason": null,
