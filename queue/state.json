@@ -45032,6 +45032,17 @@
         0.0,
         0.0
       ]
+    },
+    "1936166640": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 26080",
+      "originals_sha256": [
+        "17eb53687714d410d043b9de869b20876b832023a1a33528b338e5662248f265",
+        "3b3016d2a7ebcf7a2ec41f6010bbb258ed4991cc53ad4fb4475626a62b2a2f54",
+        "e4bace211ee7ab764ba86ced9b8334cca5e59a3a0870ebb9b120f3286b7e6be8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
