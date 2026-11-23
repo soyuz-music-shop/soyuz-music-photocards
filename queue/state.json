@@ -33266,6 +33266,17 @@
         0.0,
         0.0
       ]
+    },
+    "870660930": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RW51554115",
+      "originals_sha256": [
+        "cbe593c186eeaf8c1b63f7065f83d4b508563f001876c2e0b05765969c266f51",
+        "e4055869367e66e65d78992a0e8392016c4630b9212f60d11d09a33417df336f",
+        "1a6bcd4fb8f28b184400c76c61e5a181e6253bc574ebdad4eebfaead485d9c2e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
