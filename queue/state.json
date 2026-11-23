@@ -41211,7 +41211,7 @@
       ]
     },
     "1443870384": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BGDE-67350",
       "originals_sha256": [
@@ -41219,7 +41219,8 @@
         "2dc3ecd5225e4ea023ec6100b6968118175f3ca3fc77f0b014fcd2fbd638204d",
         "bb790c291a2502d477f1cedc3ac73624286de71b0ee65d65f4eeaf6dfba81698"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110421840
     }
   },
   "reason": null,
