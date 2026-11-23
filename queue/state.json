@@ -45520,6 +45520,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691801": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 2115",
+      "originals_sha256": [
+        "6a24376089a2f211919c3cf4ccf4a9d4b27d8e73320f4c8d83cbcdcb1b110630"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
