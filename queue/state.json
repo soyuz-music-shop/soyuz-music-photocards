@@ -33924,7 +33924,7 @@
       ]
     },
     "897929442": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ 250 LP2",
       "originals_sha256": [
@@ -33932,7 +33932,8 @@
         "9326c22fe6df90093c391b97fffe85cea2d15f898eb050637b2b6f7c2befc337",
         "fc1ad9f6a28d1174d7ce799beeeb40ab3dba2b956ab2a698a09f14536c388bc4"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109421646
     }
   },
   "reason": null,
