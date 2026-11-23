@@ -26741,7 +26741,7 @@
       ]
     },
     "554176638": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ABB38885800",
       "originals_sha256": [
@@ -26749,7 +26749,8 @@
         "93fa17ecf0554687bd74818080b8a91a5bd04e330baccbdeb676fcfe2293e464",
         "061d1ea6d433208380a73fee44950b9967ce4fe3284df6e7a5f7c0d26ac4ff2c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108563823
     }
   },
   "reason": null,
