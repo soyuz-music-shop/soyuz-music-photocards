@@ -39779,7 +39779,7 @@
       ]
     },
     "1237004653": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AWBTB53997420",
       "originals_sha256": [
@@ -39789,7 +39789,12 @@
         "ece9172f243a0e1daf0b9fcfda7201861805ce85a52a5eb48699d6bc20bd1ff1"
       ],
       "before_count": 4,
-      "task_id": 6110239676
+      "task_id": 6110239676,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
