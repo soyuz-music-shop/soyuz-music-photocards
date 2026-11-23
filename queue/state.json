@@ -35431,7 +35431,7 @@
       ]
     },
     "1043701679": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SD388126",
       "originals_sha256": [
@@ -35440,7 +35440,8 @@
         "1733ad7e67450e9d42861229bc5718b13cd6d8013c80dae897dca165351f707a",
         "4304822c66953eefb11a6b1649f28b24a81659e7bbbe3f9dc8b2ce1750cc806e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109632088
     }
   },
   "reason": null,
