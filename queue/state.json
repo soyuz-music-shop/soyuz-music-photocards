@@ -52173,14 +52173,19 @@
       ]
     },
     "3011894464": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0807LP",
       "originals_sha256": [
         "b9970e80ab1b3a194392f757781bd5861c48f916b398b3328971964ca0e429dc"
       ],
       "before_count": 1,
-      "task_id": 6111418578
+      "task_id": 6111418578,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
