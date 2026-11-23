@@ -44579,7 +44579,7 @@
       ]
     },
     "1803304922": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP523",
       "originals_sha256": [
@@ -44588,7 +44588,12 @@
         "9abb7cf038747b8313f90bc278327ac8a26b0d97a1984ffc2f40fffe1894b6ae"
       ],
       "before_count": 3,
-      "task_id": 6110683876
+      "task_id": 6110683876,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
