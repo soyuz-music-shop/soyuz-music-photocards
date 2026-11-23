@@ -32561,14 +32561,19 @@
       ]
     },
     "863218802": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1062953STUD",
       "originals_sha256": [
         "44ded0a85b29764013562666a6fd7ab599cc968a4a1fd051c27f750f0594ad21"
       ],
       "before_count": 1,
-      "task_id": 6109245906
+      "task_id": 6109245906,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
