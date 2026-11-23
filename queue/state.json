@@ -33146,6 +33146,16 @@
         0.0,
         0.0
       ]
+    },
+    "870230992": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SIN47825620",
+      "originals_sha256": [
+        "435345bfd95717c1b0f8d3b29965873d8b4c41002b0d7719f9f5b7957caeaa9b",
+        "3b03594b519a2ec96b499c68875d0be1efb9c68310f0574e33c5420d1ed69897"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
