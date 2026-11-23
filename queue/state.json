@@ -29757,7 +29757,7 @@
       ]
     },
     "725187358": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DD51210110",
       "originals_sha256": [
@@ -29765,7 +29765,12 @@
         "5ab2da3f658a38aaa7b9bbd8f04dd5b78d432b9cfc94b1f31af0d6d47bfadcaf"
       ],
       "before_count": 2,
-      "task_id": 6108936515
+      "task_id": 6108936515,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
