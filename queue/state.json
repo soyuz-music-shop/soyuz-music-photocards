@@ -29721,6 +29721,17 @@
         0.0,
         0.0
       ]
+    },
+    "725021295": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FUF88178412",
+      "originals_sha256": [
+        "4c91bb940b98227c988218f9421a8532ab691ce5e5a84ce3ccacabcfcef0d938",
+        "f9d0d208f8028166ddf5dd3307d37ed3eb9c00215d201995e4da9fa395e3376f",
+        "3e965c7ffaa6910060f125cc49f3c5e2198b4e6eefd79ebbc275a396262c5fb3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
