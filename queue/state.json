@@ -54118,14 +54118,19 @@
       ]
     },
     "3032899339": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WARPCD323X",
       "originals_sha256": [
         "33d7d9c4e0a437fafb5210d71afae5d37624fbdd91ce588f5f5f692718c5c402"
       ],
       "before_count": 1,
-      "task_id": 6111549939
+      "task_id": 6111549939,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
