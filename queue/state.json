@@ -46331,6 +46331,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188174685": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LNPK24921127",
+      "originals_sha256": [
+        "08f55feb16a0a67d0639b6a426b6baaaa266e400cffc606c8f2fd1d5617f3bfd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
