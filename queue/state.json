@@ -25685,7 +25685,7 @@
       ]
     },
     "498884085": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EKS-75011",
       "originals_sha256": [
@@ -25694,7 +25694,12 @@
         "bb49e182b22277ba8705f613838d1e2323c161e6b0dfb9110f42d534af1a1844"
       ],
       "before_count": 3,
-      "task_id": 6107565202
+      "task_id": 6107565202,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
