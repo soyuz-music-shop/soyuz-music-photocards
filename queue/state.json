@@ -28784,6 +28784,17 @@
         0.0,
         0.0
       ]
+    },
+    "653243333": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DG37084328",
+      "originals_sha256": [
+        "51c742cfdd3470a0ecde88430adcbfacf85dd80157875720340f86b578dfcaa9",
+        "f2aa70950cf8754fc0a39237cbd894c1a76819f9f4f5d03ea83dad672c44580f",
+        "1e5b99c73170ce2e207db62835885e1e6c04ca5814656f3ed9662283805240cf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
