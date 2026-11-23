@@ -27596,14 +27596,19 @@
       ]
     },
     "611662403": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "SAT350",
       "originals_sha256": [
         "a1d115452fbc307ce68c65d24d2c2b141480ca348be93003749e3f7f405bb50f"
       ],
       "before_count": 1,
-      "task_id": 6108682751
+      "task_id": 6108682751,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
