@@ -45702,13 +45702,14 @@
       ]
     },
     "2153691832": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CHXCX29029713",
       "originals_sha256": [
         "26b37d85cdf40fe8506cc42ecd377fe8a4f2f33ac7a62c83136a44e6f9839658"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110772964
     }
   },
   "reason": null,
