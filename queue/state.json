@@ -43233,7 +43233,7 @@
       ]
     },
     "1665012895": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FKAT78603136",
       "originals_sha256": [
@@ -43243,7 +43243,12 @@
         "e96f0dc0de1a3a52b53683e189dedd9325124fab58dbc3197118b3ce60530f1c"
       ],
       "before_count": 4,
-      "task_id": 6110594407
+      "task_id": 6110594407,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
