@@ -45890,7 +45890,7 @@
       ]
     },
     "2170198025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD495",
       "originals_sha256": [
@@ -45901,7 +45901,12 @@
         "fb8f9f7fcfdae2f898b12ebf994e07b9d1cbb6bb684a437900ac9d8befbdb94d"
       ],
       "before_count": 5,
-      "task_id": 6110787876
+      "task_id": 6110787876,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
