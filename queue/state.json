@@ -38753,7 +38753,7 @@
       ]
     },
     "1198090231": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SIA78609947",
       "originals_sha256": [
@@ -38762,7 +38762,12 @@
         "fa5f2f9a85c61ad8d155159a64de13e089efd1464f00c1a73fecf1141c6999dc"
       ],
       "before_count": 3,
-      "task_id": 6110115074
+      "task_id": 6110115074,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
