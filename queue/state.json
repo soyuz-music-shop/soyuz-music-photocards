@@ -37391,7 +37391,7 @@
       ]
     },
     "1104112273": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCD1 9034",
       "originals_sha256": [
@@ -37400,7 +37400,8 @@
         "7d6320fc46638932cb89b26b367e5b46fc7ad20846eb2d261e570e5ef1d80512",
         "ed933843dc27998aa5213a70639b0818a5d7e96c827b38373cb684e1c304222f"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109931146
     }
   },
   "reason": null,
