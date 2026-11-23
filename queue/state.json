@@ -40680,7 +40680,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "1358801973": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4610297807525",
       "originals_sha256": [
@@ -40688,7 +40688,8 @@
         "44d30bc12f7c71d1c82d258a683b3e377788d024782ae2ebafe703aa7217c8f5",
         "2ec7cb1e7f29a5a6664697ebbb708b4fabbbd94f622482234a582299531867c1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110372099
     }
   },
   "reason": null,
