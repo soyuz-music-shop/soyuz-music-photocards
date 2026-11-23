@@ -24876,7 +24876,7 @@
       ]
     },
     "481298132": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "B0016425-01",
       "originals_sha256": [
@@ -24887,7 +24887,12 @@
         "c36da70ae279b86ea4f51843e2752b5e89f233137c955f531520cb430108652f"
       ],
       "before_count": 5,
-      "task_id": 6107340964
+      "task_id": 6107340964,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
