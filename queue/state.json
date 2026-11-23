@@ -26172,7 +26172,7 @@
       ]
     },
     "528825376": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AF0040GOLD",
       "originals_sha256": [
@@ -26180,7 +26180,8 @@
         "3836621118476dcff99a9bbd81de7b062ad6ab260f52d01614987ffde07cbafa",
         "9ceaf5cb861636fe12f07eeca6adf45944cfd70cddf2b5c9e2a61634287ff84d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107708595
     }
   },
   "reason": null,
