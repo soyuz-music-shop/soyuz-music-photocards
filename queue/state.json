@@ -28652,7 +28652,7 @@
       ]
     },
     "650182074": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MC97483523",
       "originals_sha256": [
@@ -28660,7 +28660,12 @@
         "c902aea8c11fe79ad4ea31500f0c46f44ae73fd463457af68c617230eb2479b6"
       ],
       "before_count": 2,
-      "task_id": 6108810193
+      "task_id": 6108810193,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
