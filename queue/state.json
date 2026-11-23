@@ -41367,7 +41367,7 @@
       ]
     },
     "1456645972": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SYAD58656212",
       "originals_sha256": [
@@ -41376,7 +41376,12 @@
         "d5707077d7268d7f41ebdfff08eaf4e275322893f8097bfa7a8867e3f523b44a"
       ],
       "before_count": 3,
-      "task_id": 6110435678
+      "task_id": 6110435678,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
