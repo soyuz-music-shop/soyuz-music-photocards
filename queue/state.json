@@ -46872,7 +46872,7 @@
       ]
     },
     "2202278296": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR72541B",
       "originals_sha256": [
@@ -46881,7 +46881,8 @@
         "a0a26df9f5c546a27b71df6e438a17f304717196a96c3c1a2f8e50abe31d33b9",
         "be56b1d18c029fadc7707316c862ce054cbc7f901cc09a1ddfc38d40ee55f313"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110873579
     }
   },
   "reason": null,
