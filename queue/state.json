@@ -38460,14 +38460,15 @@
       ]
     },
     "1185198153": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RKIDLP70",
       "originals_sha256": [
         "582809f77cdd20d241dd0f9928f8f78f911118cb1c15cab2af1da0040ec2804a",
         "2f61033d43cd8f050acd9c5c397b6c201e1da100d2f3eecabceef8fa70bebb81"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110077545
     }
   },
   "reason": null,
