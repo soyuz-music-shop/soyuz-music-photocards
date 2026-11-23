@@ -23184,14 +23184,15 @@
       ]
     },
     "445775890": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MOORECDX13",
       "originals_sha256": [
         "2b7124bd118d8afd01547b464d01d0cd6fca547935f0ee29519ad9ee28505d13",
         "3337a86a83f42dab11a32e86b3c37af069935c687b58da066eb393c7429499e3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6106980244
     }
   },
   "reason": null,
