@@ -55131,13 +55131,14 @@
       ]
     },
     "3130010626": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE-1379LP",
       "originals_sha256": [
         "6c9891f278f14fd7037d77fbcd56579b4e4f11f47cc1d99b6f88904a59240c27"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111625754
     }
   },
   "reason": null,
