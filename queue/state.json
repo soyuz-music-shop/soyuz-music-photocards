@@ -28668,14 +28668,15 @@
       ]
     },
     "650220554": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219974301",
       "originals_sha256": [
         "e76682ff8835c344d86ed7db053025a4b957b0f629793e26da3bfb2dcc745824",
         "a85377004f588b122b109a91de4d055cfc652b75940b9504c5da6d6259e7653a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108811592
     }
   },
   "reason": null,
