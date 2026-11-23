@@ -40128,14 +40128,15 @@
       ]
     },
     "1248286913": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RSOH71212515",
       "originals_sha256": [
         "4ca3662c452a1ac4190540c2f58f2f00699b3e29fe0b24089b8a30fb6a8ba743",
         "ded803bf06718430c62692c41902dc602092d66b3af575e81a87ce324c68cb94"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110275697
     }
   },
   "reason": null,
