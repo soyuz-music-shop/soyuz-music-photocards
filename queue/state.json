@@ -47015,7 +47015,7 @@
       ]
     },
     "2247280013": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GRB64145502",
       "originals_sha256": [
@@ -47028,7 +47028,12 @@
         "9d405206c7019e5e8a5d2c114aff81d9fef193b94e63dd91c287620e290dd29d"
       ],
       "before_count": 7,
-      "task_id": 6110884644
+      "task_id": 6110884644,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
