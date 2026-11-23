@@ -23755,7 +23755,7 @@
       ]
     },
     "451302832": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PSB190295823085",
       "originals_sha256": [
@@ -23764,7 +23764,12 @@
         "ed766364f070a24df27fdc5b9ce271febe9826f6aaf97a5d5e383a5a0bf40418"
       ],
       "before_count": 3,
-      "task_id": 6107113357
+      "task_id": 6107113357,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
