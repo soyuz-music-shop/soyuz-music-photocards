@@ -54344,6 +54344,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137606": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NBR 63730",
+      "originals_sha256": [
+        "66a86b6fa670c743ca185cf3da5756d3559016bedf5463e1ed0e9e0784bb4e59"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
