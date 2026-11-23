@@ -44290,6 +44290,17 @@
         0.0,
         0.0
       ]
+    },
+    "1765505267": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT196LPX",
+      "originals_sha256": [
+        "855d88e1eaf039942bbae4539afd8fcffc1f80879d93ce713839941afc09853d",
+        "c04684a6248097af0f8587be71d25516f02962b04ba9ea7cd0116c5828f7643a",
+        "c17b5b9e28f0c2cb42826209ed90b7de9f8e3cee5d99f399f9256db8b7ca9c19"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
