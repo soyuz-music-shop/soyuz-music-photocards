@@ -32849,7 +32849,7 @@
       ]
     },
     "869097280": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM062LP",
       "originals_sha256": [
@@ -32857,7 +32857,12 @@
         "0230ee22c426497748704a1d8328c5559b306d358ba1c8b09d05b8628ece113f"
       ],
       "before_count": 2,
-      "task_id": 6109277439
+      "task_id": 6109277439,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
