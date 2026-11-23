@@ -29440,7 +29440,7 @@
       ]
     },
     "716787322": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PF11110314",
       "originals_sha256": [
@@ -29450,7 +29450,8 @@
         "d75357b578419e4a8a5dbd19883db7ca03c5f0954443a0d01d40371c97e11f74",
         "540751ef396484c2be1b2e185b00cf0b4a1f49fe6490ab6b2bd7e766e3b3ba6f"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6108903896
     }
   },
   "reason": null,
