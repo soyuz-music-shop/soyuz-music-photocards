@@ -31262,7 +31262,7 @@
       ]
     },
     "780375122": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219977685",
       "originals_sha256": [
@@ -31272,7 +31272,12 @@
         "af245d6ef3ff30b53be747860886f2002afe1af9197a735c9fe3991b05ee8161"
       ],
       "before_count": 4,
-      "task_id": 6109088735
+      "task_id": 6109088735,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
