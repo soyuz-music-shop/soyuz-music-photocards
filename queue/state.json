@@ -51927,6 +51927,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476335": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MSRFABBV01",
+      "originals_sha256": [
+        "8208f24be9e106920f51f9c33e8e4ee3646d99beef4f2e006ddce440c9a7c604"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
