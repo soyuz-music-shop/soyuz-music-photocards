@@ -40369,7 +40369,7 @@
       ]
     },
     "1266358504": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BIRY58769203",
       "originals_sha256": [
@@ -40378,7 +40378,12 @@
         "1b649ff65f252cea7f6bbbfb8fa84aaeb263cb365eeafdab1dd500914904fae5"
       ],
       "before_count": 3,
-      "task_id": 6110323106
+      "task_id": 6110323106,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
