@@ -27356,6 +27356,18 @@
         0.0,
         0.0
       ]
+    },
+    "582776103": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GRZ97199738",
+      "originals_sha256": [
+        "b0320c3c063f5cba983b1b1439625674c10de134cdf4e5c0c760e6b37a16e96a",
+        "db319d3fb866341ba9f9d44dd2b6f612af0d592758da1e5a8f09be3a80835b07",
+        "8faa4cbdb30380ccd90e91203ebe06d676f8e8e8c8d92adc60a74449219bbb4f",
+        "4d8bd303c5d81f347c3e5bb4e51428b6fd29bedc9a4a0a927d6e30abbec5f293"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
