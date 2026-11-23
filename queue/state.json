@@ -45685,6 +45685,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691829": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ALFM47300770",
+      "originals_sha256": [
+        "b5a73834b02c50e053d0d35d6312f634d431d3b274864eb320cf9b11b38766bb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
