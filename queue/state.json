@@ -31330,6 +31330,19 @@
         0.0,
         0.0
       ]
+    },
+    "782239581": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCATLP62C",
+      "originals_sha256": [
+        "d9305c762837671ce4d4ae3b22420da52c0821f79123f17496f4e3e882c3cb23",
+        "e635249189f63b8a9b626558acf4d365d64a5b3c827a9da086b4cc72943cf699",
+        "a6d88033ec011c3e5677266638a10ee421e4bf3e1ff1369d92328a9528f5f6be",
+        "7faa936e6855da4fbb457f2fecaf23401d182f0ceeb5f9b6f1b33609495a0585",
+        "c444fdcd214467112505cf84330c156367245912cf815310b98ed7af8e1c96af"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
