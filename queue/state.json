@@ -44256,6 +44256,17 @@
         0.0,
         0.0
       ]
+    },
+    "1765199400": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LYSK53550175",
+      "originals_sha256": [
+        "a1d670942448bbad8ced0690fa577a364eb629dc243a5d2abb229a96140f78e7",
+        "bd2ee05ff2e32a9410adb477c7103786fcb4479903e7367ab9dfb0c14bb55d55",
+        "b8929c64c1ac931f1f1d20d06f326f880e4a7d87afe1b7720bd24aa1087c7ac2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
