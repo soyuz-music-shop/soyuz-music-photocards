@@ -46687,13 +46687,14 @@
       ]
     },
     "2188916308": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DEG 011",
       "originals_sha256": [
         "9eacf133383c0bae354636fd6a780afa0b8bba78c9d9d4b21a13f6ba46b84bc4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110858949
     }
   },
   "reason": null,
