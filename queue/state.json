@@ -35856,6 +35856,18 @@
         0.0,
         0.0
       ]
+    },
+    "1065549736": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP1862BRM",
+      "originals_sha256": [
+        "583b54bd48fb973c55b5946910b4c28b07e3b17b3e306dde17e606744a2eab02",
+        "6490a9b66d5b26ac51856b1d8a764b20d61e97931874f9c2ccdb941662ff69df",
+        "cc186eefce68a4e49039e8641795cccf23b718561db1cbd9013cbae782aa2521",
+        "6c298e65b69116dad6d066cb3399b08806aeb6f24ca74fb0f23a9505205477e3"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
