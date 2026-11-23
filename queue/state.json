@@ -29585,7 +29585,7 @@
       ]
     },
     "720471503": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT714LP",
       "originals_sha256": [
@@ -29596,7 +29596,12 @@
         "39ee4fd9c6b57ccd4990f0d049e1092d23bfc6468104c562560af080dc12ecfe"
       ],
       "before_count": 5,
-      "task_id": 6108919219
+      "task_id": 6108919219,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
