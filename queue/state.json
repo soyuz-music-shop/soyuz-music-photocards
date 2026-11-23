@@ -44611,6 +44611,17 @@
         0.0,
         0.0
       ]
+    },
+    "1804037517": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MEATL53751419",
+      "originals_sha256": [
+        "371b452a544cde2d80e023abe6972d4a08f39de7920f9e2a6a1b36e7ca133dc5",
+        "0a28bc22174efc2c79af7bc30fce56f449592c916bd82ad62b3a7d9d060db083",
+        "d393ec5c14b93f783862cd127996f23449b1965d979fb0b7ff82c286cf44dc7b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
