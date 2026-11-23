@@ -54206,6 +54206,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899435": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JC771925",
+      "originals_sha256": [
+        "7c2e82128ad1cc3901b00fd8f5dc0b3be8e7357e00209f86f48243c10cec1aab"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
