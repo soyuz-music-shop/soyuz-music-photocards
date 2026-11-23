@@ -52091,6 +52091,15 @@
         0.0,
         0.0
       ]
+    },
+    "3011894334": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WARPLP323X",
+      "originals_sha256": [
+        "b91fef43be67258fd22f6bec96f37e6d5d7717cc465ddc4481db661ec240855f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
