@@ -40076,7 +40076,7 @@
       ]
     },
     "1247256736": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDPCSP 729",
       "originals_sha256": [
@@ -40085,7 +40085,12 @@
         "2d2d37c77f11d331f97c53c2c27d93ef13d972cafc4263c215f388b8c48160d7"
       ],
       "before_count": 3,
-      "task_id": 6110270168
+      "task_id": 6110270168,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
