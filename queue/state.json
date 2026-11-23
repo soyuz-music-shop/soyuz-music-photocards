@@ -48380,7 +48380,7 @@
       ]
     },
     "2960736248": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "0220377SBE",
       "originals_sha256": [
@@ -48388,7 +48388,8 @@
         "fd4699209251dff1a231377de5aa09eca259ab77ee1cafdbcf1ba1efd1fd0b61",
         "26a567f4568206105556d2cf5b99a8f01cfb1e74d6c0032a2951622f5deac77b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110993149
     }
   },
   "reason": null,
