@@ -49054,6 +49054,15 @@
         0.0,
         0.0
       ]
+    },
+    "2981259898": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JP262217",
+      "originals_sha256": [
+        "d2f6e0720d76b3b68b41d4e83c26eb8a773e02b78cca4cbbc14c97e7adb29321"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
