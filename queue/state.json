@@ -52626,14 +52626,19 @@
       ]
     },
     "3013277692": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP 90115",
       "originals_sha256": [
         "11bca71afb77295c1f2df95343f4310cd3549f2b935284c69d56c708e6ac58b5"
       ],
       "before_count": 1,
-      "task_id": 6111456647
+      "task_id": 6111456647,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
