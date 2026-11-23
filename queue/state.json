@@ -34375,14 +34375,15 @@
       ]
     },
     "925049839": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RHCP69817212",
       "originals_sha256": [
         "66d9ac7bc3726034b08469a8a0891a5afda8ca1a87f4677649bd48d0036f81ea",
         "692b044483713a31c0f4b7b898fa9b7fb4c770ba32dbae3d90b4a813cbb0c66b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109495653
     }
   },
   "reason": null,
