@@ -28433,6 +28433,17 @@
         0.0,
         0.0
       ]
+    },
+    "641971195": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PPPK-701057",
+      "originals_sha256": [
+        "ef47f3decc9668f30fc112d1dae941d1d1cdcb2421c396627cabee45afcf7472",
+        "3f73458c1a1264cdb4614e56122bb3404a09bbdbaaf6be545b7d387a74341400",
+        "a11efed8420bdf03aafefc1937d362721e294a1b08dabee0df5bf0321f35210d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
