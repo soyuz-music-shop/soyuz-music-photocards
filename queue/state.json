@@ -46768,6 +46768,17 @@
         0.0,
         0.0
       ]
+    },
+    "2202089465": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL1394LP",
+      "originals_sha256": [
+        "8bf01e7b53174a80ad881bb228ebefc15e35d7b67880036ca40efd677c5f819e",
+        "91227b4d63cfb712c8982354c517af7963c4bd52995de1b96b952d496cbc1599",
+        "584a5b2b54e5aca5020e40b51223ee3f5e0a086b0206d95565ac7aa51d9e0efa"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
