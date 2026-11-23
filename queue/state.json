@@ -24059,7 +24059,7 @@
       ]
     },
     "456947613": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1273",
       "originals_sha256": [
@@ -24067,7 +24067,12 @@
         "c5ed844d819386f834d021d5f2dc36f25de63d4472d7ab174e78451945b61735"
       ],
       "before_count": 2,
-      "task_id": 6107176442
+      "task_id": 6107176442,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
