@@ -35087,7 +35087,7 @@
       ]
     },
     "1017233826": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "B0013538-01",
       "originals_sha256": [
@@ -35095,7 +35095,12 @@
         "d8bdb407744366b9fba9ca5c16bd017a6d22df2564d907c0983e1089860a8d17"
       ],
       "before_count": 2,
-      "task_id": 6109584199
+      "task_id": 6109584199,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
