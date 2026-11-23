@@ -50454,14 +50454,15 @@
       ]
     },
     "3005737388": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3824",
       "originals_sha256": [
         "e08553e95b2e00edacda2eb64ed653ac2f5969b25133219be083d892a1097739",
         "e442795987163e997bff8ab81806cd59239e1ef5695f7dd09052cf6114e6edbf"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111286198
     }
   },
   "reason": null,
