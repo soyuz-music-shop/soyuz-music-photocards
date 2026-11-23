@@ -32962,7 +32962,7 @@
       ]
     },
     "869287720": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT59799529",
       "originals_sha256": [
@@ -32970,7 +32970,12 @@
         "0c26513e3c64d54bf01c10d7ed11c1a6da968b95b9a8ea6249db036dc2200786"
       ],
       "before_count": 2,
-      "task_id": 6109295239
+      "task_id": 6109295239,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
