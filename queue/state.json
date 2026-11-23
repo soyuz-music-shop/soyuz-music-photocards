@@ -31819,7 +31819,7 @@
       ]
     },
     "838796735": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CR00703",
       "originals_sha256": [
@@ -31833,7 +31833,12 @@
         "caa526d6e37ed5a3259716a0537a64c3e227f3c9a0c23c5704b3dbebd78eb91a"
       ],
       "before_count": 8,
-      "task_id": 6109158014
+      "task_id": 6109158014,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
