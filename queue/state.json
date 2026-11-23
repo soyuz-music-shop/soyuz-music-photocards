@@ -53038,6 +53038,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013420765": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0812LP",
+      "originals_sha256": [
+        "cda2210616c0a81980c13747003ec18d5e19a5e2c3269e8e961f243e6abccf12"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
