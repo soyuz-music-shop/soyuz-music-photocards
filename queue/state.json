@@ -30214,6 +30214,15 @@
         0.0,
         0.0
       ]
+    },
+    "737708389": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ARS55685575",
+      "originals_sha256": [
+        "5075d298f61d177aa593b8f72ee94d322d87aba1460e2cb70cda987cd0040c40"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
