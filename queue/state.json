@@ -55221,13 +55221,14 @@
       ]
     },
     "3130010633": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP640",
       "originals_sha256": [
         "6cac4eed7a4c1777c04e00aa8207c3dcb6e76ec9dae34edb2aef82136ec1a355"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111631873
     }
   },
   "reason": null,
