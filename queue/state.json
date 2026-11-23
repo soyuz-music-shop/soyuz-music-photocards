@@ -41954,7 +41954,7 @@
       ]
     },
     "1495188419": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AERO47953858",
       "originals_sha256": [
@@ -41962,7 +41962,12 @@
         "70da912683bc3886532329923680e1b93c65e839539140c87d16d4d7410a7c3c"
       ],
       "before_count": 2,
-      "task_id": 6110486735
+      "task_id": 6110486735,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
