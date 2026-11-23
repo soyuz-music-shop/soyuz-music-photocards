@@ -25765,14 +25765,15 @@
       ]
     },
     "503614182": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SLR41578669",
       "originals_sha256": [
         "3d71b1d4fdeecfc9145c5d4a36dcee3e908fcd1f1181fadd264b7300614df984",
         "cae438c062724d5e7860005b840f88b163992ad209b9c9485f716f5a087cda31"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107583565
     }
   },
   "reason": null,
