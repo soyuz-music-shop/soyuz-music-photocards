@@ -42071,7 +42071,7 @@
       ]
     },
     "1508688568": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SUICIDELP01",
       "originals_sha256": [
@@ -42080,7 +42080,12 @@
         "abe4f3cd0ccf0e067a78abd5886bb660b537e0b46785e761d82dd067b3931b6a"
       ],
       "before_count": 3,
-      "task_id": 6110495721
+      "task_id": 6110495721,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
