@@ -42860,6 +42860,17 @@
         0.0,
         0.0
       ]
+    },
+    "1575510983": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IPC276LP",
+      "originals_sha256": [
+        "6e6b9cc90eeb1689260a399e4ea0c5d8c207ec83ba2f6d90a46e5175c70c4dbc",
+        "2c79e96a7238a3606a77f5f62403f5d80262dccfc6956c00090c8f49962de642",
+        "5cde27e31cafdaa5ba2d20696d1912d4f9b67156dfa20b37149899617d8409a4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
