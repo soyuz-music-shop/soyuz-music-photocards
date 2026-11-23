@@ -33398,7 +33398,7 @@
       ]
     },
     "873827274": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RMM-052-2",
       "originals_sha256": [
@@ -33407,7 +33407,12 @@
         "0d71bad16718d743f585e63f40ae0882c8eb718b9a1f9623a6c15ec3a2c47bfe"
       ],
       "before_count": 3,
-      "task_id": 6109350900
+      "task_id": 6109350900,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
