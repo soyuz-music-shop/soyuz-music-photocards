@@ -27495,7 +27495,7 @@
       ]
     },
     "606245200": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219971881",
       "originals_sha256": [
@@ -27504,7 +27504,12 @@
         "f4149b6cade512eed37a13168d8816d0afb8a2dfef26c77f971a497daf4fd13c"
       ],
       "before_count": 3,
-      "task_id": 6108667954
+      "task_id": 6108667954,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
