@@ -31000,6 +31000,17 @@
         0.0,
         0.0
       ]
+    },
+    "760902425": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NPR1009VINYL",
+      "originals_sha256": [
+        "62cb3c84bd770066756beeaacab84847163d508d3eab149d964e84b1af8e22cc",
+        "86f7b16fbc4e166eafa9c64a78212319b0e67ac067703f49ab8fc60915b25098",
+        "74f4d9d21c8a861d86c5240b16fd1e487e0e08ccb0a07a60e0f2952b3163a8a7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
