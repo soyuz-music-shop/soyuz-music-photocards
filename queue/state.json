@@ -49284,7 +49284,7 @@
       ]
     },
     "2984310898": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB 3831-9-1",
       "originals_sha256": [
@@ -49295,7 +49295,8 @@
         "db3b2b9ddf93eb22ce373d813be6de3c1e1b5d9cbfe6b82beab1126ed9c04c62",
         "4a4be136425d97eef5185771d3c4638d9141c9db39b9daef3e1d1d139313d3b3"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6111060752
     }
   },
   "reason": null,
