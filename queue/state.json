@@ -44394,7 +44394,7 @@
       ]
     },
     "1771777714": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LINPR24844075",
       "originals_sha256": [
@@ -44403,7 +44403,12 @@
         "c5ff903659728d5c090e407f9d7beb117e3aa2981be1644f48b3c395c1828a22"
       ],
       "before_count": 3,
-      "task_id": 6110670189
+      "task_id": 6110670189,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
