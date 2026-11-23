@@ -26255,6 +26255,16 @@
         0.0,
         0.0
       ]
+    },
+    "534261518": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVCL007",
+      "originals_sha256": [
+        "8cb237ff09256dc1f2be7cb62d97bcaf69f20a9cfd4db16541e4411122985ed9",
+        "82a623a497fe9f3c36fd48aa6807fc13f9031ad61ae54ed28894adb663f5f66b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
