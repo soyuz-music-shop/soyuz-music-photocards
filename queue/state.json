@@ -24912,7 +24912,7 @@
       ]
     },
     "481360955": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CK 86382",
       "originals_sha256": [
@@ -24921,7 +24921,12 @@
         "03fdcc8505a809d61334eab106f45b4dee7b93e65833b0d02b21f2c4750eab41"
       ],
       "before_count": 3,
-      "task_id": 6107347352
+      "task_id": 6107347352,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
