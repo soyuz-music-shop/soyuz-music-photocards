@@ -32881,14 +32881,15 @@
       ]
     },
     "869188963": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JP73038222",
       "originals_sha256": [
         "48168f407d0576412f10795bfe650df67a415ec5c1d1c71005ed7f657d0568bb",
         "10d809b066409b085f609bb2c18e2a51e38d128673fc90427d9dd65e6d49f33a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109286111
     }
   },
   "reason": null,
