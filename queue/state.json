@@ -39117,7 +39117,7 @@
       ]
     },
     "1207817884": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DLP58398922",
       "originals_sha256": [
@@ -39125,7 +39125,8 @@
         "46ef5729808a2be35e55b95bdc9d6b59f205419226facb57e6437300f72fd743",
         "f628bfc56103df0a30d0f6f8b28c6b6ed7a23c4d2be7dc95f65472673afe8812"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110161643
     }
   },
   "reason": null,
