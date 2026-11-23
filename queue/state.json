@@ -32895,6 +32895,17 @@
         0.0,
         0.0
       ]
+    },
+    "869200371": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT804DLP",
+      "originals_sha256": [
+        "cb353c097cfbee092beb620ab7654c0beaa1b0421d798b6eb9679ca1cd33128a",
+        "864eac295a79b90c020ee0a4741cf53591690ed849e588c42db592735f74ef41",
+        "6ac472653cae177f38bb940b39b5c0e912ed7558ed6c6978dd4d56af11975c96"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
