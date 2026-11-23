@@ -41598,13 +41598,14 @@
       ]
     },
     "1470747995": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4610297807808",
       "originals_sha256": [
         "6e1ce86c277b8bae01c6334d1d01b32d8c0bb0d61fbf9bc27971ddbb528526ec"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110456892
     }
   },
   "reason": null,
