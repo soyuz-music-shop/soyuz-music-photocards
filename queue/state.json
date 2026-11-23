@@ -27594,6 +27594,15 @@
         0.0,
         0.0
       ]
+    },
+    "611662403": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "SAT350",
+      "originals_sha256": [
+        "a1d115452fbc307ce68c65d24d2c2b141480ca348be93003749e3f7f405bb50f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
