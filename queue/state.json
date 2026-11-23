@@ -29583,6 +29583,19 @@
         0.0,
         0.0
       ]
+    },
+    "720471503": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT714LP",
+      "originals_sha256": [
+        "ccb9bfb23f9cb650c1e95fd964ded4cdb65046070b19c1494ea895e37380b688",
+        "54be035fcfe17dd52bb5f127fbcefe5629d0c8baf20d13dcfe80a9324cad781d",
+        "528fcf16c65d20677f8b085f74d24a59b8fa2564e7d6ba1d824032a7b5feed46",
+        "110a54bc27379fe2a1c4ac268256d689d8a349ab4a4fbc4c5f67feaea13185b0",
+        "39ee4fd9c6b57ccd4990f0d049e1092d23bfc6468104c562560af080dc12ecfe"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
