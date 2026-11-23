@@ -34682,6 +34682,18 @@
         0.0,
         0.0
       ]
+    },
+    "996054309": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GME 999",
+      "originals_sha256": [
+        "5e0c6c5b3a80eaac011f72ea3555e4b4d7514a2cfaae4879f9b4e4ebd1149c40",
+        "cc5a11b70c62dc5b5a3ebe3b05b348589897412cd4d05ef9ffb2600cd654fe16",
+        "3af3b7e719ead48441a273f643de8c9c3301a06a96a0ac2698191f8360e074d8",
+        "a71e2a6585a9c5909f2f2eb16c7560689e2243951f0d5389f4ac748baa9aa490"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
