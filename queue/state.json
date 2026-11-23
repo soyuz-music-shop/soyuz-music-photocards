@@ -31089,7 +31089,7 @@
       ]
     },
     "766711514": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OZZ78747426",
       "originals_sha256": [
@@ -31097,7 +31097,8 @@
         "94a51eb1277feac476762016270887b24acda1516b30253ffffa56499234741a",
         "9ee89c72f8977360cbce05e43228ecb13a3153d215c2b1d6fd72765df3d61860"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109068551
     }
   },
   "reason": null,
