@@ -35349,7 +35349,7 @@
       ]
     },
     "1035934559": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDV 2684",
       "originals_sha256": [
@@ -35359,7 +35359,12 @@
         "09eb6bd95b1df0a958f90c05f6f2e173ef9b6026fdca8bd8c8639297f43f4a06"
       ],
       "before_count": 4,
-      "task_id": 6109620245
+      "task_id": 6109620245,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
