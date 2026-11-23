@@ -44931,6 +44931,17 @@
         0.0,
         0.0
       ]
+    },
+    "1865920837": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD 0642LP",
+      "originals_sha256": [
+        "4575a69e7bf92fdb372e455ede5f3f4c4619107b38ad7d57894fc98f133fc4d5",
+        "51daa725cb023d3755e053c67a59fcc62a6a064cf33e76f757e2308b4cfed692",
+        "3a1b36f5d9ea576a10bb859004a101b6d2ab786a60b705fed3f174c33e0b09cf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
