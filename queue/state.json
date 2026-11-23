@@ -32248,6 +32248,18 @@
         0.0,
         0.0
       ]
+    },
+    "850022533": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NY93624859314",
+      "originals_sha256": [
+        "00ba29593d388818d930d4c7afaa745c7c6039bc4ffa6c81b29fb38d3d6befe0",
+        "7be5115ede123692a5b052027fd5af138dc3c85e7f8ea6334187955e071c9091",
+        "bdab2c35ea95b10f0c3ab54af1b318643b9a57e2712d49de7b28d694312f99e0",
+        "e3eca4de1459e202a7e8b09e0e3188489bfafbf8a0cccba3965dc3c33b05da1e"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
