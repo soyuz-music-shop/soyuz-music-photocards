@@ -35252,7 +35252,7 @@
       ]
     },
     "1027006853": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TL102719",
       "originals_sha256": [
@@ -35260,7 +35260,12 @@
         "b047a40a994ddf1849854dd83c79311529f9d3115c900453cf0e4eaf87ff41c8"
       ],
       "before_count": 2,
-      "task_id": 6109604443
+      "task_id": 6109604443,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
