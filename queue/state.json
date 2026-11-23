@@ -37952,6 +37952,17 @@
         0.0,
         0.0
       ]
+    },
+    "1146175519": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JP516214",
+      "originals_sha256": [
+        "9be5ac11decccad35a3234f7b6532746edabf19979dede4b874e003f50cb94df",
+        "ec938aced5bb61a57dab2fede1f9c56dd39f10c8aa94314c6a7f38e1d0fca096",
+        "4c07b8c355ac243df7d5585cad72a9a8677bde4552e3bc5aad856617f706a95b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
