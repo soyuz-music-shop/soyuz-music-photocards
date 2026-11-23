@@ -55265,6 +55265,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010638": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD 3525",
+      "originals_sha256": [
+        "52a5f7aff0acab3fc4a34937b7b210b305e00618192990f37441b01eef50a5cb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
