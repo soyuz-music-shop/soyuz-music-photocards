@@ -36177,6 +36177,16 @@
         0.0,
         0.0
       ]
+    },
+    "1075015280": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDVD2516",
+      "originals_sha256": [
+        "1202cf92f1348896ee986293d9d9e4157f24025cd2a0b9d9ef796ba3ce879ac1",
+        "d320d100b7bb3dadab3b00f1a61e0c4dce5e12430e29bcd44dca1ca19b12377e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
