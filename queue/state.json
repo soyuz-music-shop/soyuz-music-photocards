@@ -54073,14 +54073,19 @@
       ]
     },
     "3032899322": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOAD120921",
       "originals_sha256": [
         "417015f9bd486b23dd310e68407b6627d5bd8fc1029e36b321e27976f903746b"
       ],
       "before_count": 1,
-      "task_id": 6111546608
+      "task_id": 6111546608,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
