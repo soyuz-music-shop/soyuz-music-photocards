@@ -38428,7 +38428,7 @@
       ]
     },
     "1185019909": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MGTH47613943",
       "originals_sha256": [
@@ -38437,7 +38437,12 @@
         "56b59b1e57dbb3438af746402db61853932cbf053f12c45c67ead2c628c30597"
       ],
       "before_count": 3,
-      "task_id": 6110073989
+      "task_id": 6110073989,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
