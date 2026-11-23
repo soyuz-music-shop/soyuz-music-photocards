@@ -55219,6 +55219,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010633": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP640",
+      "originals_sha256": [
+        "6cac4eed7a4c1777c04e00aa8207c3dcb6e76ec9dae34edb2aef82136ec1a355"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
