@@ -27123,7 +27123,7 @@
       ]
     },
     "563874315": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RMST77493973",
       "originals_sha256": [
@@ -27131,7 +27131,8 @@
         "915f90a3fa0153c03121fbc72142f25cb946a28e69527a4c75bee81dd9a4eb8c",
         "a2656443f0a87454bc40c6dbd58e253329e73646d1828a7ebec0ab3d2cde39ae"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108616584
     }
   },
   "reason": null,
