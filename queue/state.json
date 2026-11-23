@@ -43233,7 +43233,7 @@
       ]
     },
     "1665012895": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FKAT78603136",
       "originals_sha256": [
@@ -43242,7 +43242,8 @@
         "177fe1484dbd4d5bd49ff0b43130220b6a8d42aa4ed21c8811015149a6afa251",
         "e96f0dc0de1a3a52b53683e189dedd9325124fab58dbc3197118b3ce60530f1c"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110594407
     }
   },
   "reason": null,
