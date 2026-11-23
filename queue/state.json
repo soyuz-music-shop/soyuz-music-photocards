@@ -23130,6 +23130,16 @@
         0.0,
         0.0
       ]
+    },
+    "445743735": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LFLA602435972336",
+      "originals_sha256": [
+        "0012348346159b30b493c8c0195503a3b16d0ffc7c6385cb9b95cf3ebe5590a3",
+        "f87568f4c0d9228f174063c9e67e9cee12f46fb7911dc6400a4ad8c4e3557e6d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
