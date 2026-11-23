@@ -38460,7 +38460,7 @@
       ]
     },
     "1185198153": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RKIDLP70",
       "originals_sha256": [
@@ -38468,7 +38468,12 @@
         "2f61033d43cd8f050acd9c5c397b6c201e1da100d2f3eecabceef8fa70bebb81"
       ],
       "before_count": 2,
-      "task_id": 6110077545
+      "task_id": 6110077545,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
