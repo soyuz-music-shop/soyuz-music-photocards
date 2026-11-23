@@ -23989,6 +23989,17 @@
         0.0,
         0.0
       ]
+    },
+    "455651988": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MJ50438928",
+      "originals_sha256": [
+        "1b4a81f2de4ed268633a560f0081ae4a6f20ecc32388434ae761c9a03e51a6e5",
+        "e967e00b8c5cdafb4b2306ed9278b8816c7b42389c3e1ac6653d555ecd9675d9",
+        "885f2432bd751848a7c89322f3d581f204c951b85334a7c59d5136810a74b117"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
