@@ -45381,7 +45381,7 @@
       ]
     },
     "2153660839": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNJV68041856",
       "originals_sha256": [
@@ -45389,7 +45389,12 @@
         "0da693a867be7986e49cf376ae8091e103ac30ffb545cf17fd73b22de63d0415"
       ],
       "before_count": 2,
-      "task_id": 6110746062
+      "task_id": 6110746062,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
