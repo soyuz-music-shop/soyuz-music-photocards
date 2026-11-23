@@ -24825,6 +24825,16 @@
         0.0,
         0.0
       ]
+    },
+    "480288782": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EAG5596051125",
+      "originals_sha256": [
+        "1802739ffac77c53beecef386ac5478999c3b19b45792e49f75b5e1d1bc199db",
+        "7c91f789f8e23982d7fcb2f1b3eb1d6b400638d134105aeb6a0bea4eff95ec67"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
