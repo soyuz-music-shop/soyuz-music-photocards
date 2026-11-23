@@ -24545,6 +24545,17 @@
         0.0,
         0.0
       ]
+    },
+    "473817387": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT192LPX",
+      "originals_sha256": [
+        "08ec624c9e8b852de90100bf99b76d1e4226df277bd3a26289a2131ef48fd33d",
+        "47d34ac014c51c4dacacac485644c48acd17171481f48e4a29e7154d0a85c8ab",
+        "5e8cc3e50c0c7958c4ab441e90688b6aab2ffc057774b5f574d9ae3aa810ed88"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
