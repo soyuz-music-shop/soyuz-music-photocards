@@ -25637,7 +25637,7 @@
       ]
     },
     "498771343": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TP35217406",
       "originals_sha256": [
@@ -25645,7 +25645,12 @@
         "c129447ff37e712c889ed36c6d04b8acdbf6f673b0b6d82193914f4961a46cfd"
       ],
       "before_count": 2,
-      "task_id": 6107541494
+      "task_id": 6107541494,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
