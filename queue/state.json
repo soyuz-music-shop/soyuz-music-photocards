@@ -27562,7 +27562,7 @@
       ]
     },
     "610650229": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SCP54069810",
       "originals_sha256": [
@@ -27571,7 +27571,8 @@
         "625f35cbba49c327036d94786f8d2b38a0427ad2eea84f0b143abbea1a2a8d5d",
         "ddf7748eef0ad847b0d4ef2ee344e74020dffd4e76ab64358f1fe7c7c6f3c13e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108678435
     }
   },
   "reason": null,
