@@ -32414,7 +32414,7 @@
       ]
     },
     "857547493": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MAC24855675",
       "originals_sha256": [
@@ -32425,7 +32425,12 @@
         "054a2643dfde9ad2d59f7d3effe0906d95890ba9c9783e349a9378abd67a49e7"
       ],
       "before_count": 5,
-      "task_id": 6109225834
+      "task_id": 6109225834,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
