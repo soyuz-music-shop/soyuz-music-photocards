@@ -38735,6 +38735,16 @@
         0.0,
         0.0
       ]
+    },
+    "1197860408": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RS882 316-1",
+      "originals_sha256": [
+        "b487a570679503c5c095adc9aeaab9a45b30b24eddb61afef7b40cebf151120f",
+        "fa146961074377352663e500e9d416fe13894cab3530aa4864f6c55bd4cdf421"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
