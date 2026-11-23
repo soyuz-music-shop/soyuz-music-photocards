@@ -46255,14 +46255,19 @@
       ]
     },
     "2179780982": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP 254751",
       "originals_sha256": [
         "84f8b3b2fd274e5008b0d31cc449b7d4c8b09f78cf4fc1f24933c4fba17ee3ba"
       ],
       "before_count": 1,
-      "task_id": 6110820190
+      "task_id": 6110820190,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
