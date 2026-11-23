@@ -38820,7 +38820,7 @@
       ]
     },
     "1199546964": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XL1394CD",
       "originals_sha256": [
@@ -38829,7 +38829,12 @@
         "67004383b8d15562caa146fa7a762d9629a0cd8a4a67e283101b20141b43bed2"
       ],
       "before_count": 3,
-      "task_id": 6110122858
+      "task_id": 6110122858,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
