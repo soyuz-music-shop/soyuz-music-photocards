@@ -31351,7 +31351,7 @@
       ]
     },
     "782279559": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RJD38769319",
       "originals_sha256": [
@@ -31360,7 +31360,8 @@
         "0be7a2cf52d71055f4c4e5343ba23c9e063cb7155a1ed7e49a3d97680eb8050f",
         "ce17f10c414c3c759ab026f28087373508f6f218a02573861c199c21341f5256"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109100115
     }
   },
   "reason": null,
