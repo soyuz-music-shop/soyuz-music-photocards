@@ -44967,7 +44967,7 @@
       ]
     },
     "1915135989": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ2546LP",
       "originals_sha256": [
@@ -44976,7 +44976,12 @@
         "2b0dab991af4add7259fd5fb40ce984ef31dbf436131ccd6c49b356ce92e6087"
       ],
       "before_count": 3,
-      "task_id": 6110714249
+      "task_id": 6110714249,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
