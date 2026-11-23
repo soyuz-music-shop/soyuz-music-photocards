@@ -23664,6 +23664,17 @@
         0.0,
         0.0
       ]
+    },
+    "450114386": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD162E",
+      "originals_sha256": [
+        "1220eabde00d6770d3c2e8efaa3573e750231cb87f9c1a811a6c676d4d9d1283",
+        "9ea17538756d127ec6325946f7908c2655486530f564e1dbc06ff9038ae4dbe3",
+        "fe60fa03c73928106acd1f9162a544a5cb68b77cc0ee234035a8bb9fa1fd0500"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
