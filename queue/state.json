@@ -23042,7 +23042,7 @@
       ]
     },
     "445117856": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ABB731454995320",
       "originals_sha256": [
@@ -23052,7 +23052,8 @@
         "788068a1876fbe290f0c6f23f275929c7a80c06b9650f2647e6d962072e2bfa2",
         "0041adb91e74f6a8fd85c8464cb4c5eff67cbb9401e5c715ec620f16b13bdf95"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6106942440
     }
   },
   "reason": null,
