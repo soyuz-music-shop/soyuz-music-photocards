@@ -34389,6 +34389,18 @@
         0.0,
         0.0
       ]
+    },
+    "927427641": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRVN42472712",
+      "originals_sha256": [
+        "34c64b36647e5f982e3dc4e5228bbf5c4789edf8fea5046377ee045c8a8b88b5",
+        "277bc4c2d4670f6543002516d20ea7789cab31a6d6d14c652a1b6c568e954669",
+        "fdc828d1d85b953ff235a3d72c8e17ab8959713ecdc68d3993425ede9b3595c2",
+        "1967eca802bd394110936a0d0cd67dfb91cf6bd6fb4210d0592882170af0d511"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
