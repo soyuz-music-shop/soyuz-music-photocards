@@ -50393,13 +50393,14 @@
       ]
     },
     "3005737322": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 44833",
       "originals_sha256": [
         "03954238300973e00d6db090b3a11bc522817a649ddbcd78a65204fa43c224b4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111280442
     }
   },
   "reason": null,
