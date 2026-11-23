@@ -39321,14 +39321,15 @@
       ]
     },
     "1210247442": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FMR27967789",
       "originals_sha256": [
         "93c17a59e3b55975a6be679e314346d6ab126e5e7986c7e19e83dcceb781a000",
         "92741a40729ec1c449624307e1b6ed91522a9f709b0628da11177a41631b2374"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110187914
     }
   },
   "reason": null,
