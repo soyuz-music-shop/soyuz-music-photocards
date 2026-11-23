@@ -46361,6 +46361,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188307680": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RHCP24873471",
+      "originals_sha256": [
+        "62f8c753b6fc2fd7aa01a1d8bade13fb03bfe3f42398f58c14282f197fe2f0ee"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
