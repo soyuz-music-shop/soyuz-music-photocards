@@ -33164,7 +33164,7 @@
       ]
     },
     "870324359": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SMO75643028",
       "originals_sha256": [
@@ -33172,7 +33172,12 @@
         "d161a95ab6439ae369b4eb5cda947c81724423accd0b9508ba48e941a5f73e4e"
       ],
       "before_count": 2,
-      "task_id": 6109320946
+      "task_id": 6109320946,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
