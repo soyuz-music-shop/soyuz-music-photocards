@@ -28172,6 +28172,17 @@
         0.0,
         0.0
       ]
+    },
+    "623924017": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPSEEDS12",
+      "originals_sha256": [
+        "9bf7db2b61689cb2295f7560509afe80f31e82c4ea30282b6a1e2aea6214b8fe",
+        "1e0d7db1b2490b2851d19e956778749b527ac821c5529c4971efa53f5e684b1f",
+        "a220044fdb26c46c434d343fe05aca1bfe0eb9d473af0f749704d6b6ab8641ca"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
