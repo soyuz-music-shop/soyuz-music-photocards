@@ -37493,6 +37493,19 @@
         0.0,
         0.0
       ]
+    },
+    "1108077041": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2 530540",
+      "originals_sha256": [
+        "4071514fa71f28544d8b18d412943246c7b0b6803cb9262adda7b3ab97c76598",
+        "da239bd70e8bd25f6a19e8c2f92dd077b275af36dddb8803347bf00c2bc4dabd",
+        "1ca28c41e7674658bf06bc2d048e85739a9d6a021205805923ce664386bf9e1b",
+        "b96ca1e45223fcfba78cab227e6e6e2f5cc44df1e396c969c5f8767028cf0967",
+        "c9042087885d85d8f4e9a51b72ea40c33f360c46af3bef30b28702b1507b92b0"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
