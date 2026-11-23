@@ -53526,13 +53526,14 @@
       ]
     },
     "3017887832": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MET 1353V",
       "originals_sha256": [
         "65470c0ab87c86a222b52184d7782176de1237e11e2e12fc66749f5e100dc70d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111511446
     }
   },
   "reason": null,
