@@ -23218,7 +23218,7 @@
       ]
     },
     "446330748": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SLD602498007150",
       "originals_sha256": [
@@ -23226,7 +23226,12 @@
         "8e98f4070b8526059852025d73443800b6cdf6a54bfca59662534277f17173ff"
       ],
       "before_count": 2,
-      "task_id": 6106987863
+      "task_id": 6106987863,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
