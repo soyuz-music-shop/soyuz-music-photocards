@@ -28532,7 +28532,7 @@
       ]
     },
     "645369303": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SLM121P42",
       "originals_sha256": [
@@ -28540,7 +28540,8 @@
         "9f4f0943ef25f80ecb03ddbb975321ccd0f0359ca51e140ffeb09c2c97d48ca7",
         "2fb862b7fc1fd171d5ebd89e05511669e83ea62fb0fdf6feb068af99d740ea6d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108797457
     }
   },
   "reason": null,
