@@ -32414,7 +32414,7 @@
       ]
     },
     "857547493": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MAC24855675",
       "originals_sha256": [
@@ -32424,7 +32424,8 @@
         "ab92c8be25db6992a7a53a50e8b4d093aea4f34f0a08c19fa77ad26f1e90e7f8",
         "054a2643dfde9ad2d59f7d3effe0906d95890ba9c9783e349a9378abd67a49e7"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109225834
     }
   },
   "reason": null,
