@@ -47614,7 +47614,7 @@
       ]
     },
     "2494912309": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GNRCD17906075",
       "originals_sha256": [
@@ -47622,7 +47622,12 @@
         "1510f55c1663ec748d5710d7a2bf732fcc96151d2ed498446dba4adc533fd7d2"
       ],
       "before_count": 2,
-      "task_id": 6110934400
+      "task_id": 6110934400,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
