@@ -36366,14 +36366,15 @@
       ]
     },
     "1080391175": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FOODLPX10",
       "originals_sha256": [
         "d57dbdcf9450a756c6e4d0bcbed9a57f921be58f7323f2c07e90e6360c3c93d8",
         "472b1be9dd8bd39d8924988e732e930e4d23183ea956eb630edc010f4ff83f92"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109777142
     }
   },
   "reason": null,
