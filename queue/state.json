@@ -33381,6 +33381,15 @@
         0.0,
         0.0
       ]
+    },
+    "873789109": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LSTUMM59",
+      "originals_sha256": [
+        "edf99f04db1f120854677dd20107eb0dc780fd378019a0f6a2408b42a25c4150"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
