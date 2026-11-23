@@ -32330,6 +32330,16 @@
         0.0,
         0.0
       ]
+    },
+    "854835588": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3389",
+      "originals_sha256": [
+        "b5cbbffb9fd2a5cd9307b0325b86184687b71e2af713931f4d627ba22b285729",
+        "906b0f197074b9d6c42ffa000fd5c91539d271a70391a5a40224927162f42a29"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
