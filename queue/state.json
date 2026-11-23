@@ -43231,6 +43231,18 @@
         0.0,
         0.0
       ]
+    },
+    "1665012895": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FKAT78603136",
+      "originals_sha256": [
+        "267f1349197214bb405ac1ccc52075619b551f43e29a1a0f8e062b88576144a1",
+        "50722bd1d39a52b372919b2b57346b42d75e313a4fe61981a50de84542fac09d",
+        "177fe1484dbd4d5bd49ff0b43130220b6a8d42aa4ed21c8811015149a6afa251",
+        "e96f0dc0de1a3a52b53683e189dedd9325124fab58dbc3197118b3ce60530f1c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
