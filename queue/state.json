@@ -47346,6 +47346,17 @@
         0.0,
         0.0
       ]
+    },
+    "2389419291": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STNG54007511",
+      "originals_sha256": [
+        "caada59b0753698ef066b8d3f66d9ed528eee07ad1c0031e3aebf01be2dfb7b5",
+        "8edbd13da09cd245270b105e055992ed819cf09329d19e6492532fd607b654b7",
+        "bfcc0813102b35b37681bd4a056fee773f77f3ec173f6854daecc6cbc4ea968f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
