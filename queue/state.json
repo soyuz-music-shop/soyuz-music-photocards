@@ -37837,6 +37837,24 @@
         0.0,
         0.0
       ]
+    },
+    "1131966598": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SCT036763",
+      "originals_sha256": [
+        "cbf4a568560db4ab679cdc85539125b43ab46a1139178a95322529d6bb500dfe",
+        "be9513d3b36ed3e2227f741273c86d9701a5d4076e812a2208200ba2d8956122",
+        "801a2d041b2cea898faa2d8a456848f249d8e48bb47ccdaa87c5641e88f4a443",
+        "590f46261d09a78ee8075beebca25420b62ba5eb7582b7806fbd282cd0bd509a",
+        "f9d129bcad37ddef18ae02abf935f364e88a9102bb68861ae788a6d4093a7c29",
+        "1ba4c0e1c98b6431d9cf45fb0428517d94c190282274e229a40495fb2abf62e3",
+        "0d5e3462c64686ee0772eab68ad52f5aaa11e8be0937da7a8123a25cb535c905",
+        "3389a38de464089c3685ba5b01bcb0861c4c1352e6cb0699d5dac4fdf6d6c7d4",
+        "bf91fa8c1659af1b9158e6fb4316dea548b19680169e3b4419e84dced87a055c",
+        "9ceddb7e569c0cd2ff52ea364284e4762aa6a94d31cb3f3f4e2e4ce00abddc49"
+      ],
+      "before_count": 10
     }
   },
   "reason": null,
