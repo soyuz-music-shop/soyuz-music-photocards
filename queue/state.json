@@ -39945,6 +39945,16 @@
         0.0,
         0.0
       ]
+    },
+    "1244528806": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SCRP30192720",
+      "originals_sha256": [
+        "86c60582e9c9bb73ec0abe9efb933bdb6737071d6bd9ea8f598706ce534db475",
+        "dd7efdb4d2d09682a88dd397fef83bbcc1f279f5bfc63e828551af5f8d9ebc3c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
