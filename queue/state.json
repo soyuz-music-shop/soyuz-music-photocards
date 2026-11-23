@@ -41613,7 +41613,7 @@
       ]
     },
     "1470867570": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT518BOX",
       "originals_sha256": [
@@ -41622,7 +41622,12 @@
         "00e4abdaa6259880327ef15e10eb77c286d41d69c92e7ec4e8d2882e4853fbc0"
       ],
       "before_count": 3,
-      "task_id": 6110458487
+      "task_id": 6110458487,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
