@@ -26094,6 +26094,16 @@
         0.0,
         0.0
       ]
+    },
+    "527477963": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4640219971928",
+      "originals_sha256": [
+        "ba8558d5ce5ff51201423a3a12a08958fd2a8440d380efd414d9089309ceea8d",
+        "ed16f332eb028c6158ed597b4bdf8c489286958e8a0db9d5bf2a3833867b7247"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
