@@ -30482,7 +30482,7 @@
       ]
     },
     "747823620": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PL97617836",
       "originals_sha256": [
@@ -30490,7 +30490,8 @@
         "fb49bedffc4b10cc00e25fa9b1ba820b048c9c71f05bd45ea01b81872d818fee",
         "e9328f65491206197ad34e65720062fe60456461d8d8a2bdf94920b19e1a6f71"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109008315
     }
   },
   "reason": null,
