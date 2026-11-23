@@ -45334,14 +45334,15 @@
       ]
     },
     "2153660813": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT450CD",
       "originals_sha256": [
         "efaf31e8a2eb999b522e15cccb22ac7c01266eb42db1867db2129c9fe9ea5bd0",
         "c1e6c1f22cac48956279022a8db46f39d2c0bbf356a136be46a797d472388c4f"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110742424
     }
   },
   "reason": null,
