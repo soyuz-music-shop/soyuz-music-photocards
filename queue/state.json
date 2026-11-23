@@ -32396,6 +32396,16 @@
         0.0,
         0.0
       ]
+    },
+    "857511822": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LP93624844426",
+      "originals_sha256": [
+        "c53a32070f35cec646322b9206e36883d02a1612b023b87e355818864487bcd9",
+        "b491bc5ca9d6e3e8e5ae8bc6b70effd681575fd5e730a17423f541e94edf6774"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
