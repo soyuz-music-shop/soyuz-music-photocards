@@ -38510,7 +38510,7 @@
       ]
     },
     "1190036582": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PMW57567496",
       "originals_sha256": [
@@ -38518,7 +38518,12 @@
         "1b84f487540f6fd0adcd6d0ce2345d56fde289969a04e2a48fb868091afebeb6"
       ],
       "before_count": 2,
-      "task_id": 6110082352
+      "task_id": 6110082352,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
