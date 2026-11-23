@@ -41544,6 +41544,17 @@
         0.0,
         0.0
       ]
+    },
+    "1467140263": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LCDStumm233",
+      "originals_sha256": [
+        "2518df2d98a26af11eef4cccf75252bf55de836a956048352c18ff0fbc8bf0a8",
+        "e458912f03169ef6649b3794aa7100a3a6b8ccf1c43a082945a41ce825b6d265",
+        "5e294cb2540fc9f0923c37c98779e0bb6fcf621cdea9583de3ef8acd394fe87e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
