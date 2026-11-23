@@ -24682,7 +24682,7 @@
       ]
     },
     "478334473": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT446LP",
       "originals_sha256": [
@@ -24690,7 +24690,12 @@
         "f40a76742ac9764767420ffea413b7f107b8ab18c79c0a0b30d74c4adfd4e14d"
       ],
       "before_count": 2,
-      "task_id": 6107300339
+      "task_id": 6107300339,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
