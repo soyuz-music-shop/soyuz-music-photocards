@@ -31002,7 +31002,7 @@
       ]
     },
     "760902425": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NPR1009VINYL",
       "originals_sha256": [
@@ -31011,7 +31011,12 @@
         "74f4d9d21c8a861d86c5240b16fd1e487e0e08ccb0a07a60e0f2952b3163a8a7"
       ],
       "before_count": 3,
-      "task_id": 6109060145
+      "task_id": 6109060145,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
