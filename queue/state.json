@@ -43168,7 +43168,7 @@
       ]
     },
     "1628089207": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MER 124",
       "originals_sha256": [
@@ -43176,7 +43176,12 @@
         "1dc8c450cdb6e827b07c15fc61e0f0ee755e8f766cef999710e8ca76f4ab3ca1"
       ],
       "before_count": 2,
-      "task_id": 6110589731
+      "task_id": 6110589731,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
