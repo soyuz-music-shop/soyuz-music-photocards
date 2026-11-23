@@ -42724,7 +42724,7 @@
       ]
     },
     "1568337486": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0219133EMU",
       "originals_sha256": [
@@ -42734,7 +42734,12 @@
         "2537805ff8c9bf0a4ccd57e0a5e3d0e094acf6f73864b6b604fbedf9cb25cbb6"
       ],
       "before_count": 4,
-      "task_id": 6110555767
+      "task_id": 6110555767,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
