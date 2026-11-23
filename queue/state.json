@@ -54866,6 +54866,15 @@
         0.0,
         0.0
       ]
+    },
+    "3039172879": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "UD 04",
+      "originals_sha256": [
+        "984496460fb2a0c107d6f89297ef49a7bd2b6e0ca2c52121e2971e8c184bddac"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
