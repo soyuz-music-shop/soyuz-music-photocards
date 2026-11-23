@@ -34189,6 +34189,17 @@
         0.0,
         0.0
       ]
+    },
+    "914275303": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TT86353627",
+      "originals_sha256": [
+        "0f62b39f6105f9ed0606a212820378a728f753f755d26273dff16bef9f772e61",
+        "04e0463fd15570b7c60ed515bd9a174e69b0943801fbae1e25accc84a38b351a",
+        "7d0eede2e8e64bd8930b32b191c7b571ebf68c2ebdc9c516dcba790d00a9da36"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
