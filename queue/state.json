@@ -48978,14 +48978,19 @@
       ]
     },
     "2981259815": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GR159387",
       "originals_sha256": [
         "6c5562321224f7714b274c4fb948982b8b06d7c31fa16ecfc36e605c700ed0dc"
       ],
       "before_count": 1,
-      "task_id": 6111035140
+      "task_id": 6111035140,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
