@@ -51884,14 +51884,19 @@
       ]
     },
     "3006476305": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP 3547",
       "originals_sha256": [
         "45215b2b1b1fdcb9c611ee25d0d58baf95641f6bc8ea9ca82cb6b1f954830219"
       ],
       "before_count": 1,
-      "task_id": 6111397735
+      "task_id": 6111397735,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
