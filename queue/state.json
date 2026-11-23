@@ -34341,7 +34341,7 @@
       ]
     },
     "915104756": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TP35217345",
       "originals_sha256": [
@@ -34350,7 +34350,12 @@
         "7a7f220174458259b4390d9c17d34c55caf0bcee17f763e2f1eff1173703ce7c"
       ],
       "before_count": 3,
-      "task_id": 6109491293
+      "task_id": 6109491293,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
