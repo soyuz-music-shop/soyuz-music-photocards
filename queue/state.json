@@ -30300,7 +30300,7 @@
       ]
     },
     "739776450": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RS71213819",
       "originals_sha256": [
@@ -30308,7 +30308,12 @@
         "1cb294e0336ec6b0b11373ae726eff26bc6eeab9b9d113a5efc6691d50c7cd40"
       ],
       "before_count": 2,
-      "task_id": 6108990130
+      "task_id": 6108990130,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
