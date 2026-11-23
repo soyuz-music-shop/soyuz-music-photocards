@@ -53998,13 +53998,14 @@
       ]
     },
     "3032899230": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GFLD 19286",
       "originals_sha256": [
         "d84664decd72643b1c1dfa79cee51f17e6204332317ac8e255d482a1c1df0c47"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111540910
     }
   },
   "reason": null,
