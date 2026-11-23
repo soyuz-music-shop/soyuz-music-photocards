@@ -28497,6 +28497,15 @@
         0.0,
         0.0
       ]
+    },
+    "643694071": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SWT53576111",
+      "originals_sha256": [
+        "8ce979972cafc3c1ff5eff3671067cc1667b7bef22d5fd4e228adce87379415e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
