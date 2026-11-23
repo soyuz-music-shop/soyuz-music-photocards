@@ -44613,7 +44613,7 @@
       ]
     },
     "1804037517": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MEATL53751419",
       "originals_sha256": [
@@ -44622,7 +44622,12 @@
         "d393ec5c14b93f783862cd127996f23449b1965d979fb0b7ff82c286cf44dc7b"
       ],
       "before_count": 3,
-      "task_id": 6110686235
+      "task_id": 6110686235,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
