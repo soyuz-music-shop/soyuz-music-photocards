@@ -30546,6 +30546,16 @@
         0.0,
         0.0
       ]
+    },
+    "752787185": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PTN48681966",
+      "originals_sha256": [
+        "7e6dd037bf099e5a877079499ec86b22faedf680641fbff7c51a5ee71cb56a89",
+        "615df2d4fcbd9af67acf4b8ff35b74f0c20186033b8eae207819597d866809d9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
