@@ -30769,6 +30769,17 @@
         0.0,
         0.0
       ]
+    },
+    "756654846": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM9",
+      "originals_sha256": [
+        "73e5e99a16f51692912fa0443e3abd387afb24fd230f6c550ce590200d361b81",
+        "db4d8a5e3ec372688def9637828584e56b5d05c881027487c132eb3022d2fbbc",
+        "37d49c0e51d8bc372c03d1906cd155252c2672f9b8fa40eac2f0ebbe859d3a81"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
