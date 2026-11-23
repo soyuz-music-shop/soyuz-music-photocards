@@ -28547,6 +28547,17 @@
         0.0,
         0.0
       ]
+    },
+    "645457076": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACDC51076711",
+      "originals_sha256": [
+        "f2807f400e14c94cd1a33b1ef1f9d25cfeca4aeca1dbfe595659da300a09e3ac",
+        "0a6d5fb3c73ad21ec43feaa38dedc6cdc0a4acd67266bbfe9edb1a8f324def1b",
+        "bf5875b59b8ad4be0e2fcb1f57dd9969b887618cf17874ecadbda3840a9472db"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
