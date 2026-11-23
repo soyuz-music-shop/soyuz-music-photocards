@@ -46393,13 +46393,14 @@
       ]
     },
     "2188371854": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WILC97899047",
       "originals_sha256": [
         "7d7fcf1923856273f0f235b743ebcd067cada1fdf2981dd8a133b5135975bec1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110833381
     }
   },
   "reason": null,
