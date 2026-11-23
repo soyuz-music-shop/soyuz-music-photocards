@@ -32183,7 +32183,7 @@
       ]
     },
     "849592450": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SR50538936698",
       "originals_sha256": [
@@ -32191,7 +32191,12 @@
         "e0b3de54b9b59ed48a7ad2692ab0a7173f6cefd19b73fe74e9af02a5b5c335f3"
       ],
       "before_count": 2,
-      "task_id": 6109199045
+      "task_id": 6109199045,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
