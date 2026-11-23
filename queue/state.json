@@ -49026,13 +49026,14 @@
       ]
     },
     "2981259870": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "GR143607",
       "originals_sha256": [
         "3b7acfd2666d4f373f0dd767f9d7ea9fd55cba930d0aa165287a8a02eccc7f4d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111038372
     }
   },
   "reason": null,
