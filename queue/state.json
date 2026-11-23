@@ -26096,7 +26096,7 @@
       ]
     },
     "527477963": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219971928",
       "originals_sha256": [
@@ -26104,7 +26104,12 @@
         "ed16f332eb028c6158ed597b4bdf8c489286958e8a0db9d5bf2a3833867b7247"
       ],
       "before_count": 2,
-      "task_id": 6107692354
+      "task_id": 6107692354,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
