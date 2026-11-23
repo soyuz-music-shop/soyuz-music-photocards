@@ -39573,7 +39573,7 @@
       ]
     },
     "1218096339": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LNDN08110634",
       "originals_sha256": [
@@ -39581,7 +39581,8 @@
         "d644dcd6d2d54e2dbd75d7c9d5fad7e78d0364664b484c6b7019398abd80bc39",
         "2dedeaa22b82c29166bcefb4b1d7f8c1bf239393adfe876b62f47dc41118d30f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110218296
     }
   },
   "reason": null,
