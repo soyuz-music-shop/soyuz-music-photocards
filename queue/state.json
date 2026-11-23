@@ -32833,7 +32833,7 @@
       ]
     },
     "868659409": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP932Y",
       "originals_sha256": [
@@ -32841,7 +32841,12 @@
         "666b9cf1696900104bf4b8fb1ee6f7668c10f6dc2f57c0e54d4a790b1bd69d82"
       ],
       "before_count": 2,
-      "task_id": 6109273212
+      "task_id": 6109273212,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
