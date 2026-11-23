@@ -33810,7 +33810,7 @@
       ]
     },
     "895195884": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ 2298 LP",
       "originals_sha256": [
@@ -33819,7 +33819,8 @@
         "13462c9b60455f3d3c6a264c3c70bd5f3c44bee76c6a93c2062c368358deabd7",
         "d06cfead942aba1dd78dfd2bec7446f93bb97e38c3ccf8c0627bd0ba6fe102ec"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109405854
     }
   },
   "reason": null,
