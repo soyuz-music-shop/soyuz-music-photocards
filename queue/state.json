@@ -54148,13 +54148,14 @@
       ]
     },
     "3032899377": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "M 20215",
       "originals_sha256": [
         "80c5f2cf7f7256e46c56b5b6458c76e063da9f59005c0983753a8bc8472e3e7d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111553101
     }
   },
   "reason": null,
