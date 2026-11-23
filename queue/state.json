@@ -45235,7 +45235,7 @@
       ]
     },
     "2046820091": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "STGRN32364357",
       "originals_sha256": [
@@ -45243,7 +45243,8 @@
         "f92ac243daaaf685869e8b0fb58356989ee26b86e6b03c40c61d76498c28783d",
         "3f6365397dd30ab3c48d9b220417611c7aad090047e791835a8570d759e4d82c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110736018
     }
   },
   "reason": null,
