@@ -27204,7 +27204,7 @@
       ]
     },
     "566651454": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT432TLP",
       "originals_sha256": [
@@ -27213,7 +27213,12 @@
         "66d4326645b0351971b701baffd0524af4fa88a110c84c3ea5fa777e907ee915"
       ],
       "before_count": 3,
-      "task_id": 6108629487
+      "task_id": 6108629487,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
