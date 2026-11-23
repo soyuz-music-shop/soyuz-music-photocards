@@ -24289,6 +24289,16 @@
         0.0,
         0.0
       ]
+    },
+    "465585864": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RMST35837994",
+      "originals_sha256": [
+        "d915715df5be015b61fc15e69a9995850be789cac27c306409ecbb359cf11e84",
+        "0cf2efc1a27b8dce2ab80e68645a7a00958be3c28e55747e82b6a8d70ba3e357"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
