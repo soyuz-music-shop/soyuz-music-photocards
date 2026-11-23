@@ -32960,6 +32960,16 @@
         0.0,
         0.0
       ]
+    },
+    "869287720": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MT59799529",
+      "originals_sha256": [
+        "87384c09e8ded031a49054a477ee317262e863940c71142aef6ce37284e24188",
+        "0c26513e3c64d54bf01c10d7ed11c1a6da968b95b9a8ea6249db036dc2200786"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
