@@ -25500,7 +25500,7 @@
       ]
     },
     "492104421": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AIR84497811",
       "originals_sha256": [
@@ -25508,7 +25508,12 @@
         "5e61dea6aafedffbabcb03ae75bbe8dfcaf7ac9351b63987e033c378be29da6d"
       ],
       "before_count": 2,
-      "task_id": 6107503409
+      "task_id": 6107503409,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
