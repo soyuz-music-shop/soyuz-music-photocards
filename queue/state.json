@@ -38607,7 +38607,7 @@
       ]
     },
     "1191276703": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TN97555343",
       "originals_sha256": [
@@ -38615,7 +38615,12 @@
         "ab4c2392f8ad7020659ddeb6fc465a2a8c31223ed8147950dc0d03fd2fe748d8"
       ],
       "before_count": 2,
-      "task_id": 6110095266
+      "task_id": 6110095266,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
