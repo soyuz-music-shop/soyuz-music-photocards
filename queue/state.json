@@ -32946,14 +32946,15 @@
       ]
     },
     "869255345": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MT92595112",
       "originals_sha256": [
         "2897d9a7fc2157a72ac59a9a3a920cdd9431793ef166b62eb1e08eaef5610cd4",
         "22748092d02025ab1934cbf78d344d6018889d665d835203d07342e51b2334bd"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109293657
     }
   },
   "reason": null,
