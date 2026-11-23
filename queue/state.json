@@ -28189,6 +28189,16 @@
         0.0,
         0.0
       ]
+    },
+    "626730701": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "MHP23450",
+      "originals_sha256": [
+        "ce559cb572576876f8220e29b097ab6658ec9d9d8733842ebb2f4ccb18bbc356",
+        "ca53b643439a3f39b1ad970a91e084e7fa56ebae5745297f7320eea5262380db"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
