@@ -6,7 +6,14 @@
 
 1. Получить отдельную постоянно работающую **Windows VM** (не Linux Docker сервер). Нужны Python 3, постоянный диск, Windows GUI. Для Microsoft Photos и Windows AI нужна совместимая Windows 11 и аппаратная среда; полноценная поддержка в облаке не гарантируется.
 2. Перенести на VM **непублично** оригинальный ZIP `01 СОЮЗ МЕДИА(1).zip`. Для полной истории дополнительно перенести содержимое `%APPDATA%\SOYUZ_Media\` с исходного компьютера в профиль той Windows-учётной записи, под которой будет работать сервер.
-3. Скачать ZIP из вкладки GitHub Actions → SOYUZ Media — сборка облачного установщика → последний успешный запуск → Artifacts. Распаковать его на VM. Открыть PowerShell от администратора:
+3. Самый короткий путь: открыть **PowerShell от администратора на Windows VM** и выполнить две команды (файлы установщика скачиваются из нашего GitHub автоматически):
+
+```powershell
+$u='https://raw.githubusercontent.com/soyuz-music-shop/soyuz-music-photocards/main/web-bridge/cloud-windows/BOOTSTRAP.ps1'; $p=Join-Path $env:TEMP 'SOYUZ_Bootstrap.ps1'; Invoke-WebRequest $u -OutFile $p -UseBasicParsing
+powershell -NoProfile -ExecutionPolicy Bypass -File $p -SourceZip 'C:\Users\Administrator\Downloads\01 СОЮЗ МЕДИА(1).zip'
+```
+
+Можно также использовать ZIP из GitHub Actions, распаковав его на VM. В таком случае выполнить:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process Bypass
