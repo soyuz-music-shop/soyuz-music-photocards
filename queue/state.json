@@ -45462,13 +45462,14 @@
       ]
     },
     "2153691784": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CHER97519697",
       "originals_sha256": [
         "3a11877412de1ebfcd331bd602ded93132593558468b7f556caab479e82fac55"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110752065
     }
   },
   "reason": null,
