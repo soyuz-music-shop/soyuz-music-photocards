@@ -31533,6 +31533,17 @@
         0.0,
         0.0
       ]
+    },
+    "805298027": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SLM119P01",
+      "originals_sha256": [
+        "7229d2bbb112f14159c9f660a1303e78c497b40d65656d81d027655082aad8bf",
+        "7de6fd4defdc41ab68f08303192381895b198ead38cc0f5d71210824dbad09c5",
+        "6ca9cd045b6628313d91703b6a104b447292603f257b50f71530d4aeb3913061"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
