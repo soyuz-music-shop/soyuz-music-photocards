@@ -30112,6 +30112,18 @@
         0.0,
         0.0
       ]
+    },
+    "732463754": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "0218576EMU",
+      "originals_sha256": [
+        "27148dabdab16ba3a6d01e974764fbe15f829ba9b4174aac97a48b7ccf708380",
+        "ebc391d0c74fc768759406369c330fa4ce2edfa4713907e3992f320e2fc49437",
+        "cdb615cd2bd393ee93c5db3b72cd8a09ac9e5ab5c0cd0be967d9235ca373bd95",
+        "a715036fcaa7d3df4a8b1323bad6eafb8b0d43c0050f8978a7d15fa3b4876a34"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
