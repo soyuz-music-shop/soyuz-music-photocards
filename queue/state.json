@@ -47490,6 +47490,18 @@
         0.0,
         0.0
       ]
+    },
+    "2457188980": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BEATLS55920959",
+      "originals_sha256": [
+        "c6cfc7b90a57154458131ecbedbd444a6bb33716034ef6471a997d90837f8b9c",
+        "53f0dbd5eb4bfe822e6e087add81e9646f2fa01b5e8f6b8e58956856683c96ae",
+        "0f650b11c8e847e3448884139f2c3e698a74ef03bbd79ddf5dffd445e35bacb6",
+        "582b5fc5deac1e5286f8070771969f8a24beb67e1414b0fd325bfbf186192b97"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
