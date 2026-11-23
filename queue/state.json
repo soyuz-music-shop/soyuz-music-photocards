@@ -29472,6 +29472,18 @@
         0.0,
         0.0
       ]
+    },
+    "718487077": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE1947LP",
+      "originals_sha256": [
+        "2ea90e22ffb4b1b04203f85f0826689131f1cc48407344d433e19c419784f640",
+        "c415ac94512ae12093883b11d82b527f99c20728b6e7de625db5627abb22dc55",
+        "d87d175fcc32541fc410e2698eeb58e0f202c9bd5d170f3320db0ec131e1f0fe",
+        "5cdc7b3f371e68a066f3983330d06d560bf6566538cb5d7e773867d0e2894c90"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
