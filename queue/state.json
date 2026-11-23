@@ -46141,14 +46141,19 @@
       ]
     },
     "2179702046": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 727097",
       "originals_sha256": [
         "a2915704cab5c6c45cec308fb66255f1f66df1a982806d098585959dd2f0c606"
       ],
       "before_count": 1,
-      "task_id": 6110808954
+      "task_id": 6110808954,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
