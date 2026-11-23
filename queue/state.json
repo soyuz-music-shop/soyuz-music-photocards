@@ -31841,7 +31841,7 @@
       ]
     },
     "838855559": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CR00704",
       "originals_sha256": [
@@ -31850,7 +31850,12 @@
         "3d5a622f756ee6925a59e9dae77916a4f4a076c3a5f1349d984101d640c060dc"
       ],
       "before_count": 3,
-      "task_id": 6109159754
+      "task_id": 6109159754,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
