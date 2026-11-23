@@ -46854,7 +46854,7 @@
       ]
     },
     "2202167096": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "YO356CD",
       "originals_sha256": [
@@ -46863,7 +46863,8 @@
         "0a0c4bb5cde752a39e16b71118fe2b0673c737077effb263438d7a0c8f08367b",
         "0f542d1d45b6b7aa1f2aa4f256a900472c4df7b2e5df2bd373df5a795f800b1f"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110872276
     }
   },
   "reason": null,
