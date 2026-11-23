@@ -26804,6 +26804,16 @@
         0.0,
         0.0
       ]
+    },
+    "555025394": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LG96423932",
+      "originals_sha256": [
+        "f4cfbb27a7e423540c356b8c11c509a91344097443b012042ba01930941c7aae",
+        "318d2a12d57bc56ba065ba6024fce70985307ac20dc757075b427d94c6b9df96"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
