@@ -22971,7 +22971,7 @@
       ]
     },
     "444636055": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WIGCD473",
       "originals_sha256": [
@@ -22979,7 +22979,8 @@
         "cf0a99225b170c90481ba4e222c6e52ecf6499ed0f2c88671c9b1feb472de535",
         "45d6ff5c573e19726662b8d38c86f0efa92b14a31aef9aef04c00afdae17934a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6106926224
     }
   },
   "reason": null,
