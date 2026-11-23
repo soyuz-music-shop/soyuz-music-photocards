@@ -48807,6 +48807,16 @@
         0.0,
         0.0
       ]
+    },
+    "2974627270": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP213W",
+      "originals_sha256": [
+        "460aaed1bfd07974c1d0a7af1dbc8ea75ce493564c682107294be69e8104b074",
+        "bdaa3e2012e9dbe89025ace3afb5ee7dc55bb99033cea433230f0abc4eef6f34"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
