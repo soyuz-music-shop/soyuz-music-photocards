@@ -45068,7 +45068,7 @@
       ]
     },
     "1944792855": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT243LP",
       "originals_sha256": [
@@ -45076,7 +45076,8 @@
         "9154bcd4c4af7e2753898c842851de5d0875174dfcdea7698c1bbeb53c47e243",
         "cff5565a9c0676eb6b8dc43410c64424119d6eeb3ddf81d623d0f700ff9d8748"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110722316
     }
   },
   "reason": null,
