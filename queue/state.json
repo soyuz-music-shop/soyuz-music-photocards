@@ -53981,6 +53981,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899226": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JP213223",
+      "originals_sha256": [
+        "5cf2f8336896b4f6231a325c0d36f591a2dd05e200ef49c8686669ceee947d64"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
