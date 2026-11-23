@@ -52551,13 +52551,14 @@
       ]
     },
     "3013277659": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MSP593410",
       "originals_sha256": [
         "e8566f41c850d83ecd7d339b776099c6b46648b5029cf4e850b4f0c52defbf4b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111451205
     }
   },
   "reason": null,
