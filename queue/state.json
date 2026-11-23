@@ -31192,6 +31192,16 @@
         0.0,
         0.0
       ]
+    },
+    "776132491": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3000B",
+      "originals_sha256": [
+        "95dffc3de5284788f380db23e5a993973b89c3075ac0419f02bc061c565fd023",
+        "21e3bf992ff2a82402e64c32abadbe1171a34025bacd884295c785ac76970dc9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
