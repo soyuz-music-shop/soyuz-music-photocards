@@ -36978,6 +36978,16 @@
         0.0,
         0.0
       ]
+    },
+    "1091674430": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JCQ020015",
+      "originals_sha256": [
+        "ace0413e26d120dec39aeab79e32c288898a004e153103aad78cdf0fee65ff56",
+        "eb9be59b1254367131705a1cdf5d4bb594ff685e1deaa826d2830e1ae19a2360"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
