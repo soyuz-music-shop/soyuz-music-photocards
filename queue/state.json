@@ -46154,6 +46154,15 @@
         0.0,
         0.0
       ]
+    },
+    "2179717131": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SBR-345",
+      "originals_sha256": [
+        "1aa9ed3b8dfa8c5a59ad26345380281dbc995750348d7e03b5b743003d61388b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
