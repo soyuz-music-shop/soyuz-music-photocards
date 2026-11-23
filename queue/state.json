@@ -25481,6 +25481,17 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Ozon gallery not confirmed"
+    },
+    "492051097": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BTL38246718",
+      "originals_sha256": [
+        "474bbad04aab2562472e0f05cc6ccc4f51cbcafbe8d6bff39f6aec0f3e206822",
+        "e97017a7fc4960ae1847e4d7c8605d6c84c2c3f263be44c120d1615d7245f656",
+        "21a2e8e977b0c707d16f3e9dde814c6bec9acda07e04b87b8d485ad65356841f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
