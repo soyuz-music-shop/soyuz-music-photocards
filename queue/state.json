@@ -26637,7 +26637,7 @@
       ]
     },
     "547840317": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3209",
       "originals_sha256": [
@@ -26646,7 +26646,12 @@
         "392ab8e10e529ca03a04b80225a7792bd0a235f29aa285100dc332b218c167c2"
       ],
       "before_count": 3,
-      "task_id": 6108545416
+      "task_id": 6108545416,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
