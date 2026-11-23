@@ -27202,6 +27202,17 @@
         0.0,
         0.0
       ]
+    },
+    "566651454": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT432TLP",
+      "originals_sha256": [
+        "1462b70fc32360402e36a115e4d08a0b64de899531610c59884cf605b6cef4ad",
+        "a6a97b6abc4727caa7294214c38eeda49d3457be8b5da4929978db3552758498",
+        "66d4326645b0351971b701baffd0524af4fa88a110c84c3ea5fa777e907ee915"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
