@@ -55773,6 +55773,17 @@
         0.0,
         0.0
       ]
+    },
+    "3130403875": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MIND882",
+      "originals_sha256": [
+        "501b26e13049dde772d436b00c970e38266ef7a362e5e6b77f46ba4ccf5f53ad",
+        "ed2f599ef6c0058f617c3e79a336ed467d89262f860552fcdcd861c15ec831bb",
+        "279ed599210a1f01e861804b034a8e6e04560feba300e4dea8aa93502e276d91"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
