@@ -47036,7 +47036,7 @@
       ]
     },
     "2247298163": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TCR68033776",
       "originals_sha256": [
@@ -47050,7 +47050,8 @@
         "988fe7c52894de0e4f66f0ecc3cd921e69b18985f0c399f75db34dcec4f936d9",
         "4b6e2b58a28399f8dfb6eacf0460e51a7ac04c3d92fac93f85d6578dd4f04c15"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6110886496
     }
   },
   "reason": null,
