@@ -39062,7 +39062,7 @@
       ]
     },
     "1207027031": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PMC77289415",
       "originals_sha256": [
@@ -39072,7 +39072,8 @@
         "c0b7a6df597be498b738cf31b1e7dfad309b1c81e3ff032f671e50065be9ec14",
         "f77af6a3ae2fccb09a2ece001d60b40cc112d7a508e0b24f1138fbb5997e7332"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110154345
     }
   },
   "reason": null,
