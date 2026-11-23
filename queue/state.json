@@ -37230,6 +37230,16 @@
         0.0,
         0.0
       ]
+    },
+    "1101531291": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STG323813",
+      "originals_sha256": [
+        "6507f46e3745db96c9b0d8a599ae6667030a2c51c1b5e533ff136856d0fdde8d",
+        "dd7c0b61f11c99d1cea1c3b386c63d48eb95c4998fb61b46a8e6493d688fd3c8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
