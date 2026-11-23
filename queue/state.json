@@ -33772,6 +33772,20 @@
         0.0,
         0.0
       ]
+    },
+    "893514447": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL143LP2",
+      "originals_sha256": [
+        "ec5e7d8b615c84a8f0e5a12bd5f77763b038c71628ce8370776e16098c5a630e",
+        "a5ef44b1d4fcf0b8396049ecd2b4c3cc1bef37ed022b0ecb137b007c09b7375b",
+        "b1c2203e310045abd669179fea7776fb31eeb28ffd7c926b5bdb44a756a3e544",
+        "f6b3794aa8abe9d985d84c7df7cce39b65146d669ad7744323bc588c181289e9",
+        "b875cc6b6d9e81b523e24b0efeb66925a17c61c6951cffda7d6e57d686cfccf6",
+        "d9ece9d459c2320048b10913d99d24e8015beaf386bceaf31dfb700ceb7d3ccb"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
