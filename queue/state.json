@@ -32433,7 +32433,7 @@
       ]
     },
     "860498963": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PET95021955",
       "originals_sha256": [
@@ -32441,7 +32441,12 @@
         "5835dbdd71ceeb9c26b851e932df9fe05e7ec250e30b82b419c2d7496b0eb066"
       ],
       "before_count": 2,
-      "task_id": 6109228080
+      "task_id": 6109228080,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
