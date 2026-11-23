@@ -46804,7 +46804,7 @@
       ]
     },
     "2202124566": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "YO356LP",
       "originals_sha256": [
@@ -46812,7 +46812,8 @@
         "0cf7408daae07448dc0b4f0086aeca0465fe93f3211cb54b82445270b9e1c7cc",
         "e05fd0bf7c6492ffe7da7a2d42f198048c6599deeb4f7ea958b07f66a39d6e77"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110868871
     }
   },
   "reason": null,
