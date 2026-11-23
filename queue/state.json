@@ -27341,7 +27341,7 @@
       ]
     },
     "582615247": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL45663392",
       "originals_sha256": [
@@ -27350,7 +27350,12 @@
         "e86ca12482d7ac33c1751c7d4a9fb43c3745f45f6f3b81129eac43e40dbc359f"
       ],
       "before_count": 3,
-      "task_id": 6108647283
+      "task_id": 6108647283,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
