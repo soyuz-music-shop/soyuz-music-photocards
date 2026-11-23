@@ -54524,6 +54524,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137830": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PF010022",
+      "originals_sha256": [
+        "fff751f39670e136bb052ae5c78d35721458842534b1109696e9547fa4ce68ec"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
