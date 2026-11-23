@@ -44816,7 +44816,7 @@
       ]
     },
     "1857726911": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP216X",
       "originals_sha256": [
@@ -44825,7 +44825,12 @@
         "b9a26fcde06602d9d04993472ea649f56a5065dc3a2873155ee58c2f110e0f69"
       ],
       "before_count": 3,
-      "task_id": 6110702276
+      "task_id": 6110702276,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
