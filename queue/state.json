@@ -54434,6 +54434,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137761": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "6408-2-R",
+      "originals_sha256": [
+        "87f12d28a1abe9751037c1e7413af9992b79237ab84691da98077ed55fd9a489"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
