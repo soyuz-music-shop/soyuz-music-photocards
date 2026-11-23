@@ -46303,14 +46303,19 @@
       ]
     },
     "2188093912": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP 19901",
       "originals_sha256": [
         "49ea70e9c8e529e1603bb4323a23f6aeb94dfb98fa474d4c200427b29d56c5ea"
       ],
       "before_count": 1,
-      "task_id": 6110824299
+      "task_id": 6110824299,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
