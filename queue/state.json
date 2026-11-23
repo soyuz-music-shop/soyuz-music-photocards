@@ -39813,14 +39813,15 @@
       ]
     },
     "1238444131": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PKSS95922054",
       "originals_sha256": [
         "38bf42ab8302d10721249726623cc03ff23423aee442836b2a6f98b08bc13fdf",
         "488dd96c3423471ad19106cefb6c4016b7bd8b337397c3cbb8d82b48b0df1ef8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110243214
     }
   },
   "reason": null,
