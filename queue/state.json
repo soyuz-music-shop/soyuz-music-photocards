@@ -25795,6 +25795,15 @@
         0.0,
         0.0
       ]
+    },
+    "503658095": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0018853-01",
+      "originals_sha256": [
+        "50c5a02aea9e9a346b3657ddce2d0b16b61c23c22fa6ac8ba1789984c7da84a7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
