@@ -55824,7 +55824,7 @@
       ]
     },
     "3130403879": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROOM156",
       "originals_sha256": [
@@ -55833,7 +55833,12 @@
         "4e254f53b4b3d5376bb4b05006a06ac662e0d5dde8a1642f8e1c201d715b8730"
       ],
       "before_count": 3,
-      "task_id": 6111665549
+      "task_id": 6111665549,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
