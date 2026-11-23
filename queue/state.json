@@ -41729,6 +41729,17 @@
         0.0,
         0.0
       ]
+    },
+    "1487249298": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT370LP",
+      "originals_sha256": [
+        "a82db1bccedc531a9042dedc4b925df00af84f79f8943bcbaa0abba2d8108301",
+        "7789201eab286e91ac96b527d31a030d24569a2d0f30ea0ba2ecfbcb02001a6d",
+        "9285a332edae5211bad229a4b922435ef2af5eea807f71577e70f6d8f03f1238"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
