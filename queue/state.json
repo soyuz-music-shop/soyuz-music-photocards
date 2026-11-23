@@ -48888,13 +48888,14 @@
       ]
     },
     "2979705129": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MAL-2501",
       "originals_sha256": [
         "075c4064bb28f528ca6624c509b9b50f8464dc8cb9d743ff17494fdbc7bd64ca"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111027943
     }
   },
   "reason": null,
