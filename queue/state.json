@@ -30596,14 +30596,15 @@
       ]
     },
     "754601893": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB 1923-2",
       "originals_sha256": [
         "dff68d18c3e7181a9ce266d2c923d58d955417187b7f530536c4124b4efa0c65",
         "4fba8090b731394fe8dd8c3468aa3e1fdabcf0ebaf1367e082209d8df95a529a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109019008
     }
   },
   "reason": null,
