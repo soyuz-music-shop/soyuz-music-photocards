@@ -43958,14 +43958,19 @@
       ]
     },
     "1730298956": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ERIC24502425",
       "originals_sha256": [
         "4aa6a7c14727b104b8badf7912315d0f089c4a5f991e212535af1fb402e8bee0"
       ],
       "before_count": 1,
-      "task_id": 6110645229
+      "task_id": 6110645229,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
