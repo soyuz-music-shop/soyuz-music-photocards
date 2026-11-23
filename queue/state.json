@@ -36576,7 +36576,7 @@
       ]
     },
     "1085105155": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DM960797",
       "originals_sha256": [
@@ -36584,7 +36584,12 @@
         "9d9180065d8b8ddf1b4e74396608f62408bbdf4d4e17f9490fa2907a44eb1616"
       ],
       "before_count": 2,
-      "task_id": 6109811887
+      "task_id": 6109811887,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
