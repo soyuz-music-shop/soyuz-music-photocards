@@ -33578,6 +33578,16 @@
         0.0,
         0.0
       ]
+    },
+    "880006833": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAIS197LP",
+      "originals_sha256": [
+        "7387e8e3639d0a4ac8c6560f42f77fd1a504be5a4b926e3e02da1ddd54df1bbd",
+        "a698b0c9c8d09fc9cbc36cb8eeba4f3e34e10f1f71d322adcce90df578143048"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
