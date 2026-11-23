@@ -1,0 +1,13 @@
+# Replace ALL placeholders in a private local config; NEVER commit real keys.
+tunnel: YOUR_TUNNEL_UUID
+credentials-file: C:/Users/YOUR_WINDOWS_USER/.cloudflared/YOUR_TUNNEL_UUID.json
+ingress:
+  - hostname: media.your-domain.example
+    service: http://127.0.0.1:8787
+    originRequest:
+      access:
+        required: true
+        teamName: YOUR_CLOUDFLARE_ZERO_TRUST_TEAM
+        audTag:
+          - YOUR_CLOUDFLARE_ACCESS_APPLICATION_AUD
+  - service: http_status:404
