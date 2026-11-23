@@ -35924,6 +35924,17 @@
         0.0,
         0.0
       ]
+    },
+    "1067022597": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP1009RT",
+      "originals_sha256": [
+        "e3b08f1a9a10bf2d96cd17f23f5ac2b07baced80b8618f4efe957ee8c2bd1600",
+        "4d8081e19d4d7e74e08b109949b3b0c7cd387b6a765d71b380d0c30fdb9d4684",
+        "2f20c66adab7d05409c2e3aa12d2331fd8120f669c1b12919611707e2f8c6bc6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
