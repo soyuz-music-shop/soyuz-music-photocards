@@ -28054,7 +28054,7 @@
       ]
     },
     "620121163": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NOISELP028X",
       "originals_sha256": [
@@ -28062,7 +28062,8 @@
         "5ab0394e065ad6e8cd17bb9ef2cd35a7346cdc98010c2de4005dac9cdbb7bc8c",
         "aec972029cc96143eb7a1e24aff37322fe68986b0b2f2f54a854784de34f3ce5"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108744835
     }
   },
   "reason": null,
