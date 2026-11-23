@@ -43152,7 +43152,7 @@
       ]
     },
     "1627918434": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DCDE81705309",
       "originals_sha256": [
@@ -43160,7 +43160,12 @@
         "40beb1e66ff29f8fc50ff577f3a9e228aea8ac3b0b28dbb8ac6635bc8ad87a77"
       ],
       "before_count": 2,
-      "task_id": 6110588521
+      "task_id": 6110588521,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
