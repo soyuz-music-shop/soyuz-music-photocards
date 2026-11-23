@@ -36162,6 +36162,15 @@
         0.0,
         0.0
       ]
+    },
+    "1074958841": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MM507090",
+      "originals_sha256": [
+        "d1dae8e1d515f6dfbafd3596e84d63ec80f21d126bfe6c7eccea92ed6399b546"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
