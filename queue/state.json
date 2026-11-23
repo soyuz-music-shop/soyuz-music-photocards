@@ -34028,14 +34028,19 @@
       ]
     },
     "900828019": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP755",
       "originals_sha256": [
         "1b61669468263a737bc413d02b10ff170876c8a20e3c7df1f27795095a668b5a"
       ],
       "before_count": 1,
-      "task_id": 6109434500
+      "task_id": 6109434500,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
