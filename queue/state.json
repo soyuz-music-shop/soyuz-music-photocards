@@ -48667,7 +48667,7 @@
       ]
     },
     "2973331816": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WH836115",
       "originals_sha256": [
@@ -48676,7 +48676,12 @@
         "3390e132b91b0358c3fe7db76a6abc5d18b41f333b81c70a21dddfb9c6f30e48"
       ],
       "before_count": 3,
-      "task_id": 6111014112
+      "task_id": 6111014112,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
