@@ -25470,13 +25470,14 @@
       "reason": "Ozon gallery not confirmed"
     },
     "492008811": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BTL67696865",
       "originals_sha256": [
         "219cd298d0b5efadef009648c931a60a2a772a40c633e23cff163356cd455435"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6107488167
     }
   },
   "reason": null,
