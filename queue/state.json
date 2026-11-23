@@ -34272,6 +34272,18 @@
         0.0,
         0.0
       ]
+    },
+    "914971947": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CP54050428",
+      "originals_sha256": [
+        "64af3c78960e4eeb9ac1ce098f3452f4751049ae76f82ba84738a490ead52c05",
+        "4dafbc7113861dbf6eb064925c02d107a919bf7a8db17343791ce7f5a5911bda",
+        "d0d4b890619c165c45340c44322476501882b0751ca2cb373331ec49395aa58d",
+        "8c59d14bce650088d6a1b2cb926354db658e95c5fc98509e9a703fda65adaf45"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
