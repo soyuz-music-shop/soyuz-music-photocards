@@ -38263,7 +38263,7 @@
       ]
     },
     "1179154336": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TBK97900293",
       "originals_sha256": [
@@ -38271,7 +38271,8 @@
         "53d59b409135287c4b888c30f1df2aebabb8ff32778b629e33878262c9978eb6",
         "ea1609290c7b3df30359cc80510158ce5b90ce0d621714542e13f3baf61a3623"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110054779
     }
   },
   "reason": null,
