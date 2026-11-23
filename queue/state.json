@@ -31519,14 +31519,15 @@
       ]
     },
     "805271437": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCD1 74071",
       "originals_sha256": [
         "64e3046bbeb46571625d8c473e95186d55a6cf9901eb75199f6149a6cd585084",
         "96147bd07e6a7cee00da3cd318bfb52fd0163c41c9b57a6ce6d44fc9fb16eff3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109125443
     }
   },
   "reason": null,
