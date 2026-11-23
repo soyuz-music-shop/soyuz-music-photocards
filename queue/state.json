@@ -38126,7 +38126,7 @@
       ]
     },
     "1153455215": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AGRND65026276",
       "originals_sha256": [
@@ -38136,7 +38136,12 @@
         "cdfd688a36f122bc5cbac93aa78e5e5ddda4da9cf8b06170ee4245f61916eb55"
       ],
       "before_count": 4,
-      "task_id": 6110033534
+      "task_id": 6110033534,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
