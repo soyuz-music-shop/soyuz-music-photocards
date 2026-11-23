@@ -33630,13 +33630,14 @@
       ]
     },
     "882801152": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3354",
       "originals_sha256": [
         "adcf2fed699c1e0484d9d9e968e2bcd9eceeaad2aa813e511b2fd07a6de84f9c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109378714
     }
   },
   "reason": null,
