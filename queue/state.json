@@ -55953,13 +55953,14 @@
       ]
     },
     "3137360258": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "B001413102",
       "originals_sha256": [
         "fc5d8aee4cd99c4ec49e3e2c0f0b40c6bd0ba006de376098883d57a713082d19"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111671996
     }
   },
   "reason": null,
