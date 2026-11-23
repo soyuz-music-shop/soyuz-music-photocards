@@ -54479,6 +54479,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137806": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DL141165",
+      "originals_sha256": [
+        "9ae81ff227903f68fbfafeb135a194625b378f3fbf1af458029a92fc7dd3f4b4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
