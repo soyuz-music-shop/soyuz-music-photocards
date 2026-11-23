@@ -25651,6 +25651,16 @@
         0.0,
         0.0
       ]
+    },
+    "498783554": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AG47868541",
+      "originals_sha256": [
+        "9a4583dc0d359c3c9f7e1d126e2c757d3f324d8135d51c08ae56640b1ba00745",
+        "0e0c84b460c2c87dbfd1f5117640b5ffcceefcfc59ce25da1b9261610decbfc5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
