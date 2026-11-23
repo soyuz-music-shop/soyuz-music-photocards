@@ -50663,6 +50663,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005926032": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EARS081P",
+      "originals_sha256": [
+        "686b42ed966fc76ba847da028b3220670b259ae5fff19042e056a9ee5b9999c4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
