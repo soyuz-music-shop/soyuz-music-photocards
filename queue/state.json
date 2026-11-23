@@ -40973,7 +40973,7 @@
       ]
     },
     "1406215823": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TMR-1000CD",
       "originals_sha256": [
@@ -40982,7 +40982,8 @@
         "bed619cbbe77188d89bd71f0b738e6ef3279b298790cfad76b07454c949e31a5",
         "29047b500d923a9f747b06e23cdc960bca5d3b50812c7187be491609253395b7"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110398643
     }
   },
   "reason": null,
