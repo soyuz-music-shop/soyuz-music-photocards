@@ -29690,6 +29690,16 @@
         0.0,
         0.0
       ]
+    },
+    "724913986": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MB48633371",
+      "originals_sha256": [
+        "c9fd9cad0d5bbca10a19852461be3afb8bcc518ddef7d91822d4dc04205f60d6",
+        "1e9d736875bf0e23a3de84ae3ef5e73fc5cb66f1828c37b23292e497c784b19c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
