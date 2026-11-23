@@ -55590,7 +55590,7 @@
       ]
     },
     "3130108008": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GAD 803 CD",
       "originals_sha256": [
@@ -55601,7 +55601,12 @@
         "f507d255e6c072bd774c9b52e3664462184ac7c756ed6c5c41654669304920dd"
       ],
       "before_count": 5,
-      "task_id": 6111652188
+      "task_id": 6111652188,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
