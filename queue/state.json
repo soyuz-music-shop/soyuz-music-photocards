@@ -32545,14 +32545,15 @@
       ]
     },
     "862099276": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MAS62774628",
       "originals_sha256": [
         "40c15cf6035ff5d857fb5f5ad665ba7dfc49afc8fd3eb497bf4bd53189205059",
         "a6a8355b72d2c980ceecf2ff4ccde842dc5401502cd92baada27af26c336f31b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109244324
     }
   },
   "reason": null,
