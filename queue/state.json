@@ -29806,7 +29806,7 @@
       ]
     },
     "725354743": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SCP79906716",
       "originals_sha256": [
@@ -29814,7 +29814,8 @@
         "746f0243b24114c8411e1400c9cb24b2221289d02e64fa8b672241b8bdc1c212",
         "fde072810c8d514654c1d6be249d3d541b0ed1295356174f33893301d38610b9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108942867
     }
   },
   "reason": null,
