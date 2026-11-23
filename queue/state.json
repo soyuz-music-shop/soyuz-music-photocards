@@ -41176,6 +41176,15 @@
         0.0,
         0.0
       ]
+    },
+    "1443312822": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4632000190922",
+      "originals_sha256": [
+        "1d5cfc04da89aea51182075aa9b16341487f1a510db31ae8154e7cb2e52089cb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
