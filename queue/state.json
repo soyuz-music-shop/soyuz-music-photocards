@@ -55315,6 +55315,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010644": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE-1471-LP",
+      "originals_sha256": [
+        "c4d0d646bddf6767ff7f58df5b3640b68d5a358aab6aaa0b9442b637dabf986a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
