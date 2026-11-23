@@ -29421,6 +29421,17 @@
         0.0,
         0.0
       ]
+    },
+    "716724014": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM53030523",
+      "originals_sha256": [
+        "87db4165c9ac3c69648b5ca2b81deac9f7ed536b87784da1c073bf337f70ecc5",
+        "86fc96da1b5124312e7516454166a6c2c3831238364ebe912142bcdd5753c440",
+        "7061c5cd2f0204fefdf879341792ded3754072395ea92d1aa816bee0abce11b8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
