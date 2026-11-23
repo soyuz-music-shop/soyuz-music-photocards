@@ -28286,7 +28286,7 @@
       ]
     },
     "629333559": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZZ71018929",
       "originals_sha256": [
@@ -28295,7 +28295,8 @@
         "b91cc7adf717b3aa78470612ee4c6703070fbd0dedb2672a952df3cf98b16f17",
         "62cf0b22c7f5f3c282f06364b0ea1ecf490967059bfbfbac0eba4db27927a131"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108771055
     }
   },
   "reason": null,
