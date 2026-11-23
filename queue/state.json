@@ -30929,7 +30929,7 @@
       ]
     },
     "758140166": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "mutel15",
       "originals_sha256": [
@@ -30940,7 +30940,12 @@
         "f1d3a17dc641fa8a5e7142cc7e08e7509de4ae69fb2773715ad4768a50d117e1"
       ],
       "before_count": 5,
-      "task_id": 6109052769
+      "task_id": 6109052769,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
