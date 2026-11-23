@@ -30771,7 +30771,7 @@
       ]
     },
     "756654846": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM9",
       "originals_sha256": [
@@ -30780,7 +30780,12 @@
         "37d49c0e51d8bc372c03d1906cd155252c2672f9b8fa40eac2f0ebbe859d3a81"
       ],
       "before_count": 3,
-      "task_id": 6109036747
+      "task_id": 6109036747,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
