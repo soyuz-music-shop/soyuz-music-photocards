@@ -37372,6 +37372,17 @@
         0.0,
         0.0
       ]
+    },
+    "1104068021": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ESTV 1",
+      "originals_sha256": [
+        "8f3423fdccde7cd834b1e90946ce24ad070d703897b2277d6b082d1d56f763d4",
+        "d50079888562d9613232b6de48358210cd4fb0146f6c5fb732a91365eade0ba3",
+        "4ee6abbc0bf477a93283d6f39d30cab4d2dc5878bd90262c00b6aa16554a37e0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
