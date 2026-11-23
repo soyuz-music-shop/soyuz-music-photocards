@@ -53466,14 +53466,19 @@
       ]
     },
     "3017887588": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 550010",
       "originals_sha256": [
         "8877faca667209cac4f1bc799a50789643860148eb83454240e0057dcf4956f5"
       ],
       "before_count": 1,
-      "task_id": 6111507161
+      "task_id": 6111507161,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
