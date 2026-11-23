@@ -28367,6 +28367,17 @@
         0.0,
         0.0
       ]
+    },
+    "639314721": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RNS27015675",
+      "originals_sha256": [
+        "7dff6c355365657f7d1f38f6550b4858e7bfb452ca63f2777df71472850cc39c",
+        "c60937b416566f9c417e4986d35cf2c5255f75ba780c899382dae02605e49aac",
+        "22f96b37f8fcf316c6698724d66e4a57f411fdf23ed394a8aa97894ec4274a4b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
