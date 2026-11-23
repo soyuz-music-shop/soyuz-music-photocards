@@ -29152,14 +29152,15 @@
       ]
     },
     "696401149": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219975629",
       "originals_sha256": [
         "7f52c647ac38c5cde0d579f44e5b7746d4b931c289fef518ce8e53be7d538cec",
         "1d4ec2bd858a837a26e31e8ef08124dc0bff67d49e0f4d04a68fe9058e26a5b2"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108870999
     }
   },
   "reason": null,
