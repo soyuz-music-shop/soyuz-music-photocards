@@ -27811,7 +27811,7 @@
       ]
     },
     "616577905": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DS98714980",
       "originals_sha256": [
@@ -27821,7 +27821,12 @@
         "825ee1ee664f9a9916ec4dc738a7a075a723e5ddf1efc865a715e5bec50f5f63"
       ],
       "before_count": 4,
-      "task_id": 6108713782
+      "task_id": 6108713782,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
