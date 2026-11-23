@@ -43876,6 +43876,16 @@
         0.0,
         0.0
       ]
+    },
+    "1725275501": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CK 62240",
+      "originals_sha256": [
+        "5ec31a8364b2cfc6d7a8cb915a91433a769886ba7bda7fa39a6d049691a053f5",
+        "b2a64b8de39c5bc92d11b3b6d0df5fd63c436cf194088fc6302d105985894ba5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
