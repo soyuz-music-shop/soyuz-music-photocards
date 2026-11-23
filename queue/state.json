@@ -39150,6 +39150,16 @@
         0.0,
         0.0
       ]
+    },
+    "1208010887": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SCR75926824",
+      "originals_sha256": [
+        "965e138cfcdf7dd54e7103223af78a32bdefa7bf6580f2a686b0812db63247b8",
+        "f7b37e1e2d6e97d510801d22be55c654a923ad7bb7a7f1613439badfc04b4e10"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
