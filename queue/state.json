@@ -27710,7 +27710,7 @@
       ]
     },
     "613070968": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TFE67443392",
       "originals_sha256": [
@@ -27719,7 +27719,12 @@
         "746d6a384b902e8c90fcd807b0d0fa9c3903e8dc6011adab11201ed47bac69ac"
       ],
       "before_count": 3,
-      "task_id": 6108698299
+      "task_id": 6108698299,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
