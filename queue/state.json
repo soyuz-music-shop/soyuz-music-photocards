@@ -33713,7 +33713,7 @@
       ]
     },
     "884998076": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP518",
       "originals_sha256": [
@@ -33721,7 +33721,12 @@
         "01d5f794a8c0849bdb5f7fb47ddd4c25b67fc89fb8fe68e26869dbf0b6e5f78f"
       ],
       "before_count": 2,
-      "task_id": 6109392463
+      "task_id": 6109392463,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
