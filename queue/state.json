@@ -43843,6 +43843,16 @@
         0.0,
         0.0
       ]
+    },
+    "1725112976": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBKEC24895219",
+      "originals_sha256": [
+        "f63cb5ec671b866263e23c0ff97ff97581d89eec5428500e7b29c3c585f47b16",
+        "c7be2fc8b22d91afbfbaa6e2d854fdd32ede013fa030195f72a0907f63b528e8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
