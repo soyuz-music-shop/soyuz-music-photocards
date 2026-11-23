@@ -30347,7 +30347,7 @@
       ]
     },
     "741981844": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ARCH88004117",
       "originals_sha256": [
@@ -30355,7 +30355,12 @@
         "1f697ac2a5820c008691b9f1e0c62443758e99ae1bd347c11e233b43f0eecc76"
       ],
       "before_count": 2,
-      "task_id": 6108994488
+      "task_id": 6108994488,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
