@@ -54389,6 +54389,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137685": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SA742001",
+      "originals_sha256": [
+        "dfd75b93ef136d88970643e9345b6f2233364bbfae2a6fbc7bfeeb0db72e1928"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
