@@ -51584,14 +51584,19 @@
       ]
     },
     "3006476094": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "tplp15ltd",
       "originals_sha256": [
         "b9f5ac90c441971af8317c6a8299a92bd24c0bc284c10ba53ea7fb17ef64c24d"
       ],
       "before_count": 1,
-      "task_id": 6111376602
+      "task_id": 6111376602,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
