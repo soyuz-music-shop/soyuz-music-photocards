@@ -24407,7 +24407,7 @@
       ]
     },
     "469386357": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BTLS45599523",
       "originals_sha256": [
@@ -24415,7 +24415,12 @@
         "cc0e4bced32df7eaf6778ae019d5fc82a9feaf8653b122ff217b38efd2a471ee"
       ],
       "before_count": 2,
-      "task_id": 6107248099
+      "task_id": 6107248099,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
