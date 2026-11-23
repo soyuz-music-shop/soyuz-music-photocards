@@ -28159,14 +28159,19 @@
       ]
     },
     "621325542": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RS71211914",
       "originals_sha256": [
         "88b6348a9e94f1a5038ad713406f91d2572b56fa5ca4ab5bf0782fdf456931ad"
       ],
       "before_count": 1,
-      "task_id": 6108758403
+      "task_id": 6108758403,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
