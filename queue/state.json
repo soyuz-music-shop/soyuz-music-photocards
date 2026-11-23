@@ -45397,13 +45397,14 @@
       ]
     },
     "2153660841": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDXSTUMM34",
       "originals_sha256": [
         "1eb24e735df33677703c081be5de4ba6102caef7e71bfb529958961d15099bf1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110747165
     }
   },
   "reason": null,
