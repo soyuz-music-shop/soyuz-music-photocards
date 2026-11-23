@@ -52413,6 +52413,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277630": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCVI 727877",
+      "originals_sha256": [
+        "6cbb8e9b4545e847872611e97be877d2ce0cd5e79014e2bd5f248d2275c49c15"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
