@@ -34110,7 +34110,7 @@
       ]
     },
     "908270097": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0679LP",
       "originals_sha256": [
@@ -34119,7 +34119,12 @@
         "d2e65da90be28acb451d160277273d4afc5a2a287eef40a05545edef09969bea"
       ],
       "before_count": 3,
-      "task_id": 6109447809
+      "task_id": 6109447809,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
