@@ -45432,14 +45432,19 @@
       ]
     },
     "2153691780": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ANMLS32442697",
       "originals_sha256": [
         "1a82a38a7720eb3ec2a753a1cb88a8a704eddbc8c20394320f56befa513a3a06"
       ],
       "before_count": 1,
-      "task_id": 6110749718
+      "task_id": 6110749718,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
