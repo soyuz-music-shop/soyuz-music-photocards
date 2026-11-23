@@ -36980,7 +36980,7 @@
       ]
     },
     "1091674430": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JCQ020015",
       "originals_sha256": [
@@ -36988,7 +36988,12 @@
         "eb9be59b1254367131705a1cdf5d4bb594ff685e1deaa826d2830e1ae19a2360"
       ],
       "before_count": 2,
-      "task_id": 6109874680
+      "task_id": 6109874680,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
