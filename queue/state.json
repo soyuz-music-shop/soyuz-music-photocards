@@ -33992,6 +33992,17 @@
         0.0,
         0.0
       ]
+    },
+    "900238507": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ABKCO 8584-1",
+      "originals_sha256": [
+        "1be5feae73fdd23d2694449a12bb62dd4448a245ca78980ff16e2a9852596539",
+        "20abb00268e6700e2059b147702c57ce00e5b3be857a03e5486a581c8af32717",
+        "8480b37ec6ce5afcfd4051104fdbee633d75153494a45ca971cc6ec998307703"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
