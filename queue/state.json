@@ -42691,7 +42691,7 @@
       ]
     },
     "1564014639": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TBKS97955552",
       "originals_sha256": [
@@ -42699,7 +42699,12 @@
         "74b8a2ae210b82d353430e7bc34d86eb2f0efb108de713e2002b9da987293202"
       ],
       "before_count": 2,
-      "task_id": 6110553174
+      "task_id": 6110553174,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
