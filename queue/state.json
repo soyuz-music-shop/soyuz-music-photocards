@@ -29186,7 +29186,7 @@
       ]
     },
     "699168478": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN 2045",
       "originals_sha256": [
@@ -29203,7 +29203,8 @@
         "db4bae3020b18219ed763c6f5ee32c2037a924facae6335c6bc7a5c9578ea02d",
         "330434be279d88ca183be1d6b53d0fd189ba21d07aadda8ba35bb4978235ee9d"
       ],
-      "before_count": 12
+      "before_count": 12,
+      "task_id": 6108875803
     }
   },
   "reason": null,
