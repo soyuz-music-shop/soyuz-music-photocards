@@ -40280,7 +40280,7 @@
       ]
     },
     "1261247385": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HES48102027",
       "originals_sha256": [
@@ -40288,7 +40288,8 @@
         "d6f1c16d0c50f72636b79507689ad1aac9aca8d71e8a8b89f4dc02656fbe2973",
         "87597147608d04be30558021113ed7c38f558bd29b90b80ea0360a740f3a603d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110312042
     }
   },
   "reason": null,
