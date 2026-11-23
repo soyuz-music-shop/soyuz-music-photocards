@@ -27302,7 +27302,7 @@
       ]
     },
     "581759710": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ESH97419102",
       "originals_sha256": [
@@ -27314,7 +27314,12 @@
         "6bff6181710149d7539c732c2e30319b0818d917d534586e4206be62ad07a70f"
       ],
       "before_count": 6,
-      "task_id": 6108642954
+      "task_id": 6108642954,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
