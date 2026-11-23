@@ -30284,7 +30284,7 @@
       ]
     },
     "739681617": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JP53907915",
       "originals_sha256": [
@@ -30292,7 +30292,12 @@
         "52bb1a252156fc8d4b1f9cb2ae043352a7726b50e65227272294b1cc2380114a"
       ],
       "before_count": 2,
-      "task_id": 6108988676
+      "task_id": 6108988676,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
