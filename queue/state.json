@@ -38785,6 +38785,17 @@
         0.0,
         0.0
       ]
+    },
+    "1199357380": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TTB97645709",
+      "originals_sha256": [
+        "a2988c23670bf04cc2b148df049a11906bfe1ce2a79df78f811d9127b4ff62fc",
+        "c6ea588e0df9217f0d37cd63f0e62f8fa9b1367a8011d8c6fd05f5276a424c8e",
+        "6f040fb727c370cae0a64d86893943c2c43a50c5bdf56e4a3e080fe6a25a10af"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
