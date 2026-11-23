@@ -43387,6 +43387,15 @@
         0.0,
         0.0
       ]
+    },
+    "1675370425": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OTTT34",
+      "originals_sha256": [
+        "3dc2bf191f1d5c932eddb812ccaa3823617a35a9bea8c555915d424d1ff123e2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
