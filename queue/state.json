@@ -52490,14 +52490,19 @@
       ]
     },
     "3013277643": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BEP380573",
       "originals_sha256": [
         "927b3f50fca0159aad9a754ecaee1b1768de2bb51616b96a590b4899422aa84c"
       ],
       "before_count": 1,
-      "task_id": 6111445437
+      "task_id": 6111445437,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
