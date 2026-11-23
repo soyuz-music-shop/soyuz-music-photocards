@@ -50090,6 +50090,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005737048": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VPC 85251",
+      "originals_sha256": [
+        "b34dd6f91cb31205486bd3b1512937fe5fda272861483a06de070da8a668b9c7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
