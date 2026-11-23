@@ -35465,6 +35465,18 @@
         0.0,
         0.0
       ]
+    },
+    "1043724416": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SLD710528",
+      "originals_sha256": [
+        "9693dc390c2a23a0297258331ed8219c2c779f600c9dffd4eeb452b89a9daddc",
+        "0ec6859852695f8ea912db39855a8354acc44af333de9aafc48f2ab297c5eee9",
+        "66775018fcd906547d1cf506b889f2073149a9e31d769f698c82af4052d67a10",
+        "ec8c0ee5006bc7c1e5cc7544652f8af7bc96098fe6d5b1159f6f77166b21c650"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
