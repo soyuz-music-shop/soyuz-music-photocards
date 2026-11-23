@@ -38142,6 +38142,20 @@
         0.0,
         0.0
       ]
+    },
+    "1154601137": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LINP853343",
+      "originals_sha256": [
+        "f02073e21ae4502397846474763ebf07388f401353c6387d61cbe29d82056e6c",
+        "cf33443fcf582c097af91f04af3ffae395406086b3bdab249d907973d367d453",
+        "60bebcf6a3f849e73f5e019883099c9a610a2b1431a32a98fa4bd094b91cd2c5",
+        "7ce350fb30715d5dbf656b29d9511e1b4fe935c9e0907010b2e99ec93b0db0b6",
+        "5184565fe1a0d8acc6e36e559473f603482e3bc25bfb0f8ab13b474e4f687a41",
+        "ca1939698f26ad05881610d1ab616c28f722ad2250fe736504a20e413817d9e0"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
