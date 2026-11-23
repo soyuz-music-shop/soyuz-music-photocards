@@ -45365,14 +45365,15 @@
       ]
     },
     "2153660836": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDMUTEL11X",
       "originals_sha256": [
         "d8be97cf2ae5c0061bb8b0660fa544cb68022a3d0afb0abe20b9d73fe188345d",
         "53f62d75e8e64d6878e285d4bb0b1cb02dd9bfff916f5f2554abfe7f1049d704"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110744921
     }
   },
   "reason": null,
