@@ -41882,6 +41882,17 @@
         0.0,
         0.0
       ]
+    },
+    "1491358018": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CML45682966",
+      "originals_sha256": [
+        "6cfe81d9c5e80d01b79712e60c218e9b955fd1e7f3e0da42e44dcca5835feb23",
+        "60ea3dc1696a58f52291651b721e503d36ab6c6a8af2a9ee3646f81fdecdd614",
+        "8cf692760618b198319d4f8b030728ebd008b28681b7b396ddeb0cc52c70c892"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
