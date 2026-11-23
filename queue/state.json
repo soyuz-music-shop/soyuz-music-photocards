@@ -28222,14 +28222,15 @@
       ]
     },
     "629098454": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RS71212010",
       "originals_sha256": [
         "2f283a13866781d8f637167fc4d3d877b954b365e0a0db4c208202ff32aa1bf9",
         "e35f2f823e16ea51400315151c7d9fa33e54e7d5ca9ed1fa51746b650a9c3231"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108764739
     }
   },
   "reason": null,
