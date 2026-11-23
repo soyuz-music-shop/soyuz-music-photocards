@@ -52551,14 +52551,19 @@
       ]
     },
     "3013277659": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MSP593410",
       "originals_sha256": [
         "e8566f41c850d83ecd7d339b776099c6b46648b5029cf4e850b4f0c52defbf4b"
       ],
       "before_count": 1,
-      "task_id": 6111451205
+      "task_id": 6111451205,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
