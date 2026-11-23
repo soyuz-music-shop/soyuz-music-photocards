@@ -36797,7 +36797,7 @@
       ]
     },
     "1089512531": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GD909187",
       "originals_sha256": [
@@ -36805,7 +36805,12 @@
         "c356846c04e0e7f2b4329a8956d3793fcf2c1ac32e3854445086dee99a2b8180"
       ],
       "before_count": 2,
-      "task_id": 6109848463
+      "task_id": 6109848463,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
