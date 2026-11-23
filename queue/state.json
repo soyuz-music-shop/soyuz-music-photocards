@@ -24208,7 +24208,7 @@
       ]
     },
     "460973403": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GM98570914",
       "originals_sha256": [
@@ -24219,7 +24219,12 @@
         "148cd734a1d69160da2274bdbf2eabcd99fc4428cfd329ff495f6c4d8aff4748"
       ],
       "before_count": 5,
-      "task_id": 6107204018
+      "task_id": 6107204018,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
