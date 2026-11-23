@@ -42879,7 +42879,7 @@
       ]
     },
     "1575603313": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PL9-02",
       "originals_sha256": [
@@ -42888,7 +42888,12 @@
         "cc62ccab548684d6ba9b65d506c72ac27b32af57b5e7fe3e573f31594a1fd6ed"
       ],
       "before_count": 3,
-      "task_id": 6110566998
+      "task_id": 6110566998,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
