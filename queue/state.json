@@ -32199,7 +32199,7 @@
       ]
     },
     "849687047": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SMO8765072427",
       "originals_sha256": [
@@ -32207,7 +32207,12 @@
         "7732175390022a68846c66b954126dca452fcfd9d8282b0bf0e6c3b0cc75078f"
       ],
       "before_count": 2,
-      "task_id": 6109200616
+      "task_id": 6109200616,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
