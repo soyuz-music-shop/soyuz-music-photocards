@@ -30842,7 +30842,7 @@
       ]
     },
     "756805114": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM190",
       "originals_sha256": [
@@ -30850,7 +30850,12 @@
         "6c6505b2a2087503f34b12e6d9464d218809a6050b2b959eb8d58302b02eddeb"
       ],
       "before_count": 2,
-      "task_id": 6109043730
+      "task_id": 6109043730,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
