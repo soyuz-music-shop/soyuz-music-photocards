@@ -47460,6 +47460,15 @@
         0.0,
         0.0
       ]
+    },
+    "2410549474": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BEGS84733922",
+      "originals_sha256": [
+        "4c2f036f3af1d429aeba961191c984859d45534c963011c29b629f8e0f33844d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
