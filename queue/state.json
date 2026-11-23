@@ -26533,6 +26533,17 @@
         0.0,
         0.0
       ]
+    },
+    "542450104": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NZ38801392",
+      "originals_sha256": [
+        "adeb35fe108326030eb46cd8cc0a57346300f07c737783a1d5e2c54927c76024",
+        "127fad829e71e730cf9af6e876e1226bebfb2e0e2462704599a96cfb890ed228",
+        "479cfd2ca60717093176fe1d84af48aabaed371f3bb479360a3832f0f1010097"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
