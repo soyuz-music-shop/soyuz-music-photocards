@@ -28936,6 +28936,19 @@
         0.0,
         0.0
       ]
+    },
+    "660229905": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2097",
+      "originals_sha256": [
+        "85f4f1bc930c898cd57d3ae495f0a3e4972c81446dd00204ea478d17b4346e61",
+        "0d5d3038398f7afbc1b22ca49a5f52984ff5d10bac0a854f5b3b4c2849a41b38",
+        "271e86a18800caefc4054f6c9a17352ca3047ac1498a097a0c0d2951e7b37084",
+        "1cb0dc6b8eb99b0e9c74e9b7c1db9ddcdcb761637abf2b0b471e0ba4d6af4724",
+        "ce11d5b76b392adefee86db69678cab0984e542b6385449026c8ceb9e468fa3a"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
