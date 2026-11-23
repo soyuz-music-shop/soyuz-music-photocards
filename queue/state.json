@@ -52355,13 +52355,14 @@
       ]
     },
     "3013277604": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP769",
       "originals_sha256": [
         "f1df62f6a826e3151dc539ed6bdc4da25afd236723a3967129fd69d00b24c268"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111434998
     }
   },
   "reason": null,
