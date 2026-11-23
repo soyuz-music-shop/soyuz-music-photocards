@@ -55425,14 +55425,15 @@
       ]
     },
     "3130011287": {
-      "status": "submitted",
+      "status": "needs_review",
       "variant": "import-vinyl-info",
       "offer_id": "STEPLP 233",
       "originals_sha256": [
         "4daf648619df6506ae834bb6a6e2e12909f6e6f796eccc2fed569a00b2030497"
       ],
       "before_count": 1,
-      "task_id": 6111643389
+      "task_id": 6111643389,
+      "task_status": "rejected"
     }
   },
   "reason": null,
