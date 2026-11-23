@@ -21,6 +21,7 @@ jobs:
         run: |
           $ErrorActionPreference = 'Stop'
           $scripts = @(
+            'web-bridge/cloud-windows/BOOTSTRAP.ps1',
             'web-bridge/cloud-windows/INSTALL_ONE_CLICK.ps1',
             'web-bridge/cloud-windows/SETUP_TUNNEL.ps1',
             'web-bridge/cloud-windows/CHECK_CLOUD.ps1',
