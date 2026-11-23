@@ -39848,7 +39848,7 @@
       ]
     },
     "1239625356": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PMAW35611730",
       "originals_sha256": [
@@ -39856,7 +39856,8 @@
         "65cfd0811186f92427044bae87def073bb923552e88a0677e209a01bc40e4cda",
         "5849ea35d42f4b81be2293d0f8cbee1b7cfd1c6c051aac4f76b7e9c147ac7baa"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110246953
     }
   },
   "reason": null,
