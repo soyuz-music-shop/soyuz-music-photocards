@@ -23753,6 +23753,17 @@
         0.0,
         0.0
       ]
+    },
+    "451302832": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PSB190295823085",
+      "originals_sha256": [
+        "6d49cb0e06f42a5e8f2e62315b67ae83bc106fcc6e612d7d6258753519658467",
+        "833b4f03cc3ef60303f42c57eea33a527f47f49854afe95dc7cc2d0974761fef",
+        "ed766364f070a24df27fdc5b9ce271febe9826f6aaf97a5d5e383a5a0bf40418"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
