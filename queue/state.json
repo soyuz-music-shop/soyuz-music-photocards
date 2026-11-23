@@ -27460,6 +27460,17 @@
         0.0,
         0.0
       ]
+    },
+    "586314418": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPSEEDS9",
+      "originals_sha256": [
+        "59422f2e41c4c7789624dffa834371e491e2c42647eda3b9386ed6000c7e6f45",
+        "fe19786d1803fb5d8fae80f6fc3e25ac2d2dd23c6e17f398092ac3ecaeef1212",
+        "fe86c853be036d0d568839488d07035a02beba56af605a449fa8eb7af57738cb"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
