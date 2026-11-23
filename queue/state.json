@@ -29708,13 +29708,14 @@
       ]
     },
     "724983090": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SRD00406598",
       "originals_sha256": [
         "8baec10ef0e5a1d37dc23faa98c4859ec477f3ac8dbccc74fa4ca74ee6008f35"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108931560
     }
   },
   "reason": null,
