@@ -38605,6 +38605,16 @@
         0.0,
         0.0
       ]
+    },
+    "1191276703": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TN97555343",
+      "originals_sha256": [
+        "b482637f11a54e2b9bc6e32fc5a379620aaf178c3d2bd07bf29bcf5ae2761c24",
+        "ab4c2392f8ad7020659ddeb6fc465a2a8c31223ed8147950dc0d03fd2fe748d8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
