@@ -46184,6 +46184,15 @@
         0.0,
         0.0
       ]
+    },
+    "2179747551": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DFPK97177897",
+      "originals_sha256": [
+        "b4fbb23bebff33914840d24dd99a005c3f31e9b096a6cd9562a9d3ce846a2a35"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
