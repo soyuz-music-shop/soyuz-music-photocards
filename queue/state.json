@@ -43184,7 +43184,7 @@
       ]
     },
     "1659365117": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BYG 529.345 CD",
       "originals_sha256": [
@@ -43192,7 +43192,12 @@
         "d4406da1d35093bac7d222dc7b9892ef3391ab3af7afdb804a87855485359204"
       ],
       "before_count": 2,
-      "task_id": 6110590959
+      "task_id": 6110590959,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
