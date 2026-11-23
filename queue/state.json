@@ -44950,7 +44950,7 @@
       ]
     },
     "1866061464": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 72580",
       "originals_sha256": [
@@ -44959,7 +44959,12 @@
         "355f9c4e7de2cf67125d0917a589359518976ca6f8fb22390cd7ec33fc8b4e5f"
       ],
       "before_count": 3,
-      "task_id": 6110713030
+      "task_id": 6110713030,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
