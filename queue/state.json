@@ -55968,14 +55968,19 @@
       ]
     },
     "3137360259": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAD 8004 CD",
       "originals_sha256": [
         "3220923de4be1dc2bca589bf79633ce3d0ecc859134895415f857c6726cd90e2"
       ],
       "before_count": 1,
-      "task_id": 6111672797
+      "task_id": 6111672797,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
