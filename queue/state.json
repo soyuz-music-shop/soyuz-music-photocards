@@ -44933,7 +44933,7 @@
       ]
     },
     "1865920837": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD 0642LP",
       "originals_sha256": [
@@ -44942,7 +44942,12 @@
         "3a1b36f5d9ea576a10bb859004a101b6d2ab786a60b705fed3f174c33e0b09cf"
       ],
       "before_count": 3,
-      "task_id": 6110711724
+      "task_id": 6110711724,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
