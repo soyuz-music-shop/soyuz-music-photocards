@@ -29184,6 +29184,26 @@
         0.0,
         0.0
       ]
+    },
+    "699168478": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2045",
+      "originals_sha256": [
+        "d418aa40a3046013dbc7208493cfa5366dfb217539f826938e88efebc1c08b1b",
+        "9a730915e2ea2152afc8fa872d439385d29dbefaf8549ef2d9bf9b19ff652ecf",
+        "f5f4ec74df62b564054a6f78042d29b3d934a15978ade1de74a19c4712d16113",
+        "5c47362557498f7de442e77fd2a86d48f9b8b26352d870304f0107073f0c8177",
+        "9997d3e7ba74a8652b278e1b3ea1eade7690cfd47b1cecafb6c39acd041e5624",
+        "252ea6fbdb652aa2c43ee988f81439e9f316935f9b05b2212fbdc53ab131a732",
+        "9a0f2f2ad5f0285304beb4249ba49bf4e00f4626c68b4ae2e4169cc516bcfd25",
+        "5ffef30ca190a792e5a2cb58987e20e0748a9e09fb95c5831d5588741f4469a9",
+        "3d0e97644db7268eb9275a73bcc8dc5262288c928bf4b22d07a61db18d7cc2b4",
+        "cb3b08b22c147e0109082bedd528d5c79d6fa7948ad5151360665ed927cacfb2",
+        "db4bae3020b18219ed763c6f5ee32c2037a924facae6335c6bc7a5c9578ea02d",
+        "330434be279d88ca183be1d6b53d0fd189ba21d07aadda8ba35bb4978235ee9d"
+      ],
+      "before_count": 12
     }
   },
   "reason": null,
