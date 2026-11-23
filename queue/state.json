@@ -51552,6 +51552,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476048": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TEB811570",
+      "originals_sha256": [
+        "dc2f4026d139863f0a7eb75233e01f5e6c6744cdcbc1ebd6501cab10a0e51c93"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
