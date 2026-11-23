@@ -1,6 +1,6 @@
 name: SOYUZ PhotoCards — автоматическая очередь до конца каталога
 # Individual product errors are quarantined, reported, and never automatically retried.
-# Restart guarded queue after successful 17-test validation on 2026-11-23.
+# Restart guarded queue with fail-closed Git push conflict handling on 2026-11-23.
 
 on:
   workflow_dispatch:
