@@ -43402,6 +43402,16 @@
         0.0,
         0.0
       ]
+    },
+    "1675510967": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RATM54704515",
+      "originals_sha256": [
+        "f3c79d4001fc8743de051e795a8e179b2d50fc4632ebdd452e9f3cd325bb166e",
+        "67342156581a6e062e4ac9fa357cc2cea023a7350adda0befa0344cba486d50f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
