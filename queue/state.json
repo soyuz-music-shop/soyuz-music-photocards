@@ -39556,7 +39556,7 @@
       ]
     },
     "1218030130": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KRFT96601914",
       "originals_sha256": [
@@ -39565,7 +39565,12 @@
         "b8c4e9740ccd6f3b4c4c71ef77493444047abf528ddf5d1814bde515b9fad23d"
       ],
       "before_count": 3,
-      "task_id": 6110216463
+      "task_id": 6110216463,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
