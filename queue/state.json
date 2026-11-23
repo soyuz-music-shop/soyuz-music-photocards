@@ -46608,14 +46608,19 @@
       ]
     },
     "2188878750": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RAMM35871318",
       "originals_sha256": [
         "6c6f587552fdf9d37c2c757b6b3774d48bc4a70649cb283db9576ed5bf44b187"
       ],
       "before_count": 1,
-      "task_id": 6110852870
+      "task_id": 6110852870,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
