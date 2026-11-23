@@ -47331,7 +47331,7 @@
       ]
     },
     "2363085669": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ENMR38860822",
       "originals_sha256": [
@@ -47340,7 +47340,12 @@
         "72e3af169309393cc202c6be79d059a01ddf0d2466792e7cb4eb715c00c8e7f6"
       ],
       "before_count": 3,
-      "task_id": 6110910867
+      "task_id": 6110910867,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
