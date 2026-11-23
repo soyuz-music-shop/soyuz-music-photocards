@@ -39914,14 +39914,15 @@
       ]
     },
     "1240842015": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4610297800687",
       "originals_sha256": [
         "b493bfab7fca8c97e7b7c42933f1926dbeb89ff26d158aad605236f8cfb60c56",
         "2d5219231985bc3c19ee7ec4b6eb2d3a9d9eb753f0aa644171b2dd039a016d2e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110253279
     }
   },
   "reason": null,
