@@ -52732,6 +52732,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277764": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "V 3197",
+      "originals_sha256": [
+        "3d2d5180c345ecbb57e41eb43959cc2a9fd53f3504545c132857e951d76e9666"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
