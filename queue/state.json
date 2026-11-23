@@ -43216,7 +43216,7 @@
       ]
     },
     "1664887086": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT844CDX",
       "originals_sha256": [
@@ -43224,7 +43224,8 @@
         "6f3816da105b09aa81698978150558d1348ffd904eafa51e6c5a480874788aa1",
         "94b24fc71b5464b6dd6b962297c686fd44a2301710eab3758ea93e76a88dad93"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110593277
     }
   },
   "reason": null,
