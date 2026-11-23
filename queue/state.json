@@ -43120,7 +43120,7 @@
       ]
     },
     "1627547784": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TRSOH71886921",
       "originals_sha256": [
@@ -43128,7 +43128,12 @@
         "7320ee5479111cadea5b016c0254893e2326a975440394d92f2b24a842cb5ede"
       ],
       "before_count": 2,
-      "task_id": 6110586067
+      "task_id": 6110586067,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
