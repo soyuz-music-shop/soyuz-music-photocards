@@ -41462,13 +41462,14 @@
       ]
     },
     "1460018287": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CLN2410",
       "originals_sha256": [
         "116213161169a29ce41cdc0eb9effa09180da37ac3ddefef1c53754685432023"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110444833
     }
   },
   "reason": null,
