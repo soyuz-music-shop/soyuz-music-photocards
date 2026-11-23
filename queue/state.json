@@ -28751,7 +28751,7 @@
       ]
     },
     "653112222": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT203CDX",
       "originals_sha256": [
@@ -28759,7 +28759,8 @@
         "ba455f44c438f5dd7f38aa3e5da067cebf59f6a086fadbf9ebbb0b1bd946ae87",
         "6bf3a61eff9764f855cf8a21091c019266e884fc0b62277f7a7119cc310d20f1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108820838
     }
   },
   "reason": null,
