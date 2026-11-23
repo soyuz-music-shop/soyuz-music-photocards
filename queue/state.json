@@ -31351,7 +31351,7 @@
       ]
     },
     "782279559": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RJD38769319",
       "originals_sha256": [
@@ -31361,7 +31361,12 @@
         "ce17f10c414c3c759ab026f28087373508f6f218a02573861c199c21341f5256"
       ],
       "before_count": 4,
-      "task_id": 6109100115
+      "task_id": 6109100115,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
