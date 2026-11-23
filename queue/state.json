@@ -26889,7 +26889,7 @@
       ]
     },
     "557944540": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT542LPC",
       "originals_sha256": [
@@ -26899,7 +26899,12 @@
         "34f9a4119f9b06c9c808fded203dc85e4a8c5f28cfc6327ce4fcc720e55dc6ce"
       ],
       "before_count": 4,
-      "task_id": 6108585257
+      "task_id": 6108585257,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
