@@ -46438,14 +46438,19 @@
       ]
     },
     "2188669209": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP 2026",
       "originals_sha256": [
         "aeade12dbbefc5780910dae7be8688cb57eba6702b2b115b0ecf2ef8e9472639"
       ],
       "before_count": 1,
-      "task_id": 6110837639
+      "task_id": 6110837639,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
