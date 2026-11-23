@@ -27778,7 +27778,7 @@
       ]
     },
     "616541248": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JRA93971",
       "originals_sha256": [
@@ -27787,7 +27787,12 @@
         "cd660f7392767af7668a5d2543817869ecbb0b3924fe826637b415a100b5b8dd"
       ],
       "before_count": 3,
-      "task_id": 6108709437
+      "task_id": 6108709437,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
