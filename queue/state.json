@@ -46837,7 +46837,7 @@
       ]
     },
     "2202165680": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT831CD",
       "originals_sha256": [
@@ -46846,7 +46846,12 @@
         "1a3528697689a833bbbc9952a9898d0058aab17790ecdbbdd4f0c1bad89637e3"
       ],
       "before_count": 3,
-      "task_id": 6110871099
+      "task_id": 6110871099,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
