@@ -24258,6 +24258,15 @@
         0.0,
         0.0
       ]
+    },
+    "464350049": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RMST27296630",
+      "originals_sha256": [
+        "ca726af02274f84c2f19e002377deac6e2acca7499cf67efe45324c2de1c1039"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
