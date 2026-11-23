@@ -54330,14 +54330,15 @@
       ]
     },
     "3033137585": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PF768625",
       "originals_sha256": [
         "329decde27af139e4eddbc4d613b6b48a88e1dd1f288ea9b20ef4a6407841104",
         "d1bac06748666b0beb795abdcb824be0b7f18113d79d5af560f7f92ef7edd24e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111565976
     }
   },
   "reason": null,
