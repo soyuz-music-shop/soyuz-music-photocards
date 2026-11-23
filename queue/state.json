@@ -32463,6 +32463,16 @@
         0.0,
         0.0
       ]
+    },
+    "860634189": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRTLP008D",
+      "originals_sha256": [
+        "c44621864f494673099c12f57db5395c51ea963dc418cd457754ed56b0ef4866",
+        "6b91c463e42c8bdef09b765f773c507a39ffa92549dbf6a815196b2aa69cad97"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
