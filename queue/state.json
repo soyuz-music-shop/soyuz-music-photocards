@@ -54282,6 +54282,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137556": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SM219728",
+      "originals_sha256": [
+        "2967f65c042f28a50d750ca9d069ee96e6ea1095d08910e6354486697c63f3bb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
