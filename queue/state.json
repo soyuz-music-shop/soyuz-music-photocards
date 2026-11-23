@@ -53205,7 +53205,7 @@
       ]
     },
     "3013420820": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PAMPALP016",
       "originals_sha256": [
@@ -53213,7 +53213,12 @@
         "7dce6a2780f220e524ef47f15973c2c06c440c69bcb9ba7e7de5c693a0a54205"
       ],
       "before_count": 2,
-      "task_id": 6111494424
+      "task_id": 6111494424,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
