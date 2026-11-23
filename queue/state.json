@@ -52965,13 +52965,14 @@
       ]
     },
     "3013420748": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE2108LP",
       "originals_sha256": [
         "e52cbe033c54aab8c6f95f1b14b554d30f0dad42187c7424f8856d823bf6ba1d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111480217
     }
   },
   "reason": null,
