@@ -35449,7 +35449,7 @@
       ]
     },
     "1043705378": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SD076620",
       "originals_sha256": [
@@ -35459,7 +35459,12 @@
         "5c3fa26feb8abc01b5d21f80dc84e13c636a97ae396c3f5cf17b627a03203711"
       ],
       "before_count": 4,
-      "task_id": 6109634939
+      "task_id": 6109634939,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
