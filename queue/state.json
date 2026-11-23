@@ -49084,6 +49084,16 @@
         0.0,
         0.0
       ]
+    },
+    "2984310700": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EM917053",
+      "originals_sha256": [
+        "b665fc763c7cfa7bee2168dc1274f18ac0a7b4b2e4f4a2600dfbd84b992201f6",
+        "d56fa73dcabd47b423c808958f3bf25259f5c052ff61407a2f37ce7c1653d280"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
