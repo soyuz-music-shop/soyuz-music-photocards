@@ -29492,14 +29492,19 @@
       ]
     },
     "718696317": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FUF88178313",
       "originals_sha256": [
         "aed43027b01a7b98792b1b3be983617b4cb148679a1b9fb956e27a698a0bcd8f"
       ],
       "before_count": 1,
-      "task_id": 6108909192
+      "task_id": 6108909192,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
