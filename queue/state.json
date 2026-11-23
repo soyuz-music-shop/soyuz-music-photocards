@@ -31019,7 +31019,7 @@
       ]
     },
     "760943391": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NPR1132VINYL",
       "originals_sha256": [
@@ -31027,7 +31027,12 @@
         "29fc8e629710ae141ee3a74444085742261032e384ce882f05ea3d8fdbbe2ac6"
       ],
       "before_count": 2,
-      "task_id": 6109061782
+      "task_id": 6109061782,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
