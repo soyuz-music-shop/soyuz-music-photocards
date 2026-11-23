@@ -42756,6 +42756,20 @@
         0.0,
         0.0
       ]
+    },
+    "1568431451": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 91372",
+      "originals_sha256": [
+        "aba8b270ae0ad041cff8d36075adb6978c451ce87d00397d001fd0ef88f1c29c",
+        "8826fd8a3c613da571995fa8a73b3c8d88357a83b029b48fe23e3289af381aab",
+        "2e94206041d3000b4d18ba023d0f23dd2f0ea9f82d21e9be8e5a57408ffc8808",
+        "22707850b430dc0a28f09d418a91104faa691309dc535778916163c09bfee7d5",
+        "49a515b951a57dc72f276b4f498deb6448f084dab4e6ffb6ca1abad2494537d8",
+        "e3cb5e687986bca7276a339b3c2c030d8cb018755f6ea1ad0ed2c07b17a8afed"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
