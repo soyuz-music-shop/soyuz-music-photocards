@@ -32976,6 +32976,16 @@
         0.0,
         0.0
       ]
+    },
+    "869298657": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MT92595105",
+      "originals_sha256": [
+        "35083778d4c7a95d3eba44fb8f505c26a28ec8562636b181ef8a0caeddff5bf1",
+        "bcec9602d38844f89b8535bde92dad9314529a31b0baea56c7ae39cc7e330318"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
