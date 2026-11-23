@@ -38094,7 +38094,7 @@
       ]
     },
     "1153437805": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DLP943478",
       "originals_sha256": [
@@ -38102,7 +38102,12 @@
         "c67c792da193a638359ad89b0ef0086359d632526ff1c50caf7b4231cee62385"
       ],
       "before_count": 2,
-      "task_id": 6110029084
+      "task_id": 6110029084,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
