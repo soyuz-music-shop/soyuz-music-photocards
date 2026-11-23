@@ -47310,7 +47310,7 @@
       ]
     },
     "2363043200": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 49631",
       "originals_sha256": [
@@ -47323,7 +47323,12 @@
         "fc41307944426a4cdff24ede6f1baa0d06bde4fadc064c0aa865de9bb240ef20"
       ],
       "before_count": 7,
-      "task_id": 6110909558
+      "task_id": 6110909558,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
