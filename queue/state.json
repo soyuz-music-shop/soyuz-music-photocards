@@ -27674,6 +27674,16 @@
         0.0,
         0.0
       ]
+    },
+    "612902535": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TFE67443408",
+      "originals_sha256": [
+        "c22b0d582a72fccb89c2c178ee9a8551cf1770d197f4c251db096c4a8cc09beb",
+        "dfcde7641d4e3f1e8e757448fe03c644a1b37ad22963e1b7224bff053ea9841b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
