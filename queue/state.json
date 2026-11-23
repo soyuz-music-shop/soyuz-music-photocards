@@ -28887,6 +28887,17 @@
         0.0,
         0.0
       ]
+    },
+    "658604397": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2026",
+      "originals_sha256": [
+        "30b18bdb01b0a4836d0300352acec3990fe802e52f2e122402325e12fce87946",
+        "003d2c34324af7c58f405d581579a698ab85a60d8708d083bb922445f4267ead",
+        "8711c6d356d535b654572fe426bbc69c3a47a9d8fb0dc799b7bda3e30d7adc3e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
