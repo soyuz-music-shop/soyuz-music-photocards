@@ -30646,6 +30646,17 @@
         0.0,
         0.0
       ]
+    },
+    "756494025": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LCDSTUMM106",
+      "originals_sha256": [
+        "c738474ceedca4bce16d6a3141e904c1138ca580892585af4407ebb20ca122d4",
+        "299fc5b88c63150c3cbee68a82cf594dfbfe8e149d1f089c9e86a776349fe506",
+        "b58358c6e6a88295516e03614cff01ca904082b8f539bf00befdfa4422005600"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
