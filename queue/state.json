@@ -52579,6 +52579,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277661": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EN387517",
+      "originals_sha256": [
+        "67cef19fa6f77c3a8558491fbd0b1ec739000276f8711a1da1f8e77e0c4a5789"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
