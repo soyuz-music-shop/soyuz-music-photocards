@@ -30031,7 +30031,7 @@
       ]
     },
     "730477402": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GM77531927",
       "originals_sha256": [
@@ -30039,7 +30039,8 @@
         "4a257ea324490f9be6a67cabe0ae13563719125bd1a5e51f054b868d1cf2d106",
         "f301b21caff7f5359aa53e94cd111db463e3ee6635c8f21e37dde7e169939bf0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108964695
     }
   },
   "reason": null,
