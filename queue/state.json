@@ -22900,7 +22900,7 @@
       ]
     },
     "444605278": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD317E",
       "originals_sha256": [
@@ -22909,7 +22909,12 @@
         "f2d659cbf7bf16ff6d473c2fe68ae763f562d84c3d5475ebeedaddf27afe3cce"
       ],
       "before_count": 3,
-      "task_id": 6106910706
+      "task_id": 6106910706,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
