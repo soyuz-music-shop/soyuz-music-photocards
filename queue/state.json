@@ -25985,7 +25985,7 @@
       ]
     },
     "518154851": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DM87898120",
       "originals_sha256": [
@@ -25995,7 +25995,12 @@
         "cda969ba8a7f5aee1c68d4fa64146551e09b5849e01066e01577c1a393753dcb"
       ],
       "before_count": 4,
-      "task_id": 6107664073
+      "task_id": 6107664073,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
