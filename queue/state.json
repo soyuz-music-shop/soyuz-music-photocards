@@ -35413,6 +35413,16 @@
         0.0,
         0.0
       ]
+    },
+    "1043596365": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SD612521",
+      "originals_sha256": [
+        "8acfdc61a0c1135722d2f67b800cd20681f1911a8e5103675dd4967840bbb960",
+        "d3e8e5c12b870e5c38bedcfd02fb6c4ce7184664338f7d7f23fb30c11e830333"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
