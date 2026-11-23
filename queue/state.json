@@ -32673,7 +32673,7 @@
       ]
     },
     "864863283": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "fixcd 20",
       "originals_sha256": [
@@ -32681,7 +32681,12 @@
         "ea9d7425a602f3df64cfafa546467d541459c2d5fa5e0db1b8015247a430e899"
       ],
       "before_count": 2,
-      "task_id": 6109257837
+      "task_id": 6109257837,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
