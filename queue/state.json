@@ -29212,7 +29212,7 @@
       ]
     },
     "701031943": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ADC77483028",
       "originals_sha256": [
@@ -29221,7 +29221,8 @@
         "d9cabba279411e5bf90df87f0a894f0ff8c85b4a6f4394a747bb59fe96fd67c2",
         "d2a15bdd4e863774bd493e6d0beb02260319a3feae3f851d3d846f1ccf52ac8c"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108878773
     }
   },
   "reason": null,
