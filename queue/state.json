@@ -44899,7 +44899,7 @@
       ]
     },
     "1865624705": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP2633",
       "originals_sha256": [
@@ -44908,7 +44908,12 @@
         "cba7ac184d110afde1202d19bc4478be67370338e550383550bc79d91be66081"
       ],
       "before_count": 3,
-      "task_id": 6110709049
+      "task_id": 6110709049,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
