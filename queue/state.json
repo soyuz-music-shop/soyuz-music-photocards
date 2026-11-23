@@ -33066,6 +33066,16 @@
         0.0,
         0.0
       ]
+    },
+    "870024653": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OZZ48167927",
+      "originals_sha256": [
+        "fe204a20bc71c40dafc61401ec4afb6400c004346fd1a38c4c1a61b0346a9baa",
+        "01cf531de92acca97298a2457cd9bed9ab59a500f671116df4bee2c445835d08"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
