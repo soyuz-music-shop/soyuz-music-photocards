@@ -33939,6 +33939,19 @@
         0.0,
         0.0
       ]
+    },
+    "898209148": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TC99166413",
+      "originals_sha256": [
+        "8e9e0b098d2c80c2952e97d058c8850a3f846b72cd7c817ad5dc695446f8c484",
+        "de87be3dc84dd7a5d41a5f699a5faf1a76bd01ab9dbdeabf09e5c5d2bfb8d11c",
+        "10e75557310177e1e941edf4caee80dbf7940ac1257f884f45d0bd58c8cb781e",
+        "abac88e572e5a5a09dcf4f6e050514adc8f88bed635c9b51a707f4880f66e3c2",
+        "ec19dba49d12ac0bd3537b6b4664d1e552bb74cf42f1d032cb4e41b06d427737"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
