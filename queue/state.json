@@ -46852,6 +46852,18 @@
         0.0,
         0.0
       ]
+    },
+    "2202167096": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "YO356CD",
+      "originals_sha256": [
+        "d7e88b5cd6c00f7c783846225db3b6a53da3cf60104aa492b3ab4fbd38ecf19b",
+        "bbacb9131e59973a0e75ca187a04631dfc9141f1f6eeb126266d23de81e826b1",
+        "0a0c4bb5cde752a39e16b71118fe2b0673c737077effb263438d7a0c8f08367b",
+        "0f542d1d45b6b7aa1f2aa4f256a900472c4df7b2e5df2bd373df5a795f800b1f"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
