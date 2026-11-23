@@ -55515,7 +55515,7 @@
       ]
     },
     "3130108000": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "RTRADECD065",
       "originals_sha256": [
