@@ -34274,7 +34274,7 @@
       ]
     },
     "914971947": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CP54050428",
       "originals_sha256": [
@@ -34283,7 +34283,8 @@
         "d0d4b890619c165c45340c44322476501882b0751ca2cb373331ec49395aa58d",
         "8c59d14bce650088d6a1b2cb926354db658e95c5fc98509e9a703fda65adaf45"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109482852
     }
   },
   "reason": null,
