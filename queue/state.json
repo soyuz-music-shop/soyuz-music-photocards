@@ -26003,7 +26003,7 @@
       ]
     },
     "518165777": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DM87842024",
       "originals_sha256": [
@@ -26013,7 +26013,12 @@
         "82810c081d3a6d2c9e03e3b078357f6b1c8c397ab7dea4f15e09a1570ba6826e"
       ],
       "before_count": 4,
-      "task_id": 6107668529
+      "task_id": 6107668529,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
