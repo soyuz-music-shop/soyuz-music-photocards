@@ -26321,7 +26321,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "535296534": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3258",
       "originals_sha256": [
