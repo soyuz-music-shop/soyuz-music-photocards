@@ -40195,6 +40195,17 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 502"
+    },
+    "1255201693": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3679",
+      "originals_sha256": [
+        "3e6295edbf73539bcbe118ad68b9c449f8cedcb6a4308a76295a61bd59dc0d31",
+        "a4ca32c8c71abf7682c24c5ae79f1c7b4e2f059fa801199432d74dc424718efd",
+        "394fa0b9dfddf6a08b2c9f8ff29b398e016b991b59e5cd7eb6b325e1ed0166ee"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
