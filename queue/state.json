@@ -44173,7 +44173,7 @@
       ]
     },
     "1758923074": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HOSPBOX001",
       "originals_sha256": [
@@ -44197,7 +44197,12 @@
         "7369fab505e5caf23a63f4e4c3c2f1cd9fbc78d6281ba9eb69cfa80acd5cb9cf"
       ],
       "before_count": 18,
-      "task_id": 6110657568
+      "task_id": 6110657568,
+      "after_count": 20,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
