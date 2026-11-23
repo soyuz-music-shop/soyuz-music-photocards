@@ -36164,14 +36164,19 @@
       ]
     },
     "1074958841": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MM507090",
       "originals_sha256": [
         "d1dae8e1d515f6dfbafd3596e84d63ec80f21d126bfe6c7eccea92ed6399b546"
       ],
       "before_count": 1,
-      "task_id": 6109748678
+      "task_id": 6109748678,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
