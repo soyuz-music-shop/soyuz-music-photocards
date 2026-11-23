@@ -52108,7 +52108,7 @@
       ]
     },
     "3011894340": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "STR071V",
       "originals_sha256": [
@@ -52116,7 +52116,8 @@
         "6513500d3d11c580fbdc0875a2805acda471aea86ed4c29c64dda17567c62913",
         "2a44fb1cdca756d5d65e120d485033aa0ea777791b6d5955bcb6c884dae6ffa0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6111414320
     }
   },
   "reason": null,
