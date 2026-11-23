@@ -27219,6 +27219,16 @@
         0.0,
         0.0
       ]
+    },
+    "566783752": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT213DCDX",
+      "originals_sha256": [
+        "bb9948a6e534ab4d81d1f45ce36bb9af582b49c1cf466223c6afe51e679e16fe",
+        "2211b5c3b5220f254d2358295c29df06e0354a260268d66618e63f09af2024e4"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
