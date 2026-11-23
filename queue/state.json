@@ -25456,14 +25456,15 @@
       ]
     },
     "491252104": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BTL38246510",
       "originals_sha256": [
         "d3473161fcd8d6acfae3b9754e13940e38318d3f92d7abc3c481e1fdaf418150",
         "42aad836e543e6934399c664488528d67878866606b614312c39c117273898bf"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107478555
     }
   },
   "reason": null,
