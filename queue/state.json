@@ -27988,13 +27988,14 @@
       ]
     },
     "619038031": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NVN42453612",
       "originals_sha256": [
         "8eea32e6ef774d5517e3d44224dc03ced5bcb129cc87b45bf58363832406becb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108738196
     }
   },
   "reason": null,
