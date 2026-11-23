@@ -46715,6 +46715,18 @@
         0.0,
         0.0
       ]
+    },
+    "2188928334": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TCR75036746",
+      "originals_sha256": [
+        "be88a143c923799f4adc4fe02102e03f0bf3b1483bda2ccb992e64279ffc8813",
+        "3f338b890deda2e2ec3954936dce6dbf132a940fb2c04285c32ab203d26a8d55",
+        "3262883f575d1c4d20a2ce646fdc40bec4b17d2583751020f39ab8f3229c0ec5",
+        "2eb3464dcddae69019339b577d87e4b650ed59cd18a0f8fc211207854ee0b5cf"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
