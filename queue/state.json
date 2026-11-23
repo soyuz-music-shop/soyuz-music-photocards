@@ -55588,6 +55588,19 @@
         0.0,
         0.0
       ]
+    },
+    "3130108008": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GAD 803 CD",
+      "originals_sha256": [
+        "784a3e7908e19fcc65b60a69609eaf3b0bff9d23cff2ae72b64e3c6acdb8327a",
+        "5c034204a0987c6fe99394bc3892655ae73c735c1f78421b4f1ba28d9f77eca8",
+        "ff7473254d823b9051c6a369f9751162abf35aa2a6659752c251ad609ceaad7e",
+        "e88dec7897dd8fc3b28899a79af7484053ff0a5b1841fa160d504f1247566ef4",
+        "f507d255e6c072bd774c9b52e3664462184ac7c756ed6c5c41654669304920dd"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
