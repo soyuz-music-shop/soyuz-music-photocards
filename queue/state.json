@@ -25604,14 +25604,15 @@
       ]
     },
     "495038836": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "IND92603589",
       "originals_sha256": [
         "afc4c7a7cb382808eb974d681448ff00e4c807f0518cde31b2ece0acc551a117",
         "e262f54e978b8bf71b60c7db8bf45778501b552128961cd7acb1ebe168231525"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107525642
     }
   },
   "reason": null,
