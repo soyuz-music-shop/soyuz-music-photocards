@@ -50029,6 +50029,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005737007": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BB406",
+      "originals_sha256": [
+        "ebbf9e68329787d7b6aa22425caf0dc4b3ae6a1749988a7590f622083739145b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
