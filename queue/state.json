@@ -24008,7 +24008,7 @@
       ]
     },
     "456291303": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ARG77476228",
       "originals_sha256": [
@@ -24016,7 +24016,8 @@
         "2f677f7d2553d7fb77b52a371c6f1c2a1ee97bd14322306f2b9d3d63eea6e062",
         "2b69ca02672c62c88b1a50d8e5ac36c2f409351e406f7c3c9787c4e618469ea0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107165235
     }
   },
   "reason": null,
