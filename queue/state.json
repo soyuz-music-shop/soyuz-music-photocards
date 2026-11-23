@@ -29336,6 +29336,17 @@
         0.0,
         0.0
       ]
+    },
+    "714611658": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2106",
+      "originals_sha256": [
+        "3f1570cbdcdacf076768356f2507c22eb3c49d52bbaaba342aec28e0b30cd515",
+        "50a6b2fdb4a143a1601066239f8ed5e7b7ce1445792a03c9b52f09311bdd49b0",
+        "be36a5d5adce3b6de0f2d949f41e8edc99be3df94797d73ed95d245b8a90ac32"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
