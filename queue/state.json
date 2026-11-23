@@ -42378,7 +42378,7 @@
       ]
     },
     "1544051269": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT365CD",
       "originals_sha256": [
@@ -42386,7 +42386,12 @@
         "9d91bca50dd6d8b1ae30c4ae0a5e1244deb2c9ee29329c3e274890a016f18a44"
       ],
       "before_count": 2,
-      "task_id": 6110523414
+      "task_id": 6110523414,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
