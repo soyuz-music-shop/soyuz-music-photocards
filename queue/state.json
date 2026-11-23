@@ -24307,14 +24307,15 @@
       ]
     },
     "465600932": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RMST77493942",
       "originals_sha256": [
         "460050d795021e0dfe060bc37e25e29c66628aa4ec0d8799e63b1f64db67e632",
         "27196b877786eb284442041301c073c7bf3de29b47785c186f371a25201bd41a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107225814
     }
   },
   "reason": null,
