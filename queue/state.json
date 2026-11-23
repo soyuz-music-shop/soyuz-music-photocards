@@ -33367,7 +33367,7 @@
       ]
     },
     "873784448": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LSTUMM78",
       "originals_sha256": [
@@ -33375,7 +33375,12 @@
         "437e4d966976d4d2df1019221abc90c61cecbbe5d34e44965ef9c5de64463c6e"
       ],
       "before_count": 2,
-      "task_id": 6109347303
+      "task_id": 6109347303,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
