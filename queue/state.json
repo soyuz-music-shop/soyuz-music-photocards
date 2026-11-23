@@ -26584,7 +26584,7 @@
       ]
     },
     "545410490": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NZ38801484",
       "originals_sha256": [
@@ -26593,7 +26593,12 @@
         "cecc953e0767772033081d503016acca908384187c6318a6a2b568b748e095e4"
       ],
       "before_count": 3,
-      "task_id": 6108538127
+      "task_id": 6108538127,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
