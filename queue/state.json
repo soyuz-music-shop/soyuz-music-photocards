@@ -23285,6 +23285,17 @@
         0.0,
         0.0
       ]
+    },
+    "447563420": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PFRLY19",
+      "originals_sha256": [
+        "c77323a5d2d96fb802d06c8b8a89f5845697fa239a70df7a5412f6953d0eb18d",
+        "90d09191dfb15514cb7d4525917bbaa67624bba1326b38d6a74c6bf6b5ed354f",
+        "8c55c304f81480ce17383e16e06b8a545181ff051b4ed44dd4a230341d6f8ca8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
