@@ -27300,6 +27300,20 @@
         0.0,
         0.0
       ]
+    },
+    "581759710": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ESH97419102",
+      "originals_sha256": [
+        "3f16a735d30ba86fd5d86bd40d2c7c85858537db257c42ef3ee86d578e72e896",
+        "42b0c56e8a520f409e3d9391fa25271215f7e23dc14bd87f6897fe31037076d2",
+        "ba240b94ad657ee3f008a5db7fff9e19ca5977cfcbcd8c37a1f7cafe52d16070",
+        "afcf014a9bb7aa66099153c409bd71fdd28a07506ec668d7910e1349191d8957",
+        "b57b72484e52ab58448949e9ef0da964447e746e96491b33d4992eb7178fe3f2",
+        "6bff6181710149d7539c732c2e30319b0818d917d534586e4206be62ad07a70f"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
