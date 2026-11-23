@@ -45381,14 +45381,15 @@
       ]
     },
     "2153660839": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BNJV68041856",
       "originals_sha256": [
         "4689b35fb98bf63829195ef4ab0d9701b43f039a863f4fd4e0f964a9e8ab526a",
         "0da693a867be7986e49cf376ae8091e103ac30ffb545cf17fd73b22de63d0415"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110746062
     }
   },
   "reason": null,
