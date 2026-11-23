@@ -45764,6 +45764,19 @@
         0.0,
         0.0
       ]
+    },
+    "2169933939": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL183LP2",
+      "originals_sha256": [
+        "e3235fac76fbe36c3604ae5c45c25ec6f992aafb285bbbb6a923e1b5fcc6880d",
+        "65431753e86be07a8d4f43ca152538fe14429a4c52b02d53944d73144c76cc58",
+        "d7aa293b0cc8d3042ab1a907385932187aee83e528e4de39b9a2d0b011bb46eb",
+        "52471f4a5d60ebb672a2ce5549f902f0e48b798d1bc021d8fe335806171c2940",
+        "c4955b0ff99054aa2b5e76813a0c2af6bfaf820c3d6213602bd9b2a9f5ed63d6"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
