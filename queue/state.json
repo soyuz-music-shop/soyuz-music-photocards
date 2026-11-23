@@ -45670,6 +45670,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691823": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ARAF58980295",
+      "originals_sha256": [
+        "fa02698724cac5fe43bcd1513ae6d323aaa0154df3bd8a9272584da4bccf6c2d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
