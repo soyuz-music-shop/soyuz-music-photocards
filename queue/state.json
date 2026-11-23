@@ -28386,7 +28386,7 @@
       ]
     },
     "639379739": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RNS27015668",
       "originals_sha256": [
@@ -28395,7 +28395,12 @@
         "23f5be6b2667165449d5fa39e1549cc4e70652175af48659d2f8770fe5fcfeed"
       ],
       "before_count": 3,
-      "task_id": 6108782081
+      "task_id": 6108782081,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
