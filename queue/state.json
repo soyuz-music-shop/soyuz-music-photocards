@@ -55086,14 +55086,19 @@
       ]
     },
     "3130010622": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OLE-1117-1",
       "originals_sha256": [
         "3098d3683f2c6c44aa64f3c30f7401ea6e79203020ba5315c455a32ab61ed015"
       ],
       "before_count": 1,
-      "task_id": 6111622127
+      "task_id": 6111622127,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
