@@ -46570,6 +46570,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188810541": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRMS78602474",
+      "originals_sha256": [
+        "4f73bb3979e5aae5af120e594762fe95c1c670735278c3fbbf68dacfc99595fc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
