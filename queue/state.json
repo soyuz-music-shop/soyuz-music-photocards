@@ -28106,6 +28106,18 @@
         0.0,
         0.0
       ]
+    },
+    "621015195": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNM50810915",
+      "originals_sha256": [
+        "72a38eb2d40cab285e59ecf480f83b9b0ea062b95f87d1b5b95766a3a0522209",
+        "84d9367f31be2ea5826bca219cd807a6d674eb5491a8eb518c022d45c3af3bec",
+        "709062f48f91425b9f3e0889ac563fb127d5173a60635ec6e5403739dc3a6a88",
+        "80c6722db7f9e48b17df4d6b9d010ebd58e943f2c6b178cc017b9b1266aa477e"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
