@@ -27408,7 +27408,7 @@
       ]
     },
     "584145735": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2695447",
       "originals_sha256": [
@@ -27417,7 +27417,12 @@
         "ef6cedd399a96e70e9209f5438aa9266c0daade7cd90c002e93272d0c1cfa8b7"
       ],
       "before_count": 3,
-      "task_id": 6108655329
+      "task_id": 6108655329,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
