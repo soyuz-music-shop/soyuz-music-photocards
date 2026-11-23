@@ -44984,7 +44984,7 @@
       ]
     },
     "1915274557": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DAIS186LP",
       "originals_sha256": [
@@ -44993,7 +44993,12 @@
         "98e74645cbed2abdee4b816e3f2767916662751fbc321ffa1c2f072e73887f05"
       ],
       "before_count": 3,
-      "task_id": 6110715397
+      "task_id": 6110715397,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
