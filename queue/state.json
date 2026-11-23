@@ -25456,7 +25456,7 @@
       ]
     },
     "491252104": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "import-vinyl-info",
       "offer_id": "BTL38246510",
       "originals_sha256": [
