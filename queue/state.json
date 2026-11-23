@@ -26722,7 +26722,7 @@
       ]
     },
     "554046523": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YS27971571",
       "originals_sha256": [
@@ -26733,7 +26733,12 @@
         "30c9a000d8706a674697d75e2d44355392f3c3eab23d2c309b93d57b087fc429"
       ],
       "before_count": 5,
-      "task_id": 6108558818
+      "task_id": 6108558818,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
