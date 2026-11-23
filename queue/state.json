@@ -33148,7 +33148,7 @@
       ]
     },
     "870230992": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SIN47825620",
       "originals_sha256": [
@@ -33156,7 +33156,12 @@
         "3b03594b519a2ec96b499c68875d0be1efb9c68310f0574e33c5420d1ed69897"
       ],
       "before_count": 2,
-      "task_id": 6109318170
+      "task_id": 6109318170,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
