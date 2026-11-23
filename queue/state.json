@@ -48931,6 +48931,15 @@
         0.0,
         0.0
       ]
+    },
+    "2980955107": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOARXVI",
+      "originals_sha256": [
+        "de507c3b7427ec6bccb93147f6da446c3aa8da4b2381b5c54e8e6581ad2ca8af"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
