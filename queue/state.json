@@ -23958,14 +23958,15 @@
       ]
     },
     "453862620": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CCR72406605",
       "originals_sha256": [
         "a331ecc2595093fdafb203d685b4af86c5a60f47ee9177b0fe58531eb815c0d0",
         "1b646b2c896a7714d203c0e3452be825dde63a1a9beede508445ba43897fd614"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107151551
     }
   },
   "reason": null,
