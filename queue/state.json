@@ -23424,6 +23424,16 @@
         0.0,
         0.0
       ]
+    },
+    "449275276": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IM190295851965",
+      "originals_sha256": [
+        "e8dfb48c54910fe5ad8c678151f9859956707f8d4337d55cfe847a074c3c9372",
+        "a0cac1a7264d6c833cc688c39df5116f7502fa8227f50fdb1297e6c310f65298"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
