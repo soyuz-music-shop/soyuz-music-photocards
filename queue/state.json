@@ -23042,7 +23042,7 @@
       ]
     },
     "445117856": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ABB731454995320",
       "originals_sha256": [
@@ -23053,7 +23053,12 @@
         "0041adb91e74f6a8fd85c8464cb4c5eff67cbb9401e5c715ec620f16b13bdf95"
       ],
       "before_count": 5,
-      "task_id": 6106942440
+      "task_id": 6106942440,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
