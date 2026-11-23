@@ -32497,7 +32497,7 @@
       ]
     },
     "860942760": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SLP78630231",
       "originals_sha256": [
@@ -32505,7 +32505,12 @@
         "46df9e95be3f07aebba65d7eb63e7b21e4e0671ed55e6a2d837dc23fe0bbe255"
       ],
       "before_count": 2,
-      "task_id": 6109238015
+      "task_id": 6109238015,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
