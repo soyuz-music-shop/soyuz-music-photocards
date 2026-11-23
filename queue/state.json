@@ -54346,14 +54346,19 @@
       ]
     },
     "3033137606": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NBR 63730",
       "originals_sha256": [
         "66a86b6fa670c743ca185cf3da5756d3559016bedf5463e1ed0e9e0784bb4e59"
       ],
       "before_count": 1,
-      "task_id": 6111567013
+      "task_id": 6111567013,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
