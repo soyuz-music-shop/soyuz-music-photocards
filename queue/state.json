@@ -34874,13 +34874,14 @@
       ]
     },
     "1013016880": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DBPU 50",
       "originals_sha256": [
         "70781997705e306b1ea344219bffc1058596d35d3ccfd54d93b45d85675b9713"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109556033
     }
   },
   "reason": null,
