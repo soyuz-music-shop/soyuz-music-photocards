@@ -47265,6 +47265,17 @@
         0.0,
         0.0
       ]
+    },
+    "2354606534": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ABAG53511060",
+      "originals_sha256": [
+        "0524bcbeae82a865fd53e36ec1cc5c0c17f1d2cf457886a1ba20f17cb79cb655",
+        "1023d390e3661ac17aea8297547e109e27f8aa8cc234aaf685d02008b4506420",
+        "036231bce516f1ce54b74b549f8708ae893812e249d7d137a9c4b9ecffeb12c3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
