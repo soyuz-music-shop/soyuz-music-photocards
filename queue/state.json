@@ -42088,14 +42088,15 @@
       ]
     },
     "1508717543": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TOTO58011219",
       "originals_sha256": [
         "dbb938d3db2e84356428e2561977648f768a562ccb65b904db835ee4baf298cd",
         "23fe09d19b9894f7313c60f5079bb4005cc4dcd830b95b08e41fcb511c295190"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110496839
     }
   },
   "reason": null,
