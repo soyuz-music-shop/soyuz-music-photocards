@@ -33132,7 +33132,7 @@
       ]
     },
     "870196786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SIM75692323",
       "originals_sha256": [
@@ -33140,7 +33140,12 @@
         "3ca2d8f77098319e1a75da7e92a61c682fbc003e78d8a50cf6a1cc2a894c8262"
       ],
       "before_count": 2,
-      "task_id": 6109315597
+      "task_id": 6109315597,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
