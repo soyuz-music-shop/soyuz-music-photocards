@@ -25498,6 +25498,16 @@
         0.0,
         0.0
       ]
+    },
+    "492104421": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AIR84497811",
+      "originals_sha256": [
+        "243dcc8d515fe3111ce241de28a018aee1b0dd90ed73a6b12ca25a2cf7d8ca34",
+        "5e61dea6aafedffbabcb03ae75bbe8dfcaf7ac9351b63987e033c378be29da6d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
