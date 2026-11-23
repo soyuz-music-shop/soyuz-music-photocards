@@ -24107,7 +24107,7 @@
       ]
     },
     "457093837": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JC753441671",
       "originals_sha256": [
@@ -24115,7 +24115,12 @@
         "929af7fdf7246fbd059d7fa6b0a0b5215a5dc42c42ddda957d5397f393e2dafd"
       ],
       "before_count": 2,
-      "task_id": 6107185910
+      "task_id": 6107185910,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
