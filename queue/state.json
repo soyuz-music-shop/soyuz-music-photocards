@@ -26057,7 +26057,7 @@
       ]
     },
     "519121538": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PFR50",
       "originals_sha256": [
@@ -26070,7 +26070,8 @@
         "3d02b4b74c896e802f40b52427aa774cb861472204aea2ec2d02ddafa0a05efc",
         "a517339d6bd13ecb3af014bac5a5441ac78cf4ee1ff330f7d155b56b0d03a246"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6107684779
     }
   },
   "reason": null,
