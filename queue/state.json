@@ -28037,7 +28037,7 @@
       ]
     },
     "619824700": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT793LPX",
       "originals_sha256": [
@@ -28046,7 +28046,12 @@
         "0107fc7d77d4859841aa3786067c1affaee73228eb48f91e591f141ca7d219d6"
       ],
       "before_count": 3,
-      "task_id": 6108743163
+      "task_id": 6108743163,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
