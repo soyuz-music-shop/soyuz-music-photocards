@@ -30330,6 +30330,15 @@
         0.0,
         0.0
       ]
+    },
+    "741877674": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ARCH88004612",
+      "originals_sha256": [
+        "d75432b308587f224207768ddc898b4aa6cdeea0cb8f64db3b0e9fbb027a6a75"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
