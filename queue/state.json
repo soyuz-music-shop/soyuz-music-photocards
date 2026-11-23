@@ -54835,6 +54835,16 @@
         0.0,
         0.0
       ]
+    },
+    "3039172763": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ROTOR0080",
+      "originals_sha256": [
+        "f09430014276991457d03e67c0d68f128c888acdd9dff442666abfaf6c52c76d",
+        "8d8a6c00ff965d4b97d220d86f5c8c521c194385eefd2701f3510e0b82b1b61a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
