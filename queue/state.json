@@ -26601,7 +26601,7 @@
       ]
     },
     "545488190": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DS80005221",
       "originals_sha256": [
@@ -26610,7 +26610,12 @@
         "2c7e6b4ea4fd5b4952809d6b0f812a92ba18b85f1df79fa0dc1f1d708d3e19b9"
       ],
       "before_count": 3,
-      "task_id": 6108540437
+      "task_id": 6108540437,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
