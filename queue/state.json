@@ -37596,7 +37596,7 @@
       ]
     },
     "1110201609": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LZ955731",
       "originals_sha256": [
@@ -37605,7 +37605,12 @@
         "abc97a7b15a87a1c38152533c81e9d884f4b209a9f2278d032e1b2baa1821d4a"
       ],
       "before_count": 3,
-      "task_id": 6109957966
+      "task_id": 6109957966,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
