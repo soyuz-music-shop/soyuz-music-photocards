@@ -47477,13 +47477,14 @@
       ]
     },
     "2433734383": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDSTUMM277",
       "originals_sha256": [
         "05abcf564154cf3616aa2e39a25eb475a1ed84d0e61357b2beb31bdad44755a8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110922371
     }
   },
   "reason": null,
