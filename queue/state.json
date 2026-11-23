@@ -39098,6 +39098,17 @@
         0.0,
         0.0
       ]
+    },
+    "1207067111": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DP83401925",
+      "originals_sha256": [
+        "c4f353b2006f1a1a82163b54b686f06e129dc96c210e59891c1b79aba313fa3d",
+        "a6895f2c30fcb10257fd010bac37dd804128f828d4f7c0f5b6ec27ffd2bd09a5",
+        "1908f12cd09bd4131434790d28f89d5f7014fcd54c57ea292b9524d82391bece"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
