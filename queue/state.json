@@ -53311,14 +53311,19 @@
       ]
     },
     "3013420898": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DK980801",
       "originals_sha256": [
         "cf6cf0651e91167bb934940885191ff2b0d251fab306c52d5dfcdde1e6a8d8ee"
       ],
       "before_count": 1,
-      "task_id": 6111499373
+      "task_id": 6111499373,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
