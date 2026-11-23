@@ -39630,7 +39630,7 @@
       ]
     },
     "1224709400": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BLCKND018-1U",
       "originals_sha256": [
@@ -39639,7 +39639,12 @@
         "a5fc74e4934ba00227113b88d8b2632d38b5cf44084f3463378ded75c1acc5aa"
       ],
       "before_count": 3,
-      "task_id": 6110223721
+      "task_id": 6110223721,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
