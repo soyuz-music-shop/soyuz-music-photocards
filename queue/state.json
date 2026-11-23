@@ -39571,6 +39571,17 @@
         0.0,
         0.0
       ]
+    },
+    "1218096339": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LNDN08110634",
+      "originals_sha256": [
+        "bd50204767e349d94ba194fa495daaf27b7fd88c242e1757bbec540044a77648",
+        "d644dcd6d2d54e2dbd75d7c9d5fad7e78d0364664b484c6b7019398abd80bc39",
+        "2dedeaa22b82c29166bcefb4b1d7f8c1bf239393adfe876b62f47dc41118d30f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
