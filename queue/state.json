@@ -47034,6 +47034,23 @@
         0.0,
         0.0
       ]
+    },
+    "2247298163": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TCR68033776",
+      "originals_sha256": [
+        "a1f8a04c9ced1c4ad8c9c6248828156f0e6c7cdcb3345f1667ade55ab29e48d7",
+        "c61cb2e07287f5cbd51b6e86487203eb143a73beaf00d07bfa1d80dd2bdc0702",
+        "587d3e698be5057e3baead02147aeb9ce14572104133560a4c59ee3851cfdbcb",
+        "2880e077268d5e0b562298a0ec2b855d4e97849713635580c8376b0fb9b9ee76",
+        "17728c5a09b13ae82cc7130eb545e28aec03eacb193ee169dfd490aff71066c1",
+        "8683789834e85e4d8547de61e1fae5df8ae043a85235094b075bb7b3059a0c8a",
+        "aa28ad5b533fa2f065f37c61972f6075be3c7970ba9ad3bd6e323e2ca4f4df8a",
+        "988fe7c52894de0e4f66f0ecc3cd921e69b18985f0c399f75db34dcec4f936d9",
+        "4b6e2b58a28399f8dfb6eacf0460e51a7ac04c3d92fac93f85d6578dd4f04c15"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
