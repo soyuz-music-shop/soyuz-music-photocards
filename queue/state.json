@@ -41851,7 +41851,7 @@
       ]
     },
     "1491276076": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RLST58959680",
       "originals_sha256": [
@@ -41860,7 +41860,12 @@
         "2037167678edae8f33d551f1017d77da15acd51c3ee570d38d8c791b1c71ffd1"
       ],
       "before_count": 3,
-      "task_id": 6110478883
+      "task_id": 6110478883,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
