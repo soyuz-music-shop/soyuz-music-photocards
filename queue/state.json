@@ -23681,6 +23681,16 @@
         0.0,
         0.0
       ]
+    },
+    "450119286": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD258E",
+      "originals_sha256": [
+        "91db7af350e0411e71774d56e79a44c66b01131c2aee82ece544c1fb5aeca52e",
+        "3d50ab0f9f9f8f0ce3f3986e669f4b8193f231839ff9e5fdfb4896c5291370c5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
