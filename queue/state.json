@@ -39335,6 +39335,17 @@
         0.0,
         0.0
       ]
+    },
+    "1213774482": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FTM45641253",
+      "originals_sha256": [
+        "f8ba4e8abc9ba094c7c97a52c19c6b06600898dd2b95fc548d76625c667f1ff0",
+        "a211af55fdbe81fd83388e4653454352ee7c8b15793d36caceea9d538bd90eec",
+        "5010e73b960e7c4923b97a186e665f6e3b04776dbf048783fb24428ed9fa0121"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
