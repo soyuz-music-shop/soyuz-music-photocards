@@ -35858,7 +35858,7 @@
       ]
     },
     "1065549736": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1862BRM",
       "originals_sha256": [
@@ -35868,7 +35868,12 @@
         "6c298e65b69116dad6d066cb3399b08806aeb6f24ca74fb0f23a9505205477e3"
       ],
       "before_count": 4,
-      "task_id": 6109700760
+      "task_id": 6109700760,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
