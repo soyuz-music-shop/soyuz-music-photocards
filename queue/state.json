@@ -33318,14 +33318,15 @@
       ]
     },
     "870983126": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RAIN54736022",
       "originals_sha256": [
         "4889beda7de5973f5675b5033721bdebc82f0d78efa34938c77dad43745db4c2",
         "af6fea3cd4c88cdd7eb46c5599fdda48729ed37d14b94d6aa3b8bea0f043ca16"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109341389
     }
   },
   "reason": null,
