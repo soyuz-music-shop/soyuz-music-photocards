@@ -30548,7 +30548,7 @@
       ]
     },
     "752787185": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PTN48681966",
       "originals_sha256": [
@@ -30556,7 +30556,12 @@
         "615df2d4fcbd9af67acf4b8ff35b74f0c20186033b8eae207819597d866809d9"
       ],
       "before_count": 2,
-      "task_id": 6109014279
+      "task_id": 6109014279,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
