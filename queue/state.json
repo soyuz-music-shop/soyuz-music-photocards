@@ -28715,6 +28715,17 @@
         0.0,
         0.0
       ]
+    },
+    "653051824": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT205CDX",
+      "originals_sha256": [
+        "2cef74699aa3ed8cb83270f6c2f273e96e496696e1f890a7ea872c83e1aa4194",
+        "ed0e998d402708965194a110e63daddd35d17e425cea67964e01923272b2a767",
+        "250fbbda3e760e73c31d401ae12459d9d91d2f5662a9b1732ad44820aa96f90a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
