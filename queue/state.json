@@ -24373,7 +24373,7 @@
       ]
     },
     "467951144": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IGP75678628535",
       "originals_sha256": [
@@ -24381,7 +24381,12 @@
         "e23d4c0f0b3ac083a91ef026c4c2de3f9e5630ee8318c4993572ed2df6cf4b00"
       ],
       "before_count": 2,
-      "task_id": 6107239412
+      "task_id": 6107239412,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
