@@ -31944,7 +31944,7 @@
       ]
     },
     "841154787": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FACT 10R",
       "originals_sha256": [
@@ -31957,7 +31957,12 @@
         "ef19df9fe073ac7f4062abec2ced15157f0b129f36c9e580fa1910d197e999c8"
       ],
       "before_count": 7,
-      "task_id": 6109171612
+      "task_id": 6109171612,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
