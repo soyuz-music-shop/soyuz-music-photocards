@@ -28920,6 +28920,16 @@
         0.0,
         0.0
       ]
+    },
+    "660166006": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2098",
+      "originals_sha256": [
+        "72a526f402fb22ebbce99c8e4c085cb08f108e6486caa970afb59368263797aa",
+        "eb72e2f6ef3c3c80d24abe07fad3a6c87c27216294cc6e116e82cde9d9a8a3fa"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
