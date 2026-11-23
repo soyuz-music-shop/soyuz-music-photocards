@@ -43214,6 +43214,17 @@
         0.0,
         0.0
       ]
+    },
+    "1664887086": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT844CDX",
+      "originals_sha256": [
+        "4275249d41161f15aab95bd5281de02e23e92e37eddae83acb7945900246c4c6",
+        "6f3816da105b09aa81698978150558d1348ffd904eafa51e6c5a480874788aa1",
+        "94b24fc71b5464b6dd6b962297c686fd44a2301710eab3758ea93e76a88dad93"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
