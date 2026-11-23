@@ -32298,6 +32298,16 @@
         0.0,
         0.0
       ]
+    },
+    "853402287": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ROAR2334LP4",
+      "originals_sha256": [
+        "bc172c7d9cc49c2c680f640aac36dd86b9b2a337f9e41fd4d943ca81002c07ad",
+        "4c7d46bd2a48cccb0db9608de8822550fc9edbf7048be9bb7f5edbe8a91a8891"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
