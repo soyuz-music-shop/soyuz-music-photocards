@@ -53679,14 +53679,19 @@
       ]
     },
     "3019428753": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DM876919",
       "originals_sha256": [
         "ecb7cd6465b2edaa6c0bb0037c556f2efe6816fcf2e2c91e5b9005e44b841eb5"
       ],
       "before_count": 1,
-      "task_id": 6111521475
+      "task_id": 6111521475,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
