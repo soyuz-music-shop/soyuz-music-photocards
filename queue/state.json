@@ -41647,7 +41647,7 @@
       ]
     },
     "1483236786": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT586MLP",
       "originals_sha256": [
@@ -41655,7 +41655,8 @@
         "4d6d5e09a795491a47c4d43261c9df4ece75fe03110c0aa6f68cabc3cbcf5f66",
         "e3fe35a6b02b043508186883a7d7fa1e31b41864d6a3a226967183add6d859c6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110461162
     }
   },
   "reason": null,
