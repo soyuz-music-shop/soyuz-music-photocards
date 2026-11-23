@@ -38144,7 +38144,7 @@
       ]
     },
     "1154601137": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LINP853343",
       "originals_sha256": [
@@ -38156,7 +38156,12 @@
         "ca1939698f26ad05881610d1ab616c28f722ad2250fe736504a20e413817d9e0"
       ],
       "before_count": 6,
-      "task_id": 6110036131
+      "task_id": 6110036131,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
