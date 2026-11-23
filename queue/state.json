@@ -54481,14 +54481,19 @@
       ]
     },
     "3033137806": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DL141165",
       "originals_sha256": [
         "9ae81ff227903f68fbfafeb135a194625b378f3fbf1af458029a92fc7dd3f4b4"
       ],
       "before_count": 1,
-      "task_id": 6111577654
+      "task_id": 6111577654,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
