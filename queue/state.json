@@ -24371,6 +24371,16 @@
         0.0,
         0.0
       ]
+    },
+    "467951144": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IGP75678628535",
+      "originals_sha256": [
+        "04bdd7e3d50d3453d09bddc30b95a85a4998044e146572067a957cdcce59021f",
+        "e23d4c0f0b3ac083a91ef026c4c2de3f9e5630ee8318c4993572ed2df6cf4b00"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
