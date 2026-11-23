@@ -24895,7 +24895,7 @@
       ]
     },
     "481344196": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CK 85438",
       "originals_sha256": [
@@ -24904,7 +24904,12 @@
         "078ffae7661c8495e16f5076234e7837596d25dfc24777f2f3a253395e65be88"
       ],
       "before_count": 3,
-      "task_id": 6107344023
+      "task_id": 6107344023,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
