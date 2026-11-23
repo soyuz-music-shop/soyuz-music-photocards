@@ -47681,7 +47681,7 @@
       ]
     },
     "2495404648": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LRT53490318",
       "originals_sha256": [
@@ -47689,7 +47689,8 @@
         "57d11aedc304d0efef2fcdf69f0084dd0336fd6c22eb98cb829f49034da9201c",
         "affbba7e68cc7d390c31984db0494d892ecc639f6e2b6134a2b078374eff2bf8"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110940613
     }
   },
   "reason": null,
