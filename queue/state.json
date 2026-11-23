@@ -28717,7 +28717,7 @@
       ]
     },
     "653051824": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT205CDX",
       "originals_sha256": [
@@ -28725,7 +28725,8 @@
         "ed0e998d402708965194a110e63daddd35d17e425cea67964e01923272b2a767",
         "250fbbda3e760e73c31d401ae12459d9d91d2f5662a9b1732ad44820aa96f90a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108816884
     }
   },
   "reason": null,
