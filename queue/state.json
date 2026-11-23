@@ -31874,7 +31874,7 @@
       ]
     },
     "839072046": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ACDC51076216",
       "originals_sha256": [
@@ -31883,7 +31883,12 @@
         "6c457b5b628b5148af907101e50a7557f52e0aa8046afac0cebf4f204f3b0212"
       ],
       "before_count": 3,
-      "task_id": 6109163220
+      "task_id": 6109163220,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
