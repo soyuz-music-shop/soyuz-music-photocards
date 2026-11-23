@@ -52430,14 +52430,19 @@
       ]
     },
     "3013277634": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TPLP326DMM",
       "originals_sha256": [
         "a9b392aa00494bb847655c827d9a7928618f95cb91a82241fd577f7a80a0c76c"
       ],
       "before_count": 1,
-      "task_id": 6111440637
+      "task_id": 6111440637,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
