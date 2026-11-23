@@ -38910,7 +38910,7 @@
       ]
     },
     "1200835095": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ARF27982799",
       "originals_sha256": [
@@ -38918,7 +38918,8 @@
         "b93dff67f1b7356ec9137ae0040321cf465f92609d57bbb814e857e8a5e68a03",
         "09b98e4dffccf5d864ca54f73e88715e31e62047c6700a7aa2ef6a19f2f1f198"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110133401
     }
   },
   "reason": null,
