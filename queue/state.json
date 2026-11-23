@@ -33774,7 +33774,7 @@
       ]
     },
     "893514447": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL143LP2",
       "originals_sha256": [
@@ -33785,7 +33785,8 @@
         "b875cc6b6d9e81b523e24b0efeb66925a17c61c6951cffda7d6e57d686cfccf6",
         "d9ece9d459c2320048b10913d99d24e8015beaf386bceaf31dfb700ceb7d3ccb"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6109400798
     }
   },
   "reason": null,
