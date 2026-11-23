@@ -54133,13 +54133,14 @@
       ]
     },
     "3032899375": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GM170520",
       "originals_sha256": [
         "a32d51fea657522c151ebba68e3bbd27ff337958d58b6363f1051014022b0452"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111551300
     }
   },
   "reason": null,
