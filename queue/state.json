@@ -24698,7 +24698,7 @@
       ]
     },
     "478450478": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BLCKND008R-1",
       "originals_sha256": [
@@ -24709,7 +24709,8 @@
         "b9734782838dcb9d58474f359049ac45425cc11b000a69cdf758750ea60ea322",
         "0d1dbefa911d9dd93bb0929657976a98f4fd68e5fd71f7bfcbcd33e6e3b4bd44"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6107304090
     }
   },
   "reason": null,
