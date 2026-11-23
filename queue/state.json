@@ -24105,6 +24105,16 @@
         0.0,
         0.0
       ]
+    },
+    "457093837": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JC753441671",
+      "originals_sha256": [
+        "e76929ec61b3cb868c5424ac761b5405619b36608eb172b079ac6a7ca014013a",
+        "929af7fdf7246fbd059d7fa6b0a0b5215a5dc42c42ddda957d5397f393e2dafd"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
