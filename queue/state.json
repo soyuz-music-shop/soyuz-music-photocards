@@ -54762,14 +54762,19 @@
       ]
     },
     "3033387127": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EARS087",
       "originals_sha256": [
         "afb593979f0c54f7ece69f396be0cdba44d3bb80317652da5400af7fcc062cd3"
       ],
       "before_count": 1,
-      "task_id": 6111599044
+      "task_id": 6111599044,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
