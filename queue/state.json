@@ -29995,7 +29995,7 @@
       ]
     },
     "729333336": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BNM99344323",
       "originals_sha256": [
@@ -30005,7 +30005,8 @@
         "120b3a04e245c12d28901152d1811f48d12759fa298df756f3d28c3d839d116b",
         "dcfe3e6ad6c320577ad042fac0e61253020c752b092883fa0f78b2a4be4e9708"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6108961460
     }
   },
   "reason": null,
