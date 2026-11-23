@@ -36608,7 +36608,7 @@
       ]
     },
     "1085193401": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TTC204517",
       "originals_sha256": [
@@ -36616,7 +36616,12 @@
         "bc2969a30d2f01ec6d7ab3e4b70dd099c027e3dff8b2b96eceb95533b0bb1221"
       ],
       "before_count": 2,
-      "task_id": 6109818603
+      "task_id": 6109818603,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
