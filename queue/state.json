@@ -42584,6 +42584,17 @@
         0.0,
         0.0
       ]
+    },
+    "1549088595": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIM64035223",
+      "originals_sha256": [
+        "0f9df079f24e187ed9401e45dee02d4c36a2c38f47c0894f9ea799d6a9666bf1",
+        "ae7f5175b402f2d2986373d6df74b2f84ee5c4791a3e81d89c61320b66881c8c",
+        "69dd74ba09355d0b14cd11945a9649f77217794ae44d1394cd0b87944672f463"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
