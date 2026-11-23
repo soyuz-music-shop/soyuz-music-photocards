@@ -25962,7 +25962,7 @@
       ]
     },
     "518149165": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DM87842116",
       "originals_sha256": [
@@ -25977,7 +25977,12 @@
         "071139632cac0c413ca2a26c3ba55b7d4d33cf6f6487309ebacb65c3d0f8abc1"
       ],
       "before_count": 9,
-      "task_id": 6107660108
+      "task_id": 6107660108,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
