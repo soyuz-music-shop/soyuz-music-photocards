@@ -51509,14 +51509,19 @@
       ]
     },
     "3006476031": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 751",
       "originals_sha256": [
         "d7a99d730a4d376254d311821bf1b49a4be8c3d6572b37e4affd7a68d0a24df5"
       ],
       "before_count": 1,
-      "task_id": 6111373451
+      "task_id": 6111373451,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
