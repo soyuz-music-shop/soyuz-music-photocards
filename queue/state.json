@@ -43389,14 +43389,19 @@
       ]
     },
     "1675370425": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OTTT34",
       "originals_sha256": [
         "3dc2bf191f1d5c932eddb812ccaa3823617a35a9bea8c555915d424d1ff123e2"
       ],
       "before_count": 1,
-      "task_id": 6110604247
+      "task_id": 6110604247,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
