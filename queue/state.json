@@ -48503,6 +48503,16 @@
         0.0,
         0.0
       ]
+    },
+    "2967665870": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHR657497",
+      "originals_sha256": [
+        "67344d1c70d2fee176cd686ae8975642660566a6bc6bdf823254e8d53625804a",
+        "ebe677afc3b4c3a57f48e84045c62d376216813dde19592fad1fff5734b7e2b1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
