@@ -31402,13 +31402,14 @@
       ]
     },
     "786926646": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IF104LP",
       "originals_sha256": [
         "3a5a376a52b60fec6d7336b05987e61d46e867dc900dca0b1db5ee3dc9b990c8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109105896
     }
   },
   "reason": null,
