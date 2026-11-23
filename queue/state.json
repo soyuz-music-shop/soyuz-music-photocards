@@ -50575,13 +50575,14 @@
       ]
     },
     "3005925987": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBA31137",
       "originals_sha256": [
         "a653d3311648d9e1813d1308e333f741c49259274c929d229fc334590d3095c1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111299850
     }
   },
   "reason": null,
