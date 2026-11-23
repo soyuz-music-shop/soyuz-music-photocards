@@ -31210,7 +31210,7 @@
       ]
     },
     "776179108": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3447",
       "originals_sha256": [
@@ -31220,7 +31220,12 @@
         "a56bdb88f0aa5039cdd165534d0ef2e2bf2f4099b1cf337e3d8c9c65372ecd83"
       ],
       "before_count": 4,
-      "task_id": 6109082967
+      "task_id": 6109082967,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
