@@ -51779,13 +51779,14 @@
       ]
     },
     "3006476256": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WL038134",
       "originals_sha256": [
         "1c74d6a565948470c6fa23137456b176574e1bdd558941ae5e0eac03ef391626"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111389215
     }
   },
   "reason": null,
