@@ -52749,13 +52749,14 @@
       ]
     },
     "3013277766": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CT127012",
       "originals_sha256": [
         "840847f7cd299bce630919ec8731d4f19543f35b7698f6718048b01219c5f534"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111466685
     }
   },
   "reason": null,
