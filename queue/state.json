@@ -29210,6 +29210,18 @@
         0.0,
         0.0
       ]
+    },
+    "701031943": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ADC77483028",
+      "originals_sha256": [
+        "a45106c7cc4779e776a122577f6713a93bb04e54664f7c8802cb7a1ba7d177be",
+        "6f33e383920ea651ff7ac0c4d29196d081c04817a9e793d46a811b0e162efbbf",
+        "d9cabba279411e5bf90df87f0a894f0ff8c85b4a6f4394a747bb59fe96fd67c2",
+        "d2a15bdd4e863774bd493e6d0beb02260319a3feae3f851d3d846f1ccf52ac8c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
