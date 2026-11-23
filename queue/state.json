@@ -23146,6 +23146,18 @@
         0.0,
         0.0
       ]
+    },
+    "445749282": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EMC94639132324",
+      "originals_sha256": [
+        "1d20d0497c46fa6be45bd6996e2ea7831ee35d75611177ea18b858ecb2450c0a",
+        "aaf7fa13c9ff6c87b77ee2cacd5e946ecfdbc57f38cce11852f40385c27128d0",
+        "adec894e2696f5ec019d79dff7757abd830c41a2ae77b8484fa73b993aa44049",
+        "7bfaf1b24287165d4ffac1281e0dc5b1e2f669586d5e036cafba677cc814c11c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
