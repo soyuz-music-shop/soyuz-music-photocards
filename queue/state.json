@@ -34750,6 +34750,15 @@
         0.0,
         0.0
       ]
+    },
+    "997874111": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDVIR150",
+      "originals_sha256": [
+        "320497471b4ef2e88abad2cf9dcaebfda6f09f396561796842105b3bf3d24615"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
