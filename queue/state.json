@@ -32624,7 +32624,7 @@
       ]
     },
     "864679836": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1063285STU",
       "originals_sha256": [
@@ -32632,7 +32632,12 @@
         "08f585f7861398976a84116d208bf8d47828f59346849af59315a4a8b7fc9253"
       ],
       "before_count": 2,
-      "task_id": 6109252498
+      "task_id": 6109252498,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
