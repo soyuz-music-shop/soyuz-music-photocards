@@ -32656,7 +32656,7 @@
       ]
     },
     "864830207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "1062829STU",
       "originals_sha256": [
@@ -32664,7 +32664,8 @@
         "e0097f6e7f2e10c43f2f7589868949bc05ea68cb11bffeb674110d6534f78798",
         "b74944fbae32b4d263dc2df7a41ac1077f070aaadc167c6ad763ff75c7f644dd"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109256375
     }
   },
   "reason": null,
