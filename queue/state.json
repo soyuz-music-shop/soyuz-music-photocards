@@ -25366,6 +25366,18 @@
         0.0,
         0.0
       ]
+    },
+    "491090765": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QN47288240",
+      "originals_sha256": [
+        "dd775534ea54ec1a081695756107892e56a4a03bc57234f4f7ebea5d9513a17d",
+        "1e8593cdf1af8df72fd6253f859739e8b8dfbc20f7f3eab126835c7bc52940b8",
+        "e60a336246a73071a5d3df0eba66ea2c4bb343c5500fc53c26a565a15e68c8ca",
+        "490b95bb79bc93185a8bd69dde98f4eac314f22159aeb363554c69f36b0ec368"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
