@@ -33892,7 +33892,7 @@
       ]
     },
     "897661811": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT812LP",
       "originals_sha256": [
@@ -33900,7 +33900,12 @@
         "d8aaa3060f5ae1cbdd27546d7712ec2d88133690b75847512307d9574142eb42"
       ],
       "before_count": 2,
-      "task_id": 6109417352
+      "task_id": 6109417352,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
