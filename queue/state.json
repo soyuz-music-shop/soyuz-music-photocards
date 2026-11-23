@@ -40245,6 +40245,17 @@
         0.0,
         0.0
       ]
+    },
+    "1255341793": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CR95646615",
+      "originals_sha256": [
+        "f4f6fbe5d963618c4c8271373d04b8f126b8e5ae42d6e8abfe4b64082c3fc8f8",
+        "d5c090185121e091f4249817aed1924f9bbb3bdc008ab18623f396c1f2ba9423",
+        "41be2242b09d4e8ab85e40f9df8605616a2113a370268634a6d5bfae7b204914"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
