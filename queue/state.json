@@ -55054,6 +55054,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010614": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0132LP",
+      "originals_sha256": [
+        "777c63e3dd683025eb07d762b560655c8d6626cc010ca457ea0fa400008fde50"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
