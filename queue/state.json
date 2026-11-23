@@ -34700,6 +34700,16 @@
         0.0,
         0.0
       ]
+    },
+    "996070865": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SCR 1063072STU",
+      "originals_sha256": [
+        "e1a36cd005314e05384cc8e3e904c222b1a337336d55864ab8bf9c0131e1be61",
+        "c9f6e925f2f56bab67c75594eb115b7e7dcf3a350bc265a26e86aac8a87f4e41"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
