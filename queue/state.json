@@ -32592,7 +32592,7 @@
       ]
     },
     "863435875": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1063283STU",
       "originals_sha256": [
@@ -32600,7 +32600,12 @@
         "92facb3b0c36fbf0d4a76ae568173061c751ce641d0f73af3ef415d97827c580"
       ],
       "before_count": 2,
-      "task_id": 6109249356
+      "task_id": 6109249356,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
