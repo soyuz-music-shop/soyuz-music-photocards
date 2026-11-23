@@ -44799,7 +44799,7 @@
       ]
     },
     "1857670796": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TPLP1381",
       "originals_sha256": [
@@ -44807,7 +44807,8 @@
         "7bb38e0123426b4398754fa096a749233c7e69532421d8a539858d7529a25123",
         "ea2c412de3af524c503c4749cbcf00da57149794301e551325ac93dec2359f52"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110701047
     }
   },
   "reason": null,
