@@ -28635,7 +28635,7 @@
       ]
     },
     "650009457": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "POL54995023",
       "originals_sha256": [
@@ -28643,7 +28643,8 @@
         "dc33697cf1e301312f472e3aacf5d6683c0307853d0c622d9e55af877b2d4b1b",
         "7077b636dc9f4b968c77c3e2f5ed98e9bc981b36fb77cf3921045e7c414198aa"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108808717
     }
   },
   "reason": null,
