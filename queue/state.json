@@ -32181,6 +32181,16 @@
         0.0,
         0.0
       ]
+    },
+    "849592450": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SR50538936698",
+      "originals_sha256": [
+        "e693ceadcb1ee119040be13de130b98d430f94b2c1dcf22a1da875be1e3db16a",
+        "e0b3de54b9b59ed48a7ad2692ab0a7173f6cefd19b73fe74e9af02a5b5c335f3"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
