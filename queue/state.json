@@ -28143,7 +28143,7 @@
       ]
     },
     "621191963": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM54092610",
       "originals_sha256": [
@@ -28151,7 +28151,12 @@
         "0adec1a179f8c4cedeb6ea9951c9cf1e32b020387224f6550b6d8c364c891abd"
       ],
       "before_count": 2,
-      "task_id": 6108756691
+      "task_id": 6108756691,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
