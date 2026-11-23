@@ -54086,6 +54086,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899328": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JP724228",
+      "originals_sha256": [
+        "28b4b87ef8fbf50aa3a649a7146df0998aa0ed07e3783d420b2b980852d0dc3d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
