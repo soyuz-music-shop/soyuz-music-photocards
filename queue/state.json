@@ -31332,7 +31332,7 @@
       ]
     },
     "782239581": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCATLP62C",
       "originals_sha256": [
@@ -31342,7 +31342,8 @@
         "7faa936e6855da4fbb457f2fecaf23401d182f0ceeb5f9b6f1b33609495a0585",
         "c444fdcd214467112505cf84330c156367245912cf815310b98ed7af8e1c96af"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109097653
     }
   },
   "reason": null,
