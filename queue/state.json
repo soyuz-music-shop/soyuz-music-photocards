@@ -43714,13 +43714,14 @@
       ]
     },
     "1720272111": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LPM24818625",
       "originals_sha256": [
         "60283b1f32e3635669b2f71bb29fb7b7082f881b83b867c028afeb6ba508db14"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110628413
     }
   },
   "reason": null,
