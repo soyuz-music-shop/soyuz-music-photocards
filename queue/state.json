@@ -46268,6 +46268,15 @@
         0.0,
         0.0
       ]
+    },
+    "2179783960": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LP 256091",
+      "originals_sha256": [
+        "953347503d6f0e3797068a626d0b96debb98e04d2b561587ff03a326a343c0f6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
