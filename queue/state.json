@@ -45567,13 +45567,14 @@
       ]
     },
     "2153691809": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DBYAPD 1975",
       "originals_sha256": [
         "10550d7d9915cad57ebf224433124ab1feda4aee33cccb65ab32081221012ddf"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110760706
     }
   },
   "reason": null,
