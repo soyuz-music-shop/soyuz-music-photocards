@@ -54745,6 +54745,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033387005": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HZ261524",
+      "originals_sha256": [
+        "1b21815f3dfdc6f4e231657cacdc90176cac4a1dcbf26fd8d08d2088b43ef0fa"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
