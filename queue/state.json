@@ -46994,7 +46994,7 @@
       ]
     },
     "2247230863": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PF28762311",
       "originals_sha256": [
@@ -47007,7 +47007,12 @@
         "4f39ac7c27fd5cd114870e6242b972900aa8b889cf9acbed3f1b31d10a3f2ada"
       ],
       "before_count": 7,
-      "task_id": 6110883147
+      "task_id": 6110883147,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
