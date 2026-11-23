@@ -30282,6 +30282,16 @@
         0.0,
         0.0
       ]
+    },
+    "739681617": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JP53907915",
+      "originals_sha256": [
+        "fe3651d4c56f64d1852dfe0087a25e474772d1a7656b774005786f41ad0bec5c",
+        "52bb1a252156fc8d4b1f9cb2ae043352a7726b50e65227272294b1cc2380114a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
