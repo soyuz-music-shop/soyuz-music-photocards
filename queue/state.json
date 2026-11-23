@@ -52188,13 +52188,14 @@
       ]
     },
     "3011894540": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "STH2196",
       "originals_sha256": [
         "27a7de98727317e94cde0cd60c4164743990a96bb4db038f278de790cc952ef6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111419543
     }
   },
   "reason": null,
