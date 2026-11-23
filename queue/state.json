@@ -33594,6 +33594,18 @@
         0.0,
         0.0
       ]
+    },
+    "881665835": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1063284STUD",
+      "originals_sha256": [
+        "449aa5f6cb90c2aad10e8f2289f81e3cb7b5f2040f24a142958c98b8252de4d8",
+        "00b8f508331c7e57cf8514500be9990c7de049485b262f78b8acae94d6219e6d",
+        "27e2d006cbed74dba3da4bc24d8e3282f90d2630411b75e83c95cfd3391f997e",
+        "872f81e443d0a677ef44bdf5af19b9893b783783acd26be5f94b33c773d495fd"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
