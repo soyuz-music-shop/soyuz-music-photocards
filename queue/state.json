@@ -45565,6 +45565,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691809": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DBYAPD 1975",
+      "originals_sha256": [
+        "10550d7d9915cad57ebf224433124ab1feda4aee33cccb65ab32081221012ddf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
