@@ -48353,7 +48353,7 @@
       ]
     },
     "2960736228": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DT437615",
       "originals_sha256": [
@@ -48371,7 +48371,8 @@
         "0d7b0dfd3a7bbdb295a2c161faba47c35fd69d05e415803d01e78f34ec4bdcdd",
         "fdca28bf3da19b0ffdb8adb4114fdc85fd3d9dd5d007e290cce11b3f58ab5b72"
       ],
-      "before_count": 13
+      "before_count": 13,
+      "task_id": 6110991966
     }
   },
   "reason": null,
