@@ -32608,14 +32608,15 @@
       ]
     },
     "863702145": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "1063418STU24D",
       "originals_sha256": [
         "20ab867b75007f6ce4241418dd113a6c1f3053a0d4b2594ad45cd496ac7b0425",
         "a1aa2fda20270e12bc491e54fe17e708ca931192c00bad6514ac6b223ead3b90"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109250868
     }
   },
   "reason": null,
