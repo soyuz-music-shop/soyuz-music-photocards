@@ -25869,7 +25869,10 @@
         "49133fe500c1f83c7031b718d6c8370e276b6567b47aaae97462ed4f825346f5"
       ],
       "before_count": 2,
-      "task_id": 6107628690
+      "task_id": 6107628690,
+      "previous_status": "needs_review_gallery_pending",
+      "error_type": "RuntimeError",
+      "reason": "Ozon gallery not confirmed"
     }
   },
   "reason": null,
