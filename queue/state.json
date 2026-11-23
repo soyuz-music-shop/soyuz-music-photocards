@@ -24660,6 +24660,20 @@
         0.0,
         0.0
       ]
+    },
+    "476543514": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNC69092019",
+      "originals_sha256": [
+        "d965e58e330ac1a50c800ec5ae9f603674b9b1877beed8709b94467f73792883",
+        "ee5050c835d527b64d8784ea08f159c397065c38228d7604839969fd92570183",
+        "4d15674e66b44c62473bd3c2fb03ec257bee09986bcc692b2cce2ffa8b8dc132",
+        "5bddd08242d09ee1aed73a9529abfbac20dabbfc70870c067c27ad86df4de2ec",
+        "1a2ba04fda100afab89bc046a6a12b1ca7996986bbe2b4508a9138aa38a6c533",
+        "e55e09e3ad9ff1bcc75e0ee474d19ebc6f707b63019f1fe263c6b9293995317f"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
