@@ -26822,7 +26822,7 @@
       ]
     },
     "556890569": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT528DCLP",
       "originals_sha256": [
@@ -26830,7 +26830,8 @@
         "27747ba0b24025bc9662c53a3dd4ba03f4fad41a118c94cc208cbee3409f418e",
         "b31f5911dd3562a740113c2d9726c6001aaf4f59c384c591cb9f453c94a56670"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108576206
     }
   },
   "reason": null,
