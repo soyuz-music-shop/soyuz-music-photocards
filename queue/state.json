@@ -36523,6 +36523,16 @@
         0.0,
         0.0
       ]
+    },
+    "1084153122": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1 516266",
+      "originals_sha256": [
+        "c3cac727ba5cf2c18daf73ae3cfd79350a87c56928fdf73e5c0cc3970d2f6c73",
+        "870fe19ed030d6bd8eadaf3b634a440c65c445fe73e4b64343d0257375d31581"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
