@@ -26481,6 +26481,18 @@
         0.0,
         0.0
       ]
+    },
+    "542171067": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NZ38801330",
+      "originals_sha256": [
+        "0a398da5bfd29caf2f08f2ba0b80d1c164f0b8c322e2fefd862cadd193828699",
+        "f8827e5fafd9d626dda3825462634e29e6a104314b6dfbb40e7ae7d3de2d0da0",
+        "21d43dbdc84c32a0a3e6c38f7eb4b5c0663a50f705325cdf7c39d37c88bf987f",
+        "21e406f73d422ae1489a893f0b9946b7b57615b2bd6f08ecf6862fca3be89387"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
