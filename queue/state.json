@@ -39079,6 +39079,19 @@
         0.0,
         0.0
       ]
+    },
+    "1207060179": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LNP24846017",
+      "originals_sha256": [
+        "8b070bd2c45db986082e7af615ac4940ad34a1c14ac57eb60970f1259cf2ef18",
+        "b295bb0bcc118a0b656b9f55f819291d83651c8e0eb6e97818d6eeebcad37fa1",
+        "40a7b1f8b1a1c81bb67faba6246c6ed292f3d497d7fbf72ff9f556f633758e28",
+        "fbea265923feb8ec5f326db29cb61994b73b9d3b3520faa57550c03ee83517f1",
+        "50d6236c69d46908b3e37e70b8bbc6ade676892d05b9feb5701911bede84f1c7"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
