@@ -28499,14 +28499,19 @@
       ]
     },
     "643694071": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SWT53576111",
       "originals_sha256": [
         "8ce979972cafc3c1ff5eff3671067cc1667b7bef22d5fd4e228adce87379415e"
       ],
       "before_count": 1,
-      "task_id": 6108793296
+      "task_id": 6108793296,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
