@@ -37441,6 +37441,17 @@
         0.0,
         0.0
       ]
+    },
+    "1106031749": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2 643449",
+      "originals_sha256": [
+        "f721cd24f1c30193a680c7c1ae5f1c02b79f9f4fdade7735110d753f6b66d33e",
+        "a34ffe2fcc08374091c6ce3f9b669ea267f850869aa0131b1bf3d0a77b860235",
+        "d7226512df9d7a7fe59fc02f5bb718616d50871bbb1a5e55fbd4bbee55a0c7d1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
