@@ -39115,6 +39115,17 @@
         0.0,
         0.0
       ]
+    },
+    "1207817884": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DLP58398922",
+      "originals_sha256": [
+        "08e90427cf1e558e77d853ef435c5e084017089b4a8cf94e0e44aed8bc236093",
+        "46ef5729808a2be35e55b95bdc9d6b59f205419226facb57e6437300f72fd743",
+        "f628bfc56103df0a30d0f6f8b28c6b6ed7a23c4d2be7dc95f65472673afe8812"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
