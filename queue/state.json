@@ -38575,14 +38575,15 @@
       ]
     },
     "1190253973": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SCSF58998399",
       "originals_sha256": [
         "3044e20866b1b921919178488486ed8dc5e0a5e027e981f1a4fe203d5eb5eedd",
         "cad0236625096546c35074413951a14af2cd3666dcc5b93cf18d933b9df20d71"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110091020
     }
   },
   "reason": null,
