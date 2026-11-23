@@ -35333,14 +35333,15 @@
       ]
     },
     "1034692782": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "STG066921",
       "originals_sha256": [
         "abd193b70e4448ebfe017b3e989008d75b6afed752e6f24d0285613e83a1c733",
         "fe6ef6029e00d58287432acbfc70de30c33df2418984322021afcee95154cce7"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109618427
     }
   },
   "reason": null,
