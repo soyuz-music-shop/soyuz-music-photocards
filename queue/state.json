@@ -42480,7 +42480,7 @@
       ]
     },
     "1548574408": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR1 3104",
       "originals_sha256": [
@@ -42493,7 +42493,12 @@
         "d42c335d02bbdf723a21be1df549f6bf374cc692823e52c0374078c82630de15"
       ],
       "before_count": 7,
-      "task_id": 6110534224
+      "task_id": 6110534224,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
