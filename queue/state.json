@@ -28386,7 +28386,7 @@
       ]
     },
     "639379739": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RNS27015668",
       "originals_sha256": [
@@ -28394,7 +28394,8 @@
         "0ba7129b8bd99d020859bb6dc5e96fd2b2925b3734cb8f7d648bd3c2ca1d0080",
         "23f5be6b2667165449d5fa39e1549cc4e70652175af48659d2f8770fe5fcfeed"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108782081
     }
   },
   "reason": null,
