@@ -45820,7 +45820,7 @@
       ]
     },
     "2170047421": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "KLM75686750",
       "originals_sha256": [
@@ -45830,7 +45830,8 @@
         "3fc7d2742a328ec375a087c91e9ccc900b4d68733aa662393b3d282901c1c128",
         "4200306e3d774a6cf6e53fd0539727003aac9922f38b7ca90c5f421523a60cc7"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110781931
     }
   },
   "reason": null,
