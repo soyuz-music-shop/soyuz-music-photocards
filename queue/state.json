@@ -45102,14 +45102,15 @@
       ]
     },
     "1953417658": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LAM24003",
       "originals_sha256": [
         "8c95762d78307bc6fda96d9446b53417fac6a35704f4b2d0a7966abb0fdf2bc4",
         "a3616098be8fc9a65edd67adb2519573d9050540540a2fdf5226daaf64823505"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110725199
     }
   },
   "reason": null,
