@@ -45202,14 +45202,15 @@
       ]
     },
     "2022937504": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4632000192124",
       "originals_sha256": [
         "32f48e5fe8127d4c0b5b3cecd595c9be99e3f087c12d454f43aa8736aeb049c6",
         "f145e0aee1ecbec6dd67d0f25cc5390df61b6c4d4cf5510a0a5a3956b7406588"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110733715
     }
   },
   "reason": null,
