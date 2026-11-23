@@ -38230,7 +38230,7 @@
       ]
     },
     "1175065517": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL08030680",
       "originals_sha256": [
@@ -38238,7 +38238,12 @@
         "3d7164722ae839c28f45793e6cdce958829d2fc5dcf78c3d9d1edf6cf9144e9d"
       ],
       "before_count": 2,
-      "task_id": 6110050647
+      "task_id": 6110050647,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
