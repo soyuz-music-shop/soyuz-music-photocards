@@ -29789,7 +29789,7 @@
       ]
     },
     "725327003": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM54092511",
       "originals_sha256": [
@@ -29798,7 +29798,12 @@
         "40cf6007f2be80fcdade18fff0fa3117af4b087771ee670b2f40185ffd6da083"
       ],
       "before_count": 3,
-      "task_id": 6108940898
+      "task_id": 6108940898,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
