@@ -49774,6 +49774,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v4/product/info/attributes connection URLError"
+    },
+    "3005087241": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3597",
+      "originals_sha256": [
+        "311c14c486e65953af8f11ac9f328caeb657915df8cdcdf863af5cda4635f6cf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
