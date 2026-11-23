@@ -32592,14 +32592,15 @@
       ]
     },
     "863435875": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "1063283STU",
       "originals_sha256": [
         "5f6600d7c14ef2a73bdada7d8db670c7a1abf208dbb4cbbc174b5d227c86af0b",
         "92facb3b0c36fbf0d4a76ae568173061c751ce641d0f73af3ef415d97827c580"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109249356
     }
   },
   "reason": null,
