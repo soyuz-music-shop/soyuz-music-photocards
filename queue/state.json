@@ -30497,6 +30497,17 @@
         0.0,
         0.0
       ]
+    },
+    "747844307": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PL97617638",
+      "originals_sha256": [
+        "e9aa1d1fc2d1ceddd9cc917f69c318a46a8b0036ebaac364e15eafa8c2b0af77",
+        "91f2be8f8cf6e0e8a0db99a685ad3031f0bb5bb801568ef752ca25faa8431855",
+        "4f16e0a042f96dd1029d095cfa36229fe1f897b38c1d579573f459e310757ad4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
