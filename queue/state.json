@@ -42255,7 +42255,7 @@
       ]
     },
     "1531227589": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT364LP",
       "originals_sha256": [
@@ -42264,7 +42264,12 @@
         "c82058fe3a0b980c4f968b4e232b7b82a30b983bfe52d65136c1db43956d57b9"
       ],
       "before_count": 3,
-      "task_id": 6110511870
+      "task_id": 6110511870,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
