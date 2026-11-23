@@ -48978,13 +48978,14 @@
       ]
     },
     "2981259815": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "GR159387",
       "originals_sha256": [
         "6c5562321224f7714b274c4fb948982b8b06d7c31fa16ecfc36e605c700ed0dc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111035140
     }
   },
   "reason": null,
