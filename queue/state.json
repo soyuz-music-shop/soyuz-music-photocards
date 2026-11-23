@@ -45766,7 +45766,7 @@
       ]
     },
     "2169933939": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL183LP2",
       "originals_sha256": [
@@ -45776,7 +45776,8 @@
         "52471f4a5d60ebb672a2ce5549f902f0e48b798d1bc021d8fe335806171c2940",
         "c4955b0ff99054aa2b5e76813a0c2af6bfaf820c3d6213602bd9b2a9f5ed63d6"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110778277
     }
   },
   "reason": null,
