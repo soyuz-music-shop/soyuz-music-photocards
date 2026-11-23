@@ -22747,6 +22747,22 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v4/product/info/attributes connection URLError"
+    },
+    "444475166": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRVN602537204830",
+      "originals_sha256": [
+        "e8347addaf039935c5ef863732a99fe5d55af746b0923324fc9c28d493641e1c",
+        "1afa474d86c18dcc4f093af8408863e9b09a6914ea8353d6d62dfbf4208fee13",
+        "1652ceef41449daff3d2905aec0ca2a9f1761bfadc6d01edf81777c11b430bce",
+        "56fb2bf26f6848a50e132553e79b3e2af159e0465f73c1d186a5d6798aa3a5a3",
+        "a2dd6f36cf259226cd5fdf6df56170bbce84a7d5f01956ee1552cc6fcbbed36a",
+        "cc5ac4cad6db7d4af9e44ef878b656739f0300fed6e21bda2c293d133cd03d0c",
+        "def2426c213dad74cc8499b72a14f6af25249380a3c5ec6bd2f5cec3a2ba86f8",
+        "5c9aef9c16cc6da467c0dc44fa68348d22eaad9a1332b308abe533236dd3a788"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
