@@ -34391,7 +34391,7 @@
       ]
     },
     "927427641": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NRVN42472712",
       "originals_sha256": [
@@ -34400,7 +34400,8 @@
         "fdc828d1d85b953ff235a3d72c8e17ab8959713ecdc68d3993425ede9b3595c2",
         "1967eca802bd394110936a0d0cd67dfb91cf6bd6fb4210d0592882170af0d511"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109497437
     }
   },
   "reason": null,
