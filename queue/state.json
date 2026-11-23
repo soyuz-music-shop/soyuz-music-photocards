@@ -44241,7 +44241,7 @@
       ]
     },
     "1764902667": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OLE1798LP",
       "originals_sha256": [
@@ -44250,7 +44250,12 @@
         "c4a2d27a27a3382ab19a7c25b29f6e01607239f42369592f543a928204b95d18"
       ],
       "before_count": 3,
-      "task_id": 6110660739
+      "task_id": 6110660739,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
