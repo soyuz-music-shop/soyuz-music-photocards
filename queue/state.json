@@ -29911,7 +29911,7 @@
       ]
     },
     "727359422": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDXSTUMM92",
       "originals_sha256": [
@@ -29920,7 +29920,12 @@
         "de98f22ea8646505e1899699607cdce63ffea0941d2910b5664a95f585fa2bc5"
       ],
       "before_count": 3,
-      "task_id": 6108953240
+      "task_id": 6108953240,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
