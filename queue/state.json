@@ -35069,6 +35069,16 @@
         0.0,
         0.0
       ]
+    },
+    "1017094263": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JC37351183",
+      "originals_sha256": [
+        "286ebdd4bbe8225c0d0ee6dc0d8a1557d3ea3f9d3892028a325dfa7e5a7c3d72",
+        "aaa0e8e8db394b82bed49b6f28cc7752bd5fce324c5e53c3bc906ba11490d668"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
