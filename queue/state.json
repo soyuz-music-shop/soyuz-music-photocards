@@ -29564,7 +29564,7 @@
       ]
     },
     "719006609": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SPX55040015",
       "originals_sha256": [
@@ -29577,7 +29577,12 @@
         "21361c2e8160738a0d6f473a9dcc522f942e90bb07e2fe208e7eeb7d3cc56ad6"
       ],
       "before_count": 7,
-      "task_id": 6108917469
+      "task_id": 6108917469,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
