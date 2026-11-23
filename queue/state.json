@@ -23991,7 +23991,7 @@
       ]
     },
     "455651988": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MJ50438928",
       "originals_sha256": [
@@ -24000,7 +24000,12 @@
         "885f2432bd751848a7c89322f3d581f204c951b85334a7c59d5136810a74b117"
       ],
       "before_count": 3,
-      "task_id": 6107161600
+      "task_id": 6107161600,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
