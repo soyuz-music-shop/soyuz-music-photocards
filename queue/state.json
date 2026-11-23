@@ -25534,6 +25534,17 @@
         0.0,
         0.0
       ]
+    },
+    "493297190": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TL99502013",
+      "originals_sha256": [
+        "49e5e355ceaa740a2f05a0f1cb1cb341f575963de65a7b0db9b69f2b21bdcdb5",
+        "406293a4fb54290d0817626bb8798cc3d676095e793719f070a90718a37ead91",
+        "c29af0a8deae325b799140097dcf0e19b3d172be496958566f28ebdf887a112c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
