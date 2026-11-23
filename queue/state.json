@@ -23426,7 +23426,7 @@
       ]
     },
     "449275276": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IM190295851965",
       "originals_sha256": [
@@ -23434,7 +23434,12 @@
         "a0cac1a7264d6c833cc688c39df5116f7502fa8227f50fdb1297e6c310f65298"
       ],
       "before_count": 2,
-      "task_id": 6107030794
+      "task_id": 6107030794,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
