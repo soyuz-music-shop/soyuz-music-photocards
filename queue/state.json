@@ -42639,7 +42639,7 @@
       ]
     },
     "1563687417": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BNC88949210",
       "originals_sha256": [
@@ -42648,7 +42648,8 @@
         "3ca014bc0da0ea586b2834408f57e9d435514ca88dffabc263aa8541ecee37ee",
         "5f9202b0e8f9a11336a525b9c0fb3ad5153d33bc685f9b506dca657a5ba9846e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110548921
     }
   },
   "reason": null,
