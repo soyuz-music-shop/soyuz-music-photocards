@@ -31839,6 +31839,17 @@
         0.0,
         0.0
       ]
+    },
+    "838855559": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CR00704",
+      "originals_sha256": [
+        "d143f371120bdc86625d47b12a761d2cdc2971c37ad42226dbc8060b033b47d9",
+        "07f6cb15c17f4bc0a457b025fa02ca73dd48f439c981d1058fdd820626a7605c",
+        "3d5a622f756ee6925a59e9dae77916a4f4a076c3a5f1349d984101d640c060dc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
