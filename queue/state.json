@@ -31535,7 +31535,7 @@
       ]
     },
     "805298027": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SLM119P01",
       "originals_sha256": [
@@ -31544,7 +31544,12 @@
         "6ca9cd045b6628313d91703b6a104b447292603f257b50f71530d4aeb3913061"
       ],
       "before_count": 3,
-      "task_id": 6109127380
+      "task_id": 6109127380,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
