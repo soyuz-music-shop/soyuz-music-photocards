@@ -52368,6 +52368,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277615": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LDR507686",
+      "originals_sha256": [
+        "9b6aa1c838661f96019b1d00107cddefec7948013133ee856de3f8b3b8ea8f8f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
