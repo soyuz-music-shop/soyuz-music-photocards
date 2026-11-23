@@ -52704,14 +52704,19 @@
       ]
     },
     "3013277755": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RRM1-1004",
       "originals_sha256": [
         "6aaa8e132ee0b5d43bb6b10e60cdb80ce828f0009634d55dcacb959b6a0753c7"
       ],
       "before_count": 1,
-      "task_id": 6111462780
+      "task_id": 6111462780,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
