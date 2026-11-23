@@ -47145,7 +47145,7 @@
       ]
     },
     "2280033147": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TCT25846221",
       "originals_sha256": [
@@ -47156,7 +47156,12 @@
         "ea0c29ca4dd8e9ec63695d4e3bc2ac729a8a75ea02c1bd960c1e015e5c2b8a22"
       ],
       "before_count": 5,
-      "task_id": 6110895626
+      "task_id": 6110895626,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
