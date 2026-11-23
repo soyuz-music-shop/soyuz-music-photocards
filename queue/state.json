@@ -30263,7 +30263,7 @@
       ]
     },
     "739346615": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SPX55040046",
       "originals_sha256": [
@@ -30275,7 +30275,8 @@
         "3145f4b0d12d6eba640b7bec0831983085efac3851d942506a2d21c596a2c9d6",
         "1e9744b7a0097cfbe12e900704eea29b8c5980bda0ac7af4689e5ba18bf50104"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6108987103
     }
   },
   "reason": null,
