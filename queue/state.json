@@ -30532,14 +30532,15 @@
       ]
     },
     "752752445": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PTN48681973",
       "originals_sha256": [
         "54c800293bdfadb3a3716ad0d9e64114a92a2aa202fbac1da109f379efdd8160",
         "1bc0a6ba8751f651c1814473be1f509aec85bccf528e6460902459475a005f0e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109012759
     }
   },
   "reason": null,
