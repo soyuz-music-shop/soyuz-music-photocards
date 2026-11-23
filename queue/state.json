@@ -28037,7 +28037,7 @@
       ]
     },
     "619824700": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT793LPX",
       "originals_sha256": [
@@ -28045,7 +28045,8 @@
         "b6a4d1b02e64a2b1af6a8533ce7953828cb22a8a45901ba30d56d6258b342d1a",
         "0107fc7d77d4859841aa3786067c1affaee73228eb48f91e591f141ca7d219d6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108743163
     }
   },
   "reason": null,
