@@ -50575,14 +50575,19 @@
       ]
     },
     "3005925987": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBA31137",
       "originals_sha256": [
         "a653d3311648d9e1813d1308e333f741c49259274c929d229fc334590d3095c1"
       ],
       "before_count": 1,
-      "task_id": 6111299850
+      "task_id": 6111299850,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
