@@ -55500,14 +55500,19 @@
       ]
     },
     "3130107997": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PA163622",
       "originals_sha256": [
         "718461fdccc2140a4e3b74861d09319f7e433f9ae9ad42f003f8fb37a72e8255"
       ],
       "before_count": 1,
-      "task_id": 6111647158
+      "task_id": 6111647158,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
