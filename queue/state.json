@@ -45801,7 +45801,7 @@
       ]
     },
     "2169988300": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LG75451082",
       "originals_sha256": [
@@ -45812,7 +45812,12 @@
         "0501336583ba157e89a2b3eea0cd3c00221511cc6d549a3ecb0db96c689d98e8"
       ],
       "before_count": 5,
-      "task_id": 6110780624
+      "task_id": 6110780624,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
