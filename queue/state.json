@@ -30562,6 +30562,17 @@
         0.0,
         0.0
       ]
+    },
+    "752833890": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STR88016813",
+      "originals_sha256": [
+        "d1a0e4a8dc7f9c78b0bb46e145a792badc2a464963f3b55d0bda27f3646c097f",
+        "7172caf67d67745461451ec6153fb3df9bd0549f55e7e1aa0079e6125b199d3d",
+        "c0525717c63560e3d28f406081085d584888c64772436ad6b802abbc267c453a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
