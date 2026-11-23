@@ -44528,6 +44528,16 @@
         0.0,
         0.0
       ]
+    },
+    "1797814602": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DD97640872",
+      "originals_sha256": [
+        "5addb3754013de2d0c571b5e6db840052d2e9633cf7b318f6bc01d65f30e1ab5",
+        "6e7ab107eb3b3b8c0da474e0654f7baca33748cbe6692f193bbf86c1c8a1a143"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
