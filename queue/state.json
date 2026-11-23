@@ -55330,6 +55330,18 @@
         0.0,
         0.0
       ]
+    },
+    "3130010645": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IA-LP-1",
+      "originals_sha256": [
+        "9e19fd6636337d8d01267738c30f391475c0472aae1a50bd183e22d9785a75ec",
+        "ab9cb2fc5ada49e3d0fc0d1a143bb82bb877b997298d2ffc0139f3b55737cc2b",
+        "6be34d754b88691e2e49c1d8cb696f49c0e01593283403f0cba39e03d36570f6",
+        "6e53e271959f19be0856acb271a83649d659ab9a6161f5cea5d602b5dc71e5a9"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
