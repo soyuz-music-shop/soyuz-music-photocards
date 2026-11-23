@@ -54313,6 +54313,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137583": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD13672",
+      "originals_sha256": [
+        "d10b003d671e8214bfdeef5494e2198ac6fbef9a9ed5f0a9203ebaa2746ee221"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
