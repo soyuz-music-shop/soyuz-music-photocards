@@ -40536,6 +40536,19 @@
         0.0,
         0.0
       ]
+    },
+    "1307267949": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BS023CD",
+      "originals_sha256": [
+        "edf883e497f4c28b52ca671a184ab2f58d033c01e1079ac4769c6a23f1eb56b3",
+        "51eb1545318ec5935672493ef104fda518b03c460b46e97153a4314854c36903",
+        "9ea0e601af9e362e0fa227c632dff898ff54d249c2cec74e7a27a75cc5edfe72",
+        "87fb926a1fd516c9748537e0f2fecca52711698b03af229a84f3f7b5d534d0b4",
+        "43a954cb18bf34379b20231a6c74c88e21fa27e85a37c1107e25155017cd6b1c"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
