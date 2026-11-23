@@ -60,7 +60,7 @@ if (-not (Test-Path -LiteralPath (Join-Path $bundleRoot 'SOYUZ_Media_WEB.py') -P
 if (-not (Test-Path -LiteralPath $kit)) {
   New-Item -ItemType Directory -Path (Join-Path $kit 'cloud-windows') -Force | Out-Null
   Copy-Item -LiteralPath (Join-Path $bundleRoot 'SOYUZ_Media_WEB.py') -Destination (Join-Path $kit 'SOYUZ_Media_WEB.py')
-  foreach ($script in @('INSTALL_CLOUD_TASK.ps1','CHECK_CLOUD.ps1')) {
+  foreach ($script in @('INSTALL_CLOUD_TASK.ps1','CHECK_CLOUD.ps1','SETUP_TUNNEL.ps1')) {
     Copy-Item -LiteralPath (Join-Path $PSScriptRoot $script) -Destination (Join-Path (Join-Path $kit 'cloud-windows') $script)
   }
 }
@@ -79,4 +79,5 @@ if (-not $NoAutostart) {
   } else { Write-Host 'Автозапуск уже есть; оставлен без изменений.' }
 }
 Write-Host 'Веб-сервер слушает только 127.0.0.1:8787. Публикация требует Cloudflare Access.'
+Write-Host "После настройки Access: & '$kit\cloud-windows\SETUP_TUNNEL.ps1' -Hostname 'media.example.com'"
 Write-Host "Проверка: & '$kit\cloud-windows\CHECK_CLOUD.ps1' -AppDir '$app'"
