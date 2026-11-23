@@ -29505,6 +29505,17 @@
         0.0,
         0.0
       ]
+    },
+    "718776290": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MJ51209312",
+      "originals_sha256": [
+        "22c91105aaba38d07ac2cb828d48dc13e14224bf13ae1f2981b2285f47531a78",
+        "72d4390c1386c3e9d1e7d1a8181485ecd4481603f99d1a9d4784614602bc1898",
+        "12c66b56fd232ce7237d1146a07b76b88d5a8a2582932d79505404f21b9c5bd2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
