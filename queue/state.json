@@ -31087,6 +31087,17 @@
         0.0,
         0.0
       ]
+    },
+    "766711514": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OZZ78747426",
+      "originals_sha256": [
+        "a849269ff79aaebfea91e72ca1bb9ccbef9fc40c2c05ebe85b40fb09db5c06c0",
+        "94a51eb1277feac476762016270887b24acda1516b30253ffffa56499234741a",
+        "9ee89c72f8977360cbce05e43228ecb13a3153d215c2b1d6fd72765df3d61860"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
