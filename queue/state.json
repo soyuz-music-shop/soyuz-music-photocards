@@ -42552,7 +42552,7 @@
       ]
     },
     "1549021803": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "B0013954-01",
       "originals_sha256": [
@@ -42562,7 +42562,12 @@
         "6febe98a8b1e9a36b232564f17dea1b19b3e5f6490b1e8c6495a2ce7af5b3e31"
       ],
       "before_count": 4,
-      "task_id": 6110540845
+      "task_id": 6110540845,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
