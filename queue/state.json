@@ -33431,7 +33431,7 @@
       ]
     },
     "874397536": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR63697",
       "originals_sha256": [
@@ -33439,7 +33439,12 @@
         "b71e5039bdb3d11e440fc060a0d32e016c685f855e14a8603885f56b02db9598"
       ],
       "before_count": 2,
-      "task_id": 6109354873
+      "task_id": 6109354873,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
