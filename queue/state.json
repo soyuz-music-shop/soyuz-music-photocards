@@ -42055,14 +42055,15 @@
       ]
     },
     "1508673756": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RKAS38395549",
       "originals_sha256": [
         "e12074aa29866d36d9d2757ddca4fb4eaeb8219cb706f293c9a14943aed53938",
         "da6c4c0b67d526099d9c3fe0687bd01c90107609339eb104987e68eaccc8f3fc"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110494525
     }
   },
   "reason": null,
