@@ -48521,7 +48521,7 @@
       ]
     },
     "2967665934": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MTH141825",
       "originals_sha256": [
@@ -48529,7 +48529,12 @@
         "81f1bf53f067ee8b25c8748552d4c41a77c517b21e3b01d89d725fa48d2dd694"
       ],
       "before_count": 2,
-      "task_id": 6111003940
+      "task_id": 6111003940,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
