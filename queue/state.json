@@ -33860,7 +33860,7 @@
       ]
     },
     "895629794": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT809LP",
       "originals_sha256": [
@@ -33868,7 +33868,12 @@
         "360119188cb56b60f33355a67c3949006f26a621122f7a0c88e574be2c000f4d"
       ],
       "before_count": 2,
-      "task_id": 6109413242
+      "task_id": 6109413242,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
