@@ -55996,6 +55996,15 @@
         0.0,
         0.0
       ]
+    },
+    "3137360265": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "POT041328",
+      "originals_sha256": [
+        "a4e8bf72ae3c040e88ad1c59aec8a3d5432aade33b35d0938b5cdd6c44dbed84"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
