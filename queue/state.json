@@ -31963,6 +31963,17 @@
         0.0,
         0.0
       ]
+    },
+    "841219479": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LP93624775522",
+      "originals_sha256": [
+        "bce36c157d94d7e3682151db1f6e3a7bc084f5d143e0521b84850c8ee57330f1",
+        "7244f9c190e1f3b1ba0db1f46a240a00af87bbe64a3e0bbefe4ee611bf9a2d37",
+        "631254bfed7831310cee98da1956b1e189bcdd57f550aefa5a6cba5ea3812866"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
