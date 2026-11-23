@@ -38892,6 +38892,16 @@
         0.0,
         0.0
       ]
+    },
+    "1200794447": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "APP68152829",
+      "originals_sha256": [
+        "8959137e933eb5dec68dcbc4c3b09b4027643608b900c271d262d2164b00c5f4",
+        "a3d47ba353f5e877f91751d0bef0e3bb996be5889b29673db76b4243dae740be"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
