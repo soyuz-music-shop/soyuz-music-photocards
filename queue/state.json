@@ -24942,6 +24942,17 @@
         0.0,
         0.0
       ]
+    },
+    "481471384": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OZZ6977381829",
+      "originals_sha256": [
+        "0f748117201f92631484d01ba13296852f486ecc77e3afd5896e1e254816a28a",
+        "1ba0b9d9e880d172f331a1921283422538ac7830c97bd806d4ad1909257dcd77",
+        "116d97ac932333e6b8f2d1a1a91a1807cadc864cf637c7c42d1af5a1b236726c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
