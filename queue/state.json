@@ -35399,7 +35399,7 @@
       ]
     },
     "1041498444": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DM512527",
       "originals_sha256": [
@@ -35407,7 +35407,12 @@
         "09bd5f946918f5c47ab4fcf4c66c6c33f7020a781b28125bfa6b9a5e38635dfb"
       ],
       "before_count": 2,
-      "task_id": 6109627369
+      "task_id": 6109627369,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
