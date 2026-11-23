@@ -55906,6 +55906,15 @@
         0.0,
         0.0
       ]
+    },
+    "3137340444": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RTRADLP823",
+      "originals_sha256": [
+        "6c834254f906e4269a69aa67759b5a4430ecc9fed02cae1efcf8beb471251377"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
