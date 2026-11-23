@@ -34939,14 +34939,15 @@
       ]
     },
     "1013472412": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DGMLPX103",
       "originals_sha256": [
         "0ce03a2f8376ef45f0aab1b1b3f34c7bf425fba6f5e8b006de7259b003c628f7",
         "cf3405ff2d032bb798b35f2786c4dda504806912f111fb158947f1b49a4a43d7"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109565274
     }
   },
   "reason": null,
