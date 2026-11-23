@@ -23819,6 +23819,17 @@
         0.0,
         0.0
       ]
+    },
+    "451986182": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XCX190295409579",
+      "originals_sha256": [
+        "a55b57acf31b9079aa7b590780e6ef475a9326b7d2bada6a519c6fc003d0feb7",
+        "b2a8d6f9a702e26634ce16aaa4ea0f59135a6914364721ed040d088c60e06d17",
+        "cbf4e0c084c66f38d30c331e4ec2a60072a5449c490fd63f6734323e2b53c799"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
