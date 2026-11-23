@@ -31177,7 +31177,7 @@
       ]
     },
     "776050866": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2378",
       "originals_sha256": [
@@ -31186,7 +31186,12 @@
         "5c0c4f7d819d12f625a61c9e1b176ce611b32abec3314c803b99f149f0ce5fc1"
       ],
       "before_count": 3,
-      "task_id": 6109079011
+      "task_id": 6109079011,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
