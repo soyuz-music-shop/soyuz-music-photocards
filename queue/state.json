@@ -28549,7 +28549,7 @@
       ]
     },
     "645457076": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ACDC51076711",
       "originals_sha256": [
@@ -28557,7 +28557,8 @@
         "0a6d5fb3c73ad21ec43feaa38dedc6cdc0a4acd67266bbfe9edb1a8f324def1b",
         "bf5875b59b8ad4be0e2fcb1f57dd9969b887618cf17874ecadbda3840a9472db"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108799575
     }
   },
   "reason": null,
