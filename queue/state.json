@@ -35889,6 +35889,17 @@
         0.0,
         0.0
       ]
+    },
+    "1066660602": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BJ018818",
+      "originals_sha256": [
+        "996b7ae07bd6b9aed89f9f037555223a2c8319e59813c8f074d1c26dc90dc7c7",
+        "632aead7cb82e7b5d3f8c1128929141b3e0475aa35842dc5ff741073c950f38c",
+        "b7daf4141f4e135b8027e92f5ba6cf11e4c0191058e92e1446ec127baf232fc6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
