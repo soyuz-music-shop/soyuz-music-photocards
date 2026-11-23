@@ -44916,7 +44916,7 @@
       ]
     },
     "1865863785": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IGGPP57366242",
       "originals_sha256": [
@@ -44925,7 +44925,12 @@
         "8a434db3d6015acba3d3c577dd5fd3edc21a0ecc5606642118ae62337e8f5083"
       ],
       "before_count": 3,
-      "task_id": 6110710364
+      "task_id": 6110710364,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
