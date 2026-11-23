@@ -33748,6 +33748,24 @@
         0.0,
         0.0
       ]
+    },
+    "893297361": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL129LP2",
+      "originals_sha256": [
+        "555f759f7bf77cf33872d81fa2e7f6b63235d1dfc78f3a0c9af61c49209e83c5",
+        "dae48d9ee7cd7d87e847e7d4d55adad054a798f227761135ea060b155d8d69a9",
+        "48c2a6513a7821e4baac3c41f453df4feb151bad76ef696e7d738852a4aa2613",
+        "61ec05975ccb6939bd7852f60cec71fcd1d62becb4d9e3e52267cb68bb0dee80",
+        "6a278c14f3bb5405450ac04296dbea4ae492049b5c89a2b138064f674ca53177",
+        "32295a4feb9e68c13568a2365d48c3e77b999212ecebbe0e828fe73f2f468ea3",
+        "ce8879473885ecac5b76332076ca9f1d7e5401fb7804b20708121e69c43014dd",
+        "2badd2ee8ca4ef645c97f3e80dbe3801dc356fd23bb33bc20d59cc828a5f14de",
+        "c88277a2b675ab18c64fa78027391f33d921b68f53fc3e1cad6d2de525138053",
+        "84ded985da8fcefd02ced57fcd50b91ddb3cd461318a0bc81472a02219c89505"
+      ],
+      "before_count": 10
     }
   },
   "reason": null,
