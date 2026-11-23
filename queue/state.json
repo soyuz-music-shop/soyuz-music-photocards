@@ -31417,7 +31417,7 @@
       ]
     },
     "789084679": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SLM119P42",
       "originals_sha256": [
@@ -31425,7 +31425,8 @@
         "4d0f80926c348ae5c989a1ae96d805a3d9ba0f1ef0ffae6c99dc6e9d774f54ec",
         "0f14daedd16c0ca39e6b01d0b77974a32551f2b72a33584a59497c4d5f1bec01"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109107781
     }
   },
   "reason": null,
