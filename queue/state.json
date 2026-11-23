@@ -38621,6 +38621,18 @@
         0.0,
         0.0
       ]
+    },
+    "1191445855": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AC27983574",
+      "originals_sha256": [
+        "1ad96fe098f205570a3dd328b3e756fee333cebb276a4fad572c7769d06cbca4",
+        "fb7eef05fbf8fdecce708deaf7d641863caccffb960c67c39463a92e8879e2ce",
+        "65753d6da550d9a46add68e439192a1434a1d58103644251c0d1e67de5a6229b",
+        "7614b310c38457a01099e34da52d4d1ed16aeeae3ff90141e869dfc325db749c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
