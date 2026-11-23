@@ -35006,6 +35006,15 @@
         0.0,
         0.0
       ]
+    },
+    "1013542014": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QN27724171",
+      "originals_sha256": [
+        "5b020f1270c0ecd04de291b3bc1f1c4f1da82b5fec2ab865105885cd2f5c922c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
