@@ -43796,7 +43796,7 @@
       ]
     },
     "1724248235": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2 727161",
       "originals_sha256": [
@@ -43804,7 +43804,12 @@
         "f9886386f7451e2d4ea401922fcb1e87d28414e78dee3ebeaf47c0252fcd29a3"
       ],
       "before_count": 2,
-      "task_id": 6110633703
+      "task_id": 6110633703,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
