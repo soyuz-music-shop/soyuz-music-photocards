@@ -32622,6 +32622,16 @@
         0.0,
         0.0
       ]
+    },
+    "864679836": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1063285STU",
+      "originals_sha256": [
+        "e2b7167e8135fe626f09d0d804e8ae30a67760865fba6fd5401272b0cc045526",
+        "08f585f7861398976a84116d208bf8d47828f59346849af59315a4a8b7fc9253"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
