@@ -29017,6 +29017,23 @@
         0.0,
         0.0
       ]
+    },
+    "675754487": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP787",
+      "originals_sha256": [
+        "576ad1ddecadc06a8f78c9b212ab64fd11a9a429f2ecc1c3eaca4f69721c06fc",
+        "e1908678d508a15612d1b7c65294c24efc25b444f1b68b047e7f3e42f16bd87d",
+        "ad5ffd6c73f63c4d9fc865c36145506376bddd322032cb207ad4b307ffa2e834",
+        "c1770e304c97a5bc0900fd7a5d620fcccfb569dc702716087b881f506fc6b1ac",
+        "63f191fbbb901d92d875dcde264a43b05fa3a1f17775c61b6cc9529f5ac4922d",
+        "5efb2de4b58578d902dad04ac826e1bb92462948e31cd4da9193e3c74cf8786b",
+        "2f38549f30402793d6268bdc439ea1c7ba0fe42639d952b6bc8d84ce6d5a7aa0",
+        "7750c74ce900380bd29913f0575ac2187fea3c9cda6442a5fcf3bb89ae837e07",
+        "bf5ade3e499924c93203840f1c080b9bc81c9897e9eee1e06da94186567a54b6"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
