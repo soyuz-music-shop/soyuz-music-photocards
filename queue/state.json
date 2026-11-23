@@ -55144,6 +55144,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010627": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE 426-0",
+      "originals_sha256": [
+        "7d37fdf0fca8cd1c3de040b83a2a6da36d0b3537e880daf93f06a42f8ddf8095"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
