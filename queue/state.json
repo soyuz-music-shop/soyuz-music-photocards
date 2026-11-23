@@ -54790,6 +54790,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033996019": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD 14534",
+      "originals_sha256": [
+        "4600d7875e80339e9212e37e96d598c2b0c2af1695720fa3e85a18acf8f3ebc9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
