@@ -23651,14 +23651,19 @@
       ]
     },
     "450112435": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD188E",
       "originals_sha256": [
         "cb519020aea30b347da1d90017803453a1095d999eb81c8a10dc9a8fc70aaae8"
       ],
       "before_count": 1,
-      "task_id": 6107083558
+      "task_id": 6107083558,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
