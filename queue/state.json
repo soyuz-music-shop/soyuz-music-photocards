@@ -28468,13 +28468,14 @@
       ]
     },
     "643382150": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CR48550415",
       "originals_sha256": [
         "6f26218e6d46808dfaeb40258571c0a98c735879cb5c04110b94063a2f2066f8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108790223
     }
   },
   "reason": null,
