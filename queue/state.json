@@ -45857,7 +45857,7 @@
       ]
     },
     "2170099332": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ESM-164-1R",
       "originals_sha256": [
@@ -45866,7 +45866,12 @@
         "9499533aa57e93306b6d653563a441b7e75c8dabdb25706da5c131f0e981a9e3"
       ],
       "before_count": 3,
-      "task_id": 6110784971
+      "task_id": 6110784971,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
