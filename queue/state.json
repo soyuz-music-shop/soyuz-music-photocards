@@ -44882,7 +44882,7 @@
       ]
     },
     "1864838774": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MV0030-VY",
       "originals_sha256": [
@@ -44891,7 +44891,12 @@
         "437417bbb5b13cd9cf3efda7b420e11e102717309f8945dd6b28672f019f3b68"
       ],
       "before_count": 3,
-      "task_id": 6110707490
+      "task_id": 6110707490,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
