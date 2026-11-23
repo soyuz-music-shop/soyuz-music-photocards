@@ -49457,14 +49457,19 @@
       ]
     },
     "2985109827": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3783",
       "originals_sha256": [
         "e26caf33e8f70db6704f50c202cb255a29984e3e9cfbde7f86f1c62c995466fa"
       ],
       "before_count": 1,
-      "task_id": 6111075284
+      "task_id": 6111075284,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
