@@ -40231,7 +40231,7 @@
       ]
     },
     "1255282729": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WROAC71454727",
       "originals_sha256": [
@@ -40239,7 +40239,12 @@
         "a25df6ce9c147e41791147d7bb1b001fedebf8033d4c433c2029635040cbe267"
       ],
       "before_count": 2,
-      "task_id": 6110305638
+      "task_id": 6110305638,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
