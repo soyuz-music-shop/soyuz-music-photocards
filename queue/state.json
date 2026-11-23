@@ -46156,14 +46156,19 @@
       ]
     },
     "2179717131": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SBR-345",
       "originals_sha256": [
         "1aa9ed3b8dfa8c5a59ad26345380281dbc995750348d7e03b5b743003d61388b"
       ],
       "before_count": 1,
-      "task_id": 6110810324
+      "task_id": 6110810324,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
