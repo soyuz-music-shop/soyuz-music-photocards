@@ -34290,6 +34290,16 @@
         0.0,
         0.0
       ]
+    },
+    "914986844": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SCP38150209",
+      "originals_sha256": [
+        "19398ac85f4846255e5102a857eb4ee9ed1f9b6f8744c660e4d3d1d563eeb1c2",
+        "89715b05f846e499318252fd425a6faa32192b98978ead3b8df0d05e7fd9f47c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
