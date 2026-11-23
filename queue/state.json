@@ -45490,6 +45490,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691787": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FDSPOON69",
+      "originals_sha256": [
+        "e79f3dcaa101e918371bae8b17316136e2562c31521143f3364db11ec59d4936"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
