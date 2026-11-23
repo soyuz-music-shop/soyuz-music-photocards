@@ -33164,14 +33164,15 @@
       ]
     },
     "870324359": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SMO75643028",
       "originals_sha256": [
         "81a9debcae2ff829d22fdb27b0f33fe4c8215ad391fe8b9b23ea21e975be8978",
         "d161a95ab6439ae369b4eb5cda947c81724423accd0b9508ba48e941a5f73e4e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109320946
     }
   },
   "reason": null,
