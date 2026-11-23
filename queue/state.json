@@ -43150,6 +43150,16 @@
         0.0,
         0.0
       ]
+    },
+    "1627918434": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DCDE81705309",
+      "originals_sha256": [
+        "d5abe88a59e5f45af0761f9ebc6d8501e9e16d4f7dab847d7bab6a017e294a33",
+        "40beb1e66ff29f8fc50ff577f3a9e228aea8ac3b0b28dbb8ac6635bc8ad87a77"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
