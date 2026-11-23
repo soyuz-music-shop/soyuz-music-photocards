@@ -32049,7 +32049,7 @@
       ]
     },
     "841452734": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JC02537351121",
       "originals_sha256": [
@@ -32059,7 +32059,12 @@
         "35193e57f6f1fdd918450d3b242a02ac5c0976060f0a2d628d30c20e5ed56278"
       ],
       "before_count": 4,
-      "task_id": 6109182513
+      "task_id": 6109182513,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
