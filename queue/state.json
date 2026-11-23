@@ -31728,7 +31728,7 @@
       ]
     },
     "829895101": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BLR97660160",
       "originals_sha256": [
@@ -31738,7 +31738,8 @@
         "d97b0b6d1a14dda5ac64d05896c44ea3b685caf12ad8262ba3dfb60b819e507e",
         "d06e8205f48ccbafab8e6dba5437da9ba6503bb56fedf8a34e9dc0aae0fe6e5d"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109149510
     }
   },
   "reason": null,
