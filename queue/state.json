@@ -51869,14 +51869,19 @@
       ]
     },
     "3006476293": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FTH534LP",
       "originals_sha256": [
         "f92620da22ee7c7d498016dadab77686e24184a32579266512350902ec478a14"
       ],
       "before_count": 1,
-      "task_id": 6111395978
+      "task_id": 6111395978,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
