@@ -47526,7 +47526,7 @@
       ]
     },
     "2466388702": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BEATLSBFS38241423",
       "originals_sha256": [
@@ -47534,7 +47534,12 @@
         "f4041dc508ed4285c48605f57d060da0522275ec3560ce4ed4a767849e4c064d"
       ],
       "before_count": 2,
-      "task_id": 6110926467
+      "task_id": 6110926467,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
