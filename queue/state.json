@@ -38944,7 +38944,7 @@
       ]
     },
     "1202050423": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TBK97900149",
       "originals_sha256": [
@@ -38952,7 +38952,8 @@
         "a6f7ca4f039192e2ef3176e73352a8bc8db5d0c7fe2ee5e4b05bc945906d784e",
         "38f111ec2317f9edb09a4cc4bcdf47916fd1e353506e097915947778792de8a6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110138313
     }
   },
   "reason": null,
