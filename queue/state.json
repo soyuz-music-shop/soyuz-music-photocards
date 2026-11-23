@@ -37443,7 +37443,7 @@
       ]
     },
     "1106031749": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "R2 643449",
       "originals_sha256": [
@@ -37451,7 +37451,8 @@
         "a34ffe2fcc08374091c6ce3f9b669ea267f850869aa0131b1bf3d0a77b860235",
         "d7226512df9d7a7fe59fc02f5bb718616d50871bbb1a5e55fbd4bbee55a0c7d1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109937962
     }
   },
   "reason": null,
