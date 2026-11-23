@@ -26431,7 +26431,7 @@
       ]
     },
     "541026872": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STN87001018",
       "originals_sha256": [
@@ -26441,7 +26441,12 @@
         "2c4e2a5882503126a90dace8687ba5d44b99b2fe862b4effe413b5b916c23439"
       ],
       "before_count": 4,
-      "task_id": 6108512428
+      "task_id": 6108512428,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
