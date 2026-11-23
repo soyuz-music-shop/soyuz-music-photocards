@@ -37312,7 +37312,7 @@
       ]
     },
     "1102961714": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRNS575615",
       "originals_sha256": [
@@ -37320,7 +37320,12 @@
         "db27512112c16642765173fcf617ea80d01f30a1474bfde83ab7b5d5feb517f0"
       ],
       "before_count": 2,
-      "task_id": 6109918517
+      "task_id": 6109918517,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
