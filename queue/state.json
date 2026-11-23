@@ -38211,6 +38211,17 @@
         0.0,
         0.0
       ]
+    },
+    "1172216967": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EMICD2113",
+      "originals_sha256": [
+        "99e2d7e823a8456e409e5126915cf39802ba2721d062238cd5a0f3c48b24fbf6",
+        "14fec4a8b771f6aae2addf083a29abb236c769b5202aa33f44687379f6ee2cb5",
+        "93096f13943910f52d2e0bf1566b1fb1836119452982de093f87c9e513832b36"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
