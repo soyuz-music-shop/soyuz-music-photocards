@@ -24895,7 +24895,7 @@
       ]
     },
     "481344196": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CK 85438",
       "originals_sha256": [
@@ -24903,7 +24903,8 @@
         "4847025f58631012929069c22ee14cfee530bbed5123684e9c4721f26e545a10",
         "078ffae7661c8495e16f5076234e7837596d25dfc24777f2f3a253395e65be88"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107344023
     }
   },
   "reason": null,
