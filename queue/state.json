@@ -39186,7 +39186,7 @@
       ]
     },
     "1208052816": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LF49451360",
       "originals_sha256": [
@@ -39194,7 +39194,12 @@
         "aaf8028d4fc11c1716adb75cb8df51af01cfaf186936e6c8a33231593bc877dd"
       ],
       "before_count": 2,
-      "task_id": 6110170748
+      "task_id": 6110170748,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
