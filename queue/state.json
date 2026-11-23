@@ -33828,7 +33828,7 @@
       ]
     },
     "895265081": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DUR38693652",
       "originals_sha256": [
@@ -33836,7 +33836,12 @@
         "db03a0164e8f460adeff23d0432af98a40f14c744b634ceb7b4e956dd04d900a"
       ],
       "before_count": 2,
-      "task_id": 6109408039
+      "task_id": 6109408039,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
