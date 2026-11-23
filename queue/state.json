@@ -41581,7 +41581,7 @@
       ]
     },
     "1467378894": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT528CDX",
       "originals_sha256": [
@@ -41590,7 +41590,12 @@
         "b198085ceadd313c23e41bb91cab73a1b68f0f533ec9e46819e8bcb44e75a6a9"
       ],
       "before_count": 3,
-      "task_id": 6110455498
+      "task_id": 6110455498,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
