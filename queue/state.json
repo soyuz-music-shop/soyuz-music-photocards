@@ -30065,7 +30065,7 @@
       ]
     },
     "731050289": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "E80210",
       "originals_sha256": [
@@ -30073,7 +30073,12 @@
         "d1a3b4f37cca565387a62d0709db65bd2b7dbfa56eab9341d2bdc2358e52662e"
       ],
       "before_count": 2,
-      "task_id": 6108968507
+      "task_id": 6108968507,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
