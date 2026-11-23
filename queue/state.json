@@ -43892,6 +43892,16 @@
         0.0,
         0.0
       ]
+    },
+    "1725354580": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SOFAD24524328",
+      "originals_sha256": [
+        "ac245fd7fe69c20b9e3272f79d0a2332c3bed7df2530857946f748cb4509d2b8",
+        "462370d9139184fdcb9da717c7debc0f649d02bf8214f683479c70f4cac30f09"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
