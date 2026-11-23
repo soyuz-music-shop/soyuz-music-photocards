@@ -37531,7 +37531,7 @@
       ]
     },
     "1109029040": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TS034805",
       "originals_sha256": [
@@ -37539,7 +37539,12 @@
         "9ed9f112c260f4faa1e986bb1a61f54f22fd53ca9624e2cb058e8265185d66ab"
       ],
       "before_count": 2,
-      "task_id": 6109948900
+      "task_id": 6109948900,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
