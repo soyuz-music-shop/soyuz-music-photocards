@@ -42570,14 +42570,15 @@
       ]
     },
     "1549029543": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 52490",
       "originals_sha256": [
         "5ffd5ded1ceabd0fbd72a256a34f09e096d20643429a3724f7107b5d79ed7ebf",
         "5e764efd2591c26c761fd6aa3e35b90a6229498f1d967a82b2a5c7ee777cd3fb"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110542405
     }
   },
   "reason": null,
