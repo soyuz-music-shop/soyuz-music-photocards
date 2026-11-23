@@ -38228,6 +38228,16 @@
         0.0,
         0.0
       ]
+    },
+    "1175065517": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DL08030680",
+      "originals_sha256": [
+        "1b915ef64bb131a684a9e1721826c6875d1beb806766dfcf85b978a0e8806967",
+        "3d7164722ae839c28f45793e6cdce958829d2fc5dcf78c3d9d1edf6cf9144e9d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
