@@ -39760,6 +39760,17 @@
         0.0,
         0.0
       ]
+    },
+    "1236749626": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NJV58671490",
+      "originals_sha256": [
+        "7be5c377aeac79577d71387213f5dfdaa37cdaf19954f3ad999d6a13144dbe18",
+        "313b23b7350784742771c0e44e9c7fc4ab716bbfd5e631368c7a0de83e47cb9e",
+        "7397eedca225bf781c56e20d06b71ab4633ef89c131a135a95150f99ede4e4b2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
