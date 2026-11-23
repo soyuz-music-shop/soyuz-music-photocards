@@ -23164,6 +23164,18 @@
         0.0,
         0.0
       ]
+    },
+    "445766561": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SNDR602547901132",
+      "originals_sha256": [
+        "2492589acb4beeef37959dd633369099124582563753bd377970c01fd8c1eeeb",
+        "5f8e1acc6836a718228688e47233beae08ff2ce22f8eda0cc845f62544582603",
+        "dd25525dd1343cb78d80bf93a3da4c4c69898698f40378e7cea197949e1300e1",
+        "aed1e30bef1cdbfaba892758457f3bba762edb9747971a89fe0c40d90a05cfe2"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
