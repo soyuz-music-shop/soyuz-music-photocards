@@ -30048,7 +30048,7 @@
       ]
     },
     "730587338": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WHA6587116620",
       "originals_sha256": [
@@ -30057,7 +30057,12 @@
         "33d8339129820f3de66972fef7cb488ef27d5da8cc52cc0b8763e8ba89915042"
       ],
       "before_count": 3,
-      "task_id": 6108967062
+      "task_id": 6108967062,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
