@@ -39795,6 +39795,16 @@
         0.0,
         0.0
       ]
+    },
+    "1238375088": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OODOM98833910",
+      "originals_sha256": [
+        "59b64857aac5e2a0774049a9ef4c5bd1a13251f602a13a050d03a071fc1415c3",
+        "726ffd74f7dd2285070d664bfbc1bf51c206ed04d2fd0d7deb91eb00db4faeed"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
