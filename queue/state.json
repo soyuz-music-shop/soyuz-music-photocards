@@ -43551,6 +43551,17 @@
         0.0,
         0.0
       ]
+    },
+    "1701291198": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR1 2602",
+      "originals_sha256": [
+        "4204a7542d5c38eabdad9bad92e7f01054e11a19499c6581ecc5b617b3723dcd",
+        "a930fe69bd48e0b327a1f391231524fc262cf873c2ccb1b2706df817bb32c82b",
+        "02dccb0bd407b59c6b855b60da3d40d0880d0ded87974e4c445ef8afbef7fa7e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
