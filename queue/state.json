@@ -55423,6 +55423,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130011287": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STEPLP 233",
+      "originals_sha256": [
+        "4daf648619df6506ae834bb6a6e2e12909f6e6f796eccc2fed569a00b2030497"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
