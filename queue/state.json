@@ -34174,7 +34174,7 @@
       ]
     },
     "912045270": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LZ27958282",
       "originals_sha256": [
@@ -34183,7 +34183,12 @@
         "743e98460a0b509170e6e3b77adafc6d2aa58a7823cf79e4ab3fd2ce77e59b11"
       ],
       "before_count": 3,
-      "task_id": 6109463202
+      "task_id": 6109463202,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
