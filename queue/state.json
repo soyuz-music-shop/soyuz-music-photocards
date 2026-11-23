@@ -34532,14 +34532,15 @@
       ]
     },
     "932563565": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RW587888916",
       "originals_sha256": [
         "a928f6dd6ff844a2b1168d7f6d4de6b649b5dfaafef432e97e180359a77923f7",
         "f09139fbd674cadea4fdbdc04a3666f4dd1797efbfc2d2bda9d4bb2bdcc9a87e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109517531
     }
   },
   "reason": null,
