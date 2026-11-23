@@ -27529,7 +27529,7 @@
       ]
     },
     "609419233": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000184723",
       "originals_sha256": [
@@ -27538,7 +27538,12 @@
         "d92e7825d54534ca46caeabf02a3aa28e919932399ee60a2452e4ecc655f9e96"
       ],
       "before_count": 3,
-      "task_id": 6108673058
+      "task_id": 6108673058,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
