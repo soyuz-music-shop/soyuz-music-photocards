@@ -43859,6 +43859,17 @@
         0.0,
         0.0
       ]
+    },
+    "1725181895": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "314 529 160-2 IN03",
+      "originals_sha256": [
+        "931a0b3ef2bc2c46f2627dde846fd64df03914506ca47cac2790a73d1f3103d9",
+        "ff0ae58497a39fab3b371662bac422ca79610b94fb217bde0e7d96404671db96",
+        "5a3980f7e3dd8025df326343ceaf32a0c290e3ab1a3f7ce4dda06a963b3dd9e0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
