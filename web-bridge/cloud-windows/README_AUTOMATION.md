@@ -25,7 +25,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 4. Создать в Cloudflare Zero Trust **remotely-managed Tunnel** с hostname к `http://127.0.0.1:8787`, а также **Cloudflare Access** с персональным allowlist. Установить официальный cloudflared. После настройки DNS и Access выполнить на VM:
 
 ```powershell
-.\web-bridge\cloud-windows\SETUP_TUNNEL.ps1 -Hostname 'media.example.com'
+& 'C:\SOYUZMedia\cloud-kit\cloud-windows\SETUP_TUNNEL.ps1' -Hostname 'media.example.com'
 ```
 
 Он проверит редирект Access до установки службы, затем запросит token **локально** на VM. Никогда не присылайте его в чат или GitHub.
