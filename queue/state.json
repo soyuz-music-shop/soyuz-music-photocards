@@ -45477,14 +45477,19 @@
       ]
     },
     "2153691786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DBYA 50",
       "originals_sha256": [
         "dcd1d7888012af8e99e8f4ff864bd202e3b82fbd3e3c78a1b3fe14a329ae67fc"
       ],
       "before_count": 1,
-      "task_id": 6110753226
+      "task_id": 6110753226,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
