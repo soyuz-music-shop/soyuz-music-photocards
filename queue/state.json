@@ -54041,6 +54041,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899256": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MFMF941423",
+      "originals_sha256": [
+        "e4826e0cd9b12e0f4dcf771fba9d8e654bb22002e1ad78084c98010829b14ca2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
