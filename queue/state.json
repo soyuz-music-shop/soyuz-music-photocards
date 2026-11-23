@@ -38230,14 +38230,15 @@
       ]
     },
     "1175065517": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DL08030680",
       "originals_sha256": [
         "1b915ef64bb131a684a9e1721826c6875d1beb806766dfcf85b978a0e8806967",
         "3d7164722ae839c28f45793e6cdce958829d2fc5dcf78c3d9d1edf6cf9144e9d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110050647
     }
   },
   "reason": null,
