@@ -29738,6 +29738,17 @@
         0.0,
         0.0
       ]
+    },
+    "725050014": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DFP87737313",
+      "originals_sha256": [
+        "696f52fa62eefcad163650090718865873a2be1e660cf8ff94ce3f45ad0fd1ff",
+        "b22a51a6d2c1e68008da7de2a077b4f1ba7c1a9c01b698ad33688178543788e8",
+        "94b694355a3b43f7a3b818a6cbd1166ac044b239345c90f259f5788530fa6697"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
