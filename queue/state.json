@@ -35467,7 +35467,7 @@
       ]
     },
     "1043724416": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SLD710528",
       "originals_sha256": [
@@ -35477,7 +35477,12 @@
         "ec8c0ee5006bc7c1e5cc7544652f8af7bc96098fe6d5b1159f6f77166b21c650"
       ],
       "before_count": 4,
-      "task_id": 6109637415
+      "task_id": 6109637415,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
