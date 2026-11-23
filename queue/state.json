@@ -28957,7 +28957,7 @@
       ]
     },
     "664361091": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT575BOX",
       "originals_sha256": [
@@ -28972,7 +28972,8 @@
         "c9232d261c171c177b75784ea773aa9b89887eeaa6167c511c35558d4e0609f9",
         "abca07795762f7e23395a0b32b567c03e32100ca9b187388c66c7aed75e81e62"
       ],
-      "before_count": 10
+      "before_count": 10,
+      "task_id": 6108846186
     }
   },
   "reason": null,
