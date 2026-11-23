@@ -53481,14 +53481,19 @@
       ]
     },
     "3017887595": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 61571",
       "originals_sha256": [
         "16c747ad8268cbeaea2e17f8f560f46baaaa35fa59668337f3cf3a79494598c9"
       ],
       "before_count": 1,
-      "task_id": 6111508451
+      "task_id": 6111508451,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
