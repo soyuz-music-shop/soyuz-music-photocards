@@ -53709,7 +53709,7 @@
       ]
     },
     "3019428887": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DM410816",
       "originals_sha256": [
@@ -53717,7 +53717,12 @@
         "ca1514f81743f75926f23413056168745b0e5cf03ae7b4226df09b330dfe5e74"
       ],
       "before_count": 2,
-      "task_id": 6111523351
+      "task_id": 6111523351,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
