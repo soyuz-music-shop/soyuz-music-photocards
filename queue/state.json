@@ -42962,7 +42962,7 @@
       ]
     },
     "1591332667": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP022D",
       "originals_sha256": [
@@ -42970,7 +42970,12 @@
         "0252c2b20b08beb97a9f0412178f0e7c10fad006247500b9cbffa3f0c0d0537f"
       ],
       "before_count": 2,
-      "task_id": 6110572994
+      "task_id": 6110572994,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
