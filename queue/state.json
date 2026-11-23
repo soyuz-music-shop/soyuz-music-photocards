@@ -49358,7 +49358,7 @@
       ]
     },
     "2984933652": {
-      "status": "imported",
+      "status": "verified",
       "variant": "vinyl-russian",
       "offer_id": "2000095756941",
       "originals_sha256": [
@@ -49370,7 +49370,12 @@
         "9bdff46bef466f3390a970fb911b7ffcfbe8df99d110010edecb31092c1d0f0b"
       ],
       "before_count": 6,
-      "task_id": 6111066899
+      "task_id": 6111066899,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
