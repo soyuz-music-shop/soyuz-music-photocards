@@ -30363,13 +30363,14 @@
       ]
     },
     "742024430": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ADL99490716",
       "originals_sha256": [
         "1f14c1771a9b4fc1ceefe62591815eaa00652fe64f6b29925bd6336623bef9c9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108995997
     }
   },
   "reason": null,
