@@ -48633,6 +48633,16 @@
         0.0,
         0.0
       ]
+    },
+    "2973331736": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JT592224",
+      "originals_sha256": [
+        "92d938c2968877b958e39f8201d1e145afc6bdec4b88a93858dbfae7d27c6ba9",
+        "8670f8e8eee6b1e0317a2b2be0c2f0231b27d4ee031aa81a89aa222d7631afe5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
