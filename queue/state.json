@@ -55981,6 +55981,15 @@
         0.0,
         0.0
       ]
+    },
+    "3137360261": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PA175823",
+      "originals_sha256": [
+        "92f38ea049afa720d4cbb91288faf84debb540efa20f511b3bbf8e81dc1670c8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
