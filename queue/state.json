@@ -44594,6 +44594,17 @@
         0.0,
         0.0
       ]
+    },
+    "1803997065": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIM28025614",
+      "originals_sha256": [
+        "c503f49571258ae711a9a22fa4bd65c7fda16e23243210324b4299bd877d0e90",
+        "2af161ec404626ecda0d5f7cce212d817f2b3a1249e625d71d3dcb0dbe2a2842",
+        "d12f81ac908d8cd5ff6a36b9923e14a04c260d135872ee9a5599d682697c86b3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
