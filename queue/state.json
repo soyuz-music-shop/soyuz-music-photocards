@@ -42776,6 +42776,17 @@
         0.0,
         0.0
       ]
+    },
+    "1572406591": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JCASH67726944",
+      "originals_sha256": [
+        "85541da02ee213fec438bcd5ac5a7ea1adf648531e66fedeea76afa8d6ca2541",
+        "61ddf2a06109b240805da8a7e1457dc1bd27d823a82469483446c2db906a787c",
+        "7895c77e19c279a07efd1a0a7a7c9391952caceecc51f1bd2448143186a761c1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
