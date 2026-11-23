@@ -25553,7 +25553,7 @@
       ]
     },
     "493342618": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM216",
       "originals_sha256": [
@@ -25562,7 +25562,12 @@
         "32776464d0dcf16feed31f696281f04bf62aa70ce3c426f8b4441f42e1938674"
       ],
       "before_count": 3,
-      "task_id": 6107515491
+      "task_id": 6107515491,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
