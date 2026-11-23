@@ -33049,7 +33049,7 @@
       ]
     },
     "869577320": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZENCD290",
       "originals_sha256": [
@@ -33059,7 +33059,8 @@
         "12d896ef4f9c8b7b7583282e2233d4431e0594454f9202eda9a194ec6e826d18",
         "9d127d16fa6a89a09f9332738564aa08bae1356623dd2ee1c05bf0549e3aaa51"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109304956
     }
   },
   "reason": null,
