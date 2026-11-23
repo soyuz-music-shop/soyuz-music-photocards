@@ -5,8 +5,8 @@
 ## Установка
 
 1. Сделайте резервные копии папки программы и `%APPDATA%/SOYUZ_Media/`.
-2. Скопируйте `SOYUZ_Media_WEB.py` и `START_WEB.bat` рядом с `SOYUZ_Media_START.py`.
-3. Запустите `START_WEB.bat`. Откройте локально `http://127.0.0.1:8787/SOYUZ_Media_v212_2_Dewatermark_working.html`.
+2. Распакуйте файлы веб-запуска в любую отдельную папку. Не изменяйте основную программу.
+3. Запустите `START_WEB.bat`. Если программа не найдена автоматически, выберите существующий `SOYUZ_Media_START.py` в появившемся диалоге. Альтернатива: перетащите папку `SOYUZ_Media` на BAT. Локальный адрес откроется на порту 8787; точную ссылку напечатает сервер.
 4. Для веб-доступа извне создайте **named Cloudflare Tunnel** и защищённое приложение **Cloudflare Access** с доступом только для вашего аккаунта. Заполните личный `config.yml` по образцу, указав `teamName` и `audTag` приложения Access.
 5. Проверьте `cloudflared tunnel --config config.yml ingress validate` и запускайте `cloudflared tunnel --config config.yml run`. Проверьте, что вход без авторизации Cloudflare Access отклонён.
 
@@ -23,3 +23,7 @@
 GitHub хранит только код, а не историю и не ключи API. Веб-доступ работает только пока включён Windows-компьютер с сервером и запущен tunnel. GitHub Pages сам по себе этот Python-сервер не запускает.
 
 Документация Cloudflare: https://developers.cloudflare.com/tunnel/features/locally-managed-tunnels/configuration-file/ и https://developers.cloudflare.com/reference-architecture/design-guides/identity-gated-edge/
+
+## Исправление запуска v2
+
+Больше не требуется класть веб-файлы рядом с кодом редактора. Запускатель автоматически ищет папку программы в стандартной вложенной структуре; если она находится в другом месте, предлагает выбрать файл SOYUZ_Media_START.py и запоминает путь локально. Исходные скрипты и база истории не копируются и не изменяются. Для сменяющихся версий сервера используется стабильный вход SOYUZ_Media_START.py.
