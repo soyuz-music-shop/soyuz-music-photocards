@@ -36763,7 +36763,7 @@
       ]
     },
     "1089367495": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QUN583648",
       "originals_sha256": [
@@ -36771,7 +36771,8 @@
         "9cc220782f2602a5e602d89e7b9038aba0a7f13bb9581854e444dac346c3804f",
         "7bffb12f765157e8f17cfa0c04a641a5891c5abca2e1a7a156c1b13634918dd3"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109843422
     }
   },
   "reason": null,
