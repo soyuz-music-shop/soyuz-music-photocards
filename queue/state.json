@@ -36477,7 +36477,7 @@
       ]
     },
     "1081855664": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "UICY-80245K",
       "originals_sha256": [
@@ -36485,7 +36485,12 @@
         "63d6bd35a62ee2958e30aa733c1346dce5b172388f194d0c9030a54e2c4d8752"
       ],
       "before_count": 2,
-      "task_id": 6109793746
+      "task_id": 6109793746,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
