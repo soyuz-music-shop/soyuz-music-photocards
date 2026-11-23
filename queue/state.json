@@ -36761,6 +36761,17 @@
         0.0,
         0.0
       ]
+    },
+    "1089367495": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QUN583648",
+      "originals_sha256": [
+        "d2a814ae9eb273f4caec27aa790e56cd0cd5c38532b0880b3b7716aa0fd53880",
+        "9cc220782f2602a5e602d89e7b9038aba0a7f13bb9581854e444dac346c3804f",
+        "7bffb12f765157e8f17cfa0c04a641a5891c5abca2e1a7a156c1b13634918dd3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
