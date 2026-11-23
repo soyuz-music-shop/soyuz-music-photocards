@@ -24944,7 +24944,7 @@
       ]
     },
     "481471384": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OZZ6977381829",
       "originals_sha256": [
@@ -24952,7 +24952,8 @@
         "1ba0b9d9e880d172f331a1921283422538ac7830c97bd806d4ad1909257dcd77",
         "116d97ac932333e6b8f2d1a1a91a1807cadc864cf637c7c42d1af5a1b236726c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107354085
     }
   },
   "reason": null,
