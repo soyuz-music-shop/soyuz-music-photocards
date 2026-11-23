@@ -31552,14 +31552,15 @@
       ]
     },
     "806272508": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JDNCLP63",
       "originals_sha256": [
         "eb567ca6fa30bb7037cff543588858daaaed9ea533954a225c79b34ed34ac875",
         "65a66a9c540e57e54782a758a7d935993d9b957952c59d959f20b73dd5363679"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109129404
     }
   },
   "reason": null,
