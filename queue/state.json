@@ -32398,7 +32398,7 @@
       ]
     },
     "857511822": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LP93624844426",
       "originals_sha256": [
@@ -32406,7 +32406,12 @@
         "b491bc5ca9d6e3e8e5ae8bc6b70effd681575fd5e730a17423f541e94edf6774"
       ],
       "before_count": 2,
-      "task_id": 6109223456
+      "task_id": 6109223456,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
