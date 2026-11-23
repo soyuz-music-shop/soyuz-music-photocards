@@ -28981,7 +28981,7 @@
       ]
     },
     "666114272": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AHA27976941",
       "originals_sha256": [
@@ -28993,7 +28993,12 @@
         "d7fd8531d8996c8707205213c85effe9a4063b43a077dc7946bfc958fd44e5c8"
       ],
       "before_count": 6,
-      "task_id": 6108848480
+      "task_id": 6108848480,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
