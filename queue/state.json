@@ -36179,7 +36179,7 @@
       ]
     },
     "1075015280": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDVD2516",
       "originals_sha256": [
@@ -36187,7 +36187,12 @@
         "d320d100b7bb3dadab3b00f1a61e0c4dce5e12430e29bcd44dca1ca19b12377e"
       ],
       "before_count": 2,
-      "task_id": 6109750775
+      "task_id": 6109750775,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
