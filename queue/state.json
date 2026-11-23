@@ -42862,7 +42862,7 @@
       ]
     },
     "1575510983": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IPC276LP",
       "originals_sha256": [
@@ -42871,7 +42871,12 @@
         "5cde27e31cafdaa5ba2d20696d1912d4f9b67156dfa20b37149899617d8409a4"
       ],
       "before_count": 3,
-      "task_id": 6110565846
+      "task_id": 6110565846,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
