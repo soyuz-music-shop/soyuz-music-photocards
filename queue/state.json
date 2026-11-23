@@ -33445,6 +33445,15 @@
         0.0,
         0.0
       ]
+    },
+    "874454313": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FL24867678",
+      "originals_sha256": [
+        "9c01f8531dedb57f46636626a1dcf79e01ca0ea268c8af95b3537f5c6225e655"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
