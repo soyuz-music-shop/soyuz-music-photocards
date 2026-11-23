@@ -28108,7 +28108,7 @@
       ]
     },
     "621015195": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BNM50810915",
       "originals_sha256": [
@@ -28117,7 +28117,8 @@
         "709062f48f91425b9f3e0889ac563fb127d5173a60635ec6e5403739dc3a6a88",
         "80c6722db7f9e48b17df4d6b9d010ebd58e943f2c6b178cc017b9b1266aa477e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108753210
     }
   },
   "reason": null,
