@@ -45657,14 +45657,19 @@
       ]
     },
     "2153691822": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CFUL0318",
       "originals_sha256": [
         "14fa28a00c6f384aec41747344b77a16123227130870151a1dd2a429dff6e5e2"
       ],
       "before_count": 1,
-      "task_id": 6110769082
+      "task_id": 6110769082,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
