@@ -25041,6 +25041,16 @@
         0.0,
         0.0
       ]
+    },
+    "485365357": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WS98423814",
+      "originals_sha256": [
+        "fc1ef10fa09c5d1f49fe0a3b8bb1631007fdc6a62b16bf62ff8e2bc5c13ea79a",
+        "2269f3c588599adb55ea5840dc2c85d131d918538dd03ac065311bd84449d193"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
