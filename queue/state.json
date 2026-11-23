@@ -26972,7 +26972,7 @@
       ]
     },
     "558895538": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT503LP",
       "originals_sha256": [
@@ -26985,7 +26985,12 @@
         "ef981c2b26d5a0489e1abd2f7004d5e4135c55bf9309aa4ad5b034f7f2d7eda6"
       ],
       "before_count": 7,
-      "task_id": 6108596339
+      "task_id": 6108596339,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
