@@ -42171,6 +42171,17 @@
         0.0,
         0.0
       ]
+    },
+    "1521062095": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DRND38777291",
+      "originals_sha256": [
+        "24804890158d59906902829dc5cfe8424f4bb94a3f8ab95d29d56f89e45da743",
+        "dc0916ef137ba605c48bb5013ec13c27259267ba5c3a7162b33c684726154553",
+        "5528ac5aa0aa6a6468b0fdd2c10dfa4456ba974934759626690d9438dd7b77c4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
