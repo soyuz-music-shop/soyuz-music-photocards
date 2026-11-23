@@ -53631,6 +53631,15 @@
         0.0,
         0.0
       ]
+    },
+    "3018463007": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TTC095210",
+      "originals_sha256": [
+        "4d43b2f71cf6186dddf52c2df8b3f8ff48769f2dbbc40666a4efee9437a33aae"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
