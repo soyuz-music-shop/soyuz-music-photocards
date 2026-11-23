@@ -27795,7 +27795,7 @@
       ]
     },
     "616574606": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LNP24880974",
       "originals_sha256": [
@@ -27803,7 +27803,12 @@
         "17ca5503e54aadef3a7d6682c3f670c90e89eec302c49dfb1285c39849ac1dfe"
       ],
       "before_count": 2,
-      "task_id": 6108711448
+      "task_id": 6108711448,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
