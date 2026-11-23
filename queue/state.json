@@ -40112,14 +40112,15 @@
       ]
     },
     "1248248705": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PLCE49365622",
       "originals_sha256": [
         "a075beba79beb6e409148a06fbc9b778edc9a6b0420e40b76223bdf09bd608a2",
         "0eac8401b04caeb26120b4981a8070a1ab42393100d895963633c2ced5259c7d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110273629
     }
   },
   "reason": null,
