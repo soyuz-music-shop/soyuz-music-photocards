@@ -38261,6 +38261,17 @@
         0.0,
         0.0
       ]
+    },
+    "1179154336": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TBK97900293",
+      "originals_sha256": [
+        "dfe2af12ec77aa6ae72d021f99e6c5ed8d616f78bd239b4344c4695682230d41",
+        "53d59b409135287c4b888c30f1df2aebabb8ff32778b629e33878262c9978eb6",
+        "ea1609290c7b3df30359cc80510158ce5b90ce0d621714542e13f3baf61a3623"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
