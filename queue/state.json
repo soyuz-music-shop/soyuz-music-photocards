@@ -46870,6 +46870,18 @@
         0.0,
         0.0
       ]
+    },
+    "2202278296": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR72541B",
+      "originals_sha256": [
+        "dd7439c7a3d34f68f59527a89b2e175e0369d323cccd48f5affcfaa98fdb4340",
+        "406a4ae99af1841534c641f217490705d7197bc1e61328977192cc3f230ccf16",
+        "a0a26df9f5c546a27b71df6e438a17f304717196a96c3c1a2f8e50abe31d33b9",
+        "be56b1d18c029fadc7707316c862ce054cbc7f901cc09a1ddfc38d40ee55f313"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
