@@ -24874,6 +24874,19 @@
         0.0,
         0.0
       ]
+    },
+    "481298132": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0016425-01",
+      "originals_sha256": [
+        "07dfc6df183ff082d33062c14d1155e333bd59babad5b2e795eed63f176b2141",
+        "830c8edbde41bb0b9b463d00fb4ae187eb166daa442955adf631def7a6406a60",
+        "1a47ee74ad790f9eed93fcacb38e9bc8c19934022520f961c75c5f3e902a8fd6",
+        "9e329136512a48dde5d859c564cbeca447424c239f5afb7436930f4a59d5f902",
+        "c36da70ae279b86ea4f51843e2752b5e89f233137c955f531520cb430108652f"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
