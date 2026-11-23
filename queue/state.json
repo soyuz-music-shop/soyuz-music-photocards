@@ -34409,7 +34409,7 @@
       ]
     },
     "927672185": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JCR53526710",
       "originals_sha256": [
@@ -34423,7 +34423,8 @@
         "0eb0480cf9aad8ab8383e158610308ca3889e47c9b11405db55a8600ed1943c3",
         "a6dac4d34d70e57ed71b36de9b37e8d602eca328e551fc42cdf3f434e2f365ad"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6109500195
     }
   },
   "reason": null,
