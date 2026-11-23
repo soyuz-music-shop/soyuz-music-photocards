@@ -41414,7 +41414,7 @@
       ]
     },
     "1459582545": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CLN2407",
       "originals_sha256": [
@@ -41422,7 +41422,12 @@
         "d07811a605ec79a709486c9ff82ed4138fbf752af459328b11a2a0504dcfd71d"
       ],
       "before_count": 2,
-      "task_id": 6110439814
+      "task_id": 6110439814,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
