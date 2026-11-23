@@ -40367,6 +40367,17 @@
         0.0,
         0.0
       ]
+    },
+    "1266358504": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BIRY58769203",
+      "originals_sha256": [
+        "c23058182024fd8cbf92e806282ca9bdcc95869143b278bd4d5439c14a09fdb8",
+        "156e433a7a85e5007a799fc904e334f0c7233c1de7de98393ad3e9038fb42908",
+        "1b649ff65f252cea7f6bbbfb8fa84aaeb263cb365eeafdab1dd500914904fae5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
