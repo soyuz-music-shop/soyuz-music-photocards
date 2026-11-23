@@ -41664,7 +41664,7 @@
       ]
     },
     "1483268192": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT586OLP",
       "originals_sha256": [
@@ -41673,7 +41673,12 @@
         "de53dcbea88574877a8a7f8d22ed0fd6c746b6bb0533c2b9db4c6735387daf7a"
       ],
       "before_count": 3,
-      "task_id": 6110462426
+      "task_id": 6110462426,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
