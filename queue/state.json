@@ -38108,6 +38108,16 @@
         0.0,
         0.0
       ]
+    },
+    "1153443276": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GD877714",
+      "originals_sha256": [
+        "8dd130cc3f80e65dbe0dca0fd1857e11ab5dc001ed2d6e00fc361b290cad522e",
+        "47636b00f249d90e51d06d1fa9dd3996dbf2e3f72a35b3dda02dc39cbcf9fe8c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
