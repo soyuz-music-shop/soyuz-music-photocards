@@ -44814,6 +44814,17 @@
         0.0,
         0.0
       ]
+    },
+    "1857726911": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP216X",
+      "originals_sha256": [
+        "48029d697320877f15ead9f661cf7571448cc0bf8b1bc2345d29feb03101860a",
+        "c0c0228ba65c5e567553eb566c469cbc4e1a26e1975937607a8c1f10ec6a719f",
+        "b9a26fcde06602d9d04993472ea649f56a5065dc3a2873155ee58c2f110e0f69"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
