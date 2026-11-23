@@ -37932,6 +37932,20 @@
         0.0,
         0.0
       ]
+    },
+    "1146125442": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JP516429",
+      "originals_sha256": [
+        "49605dea16932156a70b06737a1d14d03426a861b88f52116f7e93a7fd1eb3fc",
+        "f1af39d228b5aeb9d2861743bbadb8d97330568adec9d02c91c5f9242c63b1a4",
+        "39f6e0ed0b53dc58c33d301209e3f0e22a78e9864fd3191731f997779b14bdd6",
+        "44d5bd5bd3d90acb2abc343a7e547c3ce1701a0f2e61ecc45f89bbad39fc48ee",
+        "7810a332f7107178911fd0403fb5be056c22c8254988ede4f0a1a0fc21a322ab",
+        "244c7fb7ea75af3d68fe4fbe36ef45f0af0fbaac4006ee36f0374c4527ff1e01"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
