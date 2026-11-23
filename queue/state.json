@@ -41935,6 +41935,17 @@
         0.0,
         0.0
       ]
+    },
+    "1495183358": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GVF77470844",
+      "originals_sha256": [
+        "f8dab5e1abe1d1ea4ca4584b12cf62b2e024c5244e7637b6c47d0cb3c4c8be18",
+        "9b8ca2ab0ec03b7d02363420fcce7b4e253a6c8cbf922bbcb8b87123a67ae137",
+        "309f587a37c7fb79004d3738989a144f03554acfffec0661de436cca5e0203a9"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
