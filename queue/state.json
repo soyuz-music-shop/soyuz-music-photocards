@@ -54238,14 +54238,19 @@
       ]
     },
     "3032899496": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JP212721",
       "originals_sha256": [
         "e74b67c12253b9d703669703d109223e020fa07ffa3520e5df6af8c7bdeff124"
       ],
       "before_count": 1,
-      "task_id": 6111559597
+      "task_id": 6111559597,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
