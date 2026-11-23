@@ -44223,7 +44223,7 @@
       ]
     },
     "1759192042": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL1414LP",
       "originals_sha256": [
@@ -44233,7 +44233,12 @@
         "63d2789f3abad3c80063406762560acf93c2b437b70e5aa421c899a3a4bbd987"
       ],
       "before_count": 4,
-      "task_id": 6110659791
+      "task_id": 6110659791,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
