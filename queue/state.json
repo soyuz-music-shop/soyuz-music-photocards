@@ -28054,7 +28054,7 @@
       ]
     },
     "620121163": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NOISELP028X",
       "originals_sha256": [
@@ -28063,7 +28063,12 @@
         "aec972029cc96143eb7a1e24aff37322fe68986b0b2f2f54a854784de34f3ce5"
       ],
       "before_count": 3,
-      "task_id": 6108744835
+      "task_id": 6108744835,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
