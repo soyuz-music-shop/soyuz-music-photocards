@@ -19,3 +19,5 @@ cloudflared.config.yml
 *.pfx
 *.zip
 __pycache__/
+
+SOYUZ_Media_WEB.path
