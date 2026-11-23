@@ -35233,6 +35233,17 @@
         0.0,
         0.0
       ]
+    },
+    "1026848175": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SOD656014",
+      "originals_sha256": [
+        "4b3f0260935d845e9b5a511d5603ea1cfbd6b8524ff5f114b048bb51c1dd39a3",
+        "f57486611d2f1df358c04a5718ca0afcab92b810b5dc2b52a16a50fc43a24dc4",
+        "388a2e391bfe541526d27fb86b802dfa455741a44e41e23a2a8e1266c22e12b6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
