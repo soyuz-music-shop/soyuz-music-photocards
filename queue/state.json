@@ -24355,6 +24355,16 @@
         0.0,
         0.0
       ]
+    },
+    "467944782": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IGP75678628467",
+      "originals_sha256": [
+        "90b9d1e0d029c0ee1aace5d87cab08cea13d8d0d1a6722c2bd49de6675a2d9c4",
+        "1ee2c8ac7507ae2f4594a0ca6056e6a884ad8c18dd6eb84e459f13880b815956"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
