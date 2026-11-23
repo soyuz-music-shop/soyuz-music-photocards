@@ -52503,6 +52503,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277646": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KL311009",
+      "originals_sha256": [
+        "5c35e3a649e49404e5d0f292b10ac1c69c390497dfc5c9786ab39289d6303409"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
