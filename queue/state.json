@@ -36811,6 +36811,15 @@
         0.0,
         0.0
       ]
+    },
+    "1089555147": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP1604BL",
+      "originals_sha256": [
+        "46c05c7d89b7c90c180f80cf4b7e142ae4e77ebea1510633f7093e47c10e617f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
