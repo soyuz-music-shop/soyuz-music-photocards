@@ -33232,6 +33232,17 @@
         0.0,
         0.0
       ]
+    },
+    "870653069": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RW54364915",
+      "originals_sha256": [
+        "31d85e6288f3df0722ae78a74c4386e88a0886bda8c3d139c8bc47de5e368965",
+        "21772f78b4bccda434801b77e127d33f2579dade0f1096bb337eec6b0074d05c",
+        "24903283e6fc39fe44f85d92075785c9fe62be203d5303fd97f2c744b7f4a710"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
