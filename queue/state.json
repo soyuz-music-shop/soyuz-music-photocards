@@ -28466,6 +28466,15 @@
         0.0,
         0.0
       ]
+    },
+    "643382150": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CR48550415",
+      "originals_sha256": [
+        "6f26218e6d46808dfaeb40258571c0a98c735879cb5c04110b94063a2f2066f8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
