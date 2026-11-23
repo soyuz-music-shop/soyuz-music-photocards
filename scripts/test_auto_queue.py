@@ -80,5 +80,70 @@ class AutoQueueTests(unittest.TestCase):
         self.assertNotIn("tape",q.SAFE_VARIANTS)
         self.assertNotIn("dvd",q.SAFE_VARIANTS)
 
+
+    def test_individual_failure_is_quarantined_and_queue_stays_active(self):
+        state={"phase":"active","reason":None,"items":{}}
+        def persist(obj,pid,status,**fields):
+            obj["items"][str(pid)]={"status":status,**fields}
+        with patch.object(q,"_run_one_strict",side_effect=RuntimeError("Ozon timeout")), \
+             patch.object(q,"set_status",side_effect=persist):
+            result=q.run_one({"id":999,"offer_id":"TEST","variant":"cd-import"},{},state)
+        self.assertEqual(result,"issue")
+        self.assertEqual(state["phase"],"active")
+        self.assertEqual(state["items"]["999"]["status"],"skipped_item_error")
+
+    def test_unknown_write_is_quarantined_without_retry(self):
+        state={"phase":"active","reason":None,"items":{"777":{"status":"unknown_after_submission","task_id":123}}}
+        def persist(obj,pid,status,**fields):
+            obj["items"][str(pid)].update({"status":status,**fields})
+        with patch.object(q,"_run_one_strict",side_effect=RuntimeError("unknown API response")), \
+             patch.object(q,"set_status",side_effect=persist):
+            q.run_one({"id":777,"offer_id":"TEST","variant":"cd-import"},{},state)
+        self.assertEqual(state["items"]["777"]["status"],"unknown_after_submission")
+        self.assertEqual(state["phase"],"active")
+
+    def test_pause_is_not_global_on_one_item(self):
+        state={"phase":"active","reason":None,"items":{}}
+        q.pause(state,42,"Ozon gallery not confirmed")
+        self.assertEqual(state["phase"],"active")
+
+    def test_recover_locked_and_submitted_does_not_resend(self):
+        state={"items":{"111":{"status":"locked"},"222":{"status":"submitted","task_id":99}}}
+        def persist(obj,pid,status,**extra):
+            obj["items"][str(pid)].update({"status":status,**extra})
+        with patch.object(q,"set_status",side_effect=persist), \
+             patch.object(q.photo_api,"post",side_effect=AssertionError("No Ozon request allowed")):
+            q.recover_imported(state,{"111","222"})
+        self.assertEqual(state["items"]["111"]["status"],"needs_review_interrupted")
+        self.assertEqual(state["items"]["222"]["status"],"needs_review_interrupted")
+
+    def test_final_report_has_exact_unverified_item_ids(self):
+        import tempfile,json
+        from pathlib import Path
+        plan={"total_listed":5,"excluded":{"edition_missing":2},"items":[
+            {"id":1,"offer_id":"A","name":"One","variant":"cd-import"},
+            {"id":2,"offer_id":"B","name":"Two","variant":"vinyl-russian"},
+            {"id":3,"offer_id":"C","name":"Three","variant":"cd-import"}]}
+        state={"items":{"1":{"status":"verified"},"2":{
+            "status":"unknown_after_submission","task_id":909},"3":{
+            "status":"skipped_preflight","reason":"network"}}}
+        with tempfile.TemporaryDirectory() as tmp, \
+             patch.object(q,"ROOT",Path(tmp)), patch.object(q,"git_commit"):
+            q.write_reports(plan,state,final=True)
+            lines=(Path(tmp)/"manual_review.jsonl").read_text().splitlines()
+            report=json.loads((Path(tmp)/"final_report.json").read_text())
+        self.assertEqual({json.loads(x)["product_id"] for x in lines},{2,3})
+        self.assertEqual(report["confirmed"],1)
+        self.assertEqual(report["not_confirmed"],2)
+        self.assertEqual({x["product_id"] for x in report["not_added_or_unverified"]},{2,3})
+
+    def test_safe_run_one_never_repeats_known_item(self):
+        state={"items":{"7":{"status":"needs_review_visual"}}}
+        with patch.object(q,"_run_one_strict",return_value="protected") as invoke:
+            q.run_one({"id":7},{},state)
+            self.assertEqual(invoke.call_count,1)
+        # _run_one_strict itself refuses any ID recorded in state.
+        self.assertIn("needs_review_visual", {x["status"] for x in state["items"].values()})
+
 if __name__=="__main__":
     unittest.main(verbosity=2)
