@@ -24188,7 +24188,7 @@
       ]
     },
     "460880315": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4620107938219",
       "originals_sha256": [
@@ -24200,7 +24200,12 @@
         "edca82f25637ddb69c8a7f28bd1a5eac2341d3bf1b12ca4cc1df46418b03067a"
       ],
       "before_count": 6,
-      "task_id": 6107200213
+      "task_id": 6107200213,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
