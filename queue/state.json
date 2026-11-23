@@ -26055,6 +26055,22 @@
         0.0,
         0.0
       ]
+    },
+    "519121538": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PFR50",
+      "originals_sha256": [
+        "21861eed8dc47cc7a11a08c870ab83cf3b6264721dbe24515d1e3bfc8d82b2bf",
+        "f18cdd1794b8b1a1a0bae081707662e4c606ee548f63444ba46ea6868268a283",
+        "eb2b88e37d6618ac70d142b93277e25ac67332c5c68adc011867bd8552b0fb43",
+        "9c89ba0d03a1d2691776ad62d7c85dbc66a36962a8c0fd9a050cd37f919e15ea",
+        "d17a0e37496e2f9d5a5f1de38b04831013cce883c471bc625bad911d501def69",
+        "9057ee0734dbf6794e4f822615118773eb3fab5cca25ad81cadf5cd8d554343a",
+        "3d02b4b74c896e802f40b52427aa774cb861472204aea2ec2d02ddafa0a05efc",
+        "a517339d6bd13ecb3af014bac5a5441ac78cf4ee1ff330f7d155b56b0d03a246"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
