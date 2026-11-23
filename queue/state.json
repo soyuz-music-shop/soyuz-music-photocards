@@ -45068,7 +45068,7 @@
       ]
     },
     "1944792855": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT243LP",
       "originals_sha256": [
@@ -45077,7 +45077,12 @@
         "cff5565a9c0676eb6b8dc43410c64424119d6eeb3ddf81d623d0f700ff9d8748"
       ],
       "before_count": 3,
-      "task_id": 6110722316
+      "task_id": 6110722316,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
