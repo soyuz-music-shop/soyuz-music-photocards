@@ -28270,7 +28270,7 @@
       ]
     },
     "629248152": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BLP1501",
       "originals_sha256": [
@@ -28278,7 +28278,12 @@
         "f6d0b07d5334aececfc4477e87ff16227bb05bc6bc83e689b13c33420243943c"
       ],
       "before_count": 2,
-      "task_id": 6108769487
+      "task_id": 6108769487,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
