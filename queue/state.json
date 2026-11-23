@@ -55530,14 +55530,19 @@
       ]
     },
     "3130108002": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IN112426",
       "originals_sha256": [
         "35317a3e4e7d4d3fce9ee9e2cc2db4783b063ddd3ca89d72a8a5d95ca450eef8"
       ],
       "before_count": 1,
-      "task_id": 6111648879
+      "task_id": 6111648879,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
