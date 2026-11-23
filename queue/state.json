@@ -36493,14 +36493,15 @@
       ]
     },
     "1081873225": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UICY-80243K",
       "originals_sha256": [
         "3cc2fed3cb4992272609b86ea6766d14cb809a013484cc660211324871df3b0b",
         "a183910e1250303ed057cd326eac305040b09786f1e72a4c769ee89f567d1389"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109796140
     }
   },
   "reason": null,
