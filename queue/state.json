@@ -29562,6 +29562,21 @@
         0.0,
         0.0
       ]
+    },
+    "719006609": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SPX55040015",
+      "originals_sha256": [
+        "36c593e24525a6023505797fe5ee7ba06ce8ade456651633b057b7ea2699f048",
+        "688ca6c941d5042792437a29b571554f4afb9f0056fac24fc50cd4d92aa8fe4b",
+        "fd047102ff07088c1b7fc239ff0ab37f1bedcc5c3570f6d3b20335477b84b1ca",
+        "50ccbd9277ae6340a1d59778f2c4df598aaf149d8d3203689e3c75fb89a79e9a",
+        "8ccfe410cae0b312411596e80ea053893fc113d1f72db808c01d35233a3f3c26",
+        "f54e612689e00125d78a83899efebf8a1c20957e76ba979383042ee9be335545",
+        "21361c2e8160738a0d6f473a9dcc522f942e90bb07e2fe208e7eeb7d3cc56ad6"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
