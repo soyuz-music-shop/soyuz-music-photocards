@@ -33596,7 +33596,7 @@
       ]
     },
     "881665835": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1063284STUD",
       "originals_sha256": [
@@ -33606,7 +33606,12 @@
         "872f81e443d0a677ef44bdf5af19b9893b783783acd26be5f94b33c773d495fd"
       ],
       "before_count": 4,
-      "task_id": 6109374320
+      "task_id": 6109374320,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
