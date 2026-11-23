@@ -45909,7 +45909,7 @@
       ]
     },
     "2178024889": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WKN65994759",
       "originals_sha256": [
@@ -45920,7 +45920,12 @@
         "83f086761be63a1fb4f9fbc1d04613c344a816f53680c35dd86c8946453ae26b"
       ],
       "before_count": 5,
-      "task_id": 6110790139
+      "task_id": 6110790139,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
