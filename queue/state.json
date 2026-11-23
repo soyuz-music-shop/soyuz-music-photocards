@@ -26756,6 +26756,16 @@
         0.0,
         0.0
       ]
+    },
+    "554867637": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DRS96065412",
+      "originals_sha256": [
+        "08b0e4e62f33ddc998b13ba14ef53f9f4f8d355a9f93798024260bd2d9641e40",
+        "371605db47990cdacb29a333da8b26b55cd70ab1cf3030e264b221e2d8947410"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
