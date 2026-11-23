@@ -45839,7 +45839,7 @@
       ]
     },
     "2170083367": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ESM-314-9W",
       "originals_sha256": [
@@ -45848,7 +45848,8 @@
         "b5cd64b97c9fed0f6390fec3747d375e63614caa6a5432a4c0bacef0806dc31c",
         "5d84e2d339bd4c5230645fc18b6330968cc2e03d8efd86282ebe1d188a306da4"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110783460
     }
   },
   "reason": null,
