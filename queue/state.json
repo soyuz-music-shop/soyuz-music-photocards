@@ -43973,7 +43973,7 @@
       ]
     },
     "1730418128": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RI 60205",
       "originals_sha256": [
@@ -43984,7 +43984,12 @@
         "26b397badb6a17872ecfbdc4eee2feba699d2c544c1635104c160107868b2683"
       ],
       "before_count": 5,
-      "task_id": 6110646144
+      "task_id": 6110646144,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
