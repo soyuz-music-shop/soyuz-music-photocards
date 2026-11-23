@@ -31781,6 +31781,18 @@
         0.0,
         0.0
       ]
+    },
+    "830052561": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AFR0095VBL",
+      "originals_sha256": [
+        "cf0e259fcfcafe23ebf9e0c41ea3afb705d6880d96d7693b6909715e6f0b17a6",
+        "b6b0fc455178d8bcbc826e7841b261807f220871e8ee4a1a00bda5daa7f1b6df",
+        "0747d6ade9f44faa0629d620a80392cf306367372af7ee7aeb2bc9724b625a67",
+        "9a7b38fb06477b831b5f28266af36d16b023442c5051b8ae89213681911c385d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
