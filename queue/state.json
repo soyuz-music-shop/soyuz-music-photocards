@@ -43033,7 +43033,7 @@
       ]
     },
     "1596905302": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EMNM68081500",
       "originals_sha256": [
@@ -43041,7 +43041,8 @@
         "5b8161e724e297d272150b7f09194572a3f20e7e00a4d240dbfd2006ec325840",
         "22f10378f62ab1493c1a8441802eb11c3ac44d2888bfbfb2282eac0ea4ece809"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110578985
     }
   },
   "reason": null,
