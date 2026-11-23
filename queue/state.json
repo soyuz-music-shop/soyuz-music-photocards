@@ -32412,6 +32412,19 @@
         0.0,
         0.0
       ]
+    },
+    "857547493": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MAC24855675",
+      "originals_sha256": [
+        "81389e402559ecd2af7930d87e4fb7e0a43ac1e487e51a82b26ed68f777656e8",
+        "5a1a87b056722e649ed1ec9f19ce678f3b0ba3429a99e0e0101aec2b29a34aaa",
+        "8697cec92d1fa4727ef9764eaf943e5bf9dc837333b7038fa0aabe5377b58b77",
+        "ab92c8be25db6992a7a53a50e8b4d093aea4f34f0a08c19fa77ad26f1e90e7f8",
+        "054a2643dfde9ad2d59f7d3effe0906d95890ba9c9783e349a9378abd67a49e7"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
