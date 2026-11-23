@@ -55101,14 +55101,19 @@
       ]
     },
     "3130010624": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP 2132",
       "originals_sha256": [
         "7133c2adccd9b26791cc800e8ff05bb776b971589509c5c5e623e65d3493c171"
       ],
       "before_count": 1,
-      "task_id": 6111623163
+      "task_id": 6111623163,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
