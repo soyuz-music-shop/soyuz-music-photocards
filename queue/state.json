@@ -39081,7 +39081,7 @@
       ]
     },
     "1207060179": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LNP24846017",
       "originals_sha256": [
@@ -39091,7 +39091,8 @@
         "fbea265923feb8ec5f326db29cb61994b73b9d3b3520faa57550c03ee83517f1",
         "50d6236c69d46908b3e37e70b8bbc6ade676892d05b9feb5701911bede84f1c7"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110156338
     }
   },
   "reason": null,
