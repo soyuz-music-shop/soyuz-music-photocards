@@ -29604,7 +29604,7 @@
       ]
     },
     "720512806": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT504LP",
       "originals_sha256": [
@@ -29613,7 +29613,8 @@
         "152c473b6c8adbe9141ea07e88c6d987e45eac4f92f768d16ee757027136e243",
         "160c26c9fa6359f74ea68625e3e4e0e1f5536e0ec80dc8132653174b75b49918"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108921157
     }
   },
   "reason": null,
