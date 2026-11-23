@@ -26635,6 +26635,17 @@
         0.0,
         0.0
       ]
+    },
+    "547840317": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3209",
+      "originals_sha256": [
+        "72b928118c5d237c0aa7af7d52e5e26f27bb61adbfcd1fbeb479b879fdfcc2ed",
+        "26160e091937893d7d0bd5b632b69303b72a8bc167c66831ca0b492243566db0",
+        "392ab8e10e529ca03a04b80225a7792bd0a235f29aa285100dc332b218c167c2"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
