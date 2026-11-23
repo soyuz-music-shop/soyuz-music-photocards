@@ -43666,7 +43666,7 @@
       ]
     },
     "1707190125": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LDR65249149",
       "originals_sha256": [
@@ -43675,7 +43675,12 @@
         "b9f341aec1f9b6fc5c3f891f0dfad946b866cf79726a701bc5dfaa5a70bbde2f"
       ],
       "before_count": 3,
-      "task_id": 6110624974
+      "task_id": 6110624974,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
