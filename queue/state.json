@@ -55282,13 +55282,14 @@
       ]
     },
     "3130010639": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RTRADLP770",
       "originals_sha256": [
         "0bc30478eab1102ad6cdf432715f19d17167bf05acd8baf88d76cdfea29deaa2"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111636004
     }
   },
   "reason": null,
