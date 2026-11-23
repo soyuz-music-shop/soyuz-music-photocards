@@ -35431,7 +35431,7 @@
       ]
     },
     "1043701679": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SD388126",
       "originals_sha256": [
@@ -35441,7 +35441,12 @@
         "4304822c66953eefb11a6b1649f28b24a81659e7bbbe3f9dc8b2ce1750cc806e"
       ],
       "before_count": 4,
-      "task_id": 6109632088
+      "task_id": 6109632088,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
