@@ -39238,7 +39238,7 @@
       ]
     },
     "1208953674": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EGL27934132",
       "originals_sha256": [
@@ -39246,7 +39246,12 @@
         "503871068e732f15b7fa2c56e1bf29bbce5237f495beee067b92a4da4ed4c684"
       ],
       "before_count": 2,
-      "task_id": 6110177255
+      "task_id": 6110177255,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
