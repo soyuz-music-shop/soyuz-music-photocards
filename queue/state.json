@@ -24123,7 +24123,7 @@
       ]
     },
     "457155302": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SD51805910",
       "originals_sha256": [
@@ -24139,7 +24139,12 @@
         "08b9de05e69378d591acaa1339881c6e6d403650fd64300bc1e0d5b7343ad5a8"
       ],
       "before_count": 10,
-      "task_id": 6107189696
+      "task_id": 6107189696,
+      "after_count": 12,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
