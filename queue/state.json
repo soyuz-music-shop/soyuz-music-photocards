@@ -32283,7 +32283,7 @@
       ]
     },
     "853376368": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROAR2334LP3",
       "originals_sha256": [
@@ -32292,7 +32292,12 @@
         "fd2b31cc33425d654101a65d4ad21ab3b16d9d441340acbce4a59cfa72124298"
       ],
       "before_count": 3,
-      "task_id": 6109209299
+      "task_id": 6109209299,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
