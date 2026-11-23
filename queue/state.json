@@ -46735,7 +46735,7 @@
       ]
     },
     "2188974462": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 726220",
       "originals_sha256": [
@@ -46744,7 +46744,8 @@
         "ba85cd3a29f63c50874685b35dc76f0c433eee083c4e51035949711988651aa4",
         "0fe63cf3e44ed2cebdef6cd2a68a3ba82f3c031fa75cb5ecb6c2f1bfac7f864b"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110863926
     }
   },
   "reason": null,
