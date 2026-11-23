@@ -43103,7 +43103,7 @@
       ]
     },
     "1601828081": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "B0014690-02",
       "originals_sha256": [
@@ -43111,7 +43111,8 @@
         "e848c2dbb21ca7fd4e1c3052399eea8dcf9c6037e13df9b2b08b71d4fc6e80c8",
         "531caa3ea132587477fe926ece851690d0326945dab1a67b09c3e6729d0c4887"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110584845
     }
   },
   "reason": null,
