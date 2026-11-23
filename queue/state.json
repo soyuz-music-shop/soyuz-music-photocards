@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "paused",
+  "phase": "active",
   "items": {
     "20807385": {
       "status": "verified_previous_pilot",
@@ -22749,5 +22749,8 @@
       "reason": "Ozon /v4/product/info/attributes connection URLError"
     }
   },
-  "reason": "ID 444045718: Four consecutive preflight failures; check contract"
+  "reason": null,
+  "previous_pause_reasons": [
+    "ID 444045718: Four consecutive preflight failures; check contract"
+  ]
 }
