@@ -32897,7 +32897,7 @@
       ]
     },
     "869200371": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT804DLP",
       "originals_sha256": [
@@ -32906,7 +32906,12 @@
         "6ac472653cae177f38bb940b39b5c0e912ed7558ed6c6978dd4d56af11975c96"
       ],
       "before_count": 3,
-      "task_id": 6109288749
+      "task_id": 6109288749,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
