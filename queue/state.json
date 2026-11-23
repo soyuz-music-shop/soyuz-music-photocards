@@ -26019,6 +26019,16 @@
         0.0,
         0.0
       ]
+    },
+    "518171181": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PNK87726515",
+      "originals_sha256": [
+        "519c47367b9cbe8073f344280065010f3d2422b0e2bfa641655111dafbb7a1e4",
+        "9f429cb1687db659c148030a54b3d500ac4840893c8e6c71aa81e534626a7e05"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
