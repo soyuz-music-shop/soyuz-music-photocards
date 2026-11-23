@@ -53907,7 +53907,7 @@
       ]
     },
     "3032013179": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BLCKND011R-2",
       "originals_sha256": [
@@ -53915,7 +53915,12 @@
         "8b72126930c268a04548370778752d9def8e85b28be5b7c2f6955169a8a78ca2"
       ],
       "before_count": 2,
-      "task_id": 6111535376
+      "task_id": 6111535376,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
