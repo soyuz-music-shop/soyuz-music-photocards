@@ -53294,6 +53294,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013420848": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AIC838619",
+      "originals_sha256": [
+        "2195e609319cbf0287d2d12d63f62d0dfc615bfecc04cdc6f22ffed03d522159"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
