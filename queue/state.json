@@ -37199,7 +37199,7 @@
       ]
     },
     "1100471028": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CRVX1440",
       "originals_sha256": [
@@ -37208,7 +37208,12 @@
         "d9e2f97ac34a62c4e282c8e127fbfc799de9d9d58e32c493b8a7240990a1088d"
       ],
       "before_count": 3,
-      "task_id": 6109903800
+      "task_id": 6109903800,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
