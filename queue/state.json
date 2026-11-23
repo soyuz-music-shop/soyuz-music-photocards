@@ -44679,6 +44679,17 @@
         0.0,
         0.0
       ]
+    },
+    "1849172979": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NISIM64051469",
+      "originals_sha256": [
+        "8e66e7fa620fe254c4bad6de2b5a7e6e6faac4d95692b201dc5929db8c24c213",
+        "d9e0d812b4659b56eacc980900e928723794e12ed81948521713400f2170969d",
+        "7f944c7aa5e13b9ce2f318c8880333a0f73087875da86a82c5b3357b8cb2f473"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
