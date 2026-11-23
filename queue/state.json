@@ -24321,6 +24321,17 @@
         0.0,
         0.0
       ]
+    },
+    "467615899": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SLPNT78645754",
+      "originals_sha256": [
+        "83b8be88b5b9bdcc70a6d01a77316c51a3a757bfed6e36f77381025a5242393d",
+        "4d7949c772d3011f2c19d148645d5cb026fe641ccc5c330e5386ae36effa0260",
+        "1f84ad7197b5733ae8f678fee0c2eb812a2fc0582e50e9204bee12198e579801"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
