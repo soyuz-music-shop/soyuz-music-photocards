@@ -37093,6 +37093,17 @@
         0.0,
         0.0
       ]
+    },
+    "1096823879": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MLD309423",
+      "originals_sha256": [
+        "2c4ce0526fd87035478a0d5b483ccbad65cc02e885c9c809ff6b1a0121f17787",
+        "047722a8f78d1a4570b7d9f462cb14512165ce0f651fb1f0f452a7366fe14813",
+        "c37faac8d9f1a9f0797ac0497add9f7d6ad79e325572168c404a6393510a2117"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
