@@ -25175,6 +25175,21 @@
         0.0,
         0.0
       ]
+    },
+    "485462193": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGRM059LP",
+      "originals_sha256": [
+        "d18392f8643ff426fb7b6f86be947eafd035ba007dc9de44eae407059e98f979",
+        "966b8cab3bad8f5e3c9a9e37610e78c0ee97773b6fb315a45984adb0b9aaad79",
+        "516e8ed59d6ca4865d413126821de50fdecbc977ee80fc20aa1ff073e3d84747",
+        "6c1f620d42d02ca38d8457c83654389265f7000c383054274d8a82ee4db5bd69",
+        "7eaf756acb863e4069b84b0a896136dfb00d6203b05235f764bef3ad757ca9f4",
+        "0e4096660b584f0f7edce863fb6e97e69cf6a977282cce34375a7a9968e54226",
+        "5d23dbf7348e2735f199b7a933467f54443330e0f77e36b8396e89777aa4faff"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
