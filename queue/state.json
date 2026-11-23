@@ -29186,7 +29186,7 @@
       ]
     },
     "699168478": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2045",
       "originals_sha256": [
@@ -29204,7 +29204,12 @@
         "330434be279d88ca183be1d6b53d0fd189ba21d07aadda8ba35bb4978235ee9d"
       ],
       "before_count": 12,
-      "task_id": 6108875803
+      "task_id": 6108875803,
+      "after_count": 14,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
