@@ -35891,7 +35891,7 @@
       ]
     },
     "1066660602": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BJ018818",
       "originals_sha256": [
@@ -35900,7 +35900,12 @@
         "b7daf4141f4e135b8027e92f5ba6cf11e4c0191058e92e1446ec127baf232fc6"
       ],
       "before_count": 3,
-      "task_id": 6109704917
+      "task_id": 6109704917,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
