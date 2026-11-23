@@ -35053,6 +35053,16 @@
         0.0,
         0.0
       ]
+    },
+    "1016936595": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 7208",
+      "originals_sha256": [
+        "5a473f4c0fd3adb87026eddfbef94541e6c6bbe8893b2178aee1b48952756810",
+        "d806090515c984031c073f1a39132bdc969f21786919c53e99f474e57dcb6105"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
