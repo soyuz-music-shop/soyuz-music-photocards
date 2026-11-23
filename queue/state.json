@@ -55753,6 +55753,20 @@
         0.0,
         0.0
       ]
+    },
+    "3130403873": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WHP1465",
+      "originals_sha256": [
+        "88ce31731adcfabe5404a91ffb439a1cf2a4ae0d5402804eaf4693ccabdcbd72",
+        "b0ce5cf2c75be1461d68e7bfdc9aa678d856e291936f2d6df8094ac852e83192",
+        "76d4ebd21ed6335c1ac4585bf1e5ceb2a89f04c3bc732c05d31c2c70327360a1",
+        "0d7d18566caca457798fc0b0e23351a60d6a9d55f41f625a9c4c82f417e65b00",
+        "7e5285d2f00ce40cf133e2dea8aa20d66ec0a7bed4046b679982017a510dad77",
+        "d432e844fe2f015e4f1779ba52fde5097689546e2d853493bff332041838b5fd"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
