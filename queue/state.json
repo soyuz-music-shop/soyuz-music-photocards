@@ -34765,6 +34765,16 @@
         0.0,
         0.0
       ]
+    },
+    "1008719763": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EMN08735172",
+      "originals_sha256": [
+        "0a16e0c0fecce24e3ea8531347f5f907ab2c37a6c9d5c322530812239b15f1ce",
+        "65dece44178763ce6c67c1f7dd8fd09b41a7c43b5ecbbcfdb04bed2848671ae2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
