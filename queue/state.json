@@ -23040,6 +23040,19 @@
         0.0,
         0.0
       ]
+    },
+    "445117856": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ABB731454995320",
+      "originals_sha256": [
+        "cca45bf526de183002c15729b619610393568a911ad4de048592ba79f117e9cd",
+        "74bb871c9930e14b0e813b84f3bb5101fb2125a8dc8aef36e998a92db26a6dfe",
+        "0381a882420ca900df0a8cdbe54f6cf32c33a003f24b6d35bb5a1cbd5af57de3",
+        "788068a1876fbe290f0c6f23f275929c7a80c06b9650f2647e6d962072e2bfa2",
+        "0041adb91e74f6a8fd85c8464cb4c5eff67cbb9401e5c715ec620f16b13bdf95"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
