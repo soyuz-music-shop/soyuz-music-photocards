@@ -29115,7 +29115,7 @@
       ]
     },
     "682877772": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219975605",
       "originals_sha256": [
@@ -29126,7 +29126,12 @@
         "2997fc214c534848dfb708f934b1b73e778c1cf548a8a294b63b7be63ef9ca48"
       ],
       "before_count": 5,
-      "task_id": 6108865987
+      "task_id": 6108865987,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
