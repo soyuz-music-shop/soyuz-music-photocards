@@ -45928,7 +45928,7 @@
       ]
     },
     "2178065546": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MCM24851608",
       "originals_sha256": [
@@ -45939,7 +45939,8 @@
         "64e75a1d19ccc0f7cad6c1256d8d872cbe14745b28fa02a11d2114544930cfcd",
         "ab983f196385b0758e7a91bbaee132f87aae2b8f94e6e78d191e8b2940746c04"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6110791604
     }
   },
   "reason": null,
