@@ -26601,7 +26601,7 @@
       ]
     },
     "545488190": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DS80005221",
       "originals_sha256": [
@@ -26609,7 +26609,8 @@
         "fe7d3d99dba41deda84f4fcb2b81cf5500851623d4c136906298414914e07c99",
         "2c7e6b4ea4fd5b4952809d6b0f812a92ba18b85f1df79fa0dc1f1d708d3e19b9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108540437
     }
   },
   "reason": null,
