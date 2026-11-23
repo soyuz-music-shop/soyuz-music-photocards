@@ -31468,7 +31468,7 @@
       ]
     },
     "804775154": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EAG27979379",
       "originals_sha256": [
@@ -31476,7 +31476,8 @@
         "7264a0d280558f1b930ac5c68d3124aeefaeeda2d786257c91a5d66a31374db7",
         "7b907c34a604a3d726963cee1a2be8c08827e0688076599542e555525298ed7e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109117981
     }
   },
   "reason": null,
