@@ -55609,13 +55609,14 @@
       ]
     },
     "3130403863": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PH 5808",
       "originals_sha256": [
         "fa0cfacfb0df8e6674347faf876f76b49d7cb9c931ec3b5d20195482ac340d6c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111653018
     }
   },
   "reason": null,
