@@ -54148,14 +54148,19 @@
       ]
     },
     "3032899377": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "M 20215",
       "originals_sha256": [
         "80c5f2cf7f7256e46c56b5b6458c76e063da9f59005c0983753a8bc8472e3e7d"
       ],
       "before_count": 1,
-      "task_id": 6111553101
+      "task_id": 6111553101,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
