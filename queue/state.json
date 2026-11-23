@@ -43617,7 +43617,7 @@
       ]
     },
     "1702136644": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 73788CAN",
       "originals_sha256": [
@@ -43625,7 +43625,12 @@
         "de56fcfd5a0c12db593b883a11c0e89a27cb3bfc98f700ef50256cb1f70a3ad1"
       ],
       "before_count": 2,
-      "task_id": 6110621338
+      "task_id": 6110621338,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
