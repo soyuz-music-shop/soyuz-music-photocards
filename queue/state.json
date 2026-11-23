@@ -24423,7 +24423,7 @@
       ]
     },
     "472198945": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ADL99379714",
       "originals_sha256": [
@@ -24436,7 +24436,12 @@
         "6505c951024ddefc5135ca00826ea3d9d20a65420a1cd51f0989d47fc36c17bc"
       ],
       "before_count": 7,
-      "task_id": 6107252003
+      "task_id": 6107252003,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
