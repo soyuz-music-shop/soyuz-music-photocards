@@ -41428,6 +41428,16 @@
         0.0,
         0.0
       ]
+    },
+    "1459616954": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ADRC65624885",
+      "originals_sha256": [
+        "bd58b30120f864393d60876007d83ff9d1415896ec4132a06fdadf4ebe901be7",
+        "920c68bb2d245025169b598fc2d50217e4fb4e451e5699b7373863799a561161"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
