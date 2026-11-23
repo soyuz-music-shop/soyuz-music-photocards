@@ -53236,14 +53236,19 @@
       ]
     },
     "3013420824": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VUT038678",
       "originals_sha256": [
         "ee3d519c20033c886c06a4cb3cb2beaba34cbbabc8284d566e26b1b7de9f0354"
       ],
       "before_count": 1,
-      "task_id": 6111495739
+      "task_id": 6111495739,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
