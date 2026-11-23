@@ -44392,6 +44392,17 @@
         0.0,
         0.0
       ]
+    },
+    "1771777714": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LINPR24844075",
+      "originals_sha256": [
+        "f93489ffc18655875809586e37f84470092a80ff262d5c4cc834a6d9d4a043e9",
+        "2f7cebc794cc8da53c930e3d5ff4fc54635b1bde8a1bb265696ee1826ffcb387",
+        "c5ff903659728d5c090e407f9d7beb117e3aa2981be1644f48b3c395c1828a22"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
