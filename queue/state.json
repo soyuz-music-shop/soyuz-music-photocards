@@ -55822,6 +55822,17 @@
         0.0,
         0.0
       ]
+    },
+    "3130403879": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ROOM156",
+      "originals_sha256": [
+        "8e262068beb75a257d432416bed8a30aaf07edc14277f7c050cc1f7b670370f4",
+        "a03676e1b11cb7c7ca9c16dbf510f0689959c9e411bde1e94854966236828a63",
+        "4e254f53b4b3d5376bb4b05006a06ac662e0d5dde8a1642f8e1c201d715b8730"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
