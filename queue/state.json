@@ -28889,7 +28889,7 @@
       ]
     },
     "658604397": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN 2026",
       "originals_sha256": [
@@ -28897,7 +28897,8 @@
         "003d2c34324af7c58f405d581579a698ab85a60d8708d083bb922445f4267ead",
         "8711c6d356d535b654572fe426bbc69c3a47a9d8fb0dc799b7bda3e30d7adc3e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108837475
     }
   },
   "reason": null,
