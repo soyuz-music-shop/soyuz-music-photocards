@@ -31619,6 +31619,20 @@
         0.0,
         0.0
       ]
+    },
+    "819688401": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IF102LP",
+      "originals_sha256": [
+        "d8ba88055f6a97943d20a44c175df619ce0f137c8355c17e1606dee06445e69f",
+        "6917bf35ecd9f60d38a4db4a8ad9409392e9666f2b6a8bca227985782dac727a",
+        "20ddd37beb7958f1643ccb3f8a4de8a54c7c77d829132531d5f1c803da4e5b45",
+        "4adf351ba87571a339570e4e2113551d4ba3cd571a155ac71812a540d8d72afc",
+        "67e529017311ac6da7b48eb7946d3f91715229811b41a3450e50f5798f43afd2",
+        "564eacd21785b2c6d8c112354b64151b20681866b8db166028c62a5441d074fb"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
