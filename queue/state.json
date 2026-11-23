@@ -31891,7 +31891,7 @@
       ]
     },
     "840389496": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XLCD313X",
       "originals_sha256": [
@@ -31902,7 +31902,12 @@
         "5bad728dec791c7b3243de10790c0d7f3bd3070db481ba8e7e3a3cd071f575be"
       ],
       "before_count": 5,
-      "task_id": 6109164875
+      "task_id": 6109164875,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
