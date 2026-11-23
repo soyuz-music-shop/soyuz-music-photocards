@@ -35537,7 +35537,7 @@
       ]
     },
     "1046125428": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LC266023",
       "originals_sha256": [
@@ -35545,7 +35545,8 @@
         "937515a1850486e60ae49e8eda718e2d22208bb7f369fed1d55ca0d3413cfdfe",
         "71254b0d98cbffec1d277f9081654872876eef457828798c3b7919e9df286e65"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109646445
     }
   },
   "reason": null,
