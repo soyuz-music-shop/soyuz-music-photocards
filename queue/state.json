@@ -31298,7 +31298,7 @@
       ]
     },
     "782152573": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM086CLP",
       "originals_sha256": [
@@ -31306,7 +31306,8 @@
         "d326bc0d0fe8af7880de9b49a7b965d83281d8a2265539436bc76df7b2278596",
         "8a29281a7bf87058b00e3d8ede737e4b480bfd62b041a77d8fcc235f967218a2"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109093778
     }
   },
   "reason": null,
