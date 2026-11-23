@@ -55454,14 +55454,15 @@
       ]
     },
     "3130107988": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BT567628",
       "originals_sha256": [
         "5768ad376b703a15e1edbaee06bd24f16a80d9895dfbb9eda71a6ebbb104f493",
         "03fcb915286ef550c28c41ee0c9c41a46c032b0a5edfac4fec968c063809fb9e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111644772
     }
   },
   "reason": null,
