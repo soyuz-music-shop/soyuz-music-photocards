@@ -40745,7 +40745,7 @@
       ]
     },
     "1378188472": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000151923",
       "originals_sha256": [
@@ -40753,7 +40753,12 @@
         "03d89f051b7442306da6c11891683032e729adea8ec5c084e605d0e91bdb6bbd"
       ],
       "before_count": 2,
-      "task_id": 6110378911
+      "task_id": 6110378911,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
