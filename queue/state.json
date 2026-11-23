@@ -31483,6 +31483,17 @@
         0.0,
         0.0
       ]
+    },
+    "805080750": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT161CLP",
+      "originals_sha256": [
+        "2e61b4e586c54fa40c9ba157c3b09d242c707914b7d72a20856f92bd684a9eda",
+        "234c37d5eaccf4f94e4c4016faaf6ef7b73478dca7052ab75d1c6d451d908f7c",
+        "0fe0cf2703306ff0679312e7ce01eba885d71ca1332e022044e688484426c970"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
