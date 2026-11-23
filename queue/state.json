@@ -32687,6 +32687,16 @@
         0.0,
         0.0
       ]
+    },
+    "864922499": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WEE55568809",
+      "originals_sha256": [
+        "1062cb5b0774e475ca6aa9372d141451944dc6911e6dee99e27e2891e85ed800",
+        "a7f31041013465e5efcb4a64b55ede8518c006db4d5b9c14e30741933ae77d2f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
