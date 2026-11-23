@@ -31621,7 +31621,7 @@
       ]
     },
     "819688401": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IF102LP",
       "originals_sha256": [
@@ -31633,7 +31633,12 @@
         "564eacd21785b2c6d8c112354b64151b20681866b8db166028c62a5441d074fb"
       ],
       "before_count": 6,
-      "task_id": 6109136992
+      "task_id": 6109136992,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
