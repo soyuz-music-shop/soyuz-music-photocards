@@ -50346,6 +50346,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005737301": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 42313",
+      "originals_sha256": [
+        "b3502bb4d574328ab52e03703e3a282f3ba7fdeb6de3ccb5b61903d2e3bc0834"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
