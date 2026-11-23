@@ -47059,7 +47059,7 @@
       ]
     },
     "2262303651": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ESM-325-2-CD",
       "originals_sha256": [
@@ -47068,7 +47068,8 @@
         "014daf2bdcda8d5352403aaba6dcd8fd93cb357d2fdf6c7cbce5d18b5ff5db46",
         "1da6de34c4a0d41094144e99965decc96d7b5977dae1328fd1bcdc7fab0439d3"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110887884
     }
   },
   "reason": null,
