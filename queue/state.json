@@ -46821,14 +46821,15 @@
       ]
     },
     "2202133758": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB3359-1Y",
       "originals_sha256": [
         "788765e848de5685ffc33bb9506f11b68b83c4810e754a6425a4364abe99b342",
         "113faa04737c07e039bdff5e31e06e5d8249513a88f20d36a3bdb784e3078ec9"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110869868
     }
   },
   "reason": null,
