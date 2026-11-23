@@ -40951,6 +40951,20 @@
         0.0,
         0.0
       ]
+    },
+    "1403888326": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR-1000",
+      "originals_sha256": [
+        "20308835fce7c39b36e4784bd18c61bcc3d710ceeb8bd5045b77f004f3d8f558",
+        "9be3c52e77ba0312dbe45bc8127936911b88921586e54c9dfd2e5411f517b55b",
+        "3516495632dab91a42df9cf1bd585af5c2e119eb8472671355a2b87aa74086d0",
+        "15b617896c9e8cb559d1d8b1a449f179066d3c6ba42ca1de7faf615633a62a19",
+        "071f8a6cfff7fdcd2209e61048015066f23d043da69f78afef42c4c8dbc80dda",
+        "f1ffa13bb0130449323504606759f89c495d754b7f86114eda66cc5694a236cb"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
