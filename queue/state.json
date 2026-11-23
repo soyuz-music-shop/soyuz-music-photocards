@@ -29670,7 +29670,7 @@
       ]
     },
     "724886900": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "V200150LP",
       "originals_sha256": [
@@ -29684,7 +29684,12 @@
         "558ca5744874dbf9384a4ff27d58501dfcc7158483133f50c2cb93ee8d4d7c32"
       ],
       "before_count": 8,
-      "task_id": 6108928483
+      "task_id": 6108928483,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
