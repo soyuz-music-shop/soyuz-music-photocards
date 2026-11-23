@@ -29166,6 +29166,18 @@
         0.0,
         0.0
       ]
+    },
+    "699113567": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2036",
+      "originals_sha256": [
+        "0efc844025d28a642c9348bf1e52e5b72672d4fc595bc4f3fe1afca5e109e26f",
+        "024018523717ddba297e7d924eab575504f99a9d517f212dcc18e2f67550af20",
+        "504ca884f473aa3989b0f17cc065cc0eec083104c8c70c93012b09497c1d1eac",
+        "d7424e55af5438ea6d0a3d338da50048af244cc24edde3cdc3877f24e7c46a1d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
