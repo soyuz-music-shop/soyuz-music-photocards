@@ -52689,14 +52689,19 @@
       ]
     },
     "3013277743": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KL618280",
       "originals_sha256": [
         "f6d72bea48ad44d8e017a0558dc26c18c160d48e62f53b91272e48d2f099e7a5"
       ],
       "before_count": 1,
-      "task_id": 6111461514
+      "task_id": 6111461514,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
