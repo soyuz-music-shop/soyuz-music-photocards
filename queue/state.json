@@ -37839,7 +37839,7 @@
       ]
     },
     "1131966598": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SCT036763",
       "originals_sha256": [
@@ -37854,7 +37854,8 @@
         "bf91fa8c1659af1b9158e6fb4316dea548b19680169e3b4419e84dced87a055c",
         "9ceddb7e569c0cd2ff52ea364284e4762aa6a94d31cb3f3f4e2e4ce00abddc49"
       ],
-      "before_count": 10
+      "before_count": 10,
+      "task_id": 6109998529
     }
   },
   "reason": null,
