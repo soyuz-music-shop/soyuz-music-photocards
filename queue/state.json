@@ -37046,7 +37046,7 @@
       ]
     },
     "1095984300": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MCM904236",
       "originals_sha256": [
@@ -37054,7 +37054,12 @@
         "b70dc8bbbf34e3faead4bddb9a68d578b8ecbeb45b5a98929008c12b23ad036e"
       ],
       "before_count": 2,
-      "task_id": 6109884386
+      "task_id": 6109884386,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
