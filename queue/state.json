@@ -54566,14 +54566,19 @@
       ]
     },
     "3033386517": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TT514714",
       "originals_sha256": [
         "e5a4878424e49023d159c136588e6b9dbb508bfe5ab18da12bc42f4414e382a9"
       ],
       "before_count": 1,
-      "task_id": 6111584754
+      "task_id": 6111584754,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
