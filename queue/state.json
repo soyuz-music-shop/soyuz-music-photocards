@@ -45874,7 +45874,7 @@
       ]
     },
     "2170125872": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM-456-1G",
       "originals_sha256": [
@@ -45882,7 +45882,12 @@
         "4080df340d772d52b5f1c116bd0a85e5a6c865ca5a5d50bc928f1eef5ba26401"
       ],
       "before_count": 2,
-      "task_id": 6110786373
+      "task_id": 6110786373,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
