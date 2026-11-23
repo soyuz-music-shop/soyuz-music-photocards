@@ -40056,6 +40056,18 @@
         0.0,
         0.0
       ]
+    },
+    "1247182949": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDPCSP 727",
+      "originals_sha256": [
+        "c3304ef9702bf88c20004795e27c2aa9590402cababcedd7b82f9c8a96891ced",
+        "479dee573e4686ae7ed36c951b1ffd99f1c997c797838de1a52f49d2c7f874e9",
+        "8eef17f3846c260cb9dff122b2c705d24b0a579784a8d82040394160db665cbf",
+        "c5864036d59784567ae4ad258a9781fc14fdfaf25a0a2ed5a900e3658ff2e9d9"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
