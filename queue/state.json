@@ -55012,7 +55012,7 @@
       ]
     },
     "3115130026": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "vinyl-russian",
       "offer_id": "2000095757290",
       "originals_sha256": [
@@ -55025,7 +55025,8 @@
         "e9d9af234cb8583a75a6c217244396b9e582093f04417ce65cbd8b846bb7f557",
         "4216a9524ce0a451d47e15b5e438ae1da74d0ecc7205a8537361833e355cba29"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6111617547
     }
   },
   "reason": null,
