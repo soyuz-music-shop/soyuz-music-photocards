@@ -41899,6 +41899,16 @@
         0.0,
         0.0
       ]
+    },
+    "1494969087": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCATLP1",
+      "originals_sha256": [
+        "0699eff80b4b6ef47c47ef7ba6df537e487da4e06b2f79f381181a2bd568bc99",
+        "4f952be082ef999557d004e681337076c3cf4391e8932b71e82ec5b0a66cfaea"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
