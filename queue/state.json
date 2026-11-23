@@ -55590,7 +55590,7 @@
       ]
     },
     "3130108008": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GAD 803 CD",
       "originals_sha256": [
@@ -55600,7 +55600,8 @@
         "e88dec7897dd8fc3b28899a79af7484053ff0a5b1841fa160d504f1247566ef4",
         "f507d255e6c072bd774c9b52e3664462184ac7c756ed6c5c41654669304920dd"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6111652188
     }
   },
   "reason": null,
