@@ -29474,7 +29474,7 @@
       ]
     },
     "718487077": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE1947LP",
       "originals_sha256": [
@@ -29483,7 +29483,8 @@
         "d87d175fcc32541fc410e2698eeb58e0f202c9bd5d170f3320db0ec131e1f0fe",
         "5cdc7b3f371e68a066f3983330d06d560bf6566538cb5d7e773867d0e2894c90"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108907407
     }
   },
   "reason": null,
