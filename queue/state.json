@@ -40278,6 +40278,17 @@
         0.0,
         0.0
       ]
+    },
+    "1261247385": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HES48102027",
+      "originals_sha256": [
+        "ef884abe6a4c59cc4cff27a0efa6594b8f8851540dd4207b56d35a67693b9445",
+        "d6f1c16d0c50f72636b79507689ad1aac9aca8d71e8a8b89f4dc02656fbe2973",
+        "87597147608d04be30558021113ed7c38f558bd29b90b80ea0360a740f3a603d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
