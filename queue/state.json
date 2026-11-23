@@ -46638,7 +46638,7 @@
       ]
     },
     "2188882394": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LG75451044",
       "originals_sha256": [
@@ -46648,7 +46648,8 @@
         "81ba707fef3f15dc48ccf08b9ed28944a28a8ee8ab57883e7c48912bc6613532",
         "05ad33f911f2585f866aa014612a42f2b2e0c642eeb7cd44038514248816ddbe"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110855493
     }
   },
   "reason": null,
