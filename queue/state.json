@@ -54026,6 +54026,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899249": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BJ634527",
+      "originals_sha256": [
+        "9ab7e9fbc9defcbb7bda80cd36bb383170430ddd4015893c0f5446a3130d7104"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
