@@ -31017,6 +31017,16 @@
         0.0,
         0.0
       ]
+    },
+    "760943391": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NPR1132VINYL",
+      "originals_sha256": [
+        "7446eca1086031f17b8758aac45b63c9e143196b631410c6fe159c5d24278d82",
+        "29fc8e629710ae141ee3a74444085742261032e384ce882f05ea3d8fdbbe2ac6"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
