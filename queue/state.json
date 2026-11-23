@@ -32912,6 +32912,16 @@
         0.0,
         0.0
       ]
+    },
+    "869231708": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KOR30660724",
+      "originals_sha256": [
+        "d4d5a36966b75565dc9c24f0620d9581e48e32d93ce722c53380af746929392f",
+        "0f88aff81060826a131887e5160f5b78665ae9a91242294c994d32bc8677f2a5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
