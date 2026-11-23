@@ -29620,6 +29620,16 @@
         0.0,
         0.0
       ]
+    },
+    "720739453": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "2000095747635",
+      "originals_sha256": [
+        "d3d50594329095fe21855b1713a8c19753ebce00a3868d104ff6e196a1d5cd7a",
+        "502011522fad2577c1cbb27635c2647369a1847cc32904df9b3c7e780bfe967f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
