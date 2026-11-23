@@ -36300,14 +36300,19 @@
       ]
     },
     "1078347574": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2430RED",
       "originals_sha256": [
         "85f06c99f4c0c70bf98131f6a1f4cd956f9f10a00d68ea5e4586ded27b7fdc60"
       ],
       "before_count": 1,
-      "task_id": 6109766783
+      "task_id": 6109766783,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
