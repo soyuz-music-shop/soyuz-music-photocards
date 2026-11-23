@@ -31262,7 +31262,7 @@
       ]
     },
     "780375122": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219977685",
       "originals_sha256": [
@@ -31271,7 +31271,8 @@
         "bb99b9f08bb263a5fa515304fdacb4e180340358440fa4c3810ea809e4c871bb",
         "af245d6ef3ff30b53be747860886f2002afe1af9197a735c9fe3991b05ee8161"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109088735
     }
   },
   "reason": null,
