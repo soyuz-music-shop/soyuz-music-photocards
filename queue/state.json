@@ -45926,6 +45926,20 @@
         0.0,
         0.0
       ]
+    },
+    "2178065546": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MCM24851608",
+      "originals_sha256": [
+        "1e19bfe145c86dc546b1913d98a1f2df79e054ab2b93722595d61fbbd984e8d0",
+        "127729227142b6705f7b923b01c0031a7d4653bdf0c52722da035bb06bc7d5be",
+        "078a01f882be92ed56b6bde1a598eb1f7aee8d789678679f0a6196f0350265ce",
+        "07900933e2797ea1766b4000a0d241c1460ad657869907a7bd9468698ab5b8b3",
+        "64e75a1d19ccc0f7cad6c1256d8d872cbe14745b28fa02a11d2114544930cfcd",
+        "ab983f196385b0758e7a91bbaee132f87aae2b8f94e6e78d191e8b2940746c04"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
