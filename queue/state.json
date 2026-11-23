@@ -42845,7 +42845,7 @@
       ]
     },
     "1572746117": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RRS218",
       "originals_sha256": [
@@ -42854,7 +42854,12 @@
         "ef9adfe185a945a3f9466eebd1156586a78f6a2f6d2b388e5a8f1830bf1fd8fc"
       ],
       "before_count": 3,
-      "task_id": 6110564653
+      "task_id": 6110564653,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
