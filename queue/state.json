@@ -30804,6 +30804,19 @@
         0.0,
         0.0
       ]
+    },
+    "756689098": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM13",
+      "originals_sha256": [
+        "9fcad209343e846e446a82fdf29d942b4520c702d43dde4608e1f13a9f3d66b1",
+        "1c82b23b761fc80bfe8c140a0ae7435b4c867ceab4b13383d2034fcd09c1a570",
+        "a19bb32f798ef3eb95875612df5ab01997dca315f12ede28f1031006bd052db8",
+        "955559fd73facd00f9cc8d15bf6db27454410699c1be649c733ebd815a345489",
+        "afa07bb6b0f3cb7ec08202a7bb42a197315a6c883702e89fbdad5b231e2befc3"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
