@@ -34091,6 +34091,17 @@
         0.0,
         0.0
       ]
+    },
+    "908126386": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MT78984227",
+      "originals_sha256": [
+        "d301832143461e9d63d02f3b58625c415412069468ffc243729fc1912ab4b860",
+        "ad06a7d5102d742ae0c9d23c5e01feff4f4e44eb006115362ae605c6273a8540",
+        "33b1cff48a59e11b390af6d1ea6a2e02e48c0da3aea9eb06669ea9ae6c87514d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
