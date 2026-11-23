@@ -32529,14 +32529,15 @@
       ]
     },
     "862058831": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JC4006333922",
       "originals_sha256": [
         "07d29c6c052bf7af8aa4b131cf326c41c31eabcf26fb2a48a00a39e4a1ac738d",
         "778a604efb39f1778552751512119edec22073ab2dd76c185df5ec8f5ed95ae8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109242654
     }
   },
   "reason": null,
