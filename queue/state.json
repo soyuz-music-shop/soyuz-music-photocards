@@ -33116,7 +33116,7 @@
       ]
     },
     "870149602": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SAD78993823",
       "originals_sha256": [
@@ -33124,7 +33124,12 @@
         "f584400278ada57fceba2bd703322de7bbd9421ab5f6c2acef0174c20237242d"
       ],
       "before_count": 2,
-      "task_id": 6109312754
+      "task_id": 6109312754,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
