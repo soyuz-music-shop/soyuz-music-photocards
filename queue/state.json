@@ -27725,6 +27725,18 @@
         0.0,
         0.0
       ]
+    },
+    "613190763": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GBLP138",
+      "originals_sha256": [
+        "29e03bb93398db339fdcc081e926782fe477a968828a5135d3ccd7d959173ea4",
+        "2ce06ecfd28d9eb6389f8920a8787612756e69064becc0ef75b68e8816161b18",
+        "26850e21ac9efd866d2de86dd7d76cc195e65b03f52fa0ecfec63929264c93ca",
+        "274e040cf928b3356d259636c03280eb3429324d3c7df091175922c42bfb8a5b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
