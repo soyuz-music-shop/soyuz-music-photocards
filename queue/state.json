@@ -36414,7 +36414,7 @@
       ]
     },
     "1081602742": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EMCD 165454",
       "originals_sha256": [
@@ -36422,7 +36422,12 @@
         "a0c1359d9a9c2fa4e72b694f5b693cb1ff499666173579a792240486c6d983a2"
       ],
       "before_count": 2,
-      "task_id": 6109784248
+      "task_id": 6109784248,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
