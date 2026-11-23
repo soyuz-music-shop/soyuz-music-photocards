@@ -30806,7 +30806,7 @@
       ]
     },
     "756689098": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM13",
       "originals_sha256": [
@@ -30817,7 +30817,12 @@
         "afa07bb6b0f3cb7ec08202a7bb42a197315a6c883702e89fbdad5b231e2befc3"
       ],
       "before_count": 5,
-      "task_id": 6109040778
+      "task_id": 6109040778,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
