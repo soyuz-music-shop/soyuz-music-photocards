@@ -24680,6 +24680,16 @@
         0.0,
         0.0
       ]
+    },
+    "478334473": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT446LP",
+      "originals_sha256": [
+        "be09a4f75fc0a834908a7267f722051b3c3bf0266af50d2b0ff0b95a21e5c5b7",
+        "f40a76742ac9764767420ffea413b7f107b8ab18c79c0a0b30d74c4adfd4e14d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
