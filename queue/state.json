@@ -32113,6 +32113,16 @@
         0.0,
         0.0
       ]
+    },
+    "843261860": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AP86976613129",
+      "originals_sha256": [
+        "65bd4e3cb4fef0c41b172b6d875cf8104f8e5060f7a4fc7c7ad903386e0f26d9",
+        "55ac133144ff362c8d757824b48bd8c82463cab23fe8ae40477861e824f9c78c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
