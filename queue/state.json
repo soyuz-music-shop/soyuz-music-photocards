@@ -29961,7 +29961,7 @@
       ]
     },
     "729025615": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ENM36999425",
       "originals_sha256": [
@@ -29970,7 +29970,12 @@
         "4a633c97eedf47ea9e149a7fface53f4d8c45a9b5016be9b84bb43d4682edf0d"
       ],
       "before_count": 3,
-      "task_id": 6108957965
+      "task_id": 6108957965,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
