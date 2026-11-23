@@ -26079,7 +26079,7 @@
       ]
     },
     "522186910": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CLN2127",
       "originals_sha256": [
@@ -26088,7 +26088,12 @@
         "aca13a64f1e5c3ce76a31782abce281d2640950c5999e02e34f3797527909127"
       ],
       "before_count": 3,
-      "task_id": 6107688525
+      "task_id": 6107688525,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
