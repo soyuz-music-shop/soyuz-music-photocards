@@ -61,8 +61,34 @@ def git_commit(files, msg):
     if diff.returncode==0:
         return
     if diff.returncode!=1:raise RuntimeError("Failed to inspect staged diff")
-    for cmd in (["git","commit","-m",msg],["git","push","origin","main"]):
-        subprocess.run(cmd,check=True,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+    subprocess.run(["git","commit","-m",msg],check=True,stdout=subprocess.DEVNULL)
+    # Retry a rejected push only if the remote changed unrelated files.
+    # Never rebase across a concurrent queue/state change: that could overwrite
+    # a durable lock or verified result and lead to duplicate Ozon mutations.
+    changed={str(path) for path in files}
+    for attempt in range(3):
+        push=subprocess.run(["git","push","origin","main"],capture_output=True,text=True)
+        if push.returncode==0:
+            return
+        detail=(push.stderr or push.stdout or "no Git diagnostic").strip()[-1200:]
+        print("QUEUE_GIT_PUSH_REJECTED",attempt+1,detail,flush=True)
+        fetch=subprocess.run(["git","fetch","origin","main"],capture_output=True,text=True)
+        if fetch.returncode:
+            raise RuntimeError("Git fetch failed after push rejection: "+fetch.stderr[-600:])
+        base=subprocess.run(["git","merge-base","HEAD","origin/main"],
+                            capture_output=True,text=True,check=True).stdout.strip()
+        remote_changed=subprocess.run(["git","diff","--name-only",base,"origin/main"],
+                                      capture_output=True,text=True,check=True)
+        conflicts=set(remote_changed.stdout.splitlines()) & changed
+        if conflicts:
+            raise RuntimeError("Concurrent remote change to protected queue files: "+
+                               ", ".join(sorted(conflicts))+"; fail closed without overwrite")
+        rebased=subprocess.run(["git","rebase","origin/main"],capture_output=True,text=True)
+        if rebased.returncode:
+            subprocess.run(["git","rebase","--abort"],capture_output=True,text=True)
+            raise RuntimeError("Git rebase failed; queue state not pushed: "+rebased.stderr[-600:])
+        time.sleep(attempt+1)
+    raise RuntimeError("Git push rejected after three safe attempts; queue stopped")
 
 def load_json(path):
     return json.loads(path.read_text(encoding="utf-8"))
