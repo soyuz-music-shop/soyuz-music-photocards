@@ -45640,6 +45640,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691821": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MG.ART 615LTD",
+      "originals_sha256": [
+        "696d0f474f15d5d838024d654f4d09f0024384ce9a7ccac6f0c8a17aac38c4b8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
