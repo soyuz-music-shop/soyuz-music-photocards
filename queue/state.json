@@ -25010,7 +25010,7 @@
       ]
     },
     "482244922": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CRVX1422",
       "originals_sha256": [
@@ -25018,7 +25018,8 @@
         "5bb94496f86300b0263b7b0f9d964cc4c10bebf24e97b2039914868aeb318485",
         "05c285286e1b203ee4b39552127d0f80481199c7871b544a731691966e4316fc"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107372580
     }
   },
   "reason": null,
