@@ -46522,13 +46522,14 @@
       ]
     },
     "2188759456": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EMC 3330",
       "originals_sha256": [
         "cfcc8be7b428a3c18530f5534bffd780d55ff64b532795a9449cc4306f947fae"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110844828
     }
   },
   "reason": null,
