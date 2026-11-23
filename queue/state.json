@@ -32930,14 +32930,15 @@
       ]
     },
     "869247601": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MT15735823",
       "originals_sha256": [
         "39a67996fbd7999a7767aff120130ad63adb0164cea95d6d08ed04e43e4678f3",
         "371e9be3bed86794a9fc74579960e8237cd1c71029880f7494401c6e05be4ebc"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109292108
     }
   },
   "reason": null,
