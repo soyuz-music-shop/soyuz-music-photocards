@@ -35766,7 +35766,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "1054423582": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297801233",
       "originals_sha256": [
@@ -35775,7 +35775,12 @@
         "f8fe5785679c532450d74c612c8f55f683db7573a520a352fe6564ceced041c1"
       ],
       "before_count": 3,
-      "task_id": 6109687238
+      "task_id": 6109687238,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
