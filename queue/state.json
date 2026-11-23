@@ -40178,7 +40178,7 @@
       ]
     },
     "1248446907": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "import-vinyl-info",
       "offer_id": "TODD97827701",
       "originals_sha256": [
@@ -40189,7 +40189,7 @@
       "task_id": 6110290140,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     }
   },
   "reason": null,
