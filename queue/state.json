@@ -37232,7 +37232,7 @@
       ]
     },
     "1101531291": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STG323813",
       "originals_sha256": [
@@ -37240,7 +37240,12 @@
         "dd7c0b61f11c99d1cea1c3b386c63d48eb95c4998fb61b46a8e6493d688fd3c8"
       ],
       "before_count": 2,
-      "task_id": 6109907452
+      "task_id": 6109907452,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
