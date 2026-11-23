@@ -24510,6 +24510,17 @@
         0.0,
         0.0
       ]
+    },
+    "473781119": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QN47202741",
+      "originals_sha256": [
+        "e297f72094990b2bc042e696d0f086ee80e2267486149a1941ae588a58201f02",
+        "99ab8c43c4c013fb3662187fb26083a5ee827df75eb1e668db712963698a367e",
+        "47cd030c41f2a9b4ae5e00e54110832ee24d7f6388d3214df3c0fe7e860a36e6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
