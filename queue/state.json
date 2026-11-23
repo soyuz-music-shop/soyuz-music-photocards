@@ -55704,6 +55704,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130403869": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TDP 54059",
+      "originals_sha256": [
+        "9aff5448c3c79b45b33ed47f0f6f215fc7beea372a2a94bcf0921baaa2488b0d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
