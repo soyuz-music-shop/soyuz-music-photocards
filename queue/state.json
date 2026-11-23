@@ -25568,6 +25568,17 @@
         0.0,
         0.0
       ]
+    },
+    "494977092": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IND67657325",
+      "originals_sha256": [
+        "4789aba12cc2feaddc139411b019d651e958dbf93b7eb0d8085d29cd65228253",
+        "9499aea471fbeddf6921932b09fa7d4882f276df924960a9b9a7185773e3ca4f",
+        "35844be68a183300bcc7a153953de98c3d0a0ebee31a303eb4443a71633b404e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
