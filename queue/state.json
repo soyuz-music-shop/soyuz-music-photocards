@@ -52672,6 +52672,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277740": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CT154344",
+      "originals_sha256": [
+        "f5b99911289929a1ede5abaf0afe5fa118646947eac3c7b820949dcde715b0aa"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
