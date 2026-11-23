@@ -27376,7 +27376,7 @@
       ]
     },
     "582890012": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ESH97163395",
       "originals_sha256": [
@@ -27384,7 +27384,12 @@
         "e77e99f400b140571f50295badf471e5feb9c4db289761f21c45e0f849e87487"
       ],
       "before_count": 2,
-      "task_id": 6108651220
+      "task_id": 6108651220,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
