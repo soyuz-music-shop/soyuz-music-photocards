@@ -36694,6 +36694,19 @@
         0.0,
         0.0
       ]
+    },
+    "1087332351": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0018986-01",
+      "originals_sha256": [
+        "af73c1883738087349edd0c9c6e5bf7906199d7815bcbc6392482fd0715b3de6",
+        "e4436f4d3dde73b4bb46638f5d5d2be0c7f3969db1d9854bb15d8766a7f4edc9",
+        "f42f785bc76ae771d5455531e0136c3c511093b242b5ee271afef645eb59314a",
+        "c376fe5fb2fad6f8cabd4d4d1ec380ed98ae80d75f2673cf21475dbe642bd55e",
+        "d59a74fb5377cf876be177ac7dd61835fb9190f92c1153776f59cca9165c0cdf"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
