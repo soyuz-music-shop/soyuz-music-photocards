@@ -42978,14 +42978,15 @@
       ]
     },
     "1591379551": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP999D",
       "originals_sha256": [
         "278ea59a08b6ff9721ac4e01c156fec19a259645bcc5fff58c8ecf438bb26824",
         "e862d8c6a15f39937935d8f243f52bf01227f42dccf9c143ded46aa7506fc262"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110574538
     }
   },
   "reason": null,
