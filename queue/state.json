@@ -40041,7 +40041,7 @@
       ]
     },
     "1245886015": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP584R",
       "originals_sha256": [
@@ -40049,7 +40049,8 @@
         "f99d52d6bcb2bbeb34580b080381ac9c32240aa79dfba1d25294803b185d9a41",
         "4c44c92d979a2d5038415f968e659a506beab64997083c7a582c33d3e0db7dae"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110265195
     }
   },
   "reason": null,
