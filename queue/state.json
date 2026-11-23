@@ -39400,6 +39400,17 @@
         0.0,
         0.0
       ]
+    },
+    "1215053238": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FS92704922",
+      "originals_sha256": [
+        "9e436be9e4bb674752ff299f8f3d7d5e9b99f8d02cf4efa67dd2d206acb1e9d4",
+        "646b2d7bbba75365c04063fe7ea2f9f1c4d7334b1d8898b8fb7b554c2bb48361",
+        "ce98d5b39552e86bf1d32033e28a5e6001ecae32b42da92c60ae24656ccdcf9f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
