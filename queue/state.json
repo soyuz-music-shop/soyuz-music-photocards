@@ -49163,7 +49163,7 @@
       ]
     },
     "2984310786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROCKACT166LP",
       "originals_sha256": [
@@ -49171,7 +49171,12 @@
         "50222bd4f4626b53cb88d7fc0530d26885e9edf55bae4739f6d0017a148e5b9a"
       ],
       "before_count": 2,
-      "task_id": 6111048951
+      "task_id": 6111048951,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
