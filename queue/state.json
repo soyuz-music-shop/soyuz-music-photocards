@@ -47542,7 +47542,7 @@
       ]
     },
     "2466419065": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BEATLSH38241522",
       "originals_sha256": [
@@ -47550,7 +47550,12 @@
         "4ea9a6f9f87f1fe743a40aad388bf05ccc291c9daa4c47558004711ea960ee23"
       ],
       "before_count": 2,
-      "task_id": 6110927660
+      "task_id": 6110927660,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
