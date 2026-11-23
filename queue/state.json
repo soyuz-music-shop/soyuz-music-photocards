@@ -26238,6 +26238,17 @@
         0.0,
         0.0
       ]
+    },
+    "534227087": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3066SM",
+      "originals_sha256": [
+        "66c0b13faf596d787306a26172244a7e915f415475a7fecd918cf2f1eb45c4dc",
+        "2f87af787f3ad1561be3317b990ab427312f02a0b82ba8cfb512c83f29babad0",
+        "f1d10096bd69568b47295888328f04ad15019786c15c5d1f9fc6575b796bfa9b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
