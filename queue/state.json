@@ -34356,6 +34356,17 @@
         0.0,
         0.0
       ]
+    },
+    "924980179": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLCKND005R-1B",
+      "originals_sha256": [
+        "b46911162cbfc66908cbd02efeee40fbb9be14b6c6655dc529cfa4d548525bb9",
+        "094a73943ced7549f349b0ab0674d6f338334fb77fb94ae1b90e7d45e6ea334c",
+        "29f77a59d6f28f5134cc13aae8011159f0d723652e1077911a25ebaef193eaf3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
