@@ -41714,7 +41714,7 @@
       ]
     },
     "1487107352": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KLMG38927900",
       "originals_sha256": [
@@ -41723,7 +41723,12 @@
         "22d7059f5bf176965e784a4e8a7315d90ce06211698200e3e4104bf57683721b"
       ],
       "before_count": 3,
-      "task_id": 6110466416
+      "task_id": 6110466416,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
