@@ -26145,6 +26145,25 @@
         0.0,
         0.0
       ]
+    },
+    "528784931": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PFRLP4",
+      "originals_sha256": [
+        "ed6dc221a6c385d2987a6d2b75c9efa2f205051333ac9cfaca69a89e72a75e3e",
+        "87aec8a7450ca0aa5b2fc8ff1e74f546e0acdb7a79f78c5a068eca88f4e80b24",
+        "965dd7fa42043b4c88f48e3b069f593fca912fa7c5d42f148f794871ed6c924c",
+        "3aeed7ebbc85b18644ffe447bcaf45ac76ed0a3136846ec3a285aebfeacd53bb",
+        "661a3139ee0031b8ff452b0581770ffab45132da69270df473db76707bc768d6",
+        "903c2c5d2972626aff110a34d3f42e201820e0c5b96df5df9a1a3923265a64dc",
+        "17eb9f1c109b9b0d13b8afd26e927f3748d77b25bdb6e35e13baa81f2283c531",
+        "d9643b026e2c5f04231514a52c7bc67cbe44e146c94a8ef7d5eb0d9112f70cc2",
+        "d9852bef371221999d7733afb638f3d2e8e71f34b9644766ee688c232a477f27",
+        "cb6f9dea6950e179344be00390e935ac677bc5bbc2eac95778006e3953938eca",
+        "22b3eadb47aed6827102749095b108572811a2962ba621510b4fb11944d5707a"
+      ],
+      "before_count": 11
     }
   },
   "reason": null,
