@@ -39451,6 +39451,19 @@
         0.0,
         0.0
       ]
+    },
+    "1216540486": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MF98282632",
+      "originals_sha256": [
+        "cb8648ad427d56a9bf271b1d78e558c5977de8224f9e18eb4fff2f4a85749fbd",
+        "77a3dd4b2ea8e2ffaa4b606986248e1370a6a51786647fe9894e35948f4bad9f",
+        "ad10e380811769ccf24740ab3699e9698bd1625b5ca99abbf5918015c776b288",
+        "0ccf329a963fa922d14c47300143e9fbf30c9b1226b389c855271ad72b5b63d0",
+        "c7d4c4247997fc49380786f0b8c082212e53b4626509a15906bf3f6f15354f95"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
