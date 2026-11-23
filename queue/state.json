@@ -33031,7 +33031,7 @@
       ]
     },
     "869564234": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0020LPE",
       "originals_sha256": [
@@ -33041,7 +33041,12 @@
         "b899e0a3ef9679f06b2af51c71fbf8096d5436d62535f749fc2cf9bc8b6f1cda"
       ],
       "before_count": 4,
-      "task_id": 6109303265
+      "task_id": 6109303265,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
