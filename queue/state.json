@@ -31726,6 +31726,19 @@
         0.0,
         0.0
       ]
+    },
+    "829895101": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLR97660160",
+      "originals_sha256": [
+        "b1b8751c33afaf2e717ad858a3b74de5d5bc16f677333546afb4ad19e0a3e820",
+        "f0c5468b538dc45d5d0342b8cb8983ad274c58b6e700dfcb84b312b17e9caa39",
+        "0c3ba586c059db08fa414f2060ce790cf71d7a8756568ad8d507bea4f9638df0",
+        "d97b0b6d1a14dda5ac64d05896c44ea3b685caf12ad8262ba3dfb60b819e507e",
+        "d06e8205f48ccbafab8e6dba5437da9ba6503bb56fedf8a34e9dc0aae0fe6e5d"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
