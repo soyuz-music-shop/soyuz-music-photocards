@@ -43168,14 +43168,15 @@
       ]
     },
     "1628089207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MER 124",
       "originals_sha256": [
         "8f68f9bbd1623651979e6ef6a0331e6e286adc324e7f460728df222659ad5ca3",
         "1dc8c450cdb6e827b07c15fc61e0f0ee755e8f766cef999710e8ca76f4ab3ca1"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110589731
     }
   },
   "reason": null,
