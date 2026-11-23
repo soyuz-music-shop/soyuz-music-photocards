@@ -46472,7 +46472,7 @@
       ]
     },
     "2188694764": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CR00833",
       "originals_sha256": [
@@ -46483,7 +46483,8 @@
         "e1d8149b89a57054f51d4ad210fb0afa0fc0807e31e140efe7125ee5118735cb",
         "aaa1c5050b0d5f175ada83c3395e9cebe7fc3b51e712cca247a67acd19aad018"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6110840959
     }
   },
   "reason": null,
