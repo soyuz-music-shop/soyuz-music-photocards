@@ -23287,7 +23287,7 @@
       ]
     },
     "447563420": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PFRLY19",
       "originals_sha256": [
@@ -23295,7 +23295,8 @@
         "90d09191dfb15514cb7d4525917bbaa67624bba1326b38d6a74c6bf6b5ed354f",
         "8c55c304f81480ce17383e16e06b8a545181ff051b4ed44dd4a230341d6f8ca8"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6107001659
     }
   },
   "reason": null,
