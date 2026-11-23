@@ -30840,6 +30840,16 @@
         0.0,
         0.0
       ]
+    },
+    "756805114": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM190",
+      "originals_sha256": [
+        "610cb4ee33170a2e52803120bc69753511990afb004b2e8d20984dd435346603",
+        "6c6505b2a2087503f34b12e6d9464d218809a6050b2b959eb8d58302b02eddeb"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
