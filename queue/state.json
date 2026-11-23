@@ -45235,7 +45235,7 @@
       ]
     },
     "2046820091": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STGRN32364357",
       "originals_sha256": [
@@ -45244,7 +45244,12 @@
         "3f6365397dd30ab3c48d9b220417611c7aad090047e791835a8570d759e4d82c"
       ],
       "before_count": 3,
-      "task_id": 6110736018
+      "task_id": 6110736018,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
