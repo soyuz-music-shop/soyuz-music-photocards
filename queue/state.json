@@ -29995,7 +29995,7 @@
       ]
     },
     "729333336": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNM99344323",
       "originals_sha256": [
@@ -30006,7 +30006,12 @@
         "dcfe3e6ad6c320577ad042fac0e61253020c752b092883fa0f78b2a4be4e9708"
       ],
       "before_count": 5,
-      "task_id": 6108961460
+      "task_id": 6108961460,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
