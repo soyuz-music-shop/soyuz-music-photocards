@@ -47331,7 +47331,7 @@
       ]
     },
     "2363085669": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ENMR38860822",
       "originals_sha256": [
@@ -47339,7 +47339,8 @@
         "aa825aa6bd73be5f698d91e70ebfdb92fea1cae0b8df2dfd01e7b59df8599488",
         "72e3af169309393cc202c6be79d059a01ddf0d2466792e7cb4eb715c00c8e7f6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110910867
     }
   },
   "reason": null,
