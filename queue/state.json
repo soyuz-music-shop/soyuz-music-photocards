@@ -53586,7 +53586,7 @@
       ]
     },
     "3018251751": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NU475310",
       "originals_sha256": [
@@ -53594,7 +53594,12 @@
         "0668096959eee36ec5ffe6a19433bfaa59e71faad290f0e49a278ad714aebf09"
       ],
       "before_count": 2,
-      "task_id": 6111515425
+      "task_id": 6111515425,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
