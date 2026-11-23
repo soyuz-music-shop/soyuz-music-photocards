@@ -45627,13 +45627,14 @@
       ]
     },
     "2153691819": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WB 7265801",
       "originals_sha256": [
         "66fe37462b193157ad6915e12be0db29db7c2b9309267db5b2ba27dfa4b4e0fa"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110765760
     }
   },
   "reason": null,
