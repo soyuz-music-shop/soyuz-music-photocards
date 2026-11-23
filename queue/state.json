@@ -27123,7 +27123,7 @@
       ]
     },
     "563874315": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RMST77493973",
       "originals_sha256": [
@@ -27132,7 +27132,12 @@
         "a2656443f0a87454bc40c6dbd58e253329e73646d1828a7ebec0ab3d2cde39ae"
       ],
       "before_count": 3,
-      "task_id": 6108616584
+      "task_id": 6108616584,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
