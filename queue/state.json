@@ -55161,13 +55161,14 @@
       ]
     },
     "3130010628": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP 148",
       "originals_sha256": [
         "d6c7e71f1e376ee451ef04a5d0243f8cc222de50fa5b6abb113d8adca3a7beb5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111627879
     }
   },
   "reason": null,
