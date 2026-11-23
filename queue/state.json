@@ -54747,14 +54747,19 @@
       ]
     },
     "3033387005": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HZ261524",
       "originals_sha256": [
         "1b21815f3dfdc6f4e231657cacdc90176cac4a1dcbf26fd8d08d2088b43ef0fa"
       ],
       "before_count": 1,
-      "task_id": 6111597852
+      "task_id": 6111597852,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
