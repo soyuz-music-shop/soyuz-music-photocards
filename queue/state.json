@@ -51054,6 +51054,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006255344": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP 90097",
+      "originals_sha256": [
+        "3f89592bc3b2de0dba21b402cb31a70bb14434d564d9b648c614b7895ca567d4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
