@@ -30825,7 +30825,7 @@
       ]
     },
     "756738458": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM148",
       "originals_sha256": [
@@ -30834,7 +30834,12 @@
         "16916708f8dcf08a4d9b3b9adf0d875886585f2f1afae799ee02a859e9a818bb"
       ],
       "before_count": 3,
-      "task_id": 6109042190
+      "task_id": 6109042190,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
