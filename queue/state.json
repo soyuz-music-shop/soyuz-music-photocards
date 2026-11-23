@@ -32576,14 +32576,15 @@
       ]
     },
     "863315866": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "1025619STU",
       "originals_sha256": [
         "8cac95abaeb06d03dadc2a13959fdb1e9e056fc5a8b93fe37a660b358d2cf08b",
         "c0bdc9efb8e2664b67d55986befdc8162bbc79be6777d58223ed721a8ddf1fa8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109247681
     }
   },
   "reason": null,
