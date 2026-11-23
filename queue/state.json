@@ -44307,6 +44307,17 @@
         0.0,
         0.0
       ]
+    },
+    "1765570709": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV5 25844",
+      "originals_sha256": [
+        "f7a41037c7b6aa6ced64e58e224e9f118dc96f99969cfcb5fc8d2e8299fdac8b",
+        "8cc1d0fe2016780e8bc0884d539b7533a1bdd88b0d4cdd8a67c4c85ab2621e7f",
+        "e419fabb42c9f8f15dd6b2e46d97a3c83ae1d431a6c7b264880b8741c4a81240"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
