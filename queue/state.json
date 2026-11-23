@@ -31639,6 +31639,17 @@
         0.0,
         0.0
       ]
+    },
+    "819693078": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AKT10LP",
+      "originals_sha256": [
+        "1200368f76ddf446eb9b4cc7aed5d63ddf5c3db1a7ea7e6f9de51b7661a6275c",
+        "5b4487a381892c2b4aa8b4b92dd7b203ec3dbe75fda44fc22d51fda502c8a0e9",
+        "a74c3a13bd89511d3163f470317c71f5aa8704764d870aa24a30165be15c05e6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
