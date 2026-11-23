@@ -23958,7 +23958,7 @@
       ]
     },
     "453862620": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CCR72406605",
       "originals_sha256": [
@@ -23966,7 +23966,12 @@
         "1b646b2c896a7714d203c0e3452be825dde63a1a9beede508445ba43897fd614"
       ],
       "before_count": 2,
-      "task_id": 6107151551
+      "task_id": 6107151551,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
