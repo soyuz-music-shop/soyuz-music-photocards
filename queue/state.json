@@ -49224,14 +49224,19 @@
       ]
     },
     "2984310821": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PT466228",
       "originals_sha256": [
         "ae4fc726855050923c7d76456e147d5918d55715c123ee3e9c34c3a3ad573ac0"
       ],
       "before_count": 1,
-      "task_id": 6111054508
+      "task_id": 6111054508,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
