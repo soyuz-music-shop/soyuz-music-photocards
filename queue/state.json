@@ -26788,6 +26788,16 @@
         0.0,
         0.0
       ]
+    },
+    "554976330": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DRS27986513",
+      "originals_sha256": [
+        "a24b7e05120ae2598724fdb79fd637a54599813a08a14489dfc73ee2062412a4",
+        "793019dc07c0bed8f303adddee847a9dea33e8bcec6b4f77e082bd5089b344fa"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
