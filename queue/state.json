@@ -27425,7 +27425,7 @@
       ]
     },
     "584160920": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2695446",
       "originals_sha256": [
@@ -27437,7 +27437,12 @@
         "f2399ad9b68f4f8d97eaa71a86e5209764ce83b3b994a4d3eb2a18e378a83c94"
       ],
       "before_count": 6,
-      "task_id": 6108657424
+      "task_id": 6108657424,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
