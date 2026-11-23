@@ -40280,7 +40280,7 @@
       ]
     },
     "1261247385": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HES48102027",
       "originals_sha256": [
@@ -40289,7 +40289,12 @@
         "87597147608d04be30558021113ed7c38f558bd29b90b80ea0360a740f3a603d"
       ],
       "before_count": 3,
-      "task_id": 6110312042
+      "task_id": 6110312042,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
