@@ -33750,7 +33750,7 @@
       ]
     },
     "893297361": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL129LP2",
       "originals_sha256": [
@@ -33765,7 +33765,8 @@
         "c88277a2b675ab18c64fa78027391f33d921b68f53fc3e1cad6d2de525138053",
         "84ded985da8fcefd02ced57fcd50b91ddb3cd461318a0bc81472a02219c89505"
       ],
-      "before_count": 10
+      "before_count": 10,
+      "task_id": 6109398270
     }
   },
   "reason": null,
