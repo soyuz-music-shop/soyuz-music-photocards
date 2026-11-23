@@ -51822,6 +51822,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476275": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CRV1764",
+      "originals_sha256": [
+        "79ebdde09694ccba17d124d08696c4219bae6d85d725a7cc3446b81833f5be80"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
