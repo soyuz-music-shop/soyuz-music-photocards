@@ -43485,6 +43485,16 @@
         0.0,
         0.0
       ]
+    },
+    "1696010308": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AWBB17341296",
+      "originals_sha256": [
+        "2bf01f8e52a499b028564e13dee800fda67800e741979758bcd33da6ca657bd5",
+        "fbbfb6b2da738075f067b1da70d338bd26d1fdb61fa8d1310a3be87803f1ff5c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
