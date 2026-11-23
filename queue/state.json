@@ -31245,7 +31245,7 @@
       ]
     },
     "780368688": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219977678",
       "originals_sha256": [
@@ -31254,7 +31254,12 @@
         "c3b5255bb0053e733f58688527d2c77b9472945300b826fcada74b0f3cb980c6"
       ],
       "before_count": 3,
-      "task_id": 6109086720
+      "task_id": 6109086720,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
