@@ -55395,13 +55395,14 @@
       ]
     },
     "3130010950": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TDP54058",
       "originals_sha256": [
         "726ab907a29f7720495cbda375becb084b4768485ffa0dac36dbf6d89bab2986"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111641835
     }
   },
   "reason": null,
