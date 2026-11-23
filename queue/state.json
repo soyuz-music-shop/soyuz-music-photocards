@@ -40538,7 +40538,7 @@
       ]
     },
     "1307267949": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BS023CD",
       "originals_sha256": [
@@ -40548,7 +40548,8 @@
         "87fb926a1fd516c9748537e0f2fecca52711698b03af229a84f3f7b5d534d0b4",
         "43a954cb18bf34379b20231a6c74c88e21fa27e85a37c1107e25155017cd6b1c"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110350788
     }
   },
   "reason": null,
