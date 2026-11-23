@@ -42533,6 +42533,17 @@
         0.0,
         0.0
       ]
+    },
+    "1548868980": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0019197-01",
+      "originals_sha256": [
+        "397a3ae5893e0c5072a2541b652c714fa4fa1dce32bec2de3e0ca68a87c350aa",
+        "ccd43033efde21d7dbb46c66f59aeb7963ccb71ead933c73610cfa78dc572feb",
+        "19731859025418fad0a254d592911e3b822ca1f90dc628a969f2e7a4ddc850ec"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
