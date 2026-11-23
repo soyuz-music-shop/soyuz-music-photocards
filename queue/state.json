@@ -31055,7 +31055,7 @@
       ]
     },
     "762662147": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BS001V",
       "originals_sha256": [
@@ -31063,7 +31063,8 @@
         "745fc90fb0ee53e9558fefcf759ee19b289f629ef673bdf68c6e05b7782896a4",
         "07aec4f60a361d5f5b4a8ad1c4e73c42d0646a41e5aee7809f20961c6a9207db"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109064911
     }
   },
   "reason": null,
