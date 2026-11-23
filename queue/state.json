@@ -45447,14 +45447,19 @@
       ]
     },
     "2153691783": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MAJB78603006",
       "originals_sha256": [
         "9b5ee23b984f3874835aa6b8955a0017b96654dd776fdb981332c402eef78bf2"
       ],
       "before_count": 1,
-      "task_id": 6110750870
+      "task_id": 6110750870,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
