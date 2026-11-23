@@ -27051,7 +27051,7 @@
       ]
     },
     "562692512": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BLCKND004R-1",
       "originals_sha256": [
@@ -27060,7 +27060,12 @@
         "23b36e065e51a1a4fe46dceae9adb31add01501ea16f1eb4bcd5cf597822ca84"
       ],
       "before_count": 3,
-      "task_id": 6108606862
+      "task_id": 6108606862,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
