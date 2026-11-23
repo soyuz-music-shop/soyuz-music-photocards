@@ -31601,7 +31601,7 @@
       ]
     },
     "808989202": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BNM-603-1",
       "originals_sha256": [
@@ -31612,7 +31612,8 @@
         "be1191d8abf9994a456318bcb2a9f8714c45e5c59f750f1e27adb50106d7736b",
         "4a7d7516b938679fb04574ef91dad27893f22b8acf9bee34158e19d3aef69668"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6109135186
     }
   },
   "reason": null,
