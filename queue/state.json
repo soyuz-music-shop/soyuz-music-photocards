@@ -46854,7 +46854,7 @@
       ]
     },
     "2202167096": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "YO356CD",
       "originals_sha256": [
@@ -46864,7 +46864,12 @@
         "0f542d1d45b6b7aa1f2aa4f256a900472c4df7b2e5df2bd373df5a795f800b1f"
       ],
       "before_count": 4,
-      "task_id": 6110872276
+      "task_id": 6110872276,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
