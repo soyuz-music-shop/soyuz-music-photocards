@@ -55485,13 +55485,14 @@
       ]
     },
     "3130107995": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LTMCD 2530",
       "originals_sha256": [
         "234a55bce62d4710b51bafa4d357c0eee4dc6d805cf8024bb9fb5e650725bd33"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111646276
     }
   },
   "reason": null,
