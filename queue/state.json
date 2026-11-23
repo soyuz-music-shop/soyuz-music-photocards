@@ -25731,6 +25731,16 @@
         0.0,
         0.0
       ]
+    },
+    "499096703": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XTX15777138",
+      "originals_sha256": [
+        "e2b3c7d4b46a6956b6472f63a36100238e4fe8c55f397a6cd0accb619da5665e",
+        "5355d57a1e4d14852c1ea673b407aa0ceff8c17502ec6ba01a5e4f64327bd1e5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
