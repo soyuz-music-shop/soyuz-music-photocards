@@ -47556,6 +47556,17 @@
         0.0,
         0.0
       ]
+    },
+    "2476062330": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ALICH72615649",
+      "originals_sha256": [
+        "4c438bafa1a04f6c0e46ba26c737aa7189792adea6b8b0277401aa3288cdbb6e",
+        "665fdc199f9e9b7c0e5395a4bdc4d747278f4c819e69f10792c1c4366e58fb44",
+        "4004cf6bb597a3b7108d14f23c5ca501b5d3669360b03cfffb495ccfaae1ac8d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
