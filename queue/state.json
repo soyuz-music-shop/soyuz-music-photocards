@@ -47036,7 +47036,7 @@
       ]
     },
     "2247298163": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TCR68033776",
       "originals_sha256": [
@@ -47051,7 +47051,12 @@
         "4b6e2b58a28399f8dfb6eacf0460e51a7ac04c3d92fac93f85d6578dd4f04c15"
       ],
       "before_count": 9,
-      "task_id": 6110886496
+      "task_id": 6110886496,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
