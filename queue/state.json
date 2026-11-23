@@ -34308,7 +34308,7 @@
       ]
     },
     "915010278": {
-      "status": "imported",
+      "status": "verified",
       "variant": "vinyl-colored-import",
       "offer_id": "BMGCAT585CLP",
       "originals_sha256": [
@@ -34317,7 +34317,12 @@
         "6cbe586bd184668d51dafad176cbb00ca0932fe866ae097bdaf32eb75faa0daa"
       ],
       "before_count": 3,
-      "task_id": 6109486838
+      "task_id": 6109486838,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
