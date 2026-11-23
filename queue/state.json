@@ -55410,13 +55410,14 @@
       ]
     },
     "3130010952": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE-427-0",
       "originals_sha256": [
         "ee49cb20d071f9dc13a1850a3a7491b518d4d6186eb88892f059c2e8e1c4ab8a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111642607
     }
   },
   "reason": null,
