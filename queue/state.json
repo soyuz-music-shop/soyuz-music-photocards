@@ -39134,7 +39134,7 @@
       ]
     },
     "1207995905": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RW51563827",
       "originals_sha256": [
@@ -39144,7 +39144,12 @@
         "dd1468d39e957333479d5c723fb296ba166065f5081ce1b69b98d67aa44e18e2"
       ],
       "before_count": 4,
-      "task_id": 6110163923
+      "task_id": 6110163923,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
