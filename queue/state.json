@@ -27883,7 +27883,7 @@
       ]
     },
     "618597446": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LRCSTUMM255",
       "originals_sha256": [
@@ -27893,7 +27893,12 @@
         "29ea01932f7250307828a70a1857dc8ae62e28634a8c12e1402bfdd5cf744c61"
       ],
       "before_count": 4,
-      "task_id": 6108725154
+      "task_id": 6108725154,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
