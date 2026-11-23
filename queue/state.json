@@ -46240,14 +46240,19 @@
       ]
     },
     "2179778143": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ENZNBT79044318",
       "originals_sha256": [
         "a5746eabfe6630b1c4fdf556d7971e0b67ab4909882bb2672402135e9ae095aa"
       ],
       "before_count": 1,
-      "task_id": 6110818749
+      "task_id": 6110818749,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
