@@ -30464,7 +30464,7 @@
       ]
     },
     "746066119": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ELJ48034793",
       "originals_sha256": [
@@ -30473,7 +30473,8 @@
         "6dc3f3dbf2d0fc5c347ec7c2bdcf439166acdbf00bfb12d1e9a26c05bbb041f9",
         "3230a00a019310a2c01238e64e9d8002506b4f1cb76b062118c21cd3d0fcbc7f"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109006695
     }
   },
   "reason": null,
