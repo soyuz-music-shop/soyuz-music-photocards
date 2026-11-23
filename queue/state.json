@@ -42657,14 +42657,15 @@
       ]
     },
     "1563781855": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DCDE81705262",
       "originals_sha256": [
         "d5abe88a59e5f45af0761f9ebc6d8501e9e16d4f7dab847d7bab6a017e294a33",
         "bc342d8986174b1dd575b2584f61e145c96853fadf575fc76ae5dae8035d6ffe"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110550906
     }
   },
   "reason": null,
