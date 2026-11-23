@@ -36461,14 +36461,15 @@
       ]
     },
     "1081836009": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4610297800922",
       "originals_sha256": [
         "8cc2244a1c984bd83bdb306c32bc56cb6975779f854ae5e207503c3e5a1ddfdb",
         "af433f6e1cce4752c7700be7bdf0bc1aadf72cb382c8d1feb3be6a21b1ff9513"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109791598
     }
   },
   "reason": null,
