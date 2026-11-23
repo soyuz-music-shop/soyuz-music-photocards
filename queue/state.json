@@ -37475,6 +37475,18 @@
         0.0,
         0.0
       ]
+    },
+    "1107185044": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PSB95021962",
+      "originals_sha256": [
+        "32d3ef52df722055ab2bdb501f05681697603840d885a1f8a7873180fa5cd704",
+        "368c1187831fdbbc44d4826b70a713dad8d8aac4ea3fb98d0797e566e4a8c328",
+        "1365659f331136131e00168706345c782ef294ac0ae5620d07c6c84e1f2fc01b",
+        "e15a70d66ea288022ed5f9b6d2e0282357bf031ee9024dda04e520b63a29e89e"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
