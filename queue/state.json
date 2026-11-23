@@ -56199,6 +56199,21 @@
         0.0,
         0.0
       ]
+    },
+    "3222504384": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0220201SBE",
+      "originals_sha256": [
+        "6b0e819cec095002f73e6a3594a69a04b50420a0f80c6233d468e301df099beb",
+        "a03426ef078a50d503f3d3901b2d6e48138626d975529f921f385bee099da721",
+        "c863380b62afb6b6ee388a282d08c326dd2186b3f098b2427ce7f194f4b4a9c6",
+        "8a8ee8f4ad8ac981a9aaec3c8ed356f2aea52bc004790ce32e3856de722c2aab",
+        "2abeffd1842b69ffa38f3557adc53066d0c1b9b9c9fd7691cf098710581ae88c",
+        "5467a3cd49ef94de611b9d452bbef596b7ce9cb85f9a9650479062de01526a77",
+        "edfa8b8a44e98aa5ccafbe32bad198bf7c57d7be244c00357615cc6ae04bd761"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
