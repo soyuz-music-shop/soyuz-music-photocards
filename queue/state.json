@@ -39489,7 +39489,7 @@
       ]
     },
     "1216636193": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JFB76605124",
       "originals_sha256": [
@@ -39497,7 +39497,12 @@
         "e70fb56947bb2b0106603e4018b11b8ef286a56f9fc567fd60ecc099012acf22"
       ],
       "before_count": 2,
-      "task_id": 6110209068
+      "task_id": 6110209068,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
