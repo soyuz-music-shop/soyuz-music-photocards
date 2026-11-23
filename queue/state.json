@@ -54511,14 +54511,19 @@
       ]
     },
     "3033137828": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PO855329",
       "originals_sha256": [
         "6db2ab6bda979f4f75f764ae2c3e1e0048fc6fd489e1b7c861c938a1244cd5b8"
       ],
       "before_count": 1,
-      "task_id": 6111580520
+      "task_id": 6111580520,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
