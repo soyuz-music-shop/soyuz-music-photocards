@@ -26839,7 +26839,7 @@
       ]
     },
     "556902058": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "INFECT644LP",
       "originals_sha256": [
@@ -26847,7 +26847,8 @@
         "08eadef53607d38d515685127393df0d909c1064ec7577f130e0da454d7d9c8d",
         "27780694336c32a1ac595a8a6025aa652aaf2f1117768e9aaaae0344b9828763"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108578766
     }
   },
   "reason": null,
