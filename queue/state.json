@@ -31451,7 +31451,7 @@
       ]
     },
     "797219636": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SGB50CD",
       "originals_sha256": [
@@ -31460,7 +31460,12 @@
         "c34d5aefe9651dee840f2db19f8ee92c73589ac929d2f4558465545d3786487e"
       ],
       "before_count": 3,
-      "task_id": 6109113549
+      "task_id": 6109113549,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
