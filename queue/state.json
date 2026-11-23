@@ -54133,14 +54133,19 @@
       ]
     },
     "3032899375": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GM170520",
       "originals_sha256": [
         "a32d51fea657522c151ebba68e3bbd27ff337958d58b6363f1051014022b0452"
       ],
       "before_count": 1,
-      "task_id": 6111551300
+      "task_id": 6111551300,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
