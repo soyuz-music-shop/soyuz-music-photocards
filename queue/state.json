@@ -24275,7 +24275,7 @@
       ]
     },
     "464391241": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RMST35591537",
       "originals_sha256": [
@@ -24283,7 +24283,12 @@
         "19d5c56a107b099337f1eb66292613597202b2186d70b6690220d59898a192b7"
       ],
       "before_count": 2,
-      "task_id": 6107218525
+      "task_id": 6107218525,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
