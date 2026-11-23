@@ -49776,7 +49776,7 @@
       "reason": "Ozon /v4/product/info/attributes connection URLError"
     },
     "3005087241": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3597",
       "originals_sha256": [
