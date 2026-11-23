@@ -40214,7 +40214,7 @@
       ]
     },
     "1255255212": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP521X",
       "originals_sha256": [
@@ -40223,7 +40223,12 @@
         "d3afad8efbf06e59a5a2a1519c6046038b0a592a08988f15aea635eed554eefc"
       ],
       "before_count": 3,
-      "task_id": 6110303498
+      "task_id": 6110303498,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
