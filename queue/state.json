@@ -49145,6 +49145,16 @@
         0.0,
         0.0
       ]
+    },
+    "2984310782": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PMTV 3",
+      "originals_sha256": [
+        "ec946a66e3bfb7f7c64ca4e83363f5957750f47af7f566ae8336a99be60d3ab8",
+        "1b9ee260ef3c8f85e11d1cb7ffcf549f30dfe61525277d5f14fe3aebf75eb903"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
