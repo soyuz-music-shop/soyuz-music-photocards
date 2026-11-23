@@ -27708,6 +27708,17 @@
         0.0,
         0.0
       ]
+    },
+    "613070968": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TFE67443392",
+      "originals_sha256": [
+        "a1bcd3c40fc818c2eccba80da5823d1c9f9d46219d01fd502dc9717c54c5be39",
+        "c055a119bd2f40416fb1b3fa3d0d84370134482c888c117971207f05d7ad661b",
+        "746d6a384b902e8c90fcd807b0d0fa9c3903e8dc6011adab11201ed47bac69ac"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
