@@ -55114,6 +55114,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010625": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RTRADLP421",
+      "originals_sha256": [
+        "a3c2c1758f8e5ddd35ad29312eed0fc11ed3c65be9f430c428afa66af862dde7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
