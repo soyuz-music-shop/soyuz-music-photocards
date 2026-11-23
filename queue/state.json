@@ -38027,7 +38027,7 @@
       ]
     },
     "1147630594": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TSW081343",
       "originals_sha256": [
@@ -38036,7 +38036,12 @@
         "07780ac6aab2e9654b0cc9f3abf89d43b6edf321066990416980494295f525fe"
       ],
       "before_count": 3,
-      "task_id": 6110020316
+      "task_id": 6110020316,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
