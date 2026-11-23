@@ -48649,6 +48649,16 @@
         0.0,
         0.0
       ]
+    },
+    "2973331794": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YG012976",
+      "originals_sha256": [
+        "f575a32abaff95da1115319d0c2cfdc392e5617ac160bbce5ae2b99fe89b1849",
+        "82a2b5aacd9f13c0f9659feb1a696e660ace7bc78e000092ad583cfb7bb69712"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
