@@ -37818,6 +37818,19 @@
         0.0,
         0.0
       ]
+    },
+    "1131943878": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SCT036824",
+      "originals_sha256": [
+        "0e3d14c6a5f58dd4f977eb007d89435bab318d9be710a8f5731f1baccf681e7f",
+        "f724da375bdfd3eb54f8ac933737070d05b4291e4fd19b93cc859222c5866a99",
+        "306b678b26e1ff6055a3f1455331d0c4fda8457a8b32e3e2c496fdf7f11659c0",
+        "48605dda87bfa18b4259d13cf627183157626d427fd235b9d5b1cf46c00df983",
+        "5824ed3d810147aaa42d2a9172aacf4919e8802bcfc63639bb34436a63479e0e"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
