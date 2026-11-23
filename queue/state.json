@@ -51416,6 +51416,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006475923": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "tplp30r",
+      "originals_sha256": [
+        "218b0f30003800e53cbf9fb06bcadf0dcd91bb3b88d92745795ccb02d74eaeb2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
