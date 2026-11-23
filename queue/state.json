@@ -31142,7 +31142,7 @@
       ]
     },
     "771344263": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2891YBM",
       "originals_sha256": [
@@ -31152,7 +31152,8 @@
         "d2b63f0511c427a854fe37a8d48e12c40aed0fd64652342d3a364288b2e9c099",
         "70a13001a650e25ae1dd87b357c0fcdf5261617591c02c0a530b7d32278ccf88"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109074963
     }
   },
   "reason": null,
