@@ -30446,7 +30446,7 @@
       ]
     },
     "746041000": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ELJ55160812",
       "originals_sha256": [
@@ -30456,7 +30456,12 @@
         "fed7dcf8cc75b5ab15db3c5da495c06618c01a09ae31050b8f9fb4589fe140ff"
       ],
       "before_count": 4,
-      "task_id": 6109004910
+      "task_id": 6109004910,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
