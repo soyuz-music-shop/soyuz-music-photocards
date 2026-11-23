@@ -25570,7 +25570,7 @@
       ]
     },
     "494977092": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IND67657325",
       "originals_sha256": [
@@ -25579,7 +25579,12 @@
         "35844be68a183300bcc7a153953de98c3d0a0ebee31a303eb4443a71633b404e"
       ],
       "before_count": 3,
-      "task_id": 6107519068
+      "task_id": 6107519068,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
