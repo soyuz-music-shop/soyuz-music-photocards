@@ -46672,14 +46672,19 @@
       ]
     },
     "2188890784": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SexPissLive1978LP1",
       "originals_sha256": [
         "df8ec74fbf446ca6ca5debd3444d182bf1a6fd77e3fcdddbfb46c5444ed2d584"
       ],
       "before_count": 1,
-      "task_id": 6110857879
+      "task_id": 6110857879,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
