@@ -23699,7 +23699,7 @@
       ]
     },
     "450120951": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WIGCD220E",
       "originals_sha256": [
@@ -23713,7 +23713,8 @@
         "b61f7b54829923555168778b765d08cd4f83d964905f64af83a065daceb3b6a2",
         "a5016ce49c1519a3f72de96906ba0aa26c2884a2b16dbad22caa22432ddd31d2"
       ],
-      "before_count": 9
+      "before_count": 9,
+      "task_id": 6107102137
     }
   },
   "reason": null,
