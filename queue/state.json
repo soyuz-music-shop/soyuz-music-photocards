@@ -32992,6 +32992,20 @@
         0.0,
         0.0
       ]
+    },
+    "869447978": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RST55464552",
+      "originals_sha256": [
+        "83e6847e1c65eb0a8c2806d77e23b94d56cb0339659fa4f3bdf47812fe81bd61",
+        "1cd6acbd7ece73eccb6ea5e6b91ac4539c4f87b5974143ed462e6492b86d2552",
+        "bcd2082f63fc0c4a45db0b33ed9504c3ac532422e760570b305a60aedfac4c81",
+        "932d305b125ecc532dda55300b74b8b5a6f3067bd95a7b8926638912709565b1",
+        "119987e8b035642052ee39fedfc4e3fd92faf3ac4f6dcb32861c74ebe64bfdad",
+        "6ec3a648d774180aa81f6d0a4d1a610bf566d474f5c6837581f0e825bc86f7bb"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
