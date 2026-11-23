@@ -25925,6 +25925,19 @@
         0.0,
         0.0
       ]
+    },
+    "518089531": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LDR48591913",
+      "originals_sha256": [
+        "7141485b22b9e8f2dbc87cb0386ccf7a142902d8b671469d26e8b50124298722",
+        "3aedbb6b0c5ebfeea641b8f669b182538a4deebf244744869b2912d29845cb05",
+        "f2465a1a55d45d71ead3070d5ceff37f34561522b1afb6dde4c26568293e4128",
+        "45218e1ddb0c046ef74982b559e1c0533cf3112d5e5153d0eb100a36a5fc0532",
+        "250ad9d140a06ee35c772e75d0e13be32223a448eaae097058b63436cbeb4b4f"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
