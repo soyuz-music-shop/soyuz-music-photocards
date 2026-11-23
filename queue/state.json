@@ -24529,7 +24529,7 @@
       ]
     },
     "473799029": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OZZ98772714",
       "originals_sha256": [
@@ -24539,7 +24539,12 @@
         "188fe552d42696f61974246e5909b0de2bbc789d593213d8c7d8ddd0f1d98fdb"
       ],
       "before_count": 4,
-      "task_id": 6107272367
+      "task_id": 6107272367,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
