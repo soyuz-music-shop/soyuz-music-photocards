@@ -39186,14 +39186,15 @@
       ]
     },
     "1208052816": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LF49451360",
       "originals_sha256": [
         "2064192ddb392463118ce03bf9d344af685b741aed3b83574cec3580601b009b",
         "aaf8028d4fc11c1716adb75cb8df51af01cfaf186936e6c8a33231593bc877dd"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110170748
     }
   },
   "reason": null,
