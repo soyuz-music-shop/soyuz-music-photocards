@@ -27956,7 +27956,7 @@
       ]
     },
     "619010900": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LPSEEDS2",
       "originals_sha256": [
@@ -27964,7 +27964,8 @@
         "c8f1341573b4264acd84d2242b1ecf9e87f6e29995f2ee2f2200c7eb964dbf65",
         "8f0c812e4fb93f77c65d8da2fd692357de20f94a38abd7fc59cff568fd3097e9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108733187
     }
   },
   "reason": null,
