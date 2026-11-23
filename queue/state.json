@@ -35055,7 +35055,7 @@
       ]
     },
     "1016936595": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 7208",
       "originals_sha256": [
@@ -35063,7 +35063,12 @@
         "d806090515c984031c073f1a39132bdc969f21786919c53e99f474e57dcb6105"
       ],
       "before_count": 2,
-      "task_id": 6109579759
+      "task_id": 6109579759,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
