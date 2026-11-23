@@ -32013,6 +32013,17 @@
         0.0,
         0.0
       ]
+    },
+    "841398733": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WS90295785215",
+      "originals_sha256": [
+        "a5ba04dd83e5d30818a43660b9b0763e8120cd5b06000262b92a56ca373c5c53",
+        "06ab6b3cb84aa9543927b1b76eaf4de7ee68d3d458adab54a3130038d1f4b7da",
+        "7ab44bd65e0f247cb5397dbd6a692b71c07f60714ac81b24f8402dce53645b9b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
