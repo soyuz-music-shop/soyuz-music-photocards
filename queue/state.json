@@ -53862,13 +53862,14 @@
       ]
     },
     "3032013014": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "R2 25548",
       "originals_sha256": [
         "9673ca41b2a774cc61776035a016f12d2efe485fc17f731d52ccd01b1b82a7b5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111532691
     }
   },
   "reason": null,
