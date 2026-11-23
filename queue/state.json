@@ -31384,6 +31384,16 @@
         0.0,
         0.0
       ]
+    },
+    "786826808": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MCR38961508",
+      "originals_sha256": [
+        "c4dbb1b769ab4bc2ea90b37e5cb38c86a506ed6bae1b4f40d29ce9945260a905",
+        "4a8ef15b40560727124ec87175dc93e2e1f54bc287e47decac4d4d56b2a80623"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
