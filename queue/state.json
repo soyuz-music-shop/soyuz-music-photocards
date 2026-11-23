@@ -43136,7 +43136,7 @@
       ]
     },
     "1627662126": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "B0015529-02",
       "originals_sha256": [
@@ -43144,7 +43144,12 @@
         "5f7856e4410af5a731876955637483c2e9fce6100367e139c30d7fc3de7671a3"
       ],
       "before_count": 2,
-      "task_id": 6110587275
+      "task_id": 6110587275,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
