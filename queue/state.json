@@ -49926,14 +49926,19 @@
       ]
     },
     "3005087625": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB 59149",
       "originals_sha256": [
         "6479dbcfb81f56d3e23b66b9577d3eb3c50ab9fb5d57cda17e61f738f69b26e3"
       ],
       "before_count": 1,
-      "task_id": 6111231502
+      "task_id": 6111231502,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
