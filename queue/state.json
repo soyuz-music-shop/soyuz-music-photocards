@@ -28633,6 +28633,17 @@
         0.0,
         0.0
       ]
+    },
+    "650009457": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "POL54995023",
+      "originals_sha256": [
+        "cd655b990c87f669e9b49692d1c186b2ab308b124a5e6fdad425ccc58818fcfb",
+        "dc33697cf1e301312f472e3aacf5d6683c0307853d0c622d9e55af877b2d4b1b",
+        "7077b636dc9f4b968c77c3e2f5ed98e9bc981b36fb77cf3921045e7c414198aa"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
