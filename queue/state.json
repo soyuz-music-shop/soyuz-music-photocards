@@ -30516,14 +30516,15 @@
       ]
     },
     "748970315": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GM59110028",
       "originals_sha256": [
         "a361e8b10205883141beadb86ef700fdd8886ef8bba1b8c4eaee11f35c87b97a",
         "d24ad7cc338b10cc7fe16acaca9656f879e46fef0edac2fde49deaafd1a327b6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109011328
     }
   },
   "reason": null,
