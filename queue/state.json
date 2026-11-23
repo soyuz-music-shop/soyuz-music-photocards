@@ -39554,6 +39554,17 @@
         0.0,
         0.0
       ]
+    },
+    "1218030130": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KRFT96601914",
+      "originals_sha256": [
+        "713322507d2ef348298220b818e38fd435be9b56aac253e5f6c8e488383d9566",
+        "2e7fba276a92d7cc572502430e9c4bd577b500a240a793f9bd7d804d3d57eace",
+        "b8c4e9740ccd6f3b4c4c71ef77493444047abf528ddf5d1814bde515b9fad23d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
