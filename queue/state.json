@@ -39797,7 +39797,7 @@
       ]
     },
     "1238375088": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OODOM98833910",
       "originals_sha256": [
@@ -39805,7 +39805,12 @@
         "726ffd74f7dd2285070d664bfbc1bf51c206ed04d2fd0d7deb91eb00db4faeed"
       ],
       "before_count": 2,
-      "task_id": 6110241633
+      "task_id": 6110241633,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
