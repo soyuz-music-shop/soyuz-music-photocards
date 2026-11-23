@@ -28268,6 +28268,16 @@
         0.0,
         0.0
       ]
+    },
+    "629248152": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLP1501",
+      "originals_sha256": [
+        "11d1de808b560ce474bb188f751c899aea79e269a4448503bfdf85e1ea5bfca9",
+        "f6d0b07d5334aececfc4477e87ff16227bb05bc6bc83e689b13c33420243943c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
