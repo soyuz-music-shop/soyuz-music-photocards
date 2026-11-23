@@ -47630,13 +47630,14 @@
       ]
     },
     "2495163206": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EPC 478080 2",
       "originals_sha256": [
         "24e606d308c189b35501d7d0fa9fb9c0377a71db34e9e65337d89681fb55fd26"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110936016
     }
   },
   "reason": null,
