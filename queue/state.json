@@ -42376,6 +42376,16 @@
         0.0,
         0.0
       ]
+    },
+    "1544051269": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT365CD",
+      "originals_sha256": [
+        "de3dbcd0ba2ded567d673fecc353fef610783a1b4d418e4c63fd5f46b5bbbeea",
+        "9d91bca50dd6d8b1ae30c4ae0a5e1244deb2c9ee29329c3e274890a016f18a44"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
