@@ -45610,6 +45610,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691813": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL 174 LP2",
+      "originals_sha256": [
+        "639bef88edf2a260185f3c5cc89e7951bd66316e9b26f47a497c03eefa20f774"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
