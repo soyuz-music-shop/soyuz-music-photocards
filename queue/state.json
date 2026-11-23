@@ -28450,6 +28450,16 @@
         0.0,
         0.0
       ]
+    },
+    "643378992": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RNS38349418",
+      "originals_sha256": [
+        "62f7e140a4627c238ff4b5b3e428262e0e0d7f8c370dc38e682e4a4e9cf17c5c",
+        "7721a904514345f129cd8c94f11d9d0c46ed32013ae8be18eb3287e2fae0da09"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
