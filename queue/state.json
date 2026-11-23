@@ -39503,6 +39503,18 @@
         0.0,
         0.0
       ]
+    },
+    "1216721673": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "REWIGLP158",
+      "originals_sha256": [
+        "15d06bccd346222af48d872e8b7b408cb604596bf205dfb8dc5f0c90f7605712",
+        "b00d3c181e993c93cd02da0ba2a732e0f60d2451a13106c8a4624030a3f7257a",
+        "aad9b3b5eb26c215c72d05c55125d48a0dcc34b6340237ec4ddf7557c5ed8b97",
+        "24681899c95dd9f3bc3965ebc799d967566c4c87405589b9eed4009c120ed7da"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
