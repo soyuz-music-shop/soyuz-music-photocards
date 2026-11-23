@@ -38345,6 +38345,16 @@
         0.0,
         0.0
       ]
+    },
+    "1183591805": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FS47628626",
+      "originals_sha256": [
+        "1fa068e1211794e99d38c85a0042c42802532df4b166a5bd74467aaa75d1c6e2",
+        "c0633df704f69e6f59df3f04e9d1d0783a0a4a57852d433b17956880e990de75"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
