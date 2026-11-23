@@ -25419,6 +25419,17 @@
         0.0,
         0.0
       ]
+    },
+    "491210597": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT730LP",
+      "originals_sha256": [
+        "43c726686091d03427ecb57c16f463db7ec3fb457cc30c5842707ab7462e83ef",
+        "a73f96da6685aab23b4817aac0cbc66c734ab4c68d594555c309e6d1f6ee117d",
+        "6f02510288715ccfe80f210e76b41ebd3afe5f1b7957d49be6bc9f2e98ecfc39"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
