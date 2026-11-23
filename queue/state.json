@@ -26535,7 +26535,7 @@
       ]
     },
     "542450104": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NZ38801392",
       "originals_sha256": [
@@ -26543,7 +26543,8 @@
         "127fad829e71e730cf9af6e876e1226bebfb2e0e2462704599a96cfb890ed228",
         "479cfd2ca60717093176fe1d84af48aabaed371f3bb479360a3832f0f1010097"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108531139
     }
   },
   "reason": null,
