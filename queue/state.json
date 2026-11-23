@@ -26077,6 +26077,17 @@
         0.0,
         0.0
       ]
+    },
+    "522186910": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CLN2127",
+      "originals_sha256": [
+        "27d2ce5a8cd53cf736a0674abf27f68aba85910ce46be038b9a671a4ba4f89f1",
+        "df45e7ec986cdc6ada8ac7ff792793391b746cc3b0ee412bb8f14aab02f5ec79",
+        "aca13a64f1e5c3ce76a31782abce281d2640950c5999e02e34f3797527909127"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
