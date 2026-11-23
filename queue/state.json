@@ -22885,13 +22885,14 @@
       ]
     },
     "444575391": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DRP602438511204",
       "originals_sha256": [
         "2de5ad2496e586fbfd98d65eee0f5e2f1223ec416e6fb2faf8dee6387a602591"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6106907412
     }
   },
   "reason": null,
