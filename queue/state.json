@@ -55807,7 +55807,7 @@
       ]
     },
     "3130403877": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ROOM155",
       "originals_sha256": [
@@ -55815,7 +55815,8 @@
         "bf77d1dd1d9f74873d6dc4185d430592ecd250f6670e3945a47f54adfb81a0ec",
         "de0e3d0bd2466b1149d8e7b7daca350469400a298e6298943b8ca980ae1319dc"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6111664207
     }
   },
   "reason": null,
