@@ -33047,6 +33047,19 @@
         0.0,
         0.0
       ]
+    },
+    "869577320": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZENCD290",
+      "originals_sha256": [
+        "2cdb4cf6bf337207f0fa662b2c32640e842fd3bfa3c9b5eee14ebcb6fc2a8943",
+        "503d0f22529634adaf50fedcccec068ac669e4fe804de040bf7d52082f1a006d",
+        "54b43b53e6971d9c0bbe370e9bb087c9c19b701b274965ad563b5fea2b9abab9",
+        "12d896ef4f9c8b7b7583282e2233d4431e0594454f9202eda9a194ec6e826d18",
+        "9d127d16fa6a89a09f9332738564aa08bae1356623dd2ee1c05bf0549e3aaa51"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
