@@ -46376,6 +46376,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188353396": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SLNT78647567",
+      "originals_sha256": [
+        "fda7aafea30339c1cdf7af461a8dfe2db22c07d861db943a7640727dc9e86ad2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
