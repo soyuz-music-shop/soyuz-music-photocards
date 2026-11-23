@@ -29306,14 +29306,15 @@
       ]
     },
     "708299222": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219977036",
       "originals_sha256": [
         "eeea3d0c17c3da6f3180d66f7335f4553e5c68940d18bf2380b0991c64ce9be6",
         "ad401be09d45a676c103d587b5ccfd4844a39370b5eae483bd50665177764cd2"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108888448
     }
   },
   "reason": null,
