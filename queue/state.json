@@ -55439,7 +55439,7 @@
       "reason": "Ozon import task not confirmed"
     },
     "3130107987": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "PA501478",
       "originals_sha256": [
