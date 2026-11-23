@@ -46636,6 +46636,19 @@
         0.0,
         0.0
       ]
+    },
+    "2188882394": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LG75451044",
+      "originals_sha256": [
+        "8213a135263a6000739a02ae92dd7a1efedba1a5248641c5f007c294adc49512",
+        "5fc7d624b91acd4bb685cd1b59f3de69491a6fb54f7f827c9936413bea90a22e",
+        "991d3f36aac6bbcb4396749514ead3687219bc14abae4843296219f78190eeba",
+        "81ba707fef3f15dc48ccf08b9ed28944a28a8ee8ab57883e7c48912bc6613532",
+        "05ad33f911f2585f866aa014612a42f2b2e0c642eeb7cd44038514248816ddbe"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
