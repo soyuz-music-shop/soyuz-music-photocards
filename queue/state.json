@@ -32379,6 +32379,17 @@
         0.0,
         0.0
       ]
+    },
+    "857469553": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AFM 848-1",
+      "originals_sha256": [
+        "0500910a89c504b55132f403e11109b85faea3a752f38f4622049bce16aa3d8a",
+        "f2ebd8009b7ce5d10089a324c31381849d1091f282c98b072718064129bdb2b1",
+        "9aef8b5d771353dbe8268cd5753cc90a981fa23cf0f8803e945e63d9fa8b0fe5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
