@@ -39995,6 +39995,22 @@
         0.0,
         0.0
       ]
+    },
+    "1244691720": {
+      "status": "locked",
+      "variant": "vinyl-russian",
+      "offer_id": "2000095751472",
+      "originals_sha256": [
+        "60c6aff8af490e4f47ceb8f3287eee1091400ee8a345d827c6f090b9931e0ec6",
+        "ff67a66069e96b060f0bfa5894f28604f5ce997b94986e66ea70b9da564818b4",
+        "27ad27923c96de5bf75b40e52bcbab0eaaae7a4c1c4c80f61b75a40f936eff2d",
+        "95c093fc221de1fc73df4ff69346354a0fd913812cd6e3561df785258a604ff5",
+        "9377bfe6454736b50047e599393d11b3f5c38d0d3184d431c86da0f776de8fd1",
+        "928196382232c024fc0678739c4bdccf556285e440722cc15afd88f8b5cd9ebb",
+        "63f23cc9501932d51a659d8d91020c266c6bd25e91fe55aaab4dd5284f6004e4",
+        "49208556f5f1ab8d4fa0274746f20841e07af5bbddb56d03e696114aa66af320"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
