@@ -28734,7 +28734,7 @@
       ]
     },
     "653084501": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT190CDX",
       "originals_sha256": [
@@ -28742,7 +28742,8 @@
         "5af50879b557120e26e171059d83dde73d9d85225d4c7fea17f1e6e6a4897efd",
         "a17db492acba07dd0b36bf8d6e35fc2cef8b3d8e64b608788a69513039aca0fa"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108819070
     }
   },
   "reason": null,
