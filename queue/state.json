@@ -39713,7 +39713,7 @@
       ]
     },
     "1235089145": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BLP 1502",
       "originals_sha256": [
@@ -39722,7 +39722,12 @@
         "bdcfa319002a1089c994bf167188f537d77fd0a1e987e50be411d4965a9c5410"
       ],
       "before_count": 3,
-      "task_id": 6110232257
+      "task_id": 6110232257,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
