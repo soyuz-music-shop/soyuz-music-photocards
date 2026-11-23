@@ -42035,6 +42035,18 @@
         0.0,
         0.0
       ]
+    },
+    "1508651737": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DMST54116514",
+      "originals_sha256": [
+        "82e5d4cbbb0f4867a1d2a642982a9af6a34bc5c066c42a690ab34c1f7a19f63b",
+        "06693b4bd7a37c69c9a6b5012d3fe068ba97a30b642d840f4c4933fbd611b06c",
+        "67e98a4fcdd553cd8ddf48168be1175c7a8b5ebf8297e3dec3e832efe097b176",
+        "ff803e07d5c6bef0dbe80bd2b36f37a97f179e7cf068f2860cf5136f686dc84a"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
