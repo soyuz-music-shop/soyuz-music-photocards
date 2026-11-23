@@ -27049,6 +27049,17 @@
         0.0,
         0.0
       ]
+    },
+    "562692512": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLCKND004R-1",
+      "originals_sha256": [
+        "511e4809c46b7a620b41782f66369afc946bb36b5df7edcfbfe9c06e08c9254a",
+        "9fa5ec8cceb6e4e84f26c154ed802ed3c6d1d4efdb350526a614ad7d31f1f541",
+        "23b36e065e51a1a4fe46dceae9adb31add01501ea16f1eb4bcd5cf597822ca84"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
