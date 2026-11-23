@@ -44698,7 +44698,7 @@
       ]
     },
     "1849243790": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 954R",
       "originals_sha256": [
@@ -44707,7 +44707,12 @@
         "783af16d3677c3ade21dc0e8f0170deecc763923e0255ba209a66043744ed77b"
       ],
       "before_count": 3,
-      "task_id": 6110692044
+      "task_id": 6110692044,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
