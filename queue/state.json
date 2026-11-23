@@ -49580,14 +49580,19 @@
       ]
     },
     "2985109898": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP514",
       "originals_sha256": [
         "f55c2fd9c02d1fa9358e890a601190b01139fdb43a9f4e761e7b98a43c0394b4"
       ],
       "before_count": 1,
-      "task_id": 6111085614
+      "task_id": 6111085614,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
