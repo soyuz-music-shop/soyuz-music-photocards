@@ -37596,7 +37596,7 @@
       ]
     },
     "1110201609": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LZ955731",
       "originals_sha256": [
@@ -37604,7 +37604,8 @@
         "ff1281110ff1e1509accc2e6bd510312f5d18e1579e145eb42fd785a846b510f",
         "abc97a7b15a87a1c38152533c81e9d884f4b209a9f2278d032e1b2baa1821d4a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109957966
     }
   },
   "reason": null,
