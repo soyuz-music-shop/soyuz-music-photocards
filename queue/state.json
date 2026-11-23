@@ -37512,6 +37512,17 @@
         0.0,
         0.0
       ]
+    },
+    "1108132901": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AW099927",
+      "originals_sha256": [
+        "fea874bc488d95740e10021f36bee2038e1dd9c7df66175c1daa6d9e4966a0fa",
+        "be4c78d64b5433ca01dfcfa832aec129a8969767eb85e32f5b592c44280e8a19",
+        "3ca06eee1e6dfcf5f1e419e99cc372bda2b17c58294498dc45ab986f025c321b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
