@@ -34125,6 +34125,16 @@
         0.0,
         0.0
       ]
+    },
+    "908643238": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "2000095748724",
+      "originals_sha256": [
+        "25c4fdac20979932bd2e0cc7af819063aac3892e4db3b979893c67fad3db946e",
+        "e2dc7891e09c9c680f9b8d7e9abec423aaafda69e861b97bec0b1f97bd38de43"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
