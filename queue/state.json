@@ -49194,13 +49194,14 @@
       ]
     },
     "2984310800": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AIC867716",
       "originals_sha256": [
         "c72a93a1fd4432e3570cb15d4b86d19d1cbf179b0a9c65f588e1aa9bb334e758"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111051821
     }
   },
   "reason": null,
