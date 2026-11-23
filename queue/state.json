@@ -54715,6 +54715,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033386960": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EARS093",
+      "originals_sha256": [
+        "9df2efb7d46d4dac336bf923705ecf1a95493336fd781dba8060ac8de3fa0bf0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
