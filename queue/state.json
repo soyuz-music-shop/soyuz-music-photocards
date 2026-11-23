@@ -41798,6 +41798,17 @@
         0.0,
         0.0
       ]
+    },
+    "1491163075": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EBTG017V",
+      "originals_sha256": [
+        "e1207279b9cd1983822066ec607e8497abc98d3d64b2adf2dea1127692c64834",
+        "288132dd30473bbc818cc2800bddb3c745a8a22351a1dd662a8a8d86da95d895",
+        "769f6d5a30c102a0d28410e7826ff26d863f8b90184fc9939d9b952a86e962f7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
