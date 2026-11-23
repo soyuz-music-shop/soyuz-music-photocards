@@ -43878,7 +43878,7 @@
       ]
     },
     "1725275501": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CK 62240",
       "originals_sha256": [
@@ -43886,7 +43886,12 @@
         "b2a64b8de39c5bc92d11b3b6d0df5fd63c436cf194088fc6302d105985894ba5"
       ],
       "before_count": 2,
-      "task_id": 6110640262
+      "task_id": 6110640262,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
