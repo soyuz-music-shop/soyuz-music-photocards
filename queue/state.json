@@ -50470,14 +50470,19 @@
       ]
     },
     "3005925883": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IN532131",
       "originals_sha256": [
         "2a34f77740b5d7a8b6e8ea8f06e5b432020f0566f243db3748a5521ee2dadb0d"
       ],
       "before_count": 1,
-      "task_id": 6111287783
+      "task_id": 6111287783,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
