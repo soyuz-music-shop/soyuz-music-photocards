@@ -25702,14 +25702,19 @@
       ]
     },
     "498894998": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ELO53708819",
       "originals_sha256": [
         "e5f482b24247b3ba9c8f8624e8f2d8061a25d06fed886d116160b0e4e2756535"
       ],
       "before_count": 1,
-      "task_id": 6107569202
+      "task_id": 6107569202,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
