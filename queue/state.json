@@ -32348,7 +32348,7 @@
       ]
     },
     "854972412": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FLOR27112398",
       "originals_sha256": [
@@ -32357,7 +32357,12 @@
         "24b29896794432ab31824de53f4186096ecca2073e8426ac3c26cb81e2d0713f"
       ],
       "before_count": 3,
-      "task_id": 6109216546
+      "task_id": 6109216546,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
