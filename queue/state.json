@@ -28337,7 +28337,7 @@
       ]
     },
     "636782557": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNM68930427",
       "originals_sha256": [
@@ -28345,7 +28345,12 @@
         "ba94a78651f72eb259f1b4a3f350fc7966a298bea5dd938281f51bf32432d5fa"
       ],
       "before_count": 2,
-      "task_id": 6108776084
+      "task_id": 6108776084,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
