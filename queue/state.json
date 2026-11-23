@@ -31552,7 +31552,7 @@
       ]
     },
     "806272508": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JDNCLP63",
       "originals_sha256": [
@@ -31560,7 +31560,12 @@
         "65a66a9c540e57e54782a758a7d935993d9b957952c59d959f20b73dd5363679"
       ],
       "before_count": 2,
-      "task_id": 6109129404
+      "task_id": 6109129404,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
