@@ -27760,6 +27760,16 @@
         0.0,
         0.0
       ]
+    },
+    "616469893": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0025454-01",
+      "originals_sha256": [
+        "bc8926c451b9a1894df7a4687d67bbed97b9a96fa147ddaa4acada5eb954907f",
+        "a063845d575a6e9e199be2a0e717f461e28f8506acc54e4b475bd9803c76d268"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
