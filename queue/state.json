@@ -25828,7 +25828,7 @@
       ]
     },
     "507999481": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "import-vinyl-info",
       "offer_id": "DAISLP184",
       "originals_sha256": [
