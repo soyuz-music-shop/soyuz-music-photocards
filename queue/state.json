@@ -42722,6 +42722,18 @@
         0.0,
         0.0
       ]
+    },
+    "1568337486": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0219133EMU",
+      "originals_sha256": [
+        "b066384213726005d3fdd76fd25d6d3c2404f540cf6e7acdd13cdf3942df2fef",
+        "0cd7eb0058d2980b9c03a1b06763987a79ee122307a35fa14d868cdfe8ff6d8e",
+        "9641f6224da49b72f877f055a2a3a36748f12e475a04b2ef2a2f8571c74d144c",
+        "2537805ff8c9bf0a4ccd57e0a5e3d0e094acf6f73864b6b604fbedf9cb25cbb6"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
