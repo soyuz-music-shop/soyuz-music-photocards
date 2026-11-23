@@ -26774,7 +26774,7 @@
       ]
     },
     "554897289": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DRS27986551",
       "originals_sha256": [
@@ -26782,7 +26782,12 @@
         "97cf75bdf26db101c9d14054b4ccaff932e65d24d248c18b03ef531755d41171"
       ],
       "before_count": 2,
-      "task_id": 6108569631
+      "task_id": 6108569631,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
