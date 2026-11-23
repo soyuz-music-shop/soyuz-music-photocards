@@ -23440,6 +23440,18 @@
         0.0,
         0.0
       ]
+    },
+    "449280898": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "E6868-1",
+      "originals_sha256": [
+        "d49785cc215cbef02c0352c42fdfd6e39be87b0c0726a260527ba96ad8eca637",
+        "f4ad4fdd53dbfe3a6236e4af7b9599689b7fb5bf132f97ada3285869af781935",
+        "84f8c2ab813525dd78148b5a296b132b1b99b1a4e55c2703243f8a477e141c34",
+        "afae616ff5625edefeb35fc73ffd845f8f2743ac78552a68ecefe05d84e740ee"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
