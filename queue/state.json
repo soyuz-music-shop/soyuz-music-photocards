@@ -26552,14 +26552,15 @@
       ]
     },
     "542482862": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NZ38801408",
       "originals_sha256": [
         "a3ee803f3c2358e4eec4ccac0d2c70c9dd92309cad1d53e1867a0d255259f1af",
         "ee5e1f4c595479d823ddc6cf85446daaa6f146ad6aba7f503d3d04f36d44660d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108533387
     }
   },
   "reason": null,
