@@ -54670,6 +54670,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033386936": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PO664012",
+      "originals_sha256": [
+        "ad8c9fbded33fcc77894d58d82a7b73c5ddaed7c633665c96ac3045a2c039cc5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
