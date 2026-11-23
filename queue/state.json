@@ -29490,6 +29490,15 @@
         0.0,
         0.0
       ]
+    },
+    "718696317": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FUF88178313",
+      "originals_sha256": [
+        "aed43027b01a7b98792b1b3be983617b4cb148679a1b9fb956e27a698a0bcd8f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
