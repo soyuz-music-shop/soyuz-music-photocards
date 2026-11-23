@@ -22867,7 +22867,7 @@
       ]
     },
     "444570055": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TVUN602537153190",
       "originals_sha256": [
@@ -22877,7 +22877,12 @@
         "82444bd0b44fd9e9a3ec6a5f16113200720a92b5a7a174676e07d36ee63a62ed"
       ],
       "before_count": 4,
-      "task_id": 6106903719
+      "task_id": 6106903719,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
