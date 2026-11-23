@@ -56256,6 +56256,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020161": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MIMB017",
+      "originals_sha256": [
+        "687fa2d4e5a3a41a62635689b50a00acc91b598aa29865068de7043ab9bbb192"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
