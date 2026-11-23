@@ -46423,14 +46423,19 @@
       ]
     },
     "2188593840": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ 2297 LPE",
       "originals_sha256": [
         "6ea55d174563823e69b88d452b6fd056610f1a8121f612f84133951ad1cd6eb5"
       ],
       "before_count": 1,
-      "task_id": 6110836251
+      "task_id": 6110836251,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
