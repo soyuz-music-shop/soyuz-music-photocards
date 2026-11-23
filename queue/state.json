@@ -26854,6 +26854,16 @@
         0.0,
         0.0
       ]
+    },
+    "556956891": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLP12",
+      "originals_sha256": [
+        "da494ba769ff0a05052aed5659e028eb46b67e0fff3482dfb18c352cee8e61ce",
+        "13b83502dd76453fb5296055810d5d3239972dcef30fa364f38b571d3c465398"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
