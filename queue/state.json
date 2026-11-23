@@ -53953,14 +53953,19 @@
       ]
     },
     "3032899216": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LCDStumm122",
       "originals_sha256": [
         "f1843e8d1f35e5e79843840df036b2f656f63bfeab875a7afd3d4bc35b60530a"
       ],
       "before_count": 1,
-      "task_id": 6111538095
+      "task_id": 6111538095,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
