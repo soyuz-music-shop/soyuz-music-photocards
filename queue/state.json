@@ -37341,6 +37341,16 @@
         0.0,
         0.0
       ]
+    },
+    "1103109766": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IUCY–80299K",
+      "originals_sha256": [
+        "c6bd635fa27b30b5569c614e331b53f1682d8feb41ecdcaa289ab4a43b24f739",
+        "20338f24fb3104c029cfd9e4ac34dffd0864210dd8778ba427ed9ded4434dacd"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
