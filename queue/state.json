@@ -33014,7 +33014,7 @@
       ]
     },
     "869469183": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3X03",
       "originals_sha256": [
@@ -33022,7 +33022,8 @@
         "98fab2a35be89a7e2db615f9fce8a9f66289d5b7994aa03644569a815eb9b2c9",
         "27d51ce47bff41548aae911ffad0f906db3911b86b2d8d26a7da5cc9b1bb788e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109301531
     }
   },
   "reason": null,
