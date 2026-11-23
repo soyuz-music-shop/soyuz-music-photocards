@@ -37027,6 +37027,17 @@
         0.0,
         0.0
       ]
+    },
+    "1094916244": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JD183913",
+      "originals_sha256": [
+        "8ab6a7729c2fbeb31ef2d59b82cf69267a04e066c0f4adcc2f804e88d8b489e7",
+        "07184d736339bce819444dcb4723aa1def6943401d461f072a6126c24849d19d",
+        "0f3d333030efef24b395d30042f23b2c609984cf2a9ac0ac2c2a27d6bea680de"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
