@@ -52518,6 +52518,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277656": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PAMPALP016X",
+      "originals_sha256": [
+        "03ce964cadda8a55155d537fea0a9333c114c72c9643aab32a1c66bbac812af4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
