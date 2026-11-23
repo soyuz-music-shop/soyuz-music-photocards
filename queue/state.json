@@ -49759,6 +49759,11 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v4/product/info/attributes connection URLError"
+    },
+    "3005087200": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Ozon /v4/product/info/attributes connection URLError"
     }
   },
   "reason": null,
