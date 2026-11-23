@@ -27339,6 +27339,17 @@
         0.0,
         0.0
       ]
+    },
+    "582615247": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DL45663392",
+      "originals_sha256": [
+        "a647a888af2e0245ceeb4d2763fbf34a11e08186499896865e722428911591a0",
+        "fbd66c9deb796c63810866d0eac56631000a18a9931cc07528174180ec069a03",
+        "e86ca12482d7ac33c1751c7d4a9fb43c3745f45f6f3b81129eac43e40dbc359f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
