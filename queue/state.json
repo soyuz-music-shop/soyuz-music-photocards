@@ -48665,6 +48665,17 @@
         0.0,
         0.0
       ]
+    },
+    "2973331816": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WH836115",
+      "originals_sha256": [
+        "4bd3acc6e6823c53941c60d599c5ceaf0418221aab0b898cda1177e882f00c7f",
+        "b3ead59e6e4023d8b4910029fe5602968093da6fa949d6e74b949a02155766cc",
+        "3390e132b91b0358c3fe7db76a6abc5d18b41f333b81c70a21dddfb9c6f30e48"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
