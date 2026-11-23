@@ -28335,6 +28335,16 @@
         0.0,
         0.0
       ]
+    },
+    "636782557": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BNM68930427",
+      "originals_sha256": [
+        "a755c7148c4eb3ed8f5ad49111982dee7825d52a05e7acf4d4623f12ddd523df",
+        "ba94a78651f72eb259f1b4a3f350fc7966a298bea5dd938281f51bf32432d5fa"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
