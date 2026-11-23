@@ -37044,6 +37044,16 @@
         0.0,
         0.0
       ]
+    },
+    "1095984300": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MCM904236",
+      "originals_sha256": [
+        "a79db463328a6b9d7116857942cce0583bb39bb5e691d51084e38015523a3bc0",
+        "b70dc8bbbf34e3faead4bddb9a68d578b8ecbeb45b5a98929008c12b23ad036e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
