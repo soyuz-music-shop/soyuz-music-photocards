@@ -51897,6 +51897,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476316": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KT143645",
+      "originals_sha256": [
+        "99b350eb21ba0999fe0604e4b563d3310d673bdd3de3233f8ab76bb7d85767a4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
