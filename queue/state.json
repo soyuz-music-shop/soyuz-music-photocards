@@ -31944,7 +31944,7 @@
       ]
     },
     "841154787": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FACT 10R",
       "originals_sha256": [
@@ -31956,7 +31956,8 @@
         "7e1b0c2de793480eb54870768e4e5efd6040135296fa3aa148e3d320eec98b25",
         "ef19df9fe073ac7f4062abec2ced15157f0b129f36c9e580fa1910d197e999c8"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6109171612
     }
   },
   "reason": null,
