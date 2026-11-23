@@ -56243,14 +56243,19 @@
       ]
     },
     "3277020156": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UWR00100",
       "originals_sha256": [
         "5d4bfda76bbfafb1cd57d0d6295d80cc6a60037086e248c7814bed5da3c9a7db"
       ],
       "before_count": 1,
-      "task_id": 6111684338
+      "task_id": 6111684338,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
