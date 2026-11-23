@@ -23008,7 +23008,7 @@
       ]
     },
     "444928008": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DRP602438511235",
       "originals_sha256": [
@@ -23016,7 +23016,12 @@
         "6c79a1f3f030bcf994d69dac3d4d4f39bd899766e09d9388df0aad7086054a33"
       ],
       "before_count": 2,
-      "task_id": 6106934541
+      "task_id": 6106934541,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
