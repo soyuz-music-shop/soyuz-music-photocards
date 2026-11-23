@@ -47143,6 +47143,19 @@
         0.0,
         0.0
       ]
+    },
+    "2280033147": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TCT25846221",
+      "originals_sha256": [
+        "69a2e3203acd468771851a4bd1634b71045ed9a53c1c7835b88523ef382ca5c1",
+        "b5c6615f0e798c26ac3876eb201ad0d1d41cdeb67c6d66cc7e753c967adaa043",
+        "18dc813b0beec65bfd533a0d78ce58ff2ad0e0321bf7f806e6b0d022b105797f",
+        "c2c6133340134c9823d2d826770cc75ba832ee9a6af9a07b35f648c3c2f56d27",
+        "ea0c29ca4dd8e9ec63695d4e3bc2ac729a8a75ea02c1bd960c1e015e5c2b8a22"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
