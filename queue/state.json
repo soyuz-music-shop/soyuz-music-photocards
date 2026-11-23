@@ -53677,6 +53677,15 @@
         0.0,
         0.0
       ]
+    },
+    "3019428753": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DM876919",
+      "originals_sha256": [
+        "ecb7cd6465b2edaa6c0bb0037c556f2efe6816fcf2e2c91e5b9005e44b841eb5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
