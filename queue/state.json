@@ -31035,7 +31035,7 @@
       ]
     },
     "761035797": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TPL48006455",
       "originals_sha256": [
@@ -31047,7 +31047,12 @@
         "25355eb32c983c3d57407a2cef0512a42ef1f7bf2d23e3a60663090df0151746"
       ],
       "before_count": 6,
-      "task_id": 6109063436
+      "task_id": 6109063436,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
