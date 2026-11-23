@@ -55573,6 +55573,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130108007": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "4AD0020CD",
+      "originals_sha256": [
+        "1ff8efdc1b5502f7d4cca0e8d597d0985d30c0964696e447c863c25093ecd357"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
