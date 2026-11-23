@@ -49547,14 +49547,15 @@
       ]
     },
     "2985109878": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JAG450",
       "originals_sha256": [
         "632091b0d03a31ed001c5101bd49117b4df23c2b27f6e0384265539df62848ae",
         "ca2ea95ab4c495cfe1034fb600970bd4ef0524429ef7623b26f79d1e2e702a78"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111082873
     }
   },
   "reason": null,
