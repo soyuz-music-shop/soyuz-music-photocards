@@ -38925,6 +38925,17 @@
         0.0,
         0.0
       ]
+    },
+    "1201984889": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP287XX",
+      "originals_sha256": [
+        "57874b699bdd8c350aae80822ceda175ac4f5a53cbafc435b2f89e3d9a8ec126",
+        "c4e167ab4d7092d9c6d0862ff44dcb3c5d6febcdee21c223769af271cd5050ba",
+        "3c4de0111704c0695f471977168c3a73446900121daf04432d4f7338ff22ae29"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
