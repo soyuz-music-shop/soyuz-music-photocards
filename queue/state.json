@@ -55234,6 +55234,16 @@
         0.0,
         0.0
       ]
+    },
+    "3130010635": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL997LPE4",
+      "originals_sha256": [
+        "14320d189ec1ded990a3f75a1c4fabeef220a66987d5778199379461640569ef",
+        "a5f1748cb4ca9bcc867765d9f3703ad5874fe2d2de794c65efd9fde1b182dc35"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
