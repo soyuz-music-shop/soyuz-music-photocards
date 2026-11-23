@@ -42154,6 +42154,17 @@
         0.0,
         0.0
       ]
+    },
+    "1520892506": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRFR38255775",
+      "originals_sha256": [
+        "67e614b6dba4144cd7f17ec11c7d34fa65f61ad82da9ffe52af33ebf35ac92f4",
+        "f331dd4403cddcc5203aa5ce49f19583b68270e162a3b685171ef60f33a0c332",
+        "46540951ce3177ad05e5bb61bb0d0ec7957e5a6f0b49928c6cc4e73de8d93ee4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
