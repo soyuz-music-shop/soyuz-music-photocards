@@ -28018,6 +28018,17 @@
         0.0,
         0.0
       ]
+    },
+    "619069380": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CR00544",
+      "originals_sha256": [
+        "c73f3d47efa8b32c7ce23066ad2e440a7d364d8925215cad16a9a0e11ed84eee",
+        "05b29b3a2909e9b175bb5bd7988be992d81713573aadc12835b652e286055702",
+        "0ad460886626e6d9a4e2dc577c2db74959c36ccfac00767da6f4b6fb06b364d1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
