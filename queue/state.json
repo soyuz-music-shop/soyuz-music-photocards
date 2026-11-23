@@ -31194,7 +31194,7 @@
       ]
     },
     "776132491": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3000B",
       "originals_sha256": [
@@ -31202,7 +31202,12 @@
         "21e3bf992ff2a82402e64c32abadbe1171a34025bacd884295c785ac76970dc9"
       ],
       "before_count": 2,
-      "task_id": 6109081105
+      "task_id": 6109081105,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
