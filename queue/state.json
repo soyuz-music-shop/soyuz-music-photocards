@@ -42004,7 +42004,7 @@
       ]
     },
     "1504241028": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON291",
       "originals_sha256": [
@@ -42013,7 +42013,12 @@
         "4d425592206b5eb6e9ea2f3bef51c0272f9d334a789aa5fd7094e999b88bfd51"
       ],
       "before_count": 3,
-      "task_id": 6110490720
+      "task_id": 6110490720,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
