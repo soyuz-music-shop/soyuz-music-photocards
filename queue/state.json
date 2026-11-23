@@ -27016,6 +27016,17 @@
         0.0,
         0.0
       ]
+    },
+    "559972050": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPSEEDS14",
+      "originals_sha256": [
+        "58e588f267cfec4ca8f525c8bcf66f092eb0fd706957288235e614bef9e8e1f6",
+        "fee7f9676265363cb9b55bbcff59a8788514fa7ef7fe44035c28386c83b93e2c",
+        "eb471892fe52a471dcd6221c1a0b82a3554d5a3f2030381ad0e4bbe721518418"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
