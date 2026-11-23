@@ -36996,14 +36996,15 @@
       ]
     },
     "1091695930": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OJC-021",
       "originals_sha256": [
         "cc53c0f1b7d01eea7fdd9bf04ecf27957502c2ea94027f876f9087f3addd519d",
         "f8309b27c1d6458027aa3175ff5d2b444252be31e86795329e770ed7f3d35335"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109877954
     }
   },
   "reason": null,
