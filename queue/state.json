@@ -38673,7 +38673,7 @@
       ]
     },
     "1192704484": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KM97802911",
       "originals_sha256": [
@@ -38681,7 +38681,12 @@
         "6adbad43b03f503bad80a08e521d00372151b806234745bdc886bb0a31d47698"
       ],
       "before_count": 2,
-      "task_id": 6110104028
+      "task_id": 6110104028,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
