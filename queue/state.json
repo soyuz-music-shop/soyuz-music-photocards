@@ -36331,7 +36331,7 @@
       ]
     },
     "1078379496": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FOODLPX9",
       "originals_sha256": [
@@ -36340,7 +36340,12 @@
         "d7168f7b2c1e1c8cafc008de93ed64e718c8213683acedcc923c29be00b919ba"
       ],
       "before_count": 3,
-      "task_id": 6109771542
+      "task_id": 6109771542,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
