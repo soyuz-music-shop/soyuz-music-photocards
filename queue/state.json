@@ -30298,6 +30298,16 @@
         0.0,
         0.0
       ]
+    },
+    "739776450": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RS71213819",
+      "originals_sha256": [
+        "7c1609332319ecee7cc96e7c819253a2db58498ab0490e8557c9cdd41452340c",
+        "1cb294e0336ec6b0b11373ae726eff26bc6eeab9b9d113a5efc6691d50c7cd40"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
