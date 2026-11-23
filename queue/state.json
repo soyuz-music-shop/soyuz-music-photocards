@@ -41800,7 +41800,7 @@
       ]
     },
     "1491163075": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EBTG017V",
       "originals_sha256": [
@@ -41809,7 +41809,12 @@
         "769f6d5a30c102a0d28410e7826ff26d863f8b90184fc9939d9b952a86e962f7"
       ],
       "before_count": 3,
-      "task_id": 6110473837
+      "task_id": 6110473837,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
