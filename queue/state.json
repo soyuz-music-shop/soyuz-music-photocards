@@ -40160,7 +40160,7 @@
       ]
     },
     "1248349863": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TTUR97555466",
       "originals_sha256": [
@@ -40169,7 +40169,8 @@
         "9f7393f01df3d7ebe0d569b052ed58956412dc26a7f93300b81b98fb25aa7116",
         "1f2bd97e7d0690c80d250586c9b5e0f115d8e2b1bf0a56add3fe8971a096e4c1"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110283167
     }
   },
   "reason": null,
