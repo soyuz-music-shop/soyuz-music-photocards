@@ -27051,7 +27051,7 @@
       ]
     },
     "562692512": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BLCKND004R-1",
       "originals_sha256": [
@@ -27059,7 +27059,8 @@
         "9fa5ec8cceb6e4e84f26c154ed802ed3c6d1d4efdb350526a614ad7d31f1f541",
         "23b36e065e51a1a4fe46dceae9adb31add01501ea16f1eb4bcd5cf597822ca84"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108606862
     }
   },
   "reason": null,
