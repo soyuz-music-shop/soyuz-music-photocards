@@ -31568,7 +31568,7 @@
       ]
     },
     "806400100": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MDN24684718",
       "originals_sha256": [
@@ -31577,7 +31577,12 @@
         "127899f4ead00e53be64d7b725f35f9ddeb7e0e95a6e492d1c9f15c8441ee48a"
       ],
       "before_count": 3,
-      "task_id": 6109131295
+      "task_id": 6109131295,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
