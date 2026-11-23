@@ -29019,7 +29019,7 @@
       ]
     },
     "675754487": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP787",
       "originals_sha256": [
@@ -29034,7 +29034,12 @@
         "bf5ade3e499924c93203840f1c080b9bc81c9897e9eee1e06da94186567a54b6"
       ],
       "before_count": 9,
-      "task_id": 6108853922
+      "task_id": 6108853922,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
