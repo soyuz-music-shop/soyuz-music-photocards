@@ -33528,7 +33528,7 @@
       ]
     },
     "875406793": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP720",
       "originals_sha256": [
@@ -33536,7 +33536,12 @@
         "64159e57e3635d09c794ae6312b57dfff989aafeb503345013f642b3250f2d77"
       ],
       "before_count": 2,
-      "task_id": 6109365703
+      "task_id": 6109365703,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
