@@ -28419,14 +28419,15 @@
       ]
     },
     "641933944": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NPR954VINYL",
       "originals_sha256": [
         "295cb2adb2a812de3348faa3cbcdcbd4e403446c1a285835234715f7e64a4587",
         "52a9f5bf2f5c0a2ba683d61bbaece7960bbcf54178b82d23131c68dc37975c5a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108785180
     }
   },
   "reason": null,
