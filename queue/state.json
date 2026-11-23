@@ -35381,6 +35381,16 @@
         0.0,
         0.0
       ]
+    },
+    "1040818895": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NPR1224VINYL",
+      "originals_sha256": [
+        "901750c2f2d5a3634aa9a5a645a22e16e76ae7d8afbb304e8110fe74d15d622d",
+        "6ab32208a2b0814ae1c51959be31689616339fde88509fb19a8d3ca9cd347359"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
