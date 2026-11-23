@@ -50861,13 +50861,14 @@
       ]
     },
     "3005926308": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PRD75591-S",
       "originals_sha256": [
         "64532ca3dbd2b0f1f6c974d969dd3ae2a7934216454e35d30b131b022ec8d4d1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111332764
     }
   },
   "reason": null,
