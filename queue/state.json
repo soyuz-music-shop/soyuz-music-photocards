@@ -33203,14 +33203,19 @@
       ]
     },
     "870394871": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SWE53576210",
       "originals_sha256": [
         "dd75f8f9c25b6d580ad5d9e21b0c543309a85a1c95f773f0efd6b5017d65d4bc"
       ],
       "before_count": 1,
-      "task_id": 6109326000
+      "task_id": 6109326000,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
