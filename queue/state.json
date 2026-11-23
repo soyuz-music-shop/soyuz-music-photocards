@@ -53829,6 +53829,15 @@
         0.0,
         0.0
       ]
+    },
+    "3019793449": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KS457226",
+      "originals_sha256": [
+        "6504d1452dd5e762b5016b6f13b5aed426192082c298f1a14346da5bb55623e7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
