@@ -25483,7 +25483,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "492051097": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BTL38246718",
       "originals_sha256": [
@@ -25492,7 +25492,12 @@
         "21a2e8e977b0c707d16f3e9dde814c6bec9acda07e04b87b8d485ad65356841f"
       ],
       "before_count": 3,
-      "task_id": 6107497651
+      "task_id": 6107497651,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
