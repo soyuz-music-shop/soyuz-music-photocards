@@ -32737,7 +32737,7 @@
       ]
     },
     "868214753": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1680B",
       "originals_sha256": [
@@ -32745,7 +32745,12 @@
         "9b04ecf9cfd9c64659049a953a55d69b5447d6a09b18d8ae29fe4faa6741a60c"
       ],
       "before_count": 2,
-      "task_id": 6109263892
+      "task_id": 6109263892,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
