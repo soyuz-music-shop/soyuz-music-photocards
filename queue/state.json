@@ -53234,6 +53234,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013420824": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VUT038678",
+      "originals_sha256": [
+        "ee3d519c20033c886c06a4cb3cb2beaba34cbbabc8284d566e26b1b7de9f0354"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
