@@ -51792,6 +51792,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476270": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3607",
+      "originals_sha256": [
+        "d670f6fac8e85621db312daa78f34cdb78c2a531fec680dd563566af1f29f43a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
