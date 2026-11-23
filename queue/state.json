@@ -31641,7 +31641,7 @@
       ]
     },
     "819693078": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AKT10LP",
       "originals_sha256": [
@@ -31649,7 +31649,8 @@
         "5b4487a381892c2b4aa8b4b92dd7b203ec3dbe75fda44fc22d51fda502c8a0e9",
         "a74c3a13bd89511d3163f470317c71f5aa8704764d870aa24a30165be15c05e6"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109138908
     }
   },
   "reason": null,
