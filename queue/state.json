@@ -34206,6 +34206,16 @@
         0.0,
         0.0
       ]
+    },
+    "914470714": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BG57493597",
+      "originals_sha256": [
+        "32f0bbfbf254d95116aedc8e6ef45f44c3f3ca83d290a5617e7ee5f6ad91bc60",
+        "08f640418468b3d2d024883025a2d38a7d1e4065aa6ea0afa260fb1a7faf2e6c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
