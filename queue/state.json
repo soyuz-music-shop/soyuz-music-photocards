@@ -55332,7 +55332,7 @@
       ]
     },
     "3130010645": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IA-LP-1",
       "originals_sha256": [
@@ -55342,7 +55342,12 @@
         "6e53e271959f19be0856acb271a83649d659ab9a6161f5cea5d602b5dc71e5a9"
       ],
       "before_count": 4,
-      "task_id": 6111638809
+      "task_id": 6111638809,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
