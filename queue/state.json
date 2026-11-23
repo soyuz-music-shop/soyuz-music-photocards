@@ -26397,7 +26397,7 @@
       ]
     },
     "540895704": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KCLLP8",
       "originals_sha256": [
@@ -26406,7 +26406,12 @@
         "d717d65caa3bf8853c275020deb9df19a241d38c7fddd63f7f16a469352f0a06"
       ],
       "before_count": 3,
-      "task_id": 6108507222
+      "task_id": 6108507222,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
