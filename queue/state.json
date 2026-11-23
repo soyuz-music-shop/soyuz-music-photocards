@@ -33251,7 +33251,7 @@
       ]
     },
     "870658289": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 725527",
       "originals_sha256": [
@@ -33260,7 +33260,12 @@
         "737e2f7ffe564044de43ac865b4b972800778870dc251aae6400512fc498ca61"
       ],
       "before_count": 3,
-      "task_id": 6109332533
+      "task_id": 6109332533,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
