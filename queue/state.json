@@ -48620,13 +48620,14 @@
       ]
     },
     "2968010961": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CH404",
       "originals_sha256": [
         "aba09bfb6d8356d346a6014f8fd1afc72d8ec27ac8badeaac256c42974215826"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111011000
     }
   },
   "reason": null,
