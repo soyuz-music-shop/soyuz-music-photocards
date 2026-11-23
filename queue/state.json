@@ -42156,7 +42156,7 @@
       ]
     },
     "1520892506": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRFR38255775",
       "originals_sha256": [
@@ -42164,7 +42164,8 @@
         "f331dd4403cddcc5203aa5ce49f19583b68270e162a3b685171ef60f33a0c332",
         "46540951ce3177ad05e5bb61bb0d0ec7957e5a6f0b49928c6cc4e73de8d93ee4"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110502513
     }
   },
   "reason": null,
