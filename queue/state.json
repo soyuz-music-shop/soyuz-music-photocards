@@ -54419,6 +54419,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033137717": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LZ267826",
+      "originals_sha256": [
+        "85766d8627796a07977e7c91e1fe581032a74ea3e5a9771328f15105d1e9fbfa"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
