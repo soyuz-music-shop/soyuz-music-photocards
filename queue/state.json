@@ -28191,7 +28191,7 @@
       ]
     },
     "626730701": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "MHP23450",
       "originals_sha256": [
@@ -28199,7 +28199,12 @@
         "ca53b643439a3f39b1ad970a91e084e7fa56ebae5745297f7320eea5262380db"
       ],
       "before_count": 2,
-      "task_id": 6108761696
+      "task_id": 6108761696,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
