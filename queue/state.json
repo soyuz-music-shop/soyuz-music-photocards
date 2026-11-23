@@ -29373,7 +29373,7 @@
       ]
     },
     "714872267": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2093",
       "originals_sha256": [
@@ -29381,7 +29381,12 @@
         "6293fa20cc06d2afd558449faee4dda5d4e02348ae25ab4a467765f86bdcdf36"
       ],
       "before_count": 2,
-      "task_id": 6108896030
+      "task_id": 6108896030,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
