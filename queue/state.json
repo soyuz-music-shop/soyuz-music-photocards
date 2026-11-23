@@ -31260,6 +31260,18 @@
         0.0,
         0.0
       ]
+    },
+    "780375122": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4640219977685",
+      "originals_sha256": [
+        "8533823122eb4ba0582769a85b87712ff600b7c730ceea183bf773b5876c179a",
+        "f3ed43da88422aa8f4c4914e42f7aa7f08a0abc6b64549099aed22c2c68192e9",
+        "bb99b9f08bb263a5fa515304fdacb4e180340358440fa4c3810ea809e4c871bb",
+        "af245d6ef3ff30b53be747860886f2002afe1af9197a735c9fe3991b05ee8161"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
