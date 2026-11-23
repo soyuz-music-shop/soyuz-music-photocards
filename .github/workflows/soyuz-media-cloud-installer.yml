@@ -1,0 +1,70 @@
+name: SOYUZ Media — облачный установщик (без публикации данных)
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/soyuz-media-cloud-installer.yml"
+      - "web-bridge/**"
+
+permissions:
+  contents: read
+
+jobs:
+  package-on-windows:
+    runs-on: windows-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить синтаксис без доступа к секретам
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $scripts = @(
+            'web-bridge/cloud-windows/INSTALL_ONE_CLICK.ps1',
+            'web-bridge/cloud-windows/SETUP_TUNNEL.ps1',
+            'web-bridge/cloud-windows/CHECK_CLOUD.ps1',
+            'web-bridge/cloud-windows/INSTALL_CLOUD_TASK.ps1'
+          )
+          foreach ($f in $scripts) {
+            if (-not (Test-Path -LiteralPath $f -PathType Leaf)) { throw "Нет $f" }
+            $tokens=$null; $errors=$null
+            [void][System.Management.Automation.Language.Parser]::ParseFile(
+              (Resolve-Path $f).Path,[ref]$tokens,[ref]$errors
+            )
+            if ($errors.Count) { throw "$f parse errors: $errors" }
+          }
+          python -m py_compile web-bridge/SOYUZ_Media_WEB.py
+          if ($LASTEXITCODE -ne 0) { throw 'Ошибка Python' }
+      - name: Упаковать только публичный установщик
+        shell: pwsh
+        run: |
+          $ErrorActionPreference='Stop'
+          $allowed=@(
+            'web-bridge/SOYUZ_Media_WEB.py',
+            'web-bridge/START_WEB.bat',
+            'web-bridge/cloud-windows/INSTALL_ONE_CLICK.ps1',
+            'web-bridge/cloud-windows/SETUP_TUNNEL.ps1',
+            'web-bridge/cloud-windows/CHECK_CLOUD.ps1',
+            'web-bridge/cloud-windows/INSTALL_CLOUD_TASK.ps1',
+            'web-bridge/cloud-windows/README_AUTOMATION.md'
+          )
+          $out=Join-Path $env:RUNNER_TEMP 'soyuz-install'
+          New-Item -ItemType Directory -Path $out -Force | Out-Null
+          foreach ($f in $allowed) {
+            if (-not (Test-Path -LiteralPath $f -PathType Leaf)) { throw "Нет $f" }
+            $to=Join-Path $out $f
+            New-Item -ItemType Directory -Path (Split-Path $to -Parent) -Force | Out-Null
+            Copy-Item -LiteralPath $f -Destination $to
+          }
+          $zip=Join-Path $env:RUNNER_TEMP 'SOYUZ_Media_Cloud_Installer.zip'
+          Compress-Archive -Path (Join-Path $out '*') -DestinationPath $zip -Force
+          "### SOYUZ Media — установщик собран" | Out-File $env:GITHUB_STEP_SUMMARY -Append
+          "Исходная программа, SQLite, пароли, ключи и история не попали в ZIP." | Out-File $env:GITHUB_STEP_SUMMARY -Append
+      - name: Сохранить ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: SOYUZ_Media_Cloud_Installer
+          path: ${{ runner.temp }}/SOYUZ_Media_Cloud_Installer.zip
+          retention-days: 30
+          if-no-files-found: error
