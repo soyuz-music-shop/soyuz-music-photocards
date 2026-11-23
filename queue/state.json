@@ -28549,7 +28549,7 @@
       ]
     },
     "645457076": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ACDC51076711",
       "originals_sha256": [
@@ -28558,7 +28558,12 @@
         "bf5875b59b8ad4be0e2fcb1f57dd9969b887618cf17874ecadbda3840a9472db"
       ],
       "before_count": 3,
-      "task_id": 6108799575
+      "task_id": 6108799575,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
