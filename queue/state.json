@@ -36315,7 +36315,7 @@
       ]
     },
     "1078362945": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3135BV",
       "originals_sha256": [
@@ -36323,7 +36323,12 @@
         "0d8f271b85db80cf55bafe8f1e1f36b2d973acdf4ce9275158ee0095e1ce5686"
       ],
       "before_count": 2,
-      "task_id": 6109769126
+      "task_id": 6109769126,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
