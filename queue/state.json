@@ -37547,7 +37547,7 @@
       ]
     },
     "1109146071": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LZ964573",
       "originals_sha256": [
@@ -37555,7 +37555,12 @@
         "753d75c32eb0fda9baf86cf6029ea8a824eacc768d578feae6c0776242c692aa"
       ],
       "before_count": 2,
-      "task_id": 6109951073
+      "task_id": 6109951073,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
