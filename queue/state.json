@@ -53326,14 +53326,19 @@
       ]
     },
     "3013420901": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WH198219",
       "originals_sha256": [
         "15950b0755d0ea803f97423ef4efa3afc33886d357b5c0667f6b25d5b216873c"
       ],
       "before_count": 1,
-      "task_id": 6111500086
+      "task_id": 6111500086,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
