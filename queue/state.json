@@ -38541,6 +38541,15 @@
         0.0,
         0.0
       ]
+    },
+    "1190073227": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RMD88204913",
+      "originals_sha256": [
+        "fb12baaa9b962cd8346471b7b99ed5096b8afffb9f520d5e7e31f670a715129b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
