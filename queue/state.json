@@ -24628,6 +24628,16 @@
         0.0,
         0.0
       ]
+    },
+    "475680515": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AIC99535417",
+      "originals_sha256": [
+        "9d6b9565b5379720042dfa2d5401c09f210f5d05342546f7290075b3c489c214",
+        "e55fe68b9a7d54ee9046e5c218b1bc6972363c3f23389c752032b0570dd17423"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
