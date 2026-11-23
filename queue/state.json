@@ -35367,14 +35367,15 @@
       ]
     },
     "1036284834": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DST476624",
       "originals_sha256": [
         "7e29624fd948d439489d994d8edb22680fd2c30612cebdf74b612bf718585a02",
         "52645007c5ec93ee2e50073e8957151fffac2f3bac75fb6055d82a33ecf26cad"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109622435
     }
   },
   "reason": null,
