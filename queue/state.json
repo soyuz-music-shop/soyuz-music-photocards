@@ -44782,7 +44782,7 @@
       ]
     },
     "1856802995": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TRVS64008593",
       "originals_sha256": [
@@ -44791,7 +44791,12 @@
         "df05b835eae86d301cb52d151bf5f54993eba24360ef4e2a1a1e757da7e4d63c"
       ],
       "before_count": 3,
-      "task_id": 6110699903
+      "task_id": 6110699903,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
