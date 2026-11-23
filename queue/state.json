@@ -31910,7 +31910,7 @@
       ]
     },
     "840517059": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT801QLP",
       "originals_sha256": [
@@ -31918,7 +31918,8 @@
         "268a179e83b0bce704e1fa4f7e1d119ee7d95d2319866f78ebb255b5849796fb",
         "214b13e9856d63d66ebf1141f645187cb6f365bd54327e77d37d2065fc8ec966"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109166582
     }
   },
   "reason": null,
