@@ -32559,6 +32559,15 @@
         0.0,
         0.0
       ]
+    },
+    "863218802": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1062953STUD",
+      "originals_sha256": [
+        "44ded0a85b29764013562666a6fd7ab599cc968a4a1fd051c27f750f0594ad21"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
