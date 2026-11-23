@@ -33302,7 +33302,7 @@
       ]
     },
     "870966080": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DS98744758",
       "originals_sha256": [
@@ -33310,7 +33310,12 @@
         "dcc8aca7e703bf3fb8f5b99208e34540715bffec48e0013834052d7ef99e8271"
       ],
       "before_count": 2,
-      "task_id": 6109339510
+      "task_id": 6109339510,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
