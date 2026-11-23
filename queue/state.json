@@ -33994,7 +33994,7 @@
       ]
     },
     "900238507": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ABKCO 8584-1",
       "originals_sha256": [
@@ -34003,7 +34003,12 @@
         "8480b37ec6ce5afcfd4051104fdbee633d75153494a45ca971cc6ec998307703"
       ],
       "before_count": 3,
-      "task_id": 6109429462
+      "task_id": 6109429462,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
