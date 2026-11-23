@@ -32030,6 +32030,17 @@
         0.0,
         0.0
       ]
+    },
+    "841434350": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AB31454995627",
+      "originals_sha256": [
+        "d8476715c2c017259f16d657982c610862e648360fa7dd6c9ce09dded5df0688",
+        "6ca8a2db02043ba45761bdaa4847daa902a83d1a1f90e7308ba9728d680becca",
+        "2768ea3b065d5f107cd4be3b4ad5da1259ce49a232a2f824283c3f1dce87365c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
