@@ -33876,14 +33876,15 @@
       ]
     },
     "897521145": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT810DLP",
       "originals_sha256": [
         "85340612b9e8457ec876a0a429bf5d9b134b8685dc0e97ce4d69cfc4bdbca5da",
         "6247fcc7eca99619e66e243770f09ab4f93c2f142caafc60dc3961fb12cf645d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109415437
     }
   },
   "reason": null,
