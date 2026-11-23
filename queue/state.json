@@ -28582,7 +28582,7 @@
       ]
     },
     "645538868": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT783LPX",
       "originals_sha256": [
@@ -28595,7 +28595,12 @@
         "9a9d675c8b40a0b6bc5d3e412c74d70267a563af919656a806d21b8ff74e9a16"
       ],
       "before_count": 7,
-      "task_id": 6108803768
+      "task_id": 6108803768,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
