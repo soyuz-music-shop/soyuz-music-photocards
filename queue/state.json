@@ -41697,7 +41697,7 @@
       ]
     },
     "1487068213": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "KLMG38925692",
       "originals_sha256": [
@@ -41705,7 +41705,8 @@
         "75920f46883b21b6362108716271757ad8b12f1babf4db02eff2ec497db81cdd",
         "9055510d3623c1677b0d046c792c80ede3231b0d4042dde02982ac3464480c6f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110465168
     }
   },
   "reason": null,
