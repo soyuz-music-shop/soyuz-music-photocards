@@ -25109,6 +25109,17 @@
         0.0,
         0.0
       ]
+    },
+    "485427780": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGRM056LP",
+      "originals_sha256": [
+        "4cd4001c1743497d414ca74855bfed59df9e31ca27d89ca00f2bba5f02d46562",
+        "720f696b0fa8e8564d65e115300ee1e5c8082903dda3cb33b34f6e15a0d64261",
+        "92604dd1522fd7974816307bb83329f665c62795dcd793c405a27c47124fb7da"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
