@@ -37954,7 +37954,7 @@
       ]
     },
     "1146175519": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JP516214",
       "originals_sha256": [
@@ -37962,7 +37962,8 @@
         "ec938aced5bb61a57dab2fede1f9c56dd39f10c8aa94314c6a7f38e1d0fca096",
         "4c07b8c355ac243df7d5585cad72a9a8677bde4552e3bc5aad856617f706a95b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110011266
     }
   },
   "reason": null,
