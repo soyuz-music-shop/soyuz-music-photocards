@@ -23683,7 +23683,7 @@
       ]
     },
     "450119286": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD258E",
       "originals_sha256": [
@@ -23691,7 +23691,12 @@
         "3d50ab0f9f9f8f0ce3f3986e669f4b8193f231839ff9e5fdfb4896c5291370c5"
       ],
       "before_count": 2,
-      "task_id": 6107098566
+      "task_id": 6107098566,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
