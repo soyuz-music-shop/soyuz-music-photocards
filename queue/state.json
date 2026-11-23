@@ -34582,7 +34582,7 @@
       ]
     },
     "943708945": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT245LP",
       "originals_sha256": [
@@ -34590,7 +34590,8 @@
         "e8ce89698a516b5ae680eca81e19d57302e5883e42df59670f6d11a824d1de73",
         "df92a264e0c3d75a43ce0240042375dbfcff20c8defdb5e1aa175cf02d92699c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109526013
     }
   },
   "reason": null,
