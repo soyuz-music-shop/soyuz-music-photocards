@@ -55639,7 +55639,7 @@
       ]
     },
     "3130403865": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SRFM0002",
       "originals_sha256": [
@@ -55650,7 +55650,8 @@
         "fb4af7cf11998fe0dd53e1eba9454440b7d6e029e6304783e962c62b2a1b69a0",
         "a9455e3cbd9471ee5f19101b61b2c897806afc7d25b2112a353757289f6bf752"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6111655226
     }
   },
   "reason": null,
