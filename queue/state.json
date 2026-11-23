@@ -23251,7 +23251,7 @@
       ]
     },
     "447115746": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ENGM1765328",
       "originals_sha256": [
@@ -23262,7 +23262,12 @@
         "b7b23ec5cd539d3cdfc74e7afac443320b9ca24816d92f02f4e6ec9d93bc39a8"
       ],
       "before_count": 5,
-      "task_id": 6106994814
+      "task_id": 6106994814,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
