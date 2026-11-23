@@ -2,7 +2,7 @@
 
 Each GitHub Actions invocation processes at most 24 products sequentially.
 A separate repo holds the queue, progress and immutable template hashes.
-The worker deliberately stops on uncertain mutations, never silently retries.
+Individual product errors are quarantined; uncertain Ozon imports are never retried.
 """
 import collections
 import hashlib
@@ -375,6 +375,59 @@ def recover_imported(state, ids):
         print("RECOVERED_VERIFIED",pid)
 
 
+def build_issue_rows(plan,state,include_pending=False):
+    catalog={str(x["id"]):x for x in plan["items"]}
+    issues=[]
+    for pid,item in catalog.items():
+        rec=state["items"].get(pid)
+        if rec is None:
+            if not include_pending:
+                continue
+            rec={"status":"not_attempted","reason":"No terminal queue record"}
+        status=rec.get("status")
+        if status in {"verified","verified_previous_pilot"} or (
+            status=="protected_previous_run" and rec.get("previous_stage")=="verified"):
+            continue
+        issues.append({
+            "product_id":int(pid),"offer_id":item.get("offer_id"),
+            "name":item.get("name"),"variant":item.get("variant"),
+            "status":status,"reason":rec.get("reason"),
+            "error_type":rec.get("error_type"),"task_id":rec.get("task_id"),
+            "previous_status":rec.get("previous_status") or rec.get("previous_stage"),
+        })
+    return issues
+
+
+def write_reports(plan,state,final=False):
+    """Idempotent reports derived from the persisted state, without duplicates."""
+    ROOT.mkdir(exist_ok=True)
+    issues=build_issue_rows(plan,state)
+    issue_file=ROOT/"manual_review.jsonl"
+    issue_file.write_text("".join(json.dumps(x,ensure_ascii=False)+"\n" for x in issues),
+                          encoding="utf-8")
+    files=[issue_file]
+    if final:
+        all_issues=build_issue_rows(plan,state,include_pending=True)
+        ids={str(x["id"]) for x in plan["items"]}
+        counts=collections.Counter(state["items"].get(pid,{}).get("status","not_attempted")
+                                   for pid in ids)
+        confirmed=(counts.get("verified",0)+counts.get("verified_previous_pilot",0)
+                   +sum(1 for pid in ids
+                        if state["items"].get(pid,{}).get("status")=="protected_previous_run"
+                        and state["items"][pid].get("previous_stage")=="verified"))
+        report_file=ROOT/"final_report.json"
+        report_file.write_text(json.dumps({
+            "catalog_total":plan.get("total_listed"),"eligible":len(ids),
+            "confirmed":confirmed,"not_confirmed":len(all_issues),
+            "status_counts":dict(counts),
+            "excluded_by_reason":plan.get("excluded",{}),
+            "excluded_details_note":"Original catalog has only reason counts, not IDs for excluded products",
+            "not_added_or_unverified":all_issues,
+        },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        files.append(report_file)
+    git_commit(files,"PhotoCards: update individual failures"+(" and final report" if final else ""))
+
+
 def summary(known_total,state):
     counts=collections.Counter(x.get("status","?") for x in state["items"].values())
     done=len([x for x in state["items"] if x in known_total])
@@ -389,9 +442,10 @@ def main():
     else:plan,state=build_catalog()
     if plan.get("schema")!=1 or state.get("schema")!=1:raise RuntimeError("Unknown queue version")
     if state.get("phase")=="paused":
-        print("QUEUE_PAUSED_NO_AUTORETRY:",str(state.get("reason") or "unknown"))
-        write_output(False)
-        return
+        state.setdefault("previous_pause_reasons",[]).append(str(state.get("reason") or "unknown")[:240])
+        state["phase"]="active"
+        state["reason"]=None
+        save_state(state,"PhotoCards: resume remaining products after per-item quarantine")
     if state.get("phase")=="completed":
         print("QUEUE_ALREADY_COMPLETED")
         write_output(False)
@@ -403,31 +457,23 @@ def main():
     recover_imported(state,ids)
     unresolved=[k for k,v in state["items"].items() if k in ids and v.get("status") in STOP_STAGES]
     if unresolved:
-        pause(state,int(unresolved[0]),"Prior write needs manual verification")
-        raise RuntimeError("Unresolved previous mutation: "+unresolved[0])
+        raise RuntimeError("Safety state persistence error: unresolved prior Ozon mutation")
     pending=[x for x in items if str(x["id"]) not in state["items"]]
     print("QUEUE_PROGRESS",len(items),len(pending),"pending")
     if not pending:
         state["phase"]="completed"
         state["reason"]=None
         save_state(state,"PhotoCards queue: completed all safe candidates")
+        write_reports(plan,state,final=True)
         write_output(False)
         print("QUEUE_COMPLETED",json.dumps(dict(summary(ids,state)[0])))
         return
 
     approved=images()
-    attempted=0;skips_in_row=0
+    attempted=0
     for item in pending[:BATCH_LIMIT]:
-        res=run_one(item,approved,state)
+        run_one(item,approved,state)
         attempted+=1
-        if res=="skipped_preflight":
-            skips_in_row+=1
-            # Many consecutive skips may be a broken common API contract.
-            if skips_in_row>=4:
-                pause(state,item["id"],"Four consecutive preflight failures; check contract")
-                raise RuntimeError("Four consecutive failed preflights: stop queue")
-        else:
-            skips_in_row=0
     left=sum(str(x["id"]) not in state["items"] for x in items)
     counts=collections.Counter(s.get("status") for s in state["items"].values())
     print("QUEUE_BATCH_FINISHED",attempted,"pending",left,"statuses",json.dumps(dict(counts)))
@@ -435,8 +481,11 @@ def main():
         state["phase"]="completed"
         state["reason"]=None
         save_state(state,"PhotoCards queue: reached end of eligible catalog")
+        write_reports(plan,state,final=True)
         write_output(False)
-    else:write_output(True)
+    else:
+        write_reports(plan,state)
+        write_output(True)
 
 def write_output(more):
     path=os.environ.get("GITHUB_OUTPUT")
