@@ -54883,14 +54883,19 @@
       ]
     },
     "3039172919": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LAY 3",
       "originals_sha256": [
         "779b6a40de40948a29191f35e64656af096b91b1b576dc97a8bed9bfea314618"
       ],
       "before_count": 1,
-      "task_id": 6111609892
+      "task_id": 6111609892,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
