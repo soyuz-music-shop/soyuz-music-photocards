@@ -32097,6 +32097,16 @@
         0.0,
         0.0
       ]
+    },
+    "843080566": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SC42284690829",
+      "originals_sha256": [
+        "0b36351539db678cd19c84203e2fba384f18fd2b6fea08b292b187a7c6c61351",
+        "53312252e12e14490b04275f588cebf61b09d8bc5765c22c4402c01fb9add01e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
