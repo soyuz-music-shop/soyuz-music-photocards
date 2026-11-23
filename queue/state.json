@@ -32529,7 +32529,7 @@
       ]
     },
     "862058831": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JC4006333922",
       "originals_sha256": [
@@ -32537,7 +32537,12 @@
         "778a604efb39f1778552751512119edec22073ab2dd76c185df5ec8f5ed95ae8"
       ],
       "before_count": 2,
-      "task_id": 6109242654
+      "task_id": 6109242654,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
