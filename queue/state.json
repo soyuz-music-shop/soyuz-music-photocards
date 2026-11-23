@@ -30927,6 +30927,19 @@
         0.0,
         0.0
       ]
+    },
+    "758140166": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "mutel15",
+      "originals_sha256": [
+        "301a38d2d685dc647c33c4e4c0088dedbed78e3ce6b546fd1e6060db2866c49f",
+        "4501d875a3ce1fd2eb5e7f431fede43f24f8585fbff458a23904138b21ab44c5",
+        "461078123b6618c921d7077cf6f0158685eb9cb04a38c5bdcb93555a03a5c62a",
+        "a9d1b238a3e1d8088a39e7679ded3ff301ba6e35510d1fbee6a9404db0b8a656",
+        "f1d3a17dc641fa8a5e7142cc7e08e7509de4ae69fb2773715ad4768a50d117e1"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
