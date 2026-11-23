@@ -35926,7 +35926,7 @@
       ]
     },
     "1067022597": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1009RT",
       "originals_sha256": [
@@ -35935,7 +35935,12 @@
         "2f20c66adab7d05409c2e3aa12d2331fd8120f669c1b12919611707e2f8c6bc6"
       ],
       "before_count": 3,
-      "task_id": 6109710499
+      "task_id": 6109710499,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
