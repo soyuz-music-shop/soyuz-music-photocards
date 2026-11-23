@@ -35137,7 +35137,7 @@
       ]
     },
     "1018279440": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB 4860-1",
       "originals_sha256": [
@@ -35145,7 +35145,12 @@
         "be85c6316da1df9a35cb454c1584287ffb65b9f8c129b636c1b6f54de7d0feb8"
       ],
       "before_count": 2,
-      "task_id": 6109590133
+      "task_id": 6109590133,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
