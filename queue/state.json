@@ -46283,6 +46283,18 @@
         0.0,
         0.0
       ]
+    },
+    "2179793818": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CCR72639935",
+      "originals_sha256": [
+        "7fd1dc49d85d17c8f65b476346990e3177afaf900a17631e5c340189fdfa71db",
+        "6e1f960c13b36a59415aa3867fbf2f74cc209e8ca5a7754f24ec37e27acf26af",
+        "f7f0925999ff4d9d97ef35b013e853bfbf502c042ce240486f50634761c4bc83",
+        "2eb90ae97ebbf88c8d2baa0e26936f2abe534061c4b24a6fe58f448dd5790e4b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
