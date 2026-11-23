@@ -30394,7 +30394,7 @@
       ]
     },
     "745582762": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ELJ55160775",
       "originals_sha256": [
@@ -30404,7 +30404,12 @@
         "77ddcc424ec133bd8317df8642c4a5934cb19dcde2c0c97b73e79e876c06cdea"
       ],
       "before_count": 4,
-      "task_id": 6108999505
+      "task_id": 6108999505,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
