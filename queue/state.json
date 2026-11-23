@@ -28803,7 +28803,7 @@
       ]
     },
     "653386154": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNM54643623",
       "originals_sha256": [
@@ -28811,7 +28811,12 @@
         "849c92bbc43ae2af6b91b63b7fe64ad0c3384237f5c7c149445991d65b9808ca"
       ],
       "before_count": 2,
-      "task_id": 6108827669
+      "task_id": 6108827669,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
