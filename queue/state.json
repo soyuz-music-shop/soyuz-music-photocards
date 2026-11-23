@@ -41332,7 +41332,7 @@
       ]
     },
     "1456512982": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM26",
       "originals_sha256": [
@@ -41341,7 +41341,8 @@
         "f97805e4af4596fee2f136948e809d918340ece2f5f004dde71c7fd93bb2241a",
         "c2cb45b7814e3bdc9152250586fac70f1a4a5435e221a7ee6ec98c1f1ea0ada4"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110432754
     }
   },
   "reason": null,
