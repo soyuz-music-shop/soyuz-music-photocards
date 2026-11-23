@@ -53025,13 +53025,14 @@
       ]
     },
     "3013420764": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAP-079",
       "originals_sha256": [
         "aa47d0d0d1748f9fc4be42214a5033419bcf315b603bc80f9d5085cc62d510bc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111483736
     }
   },
   "reason": null,
