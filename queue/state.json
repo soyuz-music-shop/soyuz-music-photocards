@@ -27358,7 +27358,7 @@
       ]
     },
     "582776103": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GRZ97199738",
       "originals_sha256": [
@@ -27368,7 +27368,12 @@
         "4d8bd303c5d81f347c3e5bb4e51428b6fd29bedc9a4a0a927d6e30abbec5f293"
       ],
       "before_count": 4,
-      "task_id": 6108649220
+      "task_id": 6108649220,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
