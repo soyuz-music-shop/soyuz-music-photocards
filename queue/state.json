@@ -35040,14 +35040,19 @@
       ]
     },
     "1013670112": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "STG96066723",
       "originals_sha256": [
         "909de2d5921dbbec889e63fb103adec299c0d0e5ba5f9ef3cfa3dfadbac52527"
       ],
       "before_count": 1,
-      "task_id": 6109577690
+      "task_id": 6109577690,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
