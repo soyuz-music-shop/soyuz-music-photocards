@@ -23148,7 +23148,7 @@
       ]
     },
     "445749282": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EMC94639132324",
       "originals_sha256": [
@@ -23158,7 +23158,12 @@
         "7bfaf1b24287165d4ffac1281e0dc5b1e2f669586d5e036cafba677cc814c11c"
       ],
       "before_count": 4,
-      "task_id": 6106968698
+      "task_id": 6106968698,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
