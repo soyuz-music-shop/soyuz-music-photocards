@@ -25368,7 +25368,7 @@
       ]
     },
     "491090765": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QN47288240",
       "originals_sha256": [
@@ -25378,7 +25378,12 @@
         "490b95bb79bc93185a8bd69dde98f4eac314f22159aeb363554c69f36b0ec368"
       ],
       "before_count": 4,
-      "task_id": 6107452693
+      "task_id": 6107452693,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
