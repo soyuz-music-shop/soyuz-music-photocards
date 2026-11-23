@@ -44343,7 +44343,7 @@
       ]
     },
     "1771265520": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ACAN011LP",
       "originals_sha256": [
@@ -44352,7 +44352,12 @@
         "77f63d7ad0aa39551e59de3d9330e0268fef3a10c1f2136fec558b26421af739"
       ],
       "before_count": 3,
-      "task_id": 6110667535
+      "task_id": 6110667535,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
