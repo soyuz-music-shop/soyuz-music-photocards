@@ -30097,7 +30097,7 @@
       ]
     },
     "732402788": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "0217747EMU",
       "originals_sha256": [
@@ -30105,7 +30105,8 @@
         "d27060a07fccd7831153ed140f166c956ad50a9a09ed3c10bb13d6244a7db961",
         "0633b902210750075ca11975194791099d013a195b4cbda123b612c79a1d387a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108971648
     }
   },
   "reason": null,
