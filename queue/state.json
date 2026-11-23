@@ -56201,7 +56201,7 @@
       ]
     },
     "3222504384": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "0220201SBE",
       "originals_sha256": [
@@ -56214,7 +56214,12 @@
         "edfa8b8a44e98aa5ccafbe32bad198bf7c57d7be244c00357615cc6ae04bd761"
       ],
       "before_count": 7,
-      "task_id": 6111682943
+      "task_id": 6111682943,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
