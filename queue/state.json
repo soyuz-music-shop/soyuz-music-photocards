@@ -34448,7 +34448,7 @@
       ]
     },
     "930044633": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PFR21",
       "originals_sha256": [
@@ -34457,7 +34457,8 @@
         "8fd96c20d46be2b66caa7760e95e7f9ebd97c60ac53fa939675e1235779101e6",
         "7f3bfa9a806dc9e7c0cf28fae6f40a8b953dffd87670fc98064f40266652ffb5"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109504321
     }
   },
   "reason": null,
