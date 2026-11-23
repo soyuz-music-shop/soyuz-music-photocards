@@ -40330,7 +40330,7 @@
       ]
     },
     "1266298116": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AGP35450902",
       "originals_sha256": [
@@ -40338,7 +40338,12 @@
         "f20856cb95d0f1efb34372e46e716502bc9982f8a46f5c47cf34d0ceed43e1ce"
       ],
       "before_count": 2,
-      "task_id": 6110318312
+      "task_id": 6110318312,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
