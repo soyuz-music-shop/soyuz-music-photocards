@@ -34093,7 +34093,7 @@
       ]
     },
     "908126386": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT78984227",
       "originals_sha256": [
@@ -34102,7 +34102,12 @@
         "33b1cff48a59e11b390af6d1ea6a2e02e48c0da3aea9eb06669ea9ae6c87514d"
       ],
       "before_count": 3,
-      "task_id": 6109443422
+      "task_id": 6109443422,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
