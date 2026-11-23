@@ -36745,6 +36745,16 @@
         0.0,
         0.0
       ]
+    },
+    "1089339306": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QUN202680",
+      "originals_sha256": [
+        "8dbdf81a7a7e5f41f04c6def8fec49e46cb525a8ba8434fcdc89ee1cbe8e076e",
+        "21a823296ec359a82d0877e3c9ac7d848a2389604c3c8181898ef2160d2928d7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
