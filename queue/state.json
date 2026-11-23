@@ -46687,14 +46687,19 @@
       ]
     },
     "2188916308": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DEG 011",
       "originals_sha256": [
         "9eacf133383c0bae354636fd6a780afa0b8bba78c9d9d4b21a13f6ba46b84bc4"
       ],
       "before_count": 1,
-      "task_id": 6110858949
+      "task_id": 6110858949,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
