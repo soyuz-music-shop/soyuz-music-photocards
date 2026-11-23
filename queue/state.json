@@ -32608,7 +32608,7 @@
       ]
     },
     "863702145": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1063418STU24D",
       "originals_sha256": [
@@ -32616,7 +32616,12 @@
         "a1aa2fda20270e12bc491e54fe17e708ca931192c00bad6514ac6b223ead3b90"
       ],
       "before_count": 2,
-      "task_id": 6109250868
+      "task_id": 6109250868,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
