@@ -31982,7 +31982,7 @@
       ]
     },
     "841366908": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT792DCD",
       "originals_sha256": [
@@ -31991,7 +31991,12 @@
         "41574abd453d55027613ad29efeab14ca9951470955d746df46269408202c1c3"
       ],
       "before_count": 3,
-      "task_id": 6109174842
+      "task_id": 6109174842,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
