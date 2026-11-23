@@ -27493,6 +27493,17 @@
         0.0,
         0.0
       ]
+    },
+    "606245200": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4640219971881",
+      "originals_sha256": [
+        "ae1ce187ac6f95985a01a9ef187c9aab477615302002ea8f45be8e0c800036df",
+        "2dcba29d0766963f37936968833e868b753f4a3042f70c50db25217b51ba5b6e",
+        "f4149b6cade512eed37a13168d8816d0afb8a2dfef26c77f971a497daf4fd13c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
