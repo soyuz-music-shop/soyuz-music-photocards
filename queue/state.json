@@ -33596,7 +33596,7 @@
       ]
     },
     "881665835": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "1063284STUD",
       "originals_sha256": [
@@ -33605,7 +33605,8 @@
         "27e2d006cbed74dba3da4bc24d8e3282f90d2630411b75e83c95cfd3391f997e",
         "872f81e443d0a677ef44bdf5af19b9893b783783acd26be5f94b33c773d495fd"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109374320
     }
   },
   "reason": null,
