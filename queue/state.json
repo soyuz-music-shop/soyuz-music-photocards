@@ -24241,6 +24241,17 @@
         0.0,
         0.0
       ]
+    },
+    "461542779": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4632000181128",
+      "originals_sha256": [
+        "6ebc0aa792119dcd249dc9c44d9178e38acaec3fab58fe2f4f3228d462f36015",
+        "17989dcb991e13bf41505e9e8e9a5a711f4b8df35239d7c905e82cf2557e124b",
+        "8b2d210d084bee13abde667b034951b25b37cccd7c5eaf2372c86780ce64d4bf"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
