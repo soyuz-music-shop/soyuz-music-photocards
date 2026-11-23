@@ -46240,13 +46240,14 @@
       ]
     },
     "2179778143": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ENZNBT79044318",
       "originals_sha256": [
         "a5746eabfe6630b1c4fdf556d7971e0b67ab4909882bb2672402135e9ae095aa"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110818749
     }
   },
   "reason": null,
