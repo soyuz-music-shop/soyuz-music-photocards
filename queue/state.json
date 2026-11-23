@@ -28468,14 +28468,19 @@
       ]
     },
     "643382150": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CR48550415",
       "originals_sha256": [
         "6f26218e6d46808dfaeb40258571c0a98c735879cb5c04110b94063a2f2066f8"
       ],
       "before_count": 1,
-      "task_id": 6108790223
+      "task_id": 6108790223,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
