@@ -55267,14 +55267,19 @@
       ]
     },
     "3130010638": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 3525",
       "originals_sha256": [
         "52a5f7aff0acab3fc4a34937b7b210b305e00618192990f37441b01eef50a5cb"
       ],
       "before_count": 1,
-      "task_id": 6111635123
+      "task_id": 6111635123,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
