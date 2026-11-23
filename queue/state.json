@@ -52106,6 +52106,17 @@
         0.0,
         0.0
       ]
+    },
+    "3011894340": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STR071V",
+      "originals_sha256": [
+        "5c1b7aec9daabaaf717bebf3a6a33df8af68d97e80b5b07a3b001c65e2e9a207",
+        "6513500d3d11c580fbdc0875a2805acda471aea86ed4c29c64dda17567c62913",
+        "2a44fb1cdca756d5d65e120d485033aa0ea777791b6d5955bcb6c884dae6ffa0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
