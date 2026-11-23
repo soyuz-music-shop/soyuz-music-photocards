@@ -23234,7 +23234,7 @@
       ]
     },
     "447071503": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WBRCD2",
       "originals_sha256": [
@@ -23243,7 +23243,12 @@
         "560d5b1787c3512a022bb39cdea9dafead8e280a807175e976f272db82ab608c"
       ],
       "before_count": 3,
-      "task_id": 6106991122
+      "task_id": 6106991122,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
