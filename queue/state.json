@@ -41510,6 +41510,16 @@
         0.0,
         0.0
       ]
+    },
+    "1467018804": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDXSTUMM138",
+      "originals_sha256": [
+        "2619cbd93cd01253515843da663f4b4a244b67f9b9407e5bdcd88edbc601a5c0",
+        "77a0b069a9da49aa4e31dad2ce8570eef74b05c2e9126ee87d3a267eeb094a32"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
