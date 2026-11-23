@@ -54837,7 +54837,7 @@
       ]
     },
     "3039172763": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROTOR0080",
       "originals_sha256": [
@@ -54845,7 +54845,12 @@
         "8d8a6c00ff965d4b97d220d86f5c8c521c194385eefd2701f3510e0b82b1b61a"
       ],
       "before_count": 2,
-      "task_id": 6111605198
+      "task_id": 6111605198,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
