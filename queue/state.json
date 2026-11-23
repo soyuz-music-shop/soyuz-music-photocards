@@ -26887,6 +26887,18 @@
         0.0,
         0.0
       ]
+    },
+    "557944540": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT542LPC",
+      "originals_sha256": [
+        "f459a3a01dafd0eaa4247fe132b7f942a0b109269470c1b282c8af320d9e9e8e",
+        "974a1131b996a0e5f0c7c5f0e96c7f34ae4ac0326689178a182d1e8a0b6b551e",
+        "d5b1e5676de4a62e928eeba2cbb5f3718513543190747315da6b6fd30e79533f",
+        "34f9a4119f9b06c9c808fded203dc85e4a8c5f28cfc6327ce4fcc720e55dc6ce"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
