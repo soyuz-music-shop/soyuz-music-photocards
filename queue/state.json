@@ -28253,7 +28253,7 @@
       ]
     },
     "629222511": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JWR4602",
       "originals_sha256": [
@@ -28262,7 +28262,12 @@
         "e6254b6077b577995c9d7e2ed4a5fb599b715dc31cbfd59836c49df8fbb465bc"
       ],
       "before_count": 3,
-      "task_id": 6108767887
+      "task_id": 6108767887,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
