@@ -42673,7 +42673,7 @@
       ]
     },
     "1563893332": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LNPR24893233",
       "originals_sha256": [
@@ -42683,7 +42683,12 @@
         "f81455585cc4236ec7dadba2725ba2363a55c3b7cf0827ff7d89cc806271d5f7"
       ],
       "before_count": 4,
-      "task_id": 6110552087
+      "task_id": 6110552087,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
