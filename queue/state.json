@@ -26021,7 +26021,7 @@
       ]
     },
     "518171181": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PNK87726515",
       "originals_sha256": [
@@ -26029,7 +26029,12 @@
         "9f429cb1687db659c148030a54b3d500ac4840893c8e6c71aa81e534626a7e05"
       ],
       "before_count": 2,
-      "task_id": 6107672105
+      "task_id": 6107672105,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
