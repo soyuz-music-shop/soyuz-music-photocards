@@ -22865,6 +22865,18 @@
         0.0,
         0.0
       ]
+    },
+    "444570055": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TVUN602537153190",
+      "originals_sha256": [
+        "e8a8f768fc090542e60f509d384cd8bede5e98fc9415c8489ae9d0581371be7d",
+        "fd7dd69fc86410e1bc46672bbcb5d21c4f40abc50cf842d4c3f8489dc38cf119",
+        "e2cb00c933dc5b854b3b9f8ee6d819da2b23447750d7eafb4338f774a35d4ad9",
+        "82444bd0b44fd9e9a3ec6a5f16113200720a92b5a7a174676e07d36ee63a62ed"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
