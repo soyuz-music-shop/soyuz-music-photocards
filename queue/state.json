@@ -30912,7 +30912,7 @@
       ]
     },
     "758104143": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DM54606310",
       "originals_sha256": [
@@ -30920,7 +30920,8 @@
         "a4ccedd98cbe95ff6db600978100b37f62ab3385fbc82113ba4a426feb0f6c33",
         "bb14bbcbcd24ffa29aacb9decc4b5073875eb3f0a6ca9c38ef36406c2186f6a3"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109051426
     }
   },
   "reason": null,
