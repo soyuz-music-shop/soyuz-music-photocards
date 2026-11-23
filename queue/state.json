@@ -28052,6 +28052,17 @@
         0.0,
         0.0
       ]
+    },
+    "620121163": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NOISELP028X",
+      "originals_sha256": [
+        "dd6841bb51d5550364d5314924b0326213573ebc5cfe2045f9f8064034040bd9",
+        "5ab0394e065ad6e8cd17bb9ef2cd35a7346cdc98010c2de4005dac9cdbb7bc8c",
+        "aec972029cc96143eb7a1e24aff37322fe68986b0b2f2f54a854784de34f3ce5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
