@@ -40093,7 +40093,7 @@
       ]
     },
     "1247279174": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PCS 7027",
       "originals_sha256": [
@@ -40103,7 +40103,8 @@
         "1313f875c10090e18c795c3a1da592569ca5bc97a31bbbf8472a095f3d4ca8b5",
         "1b40294fc089af784443eff4f23df8a1864780a47625d36e40c521a60cd22a11"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6110272011
     }
   },
   "reason": null,
