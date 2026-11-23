@@ -35415,7 +35415,7 @@
       ]
     },
     "1043596365": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SD612521",
       "originals_sha256": [
@@ -35423,7 +35423,12 @@
         "d3e8e5c12b870e5c38bedcfd02fb6c4ce7184664338f7d7f23fb30c11e830333"
       ],
       "before_count": 2,
-      "task_id": 6109629624
+      "task_id": 6109629624,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
