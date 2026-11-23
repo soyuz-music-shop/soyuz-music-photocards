@@ -30014,7 +30014,7 @@
       ]
     },
     "730444596": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GM70090025",
       "originals_sha256": [
@@ -30023,7 +30023,12 @@
         "6de0f43067a45846b465de89f0f531eab57979c8e88e4b72efc691ade64ba2ea"
       ],
       "before_count": 3,
-      "task_id": 6108963210
+      "task_id": 6108963210,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
