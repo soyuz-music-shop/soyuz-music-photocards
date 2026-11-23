@@ -32049,7 +32049,7 @@
       ]
     },
     "841452734": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JC02537351121",
       "originals_sha256": [
@@ -32058,7 +32058,8 @@
         "9a15774415642164aaa40b37b19a29b0cb577356adc0405d4b50d7363b157987",
         "35193e57f6f1fdd918450d3b242a02ac5c0976060f0a2d628d30c20e5ed56278"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109182513
     }
   },
   "reason": null,
