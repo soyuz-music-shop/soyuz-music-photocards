@@ -33794,14 +33794,15 @@
       ]
     },
     "893533303": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP524",
       "originals_sha256": [
         "7a5c31415ea48a233e7fb0d385fcbb432f43db87bc04c243c57eead1c221a227",
         "6a0ec28f20df7d213a2f4c0aa3e5b8fbddad79830e72d71f0c5976de1efb1841"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109403427
     }
   },
   "reason": null,
