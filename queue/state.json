@@ -55378,6 +55378,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010766": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HT-110",
+      "originals_sha256": [
+        "685bec3605533f95d60adb32f1db1924dff4fd311dde4fc84a291df8409d4a64"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
