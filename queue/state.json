@@ -23442,7 +23442,7 @@
       ]
     },
     "449280898": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "E6868-1",
       "originals_sha256": [
@@ -23452,7 +23452,12 @@
         "afae616ff5625edefeb35fc73ffd845f8f2743ac78552a68ecefe05d84e740ee"
       ],
       "before_count": 4,
-      "task_id": 6107034293
+      "task_id": 6107034293,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
