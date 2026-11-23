@@ -33216,6 +33216,16 @@
         0.0,
         0.0
       ]
+    },
+    "870529893": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SOD58655918",
+      "originals_sha256": [
+        "1c196810fe0484d4c83a1e86bb016a36af5a1075b8a5adbeae5662ac486ec0c6",
+        "ec3372785a1beb34941149510f29884be5d4708baab53a7e88dc477287696b55"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
