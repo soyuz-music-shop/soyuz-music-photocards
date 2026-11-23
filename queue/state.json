@@ -29942,6 +29942,17 @@
         0.0,
         0.0
       ]
+    },
+    "728983213": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BNM77658822",
+      "originals_sha256": [
+        "63784a6717f1f7fb99d5d9e9eaee5fdbca14174a3571ab592e673e4df65c3b7b",
+        "5000ba57ed2966f5aaf199a548ce87be763d585cb8b445edf58fe802edefb7a4",
+        "92035b223f7f4ad9ec0840c2e16763d54141731165f02435f1687da3ae757e4f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
