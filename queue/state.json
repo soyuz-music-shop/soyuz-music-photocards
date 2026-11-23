@@ -53375,13 +53375,14 @@
       ]
     },
     "3013420952": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IDI021LP",
       "originals_sha256": [
         "728a7ad621b184a0d15948f6e40a960b9c6add3d9d3befb2e7be3c1cecb04feb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111502279
     }
   },
   "reason": null,
