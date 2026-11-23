@@ -23697,6 +23697,23 @@
         0.0,
         0.0
       ]
+    },
+    "450120951": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD220E",
+      "originals_sha256": [
+        "e6e7cceb7a8ea5903a05469b5b291f81aaeafd93d65d000c36538715c942286c",
+        "c5e612ce18eff552a043f6305e5007c05f3bd62d7c0c1a4caae5b2fafc214579",
+        "d5ce8d69e4c9180955ff389d8508948b4a63febe6f2fa2850768a29ec49cf074",
+        "cfa0cf12697005d0b8e8be009103b5631afe50a3a242570c2ca2a43f1e5c8e1b",
+        "216415fb47db609a491df8840777c070f7807b9a0369d81016db7a115a54d393",
+        "ef15f83041dfc58a960bb735fc2a6f6950622e204d26e8629509a350950233f8",
+        "8b9121e3dc83085f6aae225972dde312993acf22b2b6de988ad30677abf2b6a3",
+        "b61f7b54829923555168778b765d08cd4f83d964905f64af83a065daceb3b6a2",
+        "a5016ce49c1519a3f72de96906ba0aa26c2884a2b16dbad22caa22432ddd31d2"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
