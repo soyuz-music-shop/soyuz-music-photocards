@@ -54376,14 +54376,19 @@
       ]
     },
     "3033137635": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SC307422",
       "originals_sha256": [
         "0b5a0e0e4d74b0cec17d0fc83c2ca0cc6510a039cdc4a2b12ecfae10275054b0"
       ],
       "before_count": 1,
-      "task_id": 6111569134
+      "task_id": 6111569134,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
