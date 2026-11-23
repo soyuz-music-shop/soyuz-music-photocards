@@ -50665,14 +50665,19 @@
       ]
     },
     "3005926032": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EARS081P",
       "originals_sha256": [
         "686b42ed966fc76ba847da028b3220670b259ae5fff19042e056a9ee5b9999c4"
       ],
       "before_count": 1,
-      "task_id": 6111312039
+      "task_id": 6111312039,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
