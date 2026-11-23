@@ -33334,14 +33334,15 @@
       ]
     },
     "870996215": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BON70826228",
       "originals_sha256": [
         "9f5a12fd553c2fa14f967b6e300436d7791a060efcba6200c6e5db3cf6765515",
         "d8d5aab3d04dc5d982206711aa2c6cb476948ba91671d33aee35cad018b3ac15"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109343338
     }
   },
   "reason": null,
