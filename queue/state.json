@@ -33941,7 +33941,7 @@
       ]
     },
     "898209148": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TC99166413",
       "originals_sha256": [
@@ -33952,7 +33952,12 @@
         "ec19dba49d12ac0bd3537b6b4664d1e552bb74cf42f1d032cb4e41b06d427737"
       ],
       "before_count": 5,
-      "task_id": 6109423930
+      "task_id": 6109423930,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
