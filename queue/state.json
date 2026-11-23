@@ -43894,7 +43894,7 @@
       ]
     },
     "1725354580": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOFAD24524328",
       "originals_sha256": [
@@ -43902,7 +43902,12 @@
         "462370d9139184fdcb9da717c7debc0f649d02bf8214f683479c70f4cac30f09"
       ],
       "before_count": 2,
-      "task_id": 6110641373
+      "task_id": 6110641373,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
