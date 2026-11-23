@@ -43328,7 +43328,7 @@
       ]
     },
     "1670465142": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "T-2108",
       "originals_sha256": [
@@ -43339,7 +43339,12 @@
         "a3c4531e4bba0d971d719edcc467f34a60badaa876c622ab2da383da14ef8465"
       ],
       "before_count": 5,
-      "task_id": 6110600874
+      "task_id": 6110600874,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
