@@ -44577,6 +44577,17 @@
         0.0,
         0.0
       ]
+    },
+    "1803304922": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP523",
+      "originals_sha256": [
+        "b9ee3350e2b22b65362cb347246a39e8e5b56c791c7251cd5531e29296c51b6e",
+        "fe7877c29f0a5e74f711439e4f8ab89cf4409a1f5555fb6b53e38e81fef07636",
+        "9abb7cf038747b8313f90bc278327ac8a26b0d97a1984ffc2f40fffe1894b6ae"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
