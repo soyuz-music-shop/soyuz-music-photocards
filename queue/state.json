@@ -31927,7 +31927,7 @@
       ]
     },
     "840728145": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ROAR2334DIGI",
       "originals_sha256": [
@@ -31935,7 +31935,8 @@
         "5920a456f8b5b7c85b85b8aaac526530cda2f1fa6b2a5acf8feee5c3c966a5c6",
         "348ba729d2ae499b7a7ae1101de75e46bb041df210223180b949d2528ce430a9"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109168507
     }
   },
   "reason": null,
