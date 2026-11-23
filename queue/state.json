@@ -29287,7 +29287,7 @@
       ]
     },
     "706704685": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2094",
       "originals_sha256": [
@@ -29298,7 +29298,12 @@
         "e473a25b5ed6d4c953c112593a7e5978af2050e6093e57cd9ffe9a2cf790d5cf"
       ],
       "before_count": 5,
-      "task_id": 6108886824
+      "task_id": 6108886824,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
