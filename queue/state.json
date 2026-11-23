@@ -53877,14 +53877,19 @@
       ]
     },
     "3032013070": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MET 1353",
       "originals_sha256": [
         "53833dd5fecff607e81ec39f4e9cd9f3674f1cb15f95b14f331d831bc997e1a6"
       ],
       "before_count": 1,
-      "task_id": 6111533623
+      "task_id": 6111533623,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
