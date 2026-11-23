@@ -26037,7 +26037,7 @@
       ]
     },
     "518199917": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WH87146610",
       "originals_sha256": [
@@ -26049,7 +26049,12 @@
         "9957822d314fdf80679032357da1affd433c383bde8fafbda8d953a5bc9aa3fc"
       ],
       "before_count": 6,
-      "task_id": 6107680165
+      "task_id": 6107680165,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
