@@ -29440,7 +29440,7 @@
       ]
     },
     "716787322": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PF11110314",
       "originals_sha256": [
@@ -29451,7 +29451,12 @@
         "540751ef396484c2be1b2e185b00cf0b4a1f49fe6490ab6b2bd7e766e3b3ba6f"
       ],
       "before_count": 5,
-      "task_id": 6108903896
+      "task_id": 6108903896,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
