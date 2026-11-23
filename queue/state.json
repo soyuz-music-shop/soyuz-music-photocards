@@ -35906,6 +35906,18 @@
         0.0,
         0.0
       ]
+    },
+    "1066899603": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TPLP359",
+      "originals_sha256": [
+        "0f671ffd783031791ce65154b6e568a58b24b63843645f0a6e88d5bce8c3a805",
+        "0b7f99e8bb336c9c7a897db7300115490c9d59657f11abbd38e63f3452a61a75",
+        "852fdf8e27362a183cad98c1ad18b5bf1634eac627ee7209b78867164acf27d6",
+        "6275389bca400cbdd24290c37c754e281ba098485f0cfe592b82adfec6e520db"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
