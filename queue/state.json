@@ -23720,6 +23720,16 @@
         0.0,
         0.0
       ]
+    },
+    "451077199": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBZ94634404921",
+      "originals_sha256": [
+        "aaf828fd48a7a4ab825e6d39e452d2c24c58f91e89217d5bda6793ae3c24ec68",
+        "b985387acacd8f57ff575238c3205a69fb5faff30e77f19ce1d8e925d57704a0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
