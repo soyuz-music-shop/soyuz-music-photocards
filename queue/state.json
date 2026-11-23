@@ -37561,6 +37561,17 @@
         0.0,
         0.0
       ]
+    },
+    "1110028283": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LZ964535",
+      "originals_sha256": [
+        "1aa3c22fd76df4640c36fe6beb22761dcd725bd86d4c66e5baa39057e514eae9",
+        "32e3ef7811acde9affe99baad78596540a356e5bee44f5a64aeadbe374fd1813",
+        "c17a60801f6a5a9b1f7e1e0e2295e8e754504efb1f51bde3f2f1bf9cfa292c04"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
