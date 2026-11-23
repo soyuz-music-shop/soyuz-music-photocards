@@ -42088,7 +42088,7 @@
       ]
     },
     "1508717543": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TOTO58011219",
       "originals_sha256": [
@@ -42096,7 +42096,12 @@
         "23fe09d19b9894f7313c60f5079bb4005cc4dcd830b95b08e41fcb511c295190"
       ],
       "before_count": 2,
-      "task_id": 6110496839
+      "task_id": 6110496839,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
