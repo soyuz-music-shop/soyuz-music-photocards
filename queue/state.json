@@ -31035,7 +31035,7 @@
       ]
     },
     "761035797": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TPL48006455",
       "originals_sha256": [
@@ -31046,7 +31046,8 @@
         "c9b6b97c55e147c426269bed79653920acdd7e344bab5e0a14a2fd151eb3f55f",
         "25355eb32c983c3d57407a2cef0512a42ef1f7bf2d23e3a60663090df0151746"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6109063436
     }
   },
   "reason": null,
