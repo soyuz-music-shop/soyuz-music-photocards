@@ -37180,7 +37180,7 @@
       ]
     },
     "1100408420": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1067860STU",
       "originals_sha256": [
@@ -37191,7 +37191,12 @@
         "b9712cbaa13dab8884bd52f568f858796e5c007d9dd6173899f52d5aa37ae2f2"
       ],
       "before_count": 5,
-      "task_id": 6109901265
+      "task_id": 6109901265,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
