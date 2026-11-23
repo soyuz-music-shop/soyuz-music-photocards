@@ -31349,6 +31349,18 @@
         0.0,
         0.0
       ]
+    },
+    "782279559": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RJD38769319",
+      "originals_sha256": [
+        "a1c4c2ae1033ded388ddd5871d079cbe4ecef1c36fa09112f23c881055be1d94",
+        "23acded796b011a90de53db7a3267901d4f7df41538f0cf62a70491334372837",
+        "0be7a2cf52d71055f4c4e5343ba23c9e063cb7155a1ed7e49a3d97680eb8050f",
+        "ce17f10c414c3c759ab026f28087373508f6f218a02573861c199c21341f5256"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
