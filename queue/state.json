@@ -32215,7 +32215,7 @@
       ]
     },
     "849939349": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SMO6974727521",
       "originals_sha256": [
@@ -32225,7 +32225,8 @@
         "4870d9893e570c8d2e9fc33d1ee3a9bbb683b7f450990100e5b5e47a1c4fa634",
         "32f18acb24d477538267672f7ac7bcc64420568889b499d4d798d32c48ecf424"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109202243
     }
   },
   "reason": null,
