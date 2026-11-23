@@ -27883,7 +27883,7 @@
       ]
     },
     "618597446": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LRCSTUMM255",
       "originals_sha256": [
@@ -27892,7 +27892,8 @@
         "0e03b0aef539bf28a564984128cbb37a096b74899524adce34b1c03d020f45a4",
         "29ea01932f7250307828a70a1857dc8ae62e28634a8c12e1402bfdd5cf744c61"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108725154
     }
   },
   "reason": null,
