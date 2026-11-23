@@ -54687,13 +54687,14 @@
       ]
     },
     "3033386943": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PIT714924",
       "originals_sha256": [
         "a1c16ab6ad35c85001cf5b1f7e05525a728862462049d56818bc7f9d88469de4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111593572
     }
   },
   "reason": null,
