@@ -26112,7 +26112,7 @@
       ]
     },
     "528703587": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UT48386762",
       "originals_sha256": [
@@ -26121,7 +26121,12 @@
         "96b2e965dfb379239570e66e0b7d4b2f671f604c9a304f612c5f759c1c57dde3"
       ],
       "before_count": 3,
-      "task_id": 6107696141
+      "task_id": 6107696141,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
