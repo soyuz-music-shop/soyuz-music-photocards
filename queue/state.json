@@ -28635,7 +28635,7 @@
       ]
     },
     "650009457": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "POL54995023",
       "originals_sha256": [
@@ -28644,7 +28644,12 @@
         "7077b636dc9f4b968c77c3e2f5ed98e9bc981b36fb77cf3921045e7c414198aa"
       ],
       "before_count": 3,
-      "task_id": 6108808717
+      "task_id": 6108808717,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
