@@ -51117,14 +51117,19 @@
       ]
     },
     "3006255400": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3760",
       "originals_sha256": [
         "b1b0dcaa4b3d737088254554cafd134dd2b07ab6be00da4d166f83429b615e95"
       ],
       "before_count": 1,
-      "task_id": 6111349626
+      "task_id": 6111349626,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
