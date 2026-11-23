@@ -32654,6 +32654,17 @@
         0.0,
         0.0
       ]
+    },
+    "864830207": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "1062829STU",
+      "originals_sha256": [
+        "388cf6b795cc76be3a7e7792fbf7d61607d6e87f899e9dada3b567c0451e4524",
+        "e0097f6e7f2e10c43f2f7589868949bc05ea68cb11bffeb674110d6534f78798",
+        "b74944fbae32b4d263dc2df7a41ac1077f070aaadc167c6ad763ff75c7f644dd"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
