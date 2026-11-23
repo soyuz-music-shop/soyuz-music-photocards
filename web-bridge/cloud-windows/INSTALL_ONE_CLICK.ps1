@@ -61,7 +61,7 @@ if (-not (Test-Path -LiteralPath $kit)) {
   New-Item -ItemType Directory -Path (Join-Path $kit 'cloud-windows') -Force | Out-Null
   Copy-Item -LiteralPath (Join-Path $bundleRoot 'SOYUZ_Media_WEB.py') -Destination (Join-Path $kit 'SOYUZ_Media_WEB.py')
   foreach ($script in @('INSTALL_CLOUD_TASK.ps1','CHECK_CLOUD.ps1')) {
-    Copy-Item -LiteralPath (Join-Path $PSScriptRoot $script) -Destination (Join-Path $kit 'cloud-windows' $script)
+    Copy-Item -LiteralPath (Join-Path $PSScriptRoot $script) -Destination (Join-Path (Join-Path $kit 'cloud-windows') $script)
   }
 }
 $state = Join-Path $env:APPDATA 'SOYUZ_Media'
@@ -75,7 +75,7 @@ Write-Warning 'Microsoft Photos/Windows AI могут требовать акт�
 if (-not $NoAutostart) {
   $task = Get-ScheduledTask -TaskName 'SOYUZ-Media-Cloud' -ErrorAction SilentlyContinue
   if (-not $task) {
-    & (Join-Path $kit 'cloud-windows' 'INSTALL_CLOUD_TASK.ps1') -AppDir $app
+    & (Join-Path (Join-Path $kit 'cloud-windows') 'INSTALL_CLOUD_TASK.ps1') -AppDir $app
   } else { Write-Host 'Автозапуск уже есть; оставлен без изменений.' }
 }
 Write-Host 'Веб-сервер слушает только 127.0.0.1:8787. Публикация требует Cloudflare Access.'
