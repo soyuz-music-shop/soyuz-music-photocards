@@ -47013,6 +47013,21 @@
         0.0,
         0.0
       ]
+    },
+    "2247280013": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GRB64145502",
+      "originals_sha256": [
+        "2167a250d8fb2e39a49376a1cb222b31951a34d7e44c39baf06cac0f38251bae",
+        "1e29fccc4b99a06a52464a721b7a5452f86e302d84a91a63c20dc9c82e88cd07",
+        "7c5071f02dd28a0da0c2878e3c8d753421d0d38174247ac4e893ce754d1912ae",
+        "b27f57601ac1113ddd9e09662aaa758434b4445f6d799cf7aa8fd853808c9d71",
+        "5a26dd2c1533934e7ee7b0458e22794b96b924b140c794fec72826729a3a8195",
+        "f2e426931e417e0ae7e1c5b508aa5a1cb5a61730cf86834d876e0929a009f571",
+        "9d405206c7019e5e8a5d2c114aff81d9fef193b94e63dd91c287620e290dd29d"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
