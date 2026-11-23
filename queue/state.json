@@ -28652,14 +28652,15 @@
       ]
     },
     "650182074": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MC97483523",
       "originals_sha256": [
         "9d15dafb03a9c78939c39142c3f5c0ceb3b7d4b190762a2a23391038f8a04998",
         "c902aea8c11fe79ad4ea31500f0c46f44ae73fd463457af68c617230eb2479b6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108810193
     }
   },
   "reason": null,
