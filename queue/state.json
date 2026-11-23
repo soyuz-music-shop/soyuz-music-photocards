@@ -41546,7 +41546,7 @@
       ]
     },
     "1467140263": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LCDStumm233",
       "originals_sha256": [
@@ -41555,7 +41555,12 @@
         "5e294cb2540fc9f0923c37c98779e0bb6fcf621cdea9583de3ef8acd394fe87e"
       ],
       "before_count": 3,
-      "task_id": 6110451703
+      "task_id": 6110451703,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
