@@ -39419,7 +39419,7 @@
       ]
     },
     "1215174958": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JC37351169",
       "originals_sha256": [
@@ -39427,7 +39427,12 @@
         "a6127dceac137dc04aa84f8c7c9275f22ecd26c96948223c050d504132d65e71"
       ],
       "before_count": 2,
-      "task_id": 6110201168
+      "task_id": 6110201168,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
