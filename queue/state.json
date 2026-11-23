@@ -33365,6 +33365,16 @@
         0.0,
         0.0
       ]
+    },
+    "873784448": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LSTUMM78",
+      "originals_sha256": [
+        "94d0b0dceff9e3a4639354a5475181098e4e66bd174b67e3f915f823603d4db5",
+        "437e4d966976d4d2df1019221abc90c61cecbbe5d34e44965ef9c5de64463c6e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
