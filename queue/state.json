@@ -35284,7 +35284,7 @@
       ]
     },
     "1031409156": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MC685125",
       "originals_sha256": [
@@ -35292,7 +35292,12 @@
         "933569d618a040ec4beb1069bb90816ba535a71b66a6f3662fa9c5180bf534e8"
       ],
       "before_count": 2,
-      "task_id": 6109608858
+      "task_id": 6109608858,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
