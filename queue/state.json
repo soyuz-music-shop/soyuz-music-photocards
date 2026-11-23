@@ -27157,7 +27157,7 @@
       ]
     },
     "564803021": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219971140",
       "originals_sha256": [
@@ -27165,7 +27165,12 @@
         "a489ee700fb8135ddee0f0fcdee29c45104b98771fb29c8520c601a0f3b97dc0"
       ],
       "before_count": 2,
-      "task_id": 6108623426
+      "task_id": 6108623426,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
