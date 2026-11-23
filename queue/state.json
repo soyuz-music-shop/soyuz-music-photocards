@@ -36507,6 +36507,16 @@
         0.0,
         0.0
       ]
+    },
+    "1084078908": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GZ643423",
+      "originals_sha256": [
+        "2ec0e6df50b0f9c8fffa35905e7a7e538ab539a1036ce824e9fa3b927386de71",
+        "85b1dd58431abb798ad5be82b2d54c54c90296ea85313878387d0e89a3061fba"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
