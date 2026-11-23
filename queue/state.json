@@ -41365,6 +41365,17 @@
         0.0,
         0.0
       ]
+    },
+    "1456645972": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SYAD58656212",
+      "originals_sha256": [
+        "b552beb0568b6b09007a944fab558213df07c07a149da065b626d585a4456020",
+        "3e7e8a12d3ea64e83a83e4c72a4365791a6b383cec89ea67b398bad018f44126",
+        "d5707077d7268d7f41ebdfff08eaf4e275322893f8097bfa7a8867e3f523b44a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
