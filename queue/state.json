@@ -46004,7 +46004,7 @@
       ]
     },
     "2178880276": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR7313PPBS",
       "originals_sha256": [
@@ -46013,7 +46013,8 @@
         "f81f807adfea8606e9700e3ca03c6cab0f5a25b54d66bb79b92cadcdfc498b3f",
         "5ceb59fb7e58f83c3c9421e43cb8ee273ca5130812e253b6c8e7c517e240d8dd"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6110797298
     }
   },
   "reason": null,
