@@ -23092,6 +23092,17 @@
         0.0,
         0.0
       ]
+    },
+    "445216502": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AC3259130004601",
+      "originals_sha256": [
+        "a6a04bf557e0c3e154e238c231d83d865950e3bbe5776170d72077a699afcebc",
+        "3d76bc2884f21de4631f274c290195a6a7efdc8bf1b039ea7623552daea9fe37",
+        "767aa84a53930bcc69f82e6473a43ab7a06a30616dad8f07451338aef7e2cbff"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
