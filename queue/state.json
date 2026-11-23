@@ -25303,7 +25303,7 @@
       ]
     },
     "490041426": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPSEEDS8",
       "originals_sha256": [
@@ -25311,7 +25311,12 @@
         "689bb4ad006a31a19ee83021dbc43a0eaece0e73e4a94dbb57279d10e2e7b636"
       ],
       "before_count": 2,
-      "task_id": 6107440587
+      "task_id": 6107440587,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
