@@ -35008,14 +35008,19 @@
       ]
     },
     "1013542014": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QN27724171",
       "originals_sha256": [
         "5b020f1270c0ecd04de291b3bc1f1c4f1da82b5fec2ab865105885cd2f5c922c"
       ],
       "before_count": 1,
-      "task_id": 6109574098
+      "task_id": 6109574098,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
