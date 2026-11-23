@@ -35250,6 +35250,16 @@
         0.0,
         0.0
       ]
+    },
+    "1027006853": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TL102719",
+      "originals_sha256": [
+        "38bffb1abc545d837880cfc03175e4c5b2e948b0dedf6014e9acc4910ab0780e",
+        "b047a40a994ddf1849854dd83c79311529f9d3115c900453cf0e4eaf87ff41c8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
