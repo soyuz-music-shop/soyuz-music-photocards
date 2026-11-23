@@ -38751,6 +38751,17 @@
         0.0,
         0.0
       ]
+    },
+    "1198090231": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SIA78609947",
+      "originals_sha256": [
+        "e258cc0cd43b88764e572e1b4003c643fff1afa189f0483de3017f4f7835051b",
+        "0efd78d2152b6d7a6e1560894c0541118c3491a81391947a528fdd35677fa980",
+        "fa5f2f9a85c61ad8d155159a64de13e089efd1464f00c1a73fecf1141c6999dc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
