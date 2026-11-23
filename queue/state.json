@@ -44899,7 +44899,7 @@
       ]
     },
     "1865624705": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP2633",
       "originals_sha256": [
@@ -44907,7 +44907,8 @@
         "a0860c019e7bdd2a9ea134e1398edd9af6108e1bc55943ade0ddb0f811054d37",
         "cba7ac184d110afde1202d19bc4478be67370338e550383550bc79d91be66081"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110709049
     }
   },
   "reason": null,
