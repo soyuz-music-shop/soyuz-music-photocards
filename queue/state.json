@@ -26003,7 +26003,7 @@
       ]
     },
     "518165777": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DM87842024",
       "originals_sha256": [
@@ -26012,7 +26012,8 @@
         "f5f48fc35badaa584c4b2dc5fcfeb0bcf938d4dd8a797a78bb0d2c52adc1d01e",
         "82810c081d3a6d2c9e03e3b078357f6b1c8c397ab7dea4f15e09a1570ba6826e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6107668529
     }
   },
   "reason": null,
