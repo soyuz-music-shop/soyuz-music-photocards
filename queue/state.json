@@ -37563,7 +37563,7 @@
       ]
     },
     "1110028283": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LZ964535",
       "originals_sha256": [
@@ -37572,7 +37572,12 @@
         "c17a60801f6a5a9b1f7e1e0e2295e8e754504efb1f51bde3f2f1bf9cfa292c04"
       ],
       "before_count": 3,
-      "task_id": 6109953303
+      "task_id": 6109953303,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
