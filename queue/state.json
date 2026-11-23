@@ -23599,6 +23599,17 @@
         0.0,
         0.0
       ]
+    },
+    "450025098": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R562035",
+      "originals_sha256": [
+        "88ab51cb72983c466120097efc5ac385751d9db4676a4787d3c66a7c1ef7323e",
+        "cd7efa4998fa34e2313280b249420e5c8552804d4feead776b28659880a3434f",
+        "9b52f70a48f22cb65d2499b6d4a66837acd7c868e87c8fda6f3e074b82d6ff70"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
