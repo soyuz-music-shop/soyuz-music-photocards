@@ -36475,6 +36475,16 @@
         0.0,
         0.0
       ]
+    },
+    "1081855664": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UICY-80245K",
+      "originals_sha256": [
+        "df38fa18bc1d84de0306e2a9c75000d16b98631401ff774907779fc7e0174e4e",
+        "63d6bd35a62ee2958e30aa733c1346dce5b172388f194d0c9030a54e2c4d8752"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
