@@ -42002,6 +42002,17 @@
         0.0,
         0.0
       ]
+    },
+    "1504241028": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPGRON291",
+      "originals_sha256": [
+        "bc7be9ec3e5fa709d357547beaabbb7fc39805cf9d15d724bde8d8a2cb1cc79b",
+        "05dfcb8509274ffe3bfe26195de9b0a7ae0dc600638ee1d40dd3c8518e5d7736",
+        "4d425592206b5eb6e9ea2f3bef51c0272f9d334a789aa5fd7094e999b88bfd51"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
