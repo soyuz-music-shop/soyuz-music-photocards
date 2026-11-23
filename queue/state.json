@@ -56258,14 +56258,19 @@
       ]
     },
     "3277020161": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MIMB017",
       "originals_sha256": [
         "687fa2d4e5a3a41a62635689b50a00acc91b598aa29865068de7043ab9bbb192"
       ],
       "before_count": 1,
-      "task_id": 6111684965
+      "task_id": 6111684965,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
