@@ -43971,6 +43971,19 @@
         0.0,
         0.0
       ]
+    },
+    "1730418128": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RI 60205",
+      "originals_sha256": [
+        "b68b2657ccc3b0595f7307cca78a5f7320d552720576c56a05c239fd6df86e45",
+        "e0980e8659f0e8e087f0ce35f831d7bc61e19fc2f0f0b8eccb38c8de117ce0cf",
+        "2935e6c30dc936744f8b7a207f9bee4e7d6b9e0f5d435a52460f55ba17246b88",
+        "824a125d7d7745dc0b25c004cf92ae0d0cc55a7b4a7181de854777cffef2586b",
+        "26b397badb6a17872ecfbdc4eee2feba699d2c544c1635104c160107868b2683"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
