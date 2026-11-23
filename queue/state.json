@@ -49502,13 +49502,14 @@
       ]
     },
     "2985109855": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 63737",
       "originals_sha256": [
         "98baafd182fd57b242cf47274defe7fc462a1d71b1bacd522a5fe8153040e60c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111078736
     }
   },
   "reason": null,
