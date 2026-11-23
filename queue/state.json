@@ -48948,13 +48948,14 @@
       ]
     },
     "2980955159": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOARXVIII",
       "originals_sha256": [
         "af37fe11cd8a4edf29b858f5bfc07da39bc14080a5cb469c71f362d098c3db92"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111032899
     }
   },
   "reason": null,
