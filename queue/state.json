@@ -42843,6 +42843,17 @@
         0.0,
         0.0
       ]
+    },
+    "1572746117": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RRS218",
+      "originals_sha256": [
+        "de00c3486a9ecfde2c2104bb060f1ce85485e83c719aa20232d39a99b96bd670",
+        "6be26b654e45de96b7f7d58967a6f6c319adc187ba3ac1ed661588e53fb1b159",
+        "ef9adfe185a945a3f9466eebd1156586a78f6a2f6d2b388e5a8f1830bf1fd8fc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
