@@ -52093,14 +52093,19 @@
       ]
     },
     "3011894334": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WARPLP323X",
       "originals_sha256": [
         "b91fef43be67258fd22f6bec96f37e6d5d7717cc465ddc4481db661ec240855f"
       ],
       "before_count": 1,
-      "task_id": 6111413373
+      "task_id": 6111413373,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
