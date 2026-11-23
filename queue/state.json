@@ -44495,6 +44495,17 @@
         0.0,
         0.0
       ]
+    },
+    "1797728379": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MRCAL64037760",
+      "originals_sha256": [
+        "65028b8a351232b735a5772659d0de6dd7d034c3900ff9421b9d23c25f3f7a04",
+        "a916b59a50c74c9a57d5f42db5640dc474f7c315b61ad1459937e5d47f5ae771",
+        "d8f3f5635776ffb18c34a849dee3453b88d765821c5cb1141013faeb1b7be7d1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
