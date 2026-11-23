@@ -55691,14 +55691,19 @@
       ]
     },
     "3130403868": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CL78472",
       "originals_sha256": [
         "f65ae70a3c89f168b95b9cd392c100c9289374e9eb4c9f4af1fdde819ff86a0a"
       ],
       "before_count": 1,
-      "task_id": 6111658147
+      "task_id": 6111658147,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
