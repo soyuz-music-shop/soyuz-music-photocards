@@ -54297,6 +54297,16 @@
         0.0,
         0.0
       ]
+    },
+    "3033137559": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "0220824SBE",
+      "originals_sha256": [
+        "875295635eef42f4778d284cdd8ab337cae3dbec7e2bf8a8aae0b225287fd61d",
+        "baf9123da9f3c51c9784349b1ebf44425fdde2cc11f2be3ee92a44b3c95ec003"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
