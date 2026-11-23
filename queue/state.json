@@ -46717,7 +46717,7 @@
       ]
     },
     "2188928334": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TCR75036746",
       "originals_sha256": [
@@ -46727,7 +46727,12 @@
         "2eb3464dcddae69019339b577d87e4b650ed59cd18a0f8fc211207854ee0b5cf"
       ],
       "before_count": 4,
-      "task_id": 6110862337
+      "task_id": 6110862337,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
