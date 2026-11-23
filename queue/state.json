@@ -29353,6 +29353,18 @@
         0.0,
         0.0
       ]
+    },
+    "714838426": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2012",
+      "originals_sha256": [
+        "f38f6d0a043a63e5aba01dca2f7f68e94adc5b20626cdee533e40cb21f143194",
+        "27fc1ce4f9b16226c0953130b84a0451fcc4c6f269b8c3765b569eef422b8c99",
+        "79984c723afd1241b889c8a4b5bab74db171e523f30bb3a1205d8a9e4a300e81",
+        "15e113603de3857ee981435cde693e09b0c6e782b2d506860559fd7ff8aa5c66"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
