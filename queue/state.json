@@ -44173,7 +44173,7 @@
       ]
     },
     "1758923074": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HOSPBOX001",
       "originals_sha256": [
@@ -44196,7 +44196,8 @@
         "63e2155990f80890d5e82332c0e99ea3c97dc0b865019278106dde35ce9dbf55",
         "7369fab505e5caf23a63f4e4c3c2f1cd9fbc78d6281ba9eb69cfa80acd5cb9cf"
       ],
-      "before_count": 18
+      "before_count": 18,
+      "task_id": 6110657568
     }
   },
   "reason": null,
