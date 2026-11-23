@@ -53770,14 +53770,19 @@
       ]
     },
     "3019429000": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AOF335LP",
       "originals_sha256": [
         "2dc7f29cde6e0f1804d46f378d2da1ca1cce354a6d7d5dfdc987cfa18ce30528"
       ],
       "before_count": 1,
-      "task_id": 6111526589
+      "task_id": 6111526589,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
