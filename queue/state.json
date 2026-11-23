@@ -54191,6 +54191,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899412": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZENCD307",
+      "originals_sha256": [
+        "0b7b4e0fd0061627cae06e198f13ac47bde443bb342f280b91f602a7fcd85834"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
