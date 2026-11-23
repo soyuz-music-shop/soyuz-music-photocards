@@ -26395,6 +26395,17 @@
         0.0,
         0.0
       ]
+    },
+    "540895704": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLLP8",
+      "originals_sha256": [
+        "e04e0536bcd12be6b0009322318db2b630bba3c6e7c2234aafb7574a90aa9e27",
+        "f3bf020f8ba1e9adf47f6ee1d6ebae0141aa2e4f600216762b8a3a5bf6d4eefa",
+        "d717d65caa3bf8853c275020deb9df19a241d38c7fddd63f7f16a469352f0a06"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
