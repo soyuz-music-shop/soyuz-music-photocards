@@ -32784,14 +32784,19 @@
       ]
     },
     "868485205": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP524X",
       "originals_sha256": [
         "ce5bbdacf16117a132265cc0d6d2f392774dfd2105d5f4a11f26a857b2daf278"
       ],
       "before_count": 1,
-      "task_id": 6109268640
+      "task_id": 6109268640,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
