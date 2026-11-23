@@ -26518,7 +26518,7 @@
       ]
     },
     "542442357": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NZ38801323",
       "originals_sha256": [
@@ -26526,7 +26526,8 @@
         "9128f78762700d52ed4778ba8e1ebd29eb00b2c7bd24c47791c51e13570a7b87",
         "f3d1b5b15d9e5329e9745ec999d6d92fd0897d3ca250a73cce4b44824b083cdf"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108528005
     }
   },
   "reason": null,
