@@ -27390,6 +27390,16 @@
         0.0,
         0.0
       ]
+    },
+    "584130548": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1695446",
+      "originals_sha256": [
+        "f79af7bd7579ecbcc1f1d5955cafbe742e902787e1a7f68fd80eb8b3ccaa5995",
+        "994cb31de2694c1f39cc45c9f40509b3fca9f5d6529aef54bbf1395ef93dd7d1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
