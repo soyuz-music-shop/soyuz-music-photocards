@@ -47492,7 +47492,7 @@
       ]
     },
     "2457188980": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BEATLS55920959",
       "originals_sha256": [
@@ -47502,7 +47502,12 @@
         "582b5fc5deac1e5286f8070771969f8a24beb67e1414b0fd325bfbf186192b97"
       ],
       "before_count": 4,
-      "task_id": 6110923775
+      "task_id": 6110923775,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
