@@ -41330,6 +41330,18 @@
         0.0,
         0.0
       ]
+    },
+    "1456512982": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM26",
+      "originals_sha256": [
+        "ccd6cd61503f89879492484f7d1015d8b04bdb925b8afb37c9597a38667a5179",
+        "f0ba611a0f364ebc84f8569d42beb918c9e715a95958cf9d09af370be5110c27",
+        "f97805e4af4596fee2f136948e809d918340ece2f5f004dde71c7fd93bb2241a",
+        "c2cb45b7814e3bdc9152250586fac70f1a4a5435e221a7ee6ec98c1f1ea0ada4"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
