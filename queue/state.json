@@ -24042,7 +24042,7 @@
       ]
     },
     "456376811": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MOCCD14252",
       "originals_sha256": [
@@ -24051,7 +24051,12 @@
         "557ecf3578bafb0bed9c1ab4e11557afbbdb61f43be71b11add3f88856912bd2"
       ],
       "before_count": 3,
-      "task_id": 6107172595
+      "task_id": 6107172595,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
