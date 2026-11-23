@@ -43249,6 +43249,20 @@
         0.0,
         0.0
       ]
+    },
+    "1665073910": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FKAT78606434",
+      "originals_sha256": [
+        "cd1e4040314a2f1bfe1ec76c30e99587ff24b868f6c9760856a9431e32ade7da",
+        "1129597f360e771d9b5c6af231b180cf55ebc93864450f4f108824b292a6e9c1",
+        "c33f662d6c008c7232eed94e5615bbb9cb2e8d11f877f0df640aa97e5e465aa4",
+        "208045599e7d0f84a02ebc41f472cc5c56010e4203fb7e7bf90ce9b63d7b4851",
+        "bfe30286b8fa5ac13ffdbdade0ea99a30ed04b8f2a8e80db79ee51cb15f04460",
+        "4e88717717c29c25ad6d2839b9befbcd4ccb5f172ca81f084b0db0e630a48bd6"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
