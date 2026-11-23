@@ -34548,7 +34548,7 @@
       ]
     },
     "936527242": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT246DLP",
       "originals_sha256": [
@@ -34556,7 +34556,8 @@
         "aeabb3695af7900137fe5e0a077ffd8178aebfb4c29ab5b67543f5fac3f96dd4",
         "cc32184ccafeffea9be2536a7a26b00b5a534554bf74fd0546a189b173f0c8b0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109519480
     }
   },
   "reason": null,
