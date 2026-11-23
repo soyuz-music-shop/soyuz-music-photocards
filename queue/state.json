@@ -25861,7 +25861,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "509948421": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "cd-russian",
       "offer_id": "4632000077223",
       "originals_sha256": [
@@ -25872,7 +25872,7 @@
       "task_id": 6107628690,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "510036126": {
       "status": "verified",
