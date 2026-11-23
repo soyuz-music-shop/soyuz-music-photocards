@@ -37514,7 +37514,7 @@
       ]
     },
     "1108132901": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AW099927",
       "originals_sha256": [
@@ -37522,7 +37522,8 @@
         "be4c78d64b5433ca01dfcfa832aec129a8969767eb85e32f5b592c44280e8a19",
         "3ca06eee1e6dfcf5f1e419e99cc372bda2b17c58294498dc45ab986f025c321b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109946753
     }
   },
   "reason": null,
