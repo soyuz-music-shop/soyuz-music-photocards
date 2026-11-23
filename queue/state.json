@@ -54640,6 +54640,15 @@
         0.0,
         0.0
       ]
+    },
+    "3033386704": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BD86408",
+      "originals_sha256": [
+        "ea279931d876f26cba423d8e86f06c2bcd522bf49a8d48389d339a65760c5ae5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
