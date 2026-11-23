@@ -42478,6 +42478,21 @@
         0.0,
         0.0
       ]
+    },
+    "1548574408": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR1 3104",
+      "originals_sha256": [
+        "09e5d61937a8cab315efc87b97e5e62731624ec50bb03d5ba45b5b494bc88b56",
+        "551551a6a88491fc50d528e3778bcb63a9048baba178e8d95e8fba907f7b83ba",
+        "8d24f4f288347ed2e22767c11320c84d14e12a941e9040d0681d90fbfd28906c",
+        "333b851fbac79fe47eb410d5d9b06f370d0a19155bc529d4dc7725adc5171f52",
+        "573cce638f21aa6e0b8716c4477db30dc5fd95a189e0fe3bc298d142656e5093",
+        "4c434ea8658ececff2f13bde39a46dc949f229cfcb41dede25a3660342312f35",
+        "d42c335d02bbdf723a21be1df549f6bf374cc692823e52c0374078c82630de15"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
