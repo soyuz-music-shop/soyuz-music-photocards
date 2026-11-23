@@ -23925,7 +23925,7 @@
       ]
     },
     "453172660": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QN27644165",
       "originals_sha256": [
@@ -23934,7 +23934,12 @@
         "2384298013ae3b9d5e929e20c81a6138157091370053c3f14dfd95c4ba92f3a5"
       ],
       "before_count": 3,
-      "task_id": 6107144455
+      "task_id": 6107144455,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
