@@ -35347,6 +35347,18 @@
         0.0,
         0.0
       ]
+    },
+    "1035934559": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDV 2684",
+      "originals_sha256": [
+        "4b288c20c2606fee33adbfbcaee77f21fbcfcb4fe83656fcaed74dd5ef3bae36",
+        "4ac8cc125a4a8da670585b52e17a111e25651d87452ffc4890807170f0547c53",
+        "290f712687360c94bdbf6fdf396c43f44950f247bea13fa5746b695e8f2088fa",
+        "09eb6bd95b1df0a958f90c05f6f2e173ef9b6026fdca8bd8c8639297f43f4a06"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
