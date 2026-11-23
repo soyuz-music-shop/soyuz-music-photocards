@@ -29926,6 +29926,16 @@
         0.0,
         0.0
       ]
+    },
+    "727374325": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDXSTUMM123",
+      "originals_sha256": [
+        "52872cbd0952b5aed490679142663c7a989691130608a5756a76604f3933b9ff",
+        "408d8247d43687c9482676e2ac8141b49222d9d750e45150778702e1bf7c02d7"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
