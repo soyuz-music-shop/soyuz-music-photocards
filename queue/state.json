@@ -38655,6 +38655,16 @@
         0.0,
         0.0
       ]
+    },
+    "1192635506": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GMR57071122",
+      "originals_sha256": [
+        "63f8ec01fa74617e68f19b17d18d8ab674f9d2e9ae7916576286de8495cdd5f3",
+        "3134a0d693588e715a227f2bead351609d3b219d66d0c532a977c6cbc861717b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
