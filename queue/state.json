@@ -55998,13 +55998,14 @@
       ]
     },
     "3137360265": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "POT041328",
       "originals_sha256": [
         "a4e8bf72ae3c040e88ad1c59aec8a3d5432aade33b35d0938b5cdd6c44dbed84"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111674504
     }
   },
   "reason": null,
