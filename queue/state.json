@@ -48745,6 +48745,17 @@
         0.0,
         0.0
       ]
+    },
+    "2974627111": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BL782313",
+      "originals_sha256": [
+        "bcfcdd6ce5a962972d9f028726a405b48c5f20c64ad06c3acee7438ccd30d1a2",
+        "1053312725e5023f99ec08952b6191b991502e46405f8c96925da5015d610943",
+        "80cb9f89195a0d1855d4d1c0c29b4594dd02ecefc167a79574eff44fc227e435"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
