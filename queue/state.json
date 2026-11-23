@@ -30412,14 +30412,15 @@
       ]
     },
     "745779895": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ELJ55160782",
       "originals_sha256": [
         "c7aaf82101978f20109c9871ecc73403eaaa7dfe0cf36059f5ddea533b697ddb",
         "c5b8fe4593a0eee4ef374ce8ef64c1bb632a57cc07a97a9bf141431ac1b3bdf0"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109000833
     }
   },
   "reason": null,
