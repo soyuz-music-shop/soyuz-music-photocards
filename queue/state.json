@@ -28955,6 +28955,24 @@
         0.0,
         0.0
       ]
+    },
+    "664361091": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT575BOX",
+      "originals_sha256": [
+        "a233514b038a3d84840e9eb5ce345671a9521d41f11cd6a7c57e8f98420086fb",
+        "07e51dcb4d48696dd9dd44f40b7da82a505c3ffb75275fb41dccef146125c515",
+        "a59a2411c306197dfbdfd50c73eadbc6ddb3e29bda99a0c782f67be439d39972",
+        "d63f9e584c26d0ece4609840010f059f58310f9377dcf38d94c7701e76093ff5",
+        "153c5b4e595a3843eead632f29bd56acf6badfcd38e884e4e9bcb287929759c5",
+        "1fb681afc6e04484d6ab70d894994d1377a4e8423d0514792c9264b908ae8c45",
+        "5f6af487b88fa8a9c91a2b53184e115d18361d20e6edd7ea8bd01e0939992ee6",
+        "482089d021171ac710f03f64ff11e98706ccfdd151789b8aa6173a868e0896d5",
+        "c9232d261c171c177b75784ea773aa9b89887eeaa6167c511c35558d4e0609f9",
+        "abca07795762f7e23395a0b32b567c03e32100ca9b187388c66c7aed75e81e62"
+      ],
+      "before_count": 10
     }
   },
   "reason": null,
