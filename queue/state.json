@@ -32268,13 +32268,14 @@
       ]
     },
     "851582160": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JB54197451263",
       "originals_sha256": [
         "d71a6f2e88b5ec11bad293c0e723a60e17f3ee4359173b1d8b3355257486d204"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109207449
     }
   },
   "reason": null,
