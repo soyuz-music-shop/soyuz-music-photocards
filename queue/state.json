@@ -45655,6 +45655,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691822": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CFUL0318",
+      "originals_sha256": [
+        "14fa28a00c6f384aec41747344b77a16123227130870151a1dd2a429dff6e5e2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
