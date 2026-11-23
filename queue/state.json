@@ -25585,6 +25585,17 @@
         0.0,
         0.0
       ]
+    },
+    "494988818": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IND92578634",
+      "originals_sha256": [
+        "df9046a50dcf44f283b06c83da4da02bf43dd1b5a3a6ebf265ba779c557d759a",
+        "fb525df5b8f276baffb002a546f2af844c0e6f5291a02a92e5cc0a5fae672c4e",
+        "feb9173838c6a7ef079e336ba98ed25a537876b105b73c57f7f2d1ab881f88cb"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
