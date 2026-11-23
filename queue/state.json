@@ -27544,6 +27544,16 @@
         0.0,
         0.0
       ]
+    },
+    "610632862": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SCP75933013",
+      "originals_sha256": [
+        "a1073638f99c44fd5a239405d15d4bf5734d38c7eabc74752c1f218da009b053",
+        "4d60ec775966f07be807313401ae19ccf41309ccf8fac49d0fa12b6ee09c699b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
