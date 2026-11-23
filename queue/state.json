@@ -43861,7 +43861,7 @@
       ]
     },
     "1725181895": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "314 529 160-2 IN03",
       "originals_sha256": [
@@ -43869,7 +43869,8 @@
         "ff0ae58497a39fab3b371662bac422ca79610b94fb217bde0e7d96404671db96",
         "5a3980f7e3dd8025df326343ceaf32a0c290e3ab1a3f7ce4dda06a963b3dd9e0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110638003
     }
   },
   "reason": null,
