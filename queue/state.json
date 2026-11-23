@@ -40557,7 +40557,7 @@
       ]
     },
     "1307268158": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BS023V",
       "originals_sha256": [
@@ -40572,7 +40572,12 @@
         "bc0d9a7ca13d1615fd7643a1a12302bdf8a9a8bf63179972b4dc1d3b8fff225e"
       ],
       "before_count": 9,
-      "task_id": 6110352617
+      "task_id": 6110352617,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
