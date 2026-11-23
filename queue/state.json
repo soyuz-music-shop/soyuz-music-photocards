@@ -33415,14 +33415,15 @@
       ]
     },
     "873875111": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RMM-052-1",
       "originals_sha256": [
         "d464e5a0f9f0e7aaab71351d38c36b6c4143d66b70771ca9862ad9d4fc0e7f08",
         "ad830372c92457a420819bebcdc11039ac2dd5436dbcd11c51cd592c6ae70765"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109353036
     }
   },
   "reason": null,
