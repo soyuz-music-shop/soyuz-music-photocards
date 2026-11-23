@@ -36964,7 +36964,7 @@
       ]
     },
     "1091520096": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IM470714",
       "originals_sha256": [
@@ -36972,7 +36972,12 @@
         "d004a9e6b0200414a186abe20ea0ffe6ab8421ff5eb170fa31cadb3cfd0a4ed3"
       ],
       "before_count": 2,
-      "task_id": 6109872525
+      "task_id": 6109872525,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
