@@ -24172,7 +24172,7 @@
       ]
     },
     "459470172": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KSH97048711",
       "originals_sha256": [
@@ -24180,7 +24180,12 @@
         "13851823370c1d2e37738f5d15ba14600e0390f873f939d373442b33f0148822"
       ],
       "before_count": 2,
-      "task_id": 6107196820
+      "task_id": 6107196820,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
