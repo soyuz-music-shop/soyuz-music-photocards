@@ -29423,7 +29423,7 @@
       ]
     },
     "716724014": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BM53030523",
       "originals_sha256": [
@@ -29432,7 +29432,12 @@
         "7061c5cd2f0204fefdf879341792ded3754072395ea92d1aa816bee0abce11b8"
       ],
       "before_count": 3,
-      "task_id": 6108901769
+      "task_id": 6108901769,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
