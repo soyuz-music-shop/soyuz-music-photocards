@@ -32881,7 +32881,7 @@
       ]
     },
     "869188963": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JP73038222",
       "originals_sha256": [
@@ -32889,7 +32889,12 @@
         "10d809b066409b085f609bb2c18e2a51e38d128673fc90427d9dd65e6d49f33a"
       ],
       "before_count": 2,
-      "task_id": 6109286111
+      "task_id": 6109286111,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
