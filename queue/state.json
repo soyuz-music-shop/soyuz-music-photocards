@@ -41952,6 +41952,16 @@
         0.0,
         0.0
       ]
+    },
+    "1495188419": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AERO47953858",
+      "originals_sha256": [
+        "2d453a38b61c2b01b6b25a7a09b62c1a67c74824b3e3c41757b3bba9f3e68ed2",
+        "70da912683bc3886532329923680e1b93c65e839539140c87d16d4d7410a7c3c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
