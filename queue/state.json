@@ -29708,14 +29708,19 @@
       ]
     },
     "724983090": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SRD00406598",
       "originals_sha256": [
         "8baec10ef0e5a1d37dc23faa98c4859ec477f3ac8dbccc74fa4ca74ee6008f35"
       ],
       "before_count": 1,
-      "task_id": 6108931560
+      "task_id": 6108931560,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
