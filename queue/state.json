@@ -52233,13 +52233,14 @@
       ]
     },
     "3011894713": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HZ261517",
       "originals_sha256": [
         "ccb4c4d452416847a28a8d9276c6531040423f1f38f69b241b4c73bf646cfd61"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111422565
     }
   },
   "reason": null,
