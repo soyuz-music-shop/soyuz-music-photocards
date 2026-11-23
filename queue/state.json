@@ -39402,7 +39402,7 @@
       ]
     },
     "1215053238": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FS92704922",
       "originals_sha256": [
@@ -39411,7 +39411,12 @@
         "ce98d5b39552e86bf1d32033e28a5e6001ecae32b42da92c60ae24656ccdcf9f"
       ],
       "before_count": 3,
-      "task_id": 6110199329
+      "task_id": 6110199329,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
