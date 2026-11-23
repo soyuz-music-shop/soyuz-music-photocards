@@ -48855,6 +48855,16 @@
         0.0,
         0.0
       ]
+    },
+    "2974627336": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT450LPX",
+      "originals_sha256": [
+        "21725d38f0fa477c02e022f0b1120221c518a913ae324af1cf7b085f341a069c",
+        "0aa62f3db7493dd9c2edbb80dad70521f1d1eb3cc9ab903dee64c8e99d25bd51"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
