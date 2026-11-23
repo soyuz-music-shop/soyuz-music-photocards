@@ -28238,13 +28238,14 @@
       ]
     },
     "629187386": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RS71212713",
       "originals_sha256": [
         "9c8094c6c3a4e8079687b54236529381bfc4ab93e024b1ae15a2514630e79c8e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108766286
     }
   },
   "reason": null,
