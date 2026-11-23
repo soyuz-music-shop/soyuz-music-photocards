@@ -55350,14 +55350,19 @@
       ]
     },
     "3130010646": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IALP # 5",
       "originals_sha256": [
         "9e16376f75760498412790ea3207248da0741f33df2baa32c48ff3ff30841fda"
       ],
       "before_count": 1,
-      "task_id": 6111639631
+      "task_id": 6111639631,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
