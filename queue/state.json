@@ -35874,6 +35874,15 @@
         0.0,
         0.0
       ]
+    },
+    "1066622393": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP2459PR",
+      "originals_sha256": [
+        "9d11c84ac3fbbe8c91075c34a0b80f5d0215295ffdbc31eb53fba48e1088a7d1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
