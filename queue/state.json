@@ -26319,6 +26319,17 @@
       "task_id": 6107739206,
       "previous_status": "submitted",
       "reason": "Uncertain or interrupted mutation, never automatically resend"
+    },
+    "535296534": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3258",
+      "originals_sha256": [
+        "061dd438aa464bfebddc3b62e1bdd1d50e0bc52fc027c3a1797fdfd514f2aae8",
+        "312d2f4e0825cf1b579532b3290ef91ce0498b745c862661e759d6d5fc457630",
+        "16f5eab766d6d280d16574baff32902150ce0a61a93a59078f396d23a7fb4941"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
