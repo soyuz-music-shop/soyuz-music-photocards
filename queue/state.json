@@ -23923,6 +23923,17 @@
         0.0,
         0.0
       ]
+    },
+    "453172660": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QN27644165",
+      "originals_sha256": [
+        "bd62dbefae5d9fb0fa6639fa0e58e84b8b2eca3bf5e028b5807507311b3ba4f8",
+        "0abc712e9047cf88bffc9d8ceac196e64c6da28551e44aa0efa94d647fd6f3b1",
+        "2384298013ae3b9d5e929e20c81a6138157091370053c3f14dfd95c4ba92f3a5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
