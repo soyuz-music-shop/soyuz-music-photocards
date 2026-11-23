@@ -49954,6 +49954,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005088069": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RZ745219",
+      "originals_sha256": [
+        "6b08e99bcdea43c8ada9d15ff030b5085f6403c2cf4f9e473782cc20e3185f7c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
