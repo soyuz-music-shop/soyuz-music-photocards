@@ -24291,7 +24291,7 @@
       ]
     },
     "465585864": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RMST35837994",
       "originals_sha256": [
@@ -24299,7 +24299,12 @@
         "0cf2efc1a27b8dce2ab80e68645a7a00958be3c28e55747e82b6a8d70ba3e357"
       ],
       "before_count": 2,
-      "task_id": 6107222429
+      "task_id": 6107222429,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
