@@ -41031,6 +41031,17 @@
         0.0,
         0.0
       ]
+    },
+    "1416124904": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT516DLP",
+      "originals_sha256": [
+        "2d32aa8c48e0cc452fe507eecc8d9c139ccacbae385a3ba2b4907fb8e4f42066",
+        "ebf22c8a5b986a552280bc2e7ff9a101c124a02f4846406e33d250b176848df6",
+        "524981d202ec19f9d81c34969a3679320f252f4690f3a669aeec65a21b7369e8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
