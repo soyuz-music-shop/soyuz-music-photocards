@@ -46837,7 +46837,7 @@
       ]
     },
     "2202165680": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT831CD",
       "originals_sha256": [
@@ -46845,7 +46845,8 @@
         "8e9f0d3a3d5e37e8a0cf0b17fb86d5645429b95a7bc7e7bfbb664064733aec67",
         "1a3528697689a833bbbc9952a9898d0058aab17790ecdbbdd4f0c1bad89637e3"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110871099
     }
   },
   "reason": null,
