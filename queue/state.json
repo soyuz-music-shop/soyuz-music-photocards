@@ -49282,6 +49282,20 @@
         0.0,
         0.0
       ]
+    },
+    "2984310898": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NB 3831-9-1",
+      "originals_sha256": [
+        "e29baac4883d9ae9d20df2b202609da0bdad99723bf159cdd22c2289cd81b861",
+        "06fd4c08711feeb3cf52aab3254bbd51f642c3e102b16d4901002af7fea3a4e6",
+        "70bbbb8e55063b052ce5dd7e27fd103e0ba8148b91bba28de7602f73b8a2584c",
+        "e4bd68d22c76c6a7ffcc7b2380e99307549156b3e4c9a97d05b582420db660eb",
+        "db3b2b9ddf93eb22ce373d813be6de3c1e1b5d9cbfe6b82beab1126ed9c04c62",
+        "4a4be136425d97eef5185771d3c4638d9141c9db39b9daef3e1d1d139313d3b3"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
