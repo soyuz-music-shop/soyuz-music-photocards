@@ -32545,7 +32545,7 @@
       ]
     },
     "862099276": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MAS62774628",
       "originals_sha256": [
@@ -32553,7 +32553,12 @@
         "a6a8355b72d2c980ceecf2ff4ccde842dc5401502cd92baada27af26c336f31b"
       ],
       "before_count": 2,
-      "task_id": 6109244324
+      "task_id": 6109244324,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
