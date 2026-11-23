@@ -41298,7 +41298,7 @@
       ]
     },
     "1446873806": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SALVO387LPX1",
       "originals_sha256": [
@@ -41306,7 +41306,12 @@
         "07c698ff67cbf951b2bcdeb6b52c452b1fc021da3fec16b253b816509c3cd69d"
       ],
       "before_count": 2,
-      "task_id": 6110429823
+      "task_id": 6110429823,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
