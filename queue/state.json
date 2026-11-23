@@ -36443,6 +36443,16 @@
         0.0,
         0.0
       ]
+    },
+    "1081693300": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FS544929",
+      "originals_sha256": [
+        "238d7c6068b83d6fb9d8e187dd0f5b3238339ecd25c5de17f8551646fa2e8bba",
+        "e836e85a19ba8901a0bde4179b47de9791a2bee426f169fd5f789fa45fb10ddb"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
