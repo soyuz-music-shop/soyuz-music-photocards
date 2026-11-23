@@ -28766,6 +28766,18 @@
         0.0,
         0.0
       ]
+    },
+    "653200826": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DG37084229",
+      "originals_sha256": [
+        "a84d6e2bffe07fa0cda881c73bc32476630e241c19ca932f18e16b725cc16cf6",
+        "97c7ad6f68c915b5eec2b6360908d87335c8aed5a5833a53a7d7716cde4750ab",
+        "8942b610c19015ef2989043b08a329c66b06afb577871b137ba7a8daddff96e9",
+        "159fd727ec351eaaa2c36bb1da2ea48e8a5c25d9d16c92cb2c9c78fa2ad9db63"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
