@@ -25828,7 +25828,7 @@
       ]
     },
     "507999481": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "import-vinyl-info",
       "offer_id": "DAISLP184",
       "originals_sha256": [
@@ -25843,7 +25843,7 @@
       "task_id": 6107605849,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "508774487": {
       "status": "needs_review_gallery_pending",
