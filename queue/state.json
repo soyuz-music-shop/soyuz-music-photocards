@@ -26937,6 +26937,17 @@
         0.0,
         0.0
       ]
+    },
+    "557979935": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MH95264666",
+      "originals_sha256": [
+        "1b8df0e8d28f7d71f1a9a3b92980ee6c7c5f27914ac402450c88660a43646b25",
+        "e11298bed982f822f9845adfc38f6b05259066a09836bedd721cc51c4f8e8eba",
+        "43c8a2dbdac1569ddb390cd966fc50c02a0811247ffe01fb8937b8915296f733"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
