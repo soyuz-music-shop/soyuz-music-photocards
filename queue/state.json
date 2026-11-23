@@ -29895,7 +29895,7 @@
       ]
     },
     "727337614": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSTUMM164",
       "originals_sha256": [
@@ -29903,7 +29903,12 @@
         "69f1e35bb4246be33ea9d3b6d4c88c5fce41c15553fac4ca287e11e2fb5391e4"
       ],
       "before_count": 2,
-      "task_id": 6108951625
+      "task_id": 6108951625,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
