@@ -27140,7 +27140,7 @@
       ]
     },
     "564773134": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219971065",
       "originals_sha256": [
@@ -27149,7 +27149,12 @@
         "77a413c389af19aa3f460fbc7cce6e4523be47cd6000c54cb302b00fb7bbc0fe"
       ],
       "before_count": 3,
-      "task_id": 6108619084
+      "task_id": 6108619084,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
