@@ -29773,14 +29773,15 @@
       ]
     },
     "725280228": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BNM54092016",
       "originals_sha256": [
         "4ca45a3dd71f4670b8a577b0d532d8821c9464ad6781791675e4a15c18051798",
         "ae0c5b9323e0a089f4ac7e7041bcd9d073bcbe4dd238887c915e0c771e9a6af7"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108938624
     }
   },
   "reason": null,
