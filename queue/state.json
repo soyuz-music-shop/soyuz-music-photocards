@@ -28768,7 +28768,7 @@
       ]
     },
     "653200826": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DG37084229",
       "originals_sha256": [
@@ -28777,7 +28777,8 @@
         "8942b610c19015ef2989043b08a329c66b06afb577871b137ba7a8daddff96e9",
         "159fd727ec351eaaa2c36bb1da2ea48e8a5c25d9d16c92cb2c9c78fa2ad9db63"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108823966
     }
   },
   "reason": null,
