@@ -31980,6 +31980,17 @@
         0.0,
         0.0
       ]
+    },
+    "841366908": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT792DCD",
+      "originals_sha256": [
+        "b0146d865c49811faa0f1d5d9fce494fb0b87e2fc87d1d65a89cbd5163c9682b",
+        "cf3101aebb3ed208ff77b492ce09c2d0a0f61364803ff0ee491acd369d14ff14",
+        "41574abd453d55027613ad29efeab14ca9951470955d746df46269408202c1c3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
