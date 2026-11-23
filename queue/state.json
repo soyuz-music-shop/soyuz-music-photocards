@@ -30889,6 +30889,21 @@
         0.0,
         0.0
       ]
+    },
+    "758013025": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM101",
+      "originals_sha256": [
+        "8c9d0c21fe2a91e03e845785c986b2048a2219a66c6c04676a5d9aa4029306fe",
+        "f883851678d1133613fe77acf4fbdf801e4d0d416cbbbe7d8d8bd3df2f0a3d61",
+        "0e3162adce79ce7ff20c182846818ce87ed21c48290e70c53c70c7a0fd80d340",
+        "3de5907c0bb55b5249bfa3aa47d02ae0f907f41763ccc39406dc2681d2d3364f",
+        "e0f453c73b93de54d2b4c8e4205121341a179558e859caf0c84b5320c89a18eb",
+        "631f66cd493571338f6816e1f9bfed3f37220b9d2353cc15998673b595285d9d",
+        "6a5c9b56b5e7e3e70e2f0215143da92256a6fe47abf7543718acd7ff11658bdc"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
