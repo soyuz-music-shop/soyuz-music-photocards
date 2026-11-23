@@ -55433,7 +55433,10 @@
       ],
       "before_count": 1,
       "task_id": 6111643389,
-      "task_status": "rejected"
+      "task_status": "rejected",
+      "previous_status": "needs_review",
+      "error_type": "RuntimeError",
+      "reason": "Ozon import task not confirmed"
     }
   },
   "reason": null,
