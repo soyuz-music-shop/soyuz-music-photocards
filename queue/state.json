@@ -42742,7 +42742,7 @@
       ]
     },
     "1568376727": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LEDZ27957933",
       "originals_sha256": [
@@ -42750,7 +42750,12 @@
         "31e405756db617717f0db240cfcc0fc09a697e56e00a3305ae9b99a5a0407780"
       ],
       "before_count": 2,
-      "task_id": 6110556718
+      "task_id": 6110556718,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
