@@ -46318,13 +46318,14 @@
       ]
     },
     "2188115474": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IRMN97784309",
       "originals_sha256": [
         "3667bb4d894a51e4330d0d8d008dec4aa94543cd63555946911eac20bc38bf53"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110826591
     }
   },
   "reason": null,
