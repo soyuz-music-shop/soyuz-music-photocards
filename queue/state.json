@@ -29507,7 +29507,7 @@
       ]
     },
     "718776290": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MJ51209312",
       "originals_sha256": [
@@ -29516,7 +29516,12 @@
         "12c66b56fd232ce7237d1146a07b76b88d5a8a2582932d79505404f21b9c5bd2"
       ],
       "before_count": 3,
-      "task_id": 6108911182
+      "task_id": 6108911182,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
