@@ -44865,7 +44865,7 @@
       ]
     },
     "1864784642": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR65921",
       "originals_sha256": [
@@ -44874,7 +44874,12 @@
         "d0f5d4754963f22a07f65f5e335e3030a416ea859011bc0bd5485098b2c1fbd7"
       ],
       "before_count": 3,
-      "task_id": 6110706206
+      "task_id": 6110706206,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
