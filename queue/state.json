@@ -32640,7 +32640,7 @@
       ]
     },
     "864765891": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "1063417STUD",
       "originals_sha256": [
@@ -32648,7 +32648,12 @@
         "b5b7d7e597d192d60f29f53f124d00357997c265975c963c21bba291a5d69277"
       ],
       "before_count": 2,
-      "task_id": 6109254418
+      "task_id": 6109254418,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
