@@ -45051,7 +45051,7 @@
       ]
     },
     "1944741463": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 3273",
       "originals_sha256": [
@@ -45060,7 +45060,12 @@
         "389301ba31cc5ca48caae08d4729b14392727b5654a48328e8e7f72ee21fb301"
       ],
       "before_count": 3,
-      "task_id": 6110720519
+      "task_id": 6110720519,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
