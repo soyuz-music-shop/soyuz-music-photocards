@@ -36366,7 +36366,7 @@
       ]
     },
     "1080391175": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FOODLPX10",
       "originals_sha256": [
@@ -36374,7 +36374,12 @@
         "472b1be9dd8bd39d8924988e732e930e4d23183ea956eb630edc010f4ff83f92"
       ],
       "before_count": 2,
-      "task_id": 6109777142
+      "task_id": 6109777142,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
