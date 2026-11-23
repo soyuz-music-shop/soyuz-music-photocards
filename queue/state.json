@@ -52624,6 +52624,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277692": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP 90115",
+      "originals_sha256": [
+        "11bca71afb77295c1f2df95343f4310cd3549f2b935284c69d56c708e6ac58b5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
