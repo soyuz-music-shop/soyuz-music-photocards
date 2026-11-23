@@ -41884,7 +41884,7 @@
       ]
     },
     "1491358018": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CML45682966",
       "originals_sha256": [
@@ -41893,7 +41893,12 @@
         "8cf692760618b198319d4f8b030728ebd008b28681b7b396ddeb0cc52c70c892"
       ],
       "before_count": 3,
-      "task_id": 6110481332
+      "task_id": 6110481332,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
