@@ -27546,7 +27546,7 @@
       ]
     },
     "610632862": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SCP75933013",
       "originals_sha256": [
@@ -27554,7 +27554,12 @@
         "4d60ec775966f07be807313401ae19ccf41309ccf8fac49d0fa12b6ee09c699b"
       ],
       "before_count": 2,
-      "task_id": 6108674908
+      "task_id": 6108674908,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
