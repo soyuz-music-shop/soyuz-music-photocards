@@ -54702,14 +54702,19 @@
       ]
     },
     "3033386950": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MOCCD14498",
       "originals_sha256": [
         "3f9c117a1cf1d1d6ff1f6645ede17a716823fe5b48660532f9a2cc5646c24cde"
       ],
       "before_count": 1,
-      "task_id": 6111594638
+      "task_id": 6111594638,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
