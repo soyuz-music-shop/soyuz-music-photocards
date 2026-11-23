@@ -24944,7 +24944,7 @@
       ]
     },
     "481471384": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OZZ6977381829",
       "originals_sha256": [
@@ -24953,7 +24953,12 @@
         "116d97ac932333e6b8f2d1a1a91a1807cadc864cf637c7c42d1af5a1b236726c"
       ],
       "before_count": 3,
-      "task_id": 6107354085
+      "task_id": 6107354085,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
