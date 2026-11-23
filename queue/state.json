@@ -36731,14 +36731,15 @@
       ]
     },
     "1089320075": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ZEN279X",
       "originals_sha256": [
         "52c9f496d55bb039be8dbdd9b5e9c736b2ed1800d78566d9c415487b50b657d5",
         "89386d9eac832632ed234879a78a8b35f728de89f106dad8b93267f3c4dfa71f"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109838415
     }
   },
   "reason": null,
