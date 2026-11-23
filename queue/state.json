@@ -48651,7 +48651,7 @@
       ]
     },
     "2973331794": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YG012976",
       "originals_sha256": [
@@ -48659,7 +48659,12 @@
         "82a2b5aacd9f13c0f9659feb1a696e660ace7bc78e000092ad583cfb7bb69712"
       ],
       "before_count": 2,
-      "task_id": 6111013101
+      "task_id": 6111013101,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
