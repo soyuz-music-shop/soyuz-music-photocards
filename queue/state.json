@@ -34599,14 +34599,15 @@
       ]
     },
     "970748710": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TS48438034",
       "originals_sha256": [
         "6f35020abeef5976767935f8cf974819424faa6979a3a62e729dac148f7431b7",
         "5c850097fcd34414ffb4eccc5dc2cbbcdab912ab0a92ff3357a9d5c9544afe8d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109527400
     }
   },
   "reason": null,
