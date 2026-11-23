@@ -51852,6 +51852,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476288": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVATM091",
+      "originals_sha256": [
+        "0c04dbb2e17b0fafa4dcf98c0a020bcdb756cb9622ac8a77edd1cdabbed03588"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
