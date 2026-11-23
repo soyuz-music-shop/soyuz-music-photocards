@@ -39010,6 +39010,16 @@
         0.0,
         0.0
       ]
+    },
+    "1202371297": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BTF87198114",
+      "originals_sha256": [
+        "f453451f20b5f0cdccb1ded929456f27e8709686a519804ff788c40bf05b867d",
+        "0cd0293353b84d60dd3d9be4c0da1d64d13043aadbf0832f45f083d0b0370630"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
