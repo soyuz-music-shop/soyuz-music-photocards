@@ -43012,7 +43012,7 @@
       ]
     },
     "1596743426": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HR-62042-2",
       "originals_sha256": [
@@ -43025,7 +43025,12 @@
         "46f710c283342d0b5947fc2bcd71e2eeff28290d745506208ab28cd8ea988d2c"
       ],
       "before_count": 7,
-      "task_id": 6110577736
+      "task_id": 6110577736,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
