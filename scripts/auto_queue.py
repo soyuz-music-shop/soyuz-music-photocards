@@ -233,11 +233,11 @@ def set_status(state,pid,status,**extra):
     save_state(state,f"PhotoCards {pid}: {status}")
 
 def pause(state,pid,why):
-    state["phase"]="paused"
+    # A per-item failure is recorded, but never pauses the entire queue.
     state["reason"]=f"ID {pid}: {why}"[:240]
-    save_state(state,f"PAUSE PhotoCards queue: {pid}")
+    print("ITEM_REVIEW_ONLY",pid,str(why)[:150])
 
-def run_one(item,known,state):
+def _run_one_strict(item,known,state):
     pid=item["id"];offer=item["offer_id"];variant=item["variant"]
     if str(pid) in state["items"]:
         return "protected"
@@ -310,47 +310,70 @@ def run_one(item,known,state):
             pause(state,pid,"Verification read failed: "+type(exc).__name__)
         raise
 
+def run_one(item, known, state):
+    """Quarantine per-product errors, never repeat possibly accepted imports."""
+    pid = item["id"]
+    try:
+        return _run_one_strict(item, known, state)
+    except Exception as exc:
+        rec = state["items"].get(str(pid)) or {}
+        previous = str(rec.get("status") or "")
+        status = (previous if previous.startswith("needs_review") or
+                  previous == "unknown_after_submission"
+                  else "needs_review_interrupted" if previous in STOP_STAGES
+                  else "skipped_item_error")
+        # Failure to persist this status must propagate; never send the next item
+        # until it is durably clear whether this one might have been submitted.
+        state["phase"]="active"
+        state["reason"]=None
+        set_status(state,pid,status,previous_status=previous,
+                   error_type=type(exc).__name__,reason=str(exc)[:240])
+        print("ITEM_QUARANTINED_AND_CONTINUE",pid,status)
+        return "issue"
+
+
 def recover_imported(state, ids):
-    """Read-only gallery reconciliation after a durable imported status."""
-    pending=[(pid,rec) for pid,rec in state["items"].items()
-             if pid in ids and rec.get("status")=="imported"]
-    if not pending:
-        return
-    known=images()
-    for pid,rec in pending:
-        variant=rec.get("variant")
-        original_hashes=rec.get("originals_sha256") or []
-        before=rec.get("before_count")
-        if variant not in SAFE_VARIANTS or not isinstance(before,int) or len(original_hashes)!=before:
-            pause(state,int(pid),"Imported record lacks safe verification metadata")
-            raise RuntimeError("Cannot reconcile imported record without original hashes")
-        for _ in range(12):
+    """Recover interrupted imports with reads only, without resending."""
+    for pid, rec in list(state["items"].items()):
+        if pid not in ids or rec.get("status") not in STOP_STAGES:
+            continue
+        old_status = rec.get("status")
+        if old_status != "imported":
+            set_status(state,int(pid),"needs_review_interrupted",
+                       previous_status=old_status,
+                       reason="Uncertain or interrupted mutation, never automatically resend")
+            print("QUARANTINE_INTERRUPTED",pid,old_status)
+            continue
+        try:
+            variant=rec.get("variant")
+            count=rec.get("before_count")
+            hashes=rec.get("originals_sha256") or []
+            if variant not in SAFE_VARIANTS or not isinstance(count,int) or len(hashes)!=count:
+                raise RuntimeError("Missing safe verification metadata")
             info=photo_api.single(photo_api.post("/v3/product/info/list",
-                                                 {"product_id":[int(pid)]}))
+                                               {"product_id":[int(pid)]}))
             if str(info.get("id") or info.get("product_id"))!=pid or info.get("offer_id")!=rec.get("offer_id"):
-                pause(state,int(pid),"Imported record identity mismatch")
-                raise RuntimeError("Imported identity mismatch")
+                raise RuntimeError("Product identity changed")
             after=gallery(info)
-            if len(after)!=before+2:
-                time.sleep(5)
-                continue
-            if [hashlib.sha256(u.encode()).hexdigest() for u in after[:before]]!=original_hashes:
-                pause(state,int(pid),"Imported record original photo order changed")
-                raise RuntimeError("Imported original gallery changed")
+            if len(after)!=count+2 or [hashlib.sha256(u.encode()).hexdigest() for u in after[:count]]!=hashes:
+                raise RuntimeError("Originals or two new images not confirmed")
+            known=images()
             actual=[photo_api.thumb(photo_api.get(u)) for u in after[-2:]]
             d1=photo_api.dist(actual[0],known[variant+".png"])
             d2=photo_api.dist(actual[1],known["packaging.png"])
             if d1>=25 or d2>=25:
-                pause(state,int(pid),"Imported record visual mismatch")
-                raise RuntimeError("Imported images do not match approved templates")
-            set_status(state,int(pid),"verified",after_count=len(after),
-                       photo_distances=[round(d1,3),round(d2,3)],
-                       recovered_after_interrupted_run=True)
-            print("RECOVERED_VERIFIED",pid)
-            break
-        else:
-            pause(state,int(pid),"Imported gallery not confirmed after retry")
-            raise RuntimeError("Imported gallery not confirmed")
+                raise RuntimeError("Images differ from approved templates")
+        except Exception as exc:
+            set_status(state,int(pid),"needs_review_recovery",
+                       previous_status=old_status,error_type=type(exc).__name__,
+                       reason=str(exc)[:240])
+            print("QUARANTINE_RECOVERY",pid)
+            continue
+        set_status(state,int(pid),"verified",after_count=len(after),
+                   photo_distances=[round(d1,3),round(d2,3)],
+                   recovered_after_interrupted_run=True)
+        print("RECOVERED_VERIFIED",pid)
+
 
 def summary(known_total,state):
     counts=collections.Counter(x.get("status","?") for x in state["items"].values())
