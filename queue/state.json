@@ -34323,6 +34323,16 @@
         0.0,
         0.0
       ]
+    },
+    "915099543": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QN47202819",
+      "originals_sha256": [
+        "7fe2f24a4a4e2310f2e07743b639238e2c2096519e6490fc166f92cf6f5a5c56",
+        "8295f9cf96e1feece74ccc75eab544f073eede5b4c053af135829a69ee5ea656"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
