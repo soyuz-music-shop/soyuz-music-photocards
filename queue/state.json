@@ -23234,7 +23234,7 @@
       ]
     },
     "447071503": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WBRCD2",
       "originals_sha256": [
@@ -23242,7 +23242,8 @@
         "4327463428b542388bd728831e3aad9f6aa83b00cceaedcfb545f63e0d5269e3",
         "560d5b1787c3512a022bb39cdea9dafead8e280a807175e976f272db82ab608c"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6106991122
     }
   },
   "reason": null,
