@@ -34482,14 +34482,15 @@
       ]
     },
     "930443355": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM088LP",
       "originals_sha256": [
         "10772d88da507e2356e80a4316e297e82d539142aa7f66a5b1fc4875c11af3b2",
         "36d94870b5cd300e2564ad673fb9850313704e2ce43acbdc8dae941513a374a6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109508817
     }
   },
   "reason": null,
