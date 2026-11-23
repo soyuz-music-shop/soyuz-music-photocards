@@ -28684,7 +28684,7 @@
       ]
     },
     "650257539": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4640219975407",
       "originals_sha256": [
@@ -28693,7 +28693,12 @@
         "70e3dd2263592e192c7e4ef4219c560894d2fa4890aa89fc996477048b807687"
       ],
       "before_count": 3,
-      "task_id": 6108813384
+      "task_id": 6108813384,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
