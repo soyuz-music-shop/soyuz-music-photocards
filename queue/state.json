@@ -53844,6 +53844,16 @@
         0.0,
         0.0
       ]
+    },
+    "3032012834": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PA953751",
+      "originals_sha256": [
+        "eee73943f8a9cd08e38a2a489ac4f24d42d0a4f7268a6c3c7421ca6130be4f5c",
+        "1076fe19c9d32e05c8789b3b06ba0ae9411bf9125cd5ccd54541cd0418b90b6d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
