@@ -31819,7 +31819,7 @@
       ]
     },
     "838796735": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CR00703",
       "originals_sha256": [
@@ -31832,7 +31832,8 @@
         "dd7907b310d20191772b9d7449bc0c0785f38f5590ae0ddb45f3bb4da6698e63",
         "caa526d6e37ed5a3259716a0537a64c3e227f3c9a0c23c5704b3dbebd78eb91a"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6109158014
     }
   },
   "reason": null,
