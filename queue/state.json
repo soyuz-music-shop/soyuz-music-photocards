@@ -24716,6 +24716,21 @@
         0.0,
         0.0
       ]
+    },
+    "478481080": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLCKND008RD-1",
+      "originals_sha256": [
+        "e9081f9138498bcfb0809ec09bb28e8e681d37504b3af2fe09e0e481c5b49c54",
+        "15cd7634c111ea710a9e593f53de9adf96ae026ed01ee20891abaa93af877734",
+        "0b34ab6b9ac4fbb53e316a381db62599b8dd596a8600db9cfd2782bc1a0a6f27",
+        "cc97ddd07e34e031cc0eb1dc8bbc0e0e94e0015901e83a87bfb8ce86146da3c9",
+        "1a87fdf6b76af0d4d15ac10b47540a600a333613489a388584e748e7d63c5f39",
+        "b5312046a614d40ba5ee435a7fada6b3d53a3947e38467643e99a7de2daa8a4a",
+        "494185eff5fab73b2d5f8ab4d7e9b5abba82f1b8d1e46c4e467c525d9773dc5a"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
