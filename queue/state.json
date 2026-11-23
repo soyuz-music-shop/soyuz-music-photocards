@@ -36541,7 +36541,7 @@
       ]
     },
     "1084168647": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GD922810",
       "originals_sha256": [
@@ -36550,7 +36550,12 @@
         "660cb1a17f24581e80ba6f8c518e039c5c29b9269f64e9914f53dc04465926ec"
       ],
       "before_count": 3,
-      "task_id": 6109806280
+      "task_id": 6109806280,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
