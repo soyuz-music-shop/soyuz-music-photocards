@@ -35187,14 +35187,15 @@
       ]
     },
     "1022491215": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NOISE2LP047",
       "originals_sha256": [
         "980d253321551f09d43251fd5e06b71e039932a00c888c1531b1494365f2e23a",
         "02a71760534510c12c7c70db30b3ae581c58c7cd6881d6f3d0ab27b73971a03d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109596327
     }
   },
   "reason": null,
