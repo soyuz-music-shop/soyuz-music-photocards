@@ -48700,7 +48700,7 @@
       ]
     },
     "2974271153": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RI 727668",
       "originals_sha256": [
@@ -48708,7 +48708,12 @@
         "08096c1510d5727c4fc4de1a7714fb245d0ec7cbf5eb9c994d1460aca03fed5c"
       ],
       "before_count": 2,
-      "task_id": 6111016126
+      "task_id": 6111016126,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
