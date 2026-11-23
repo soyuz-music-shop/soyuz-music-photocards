@@ -35467,7 +35467,7 @@
       ]
     },
     "1043724416": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SLD710528",
       "originals_sha256": [
@@ -35476,7 +35476,8 @@
         "66775018fcd906547d1cf506b889f2073149a9e31d769f698c82af4052d67a10",
         "ec8c0ee5006bc7c1e5cc7544652f8af7bc96098fe6d5b1159f6f77166b21c650"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109637415
     }
   },
   "reason": null,
