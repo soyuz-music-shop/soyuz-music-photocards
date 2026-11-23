@@ -35137,14 +35137,15 @@
       ]
     },
     "1018279440": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB 4860-1",
       "originals_sha256": [
         "c64ae11b189dd32cff53300cd5e4f312c5dad8930dcd784b4ca0eb658710ac43",
         "be85c6316da1df9a35cb454c1584287ffb65b9f8c129b636c1b6f54de7d0feb8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109590133
     }
   },
   "reason": null,
