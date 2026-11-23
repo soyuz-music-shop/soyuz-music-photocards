@@ -28222,7 +28222,7 @@
       ]
     },
     "629098454": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RS71212010",
       "originals_sha256": [
@@ -28230,7 +28230,12 @@
         "e35f2f823e16ea51400315151c7d9fa33e54e7d5ca9ed1fa51746b650a9c3231"
       ],
       "before_count": 2,
-      "task_id": 6108764739
+      "task_id": 6108764739,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
