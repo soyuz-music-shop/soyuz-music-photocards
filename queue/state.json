@@ -41695,6 +41695,17 @@
         0.0,
         0.0
       ]
+    },
+    "1487068213": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KLMG38925692",
+      "originals_sha256": [
+        "44c35d0dd5dacec7164b9467bb6ad21ff792f8873256716afb8ca2dca7a98031",
+        "75920f46883b21b6362108716271757ad8b12f1babf4db02eff2ec497db81cdd",
+        "9055510d3623c1677b0d046c792c80ede3231b0d4042dde02982ac3464480c6f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
