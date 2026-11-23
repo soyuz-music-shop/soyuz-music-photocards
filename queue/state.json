@@ -26566,6 +26566,16 @@
         0.0,
         0.0
       ]
+    },
+    "545401535": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NZ38801422",
+      "originals_sha256": [
+        "41774b2dc37e1d3332ed717a28cc175b7d204c3cc7ec5cccfb14b85a4c44c626",
+        "415c8baa7c58eb9455bc20bd359dc03b2d34071196fbe86a180fdbee3c96a4b2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
