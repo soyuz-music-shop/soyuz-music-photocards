@@ -42812,7 +42812,7 @@
       ]
     },
     "1572609560": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IPC271LP1",
       "originals_sha256": [
@@ -42821,7 +42821,12 @@
         "dfc18667f4703bfa5018c2bb3fc35b670e9005d44cce6eab52724d19f640e6db"
       ],
       "before_count": 3,
-      "task_id": 6110562442
+      "task_id": 6110562442,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
