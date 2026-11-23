@@ -44411,7 +44411,7 @@
       ]
     },
     "1776746809": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AMIS81704616",
       "originals_sha256": [
@@ -44419,7 +44419,8 @@
         "0a6589198bdce9011f92403220903a4ca583d5a3afd3582e06e1cf0f65ee514a",
         "69d0b2d58b90cd6d426b97b57571ce452465db4544fb5ba4e9c6a700d7370aee"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110671123
     }
   },
   "reason": null,
