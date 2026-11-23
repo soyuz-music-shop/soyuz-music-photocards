@@ -53584,6 +53584,16 @@
         0.0,
         0.0
       ]
+    },
+    "3018251751": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NU475310",
+      "originals_sha256": [
+        "c8c23665aedf5825cc9771ff7282cae1150b74b998b42b324de93f7ca0dd6594",
+        "0668096959eee36ec5ffe6a19433bfaa59e71faad290f0e49a278ad714aebf09"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
