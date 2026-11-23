@@ -43103,7 +43103,7 @@
       ]
     },
     "1601828081": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "B0014690-02",
       "originals_sha256": [
@@ -43112,7 +43112,12 @@
         "531caa3ea132587477fe926ece851690d0326945dab1a67b09c3e6729d0c4887"
       ],
       "before_count": 3,
-      "task_id": 6110584845
+      "task_id": 6110584845,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
