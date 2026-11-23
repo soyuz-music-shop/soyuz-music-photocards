@@ -29773,7 +29773,7 @@
       ]
     },
     "725280228": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM54092016",
       "originals_sha256": [
@@ -29781,7 +29781,12 @@
         "ae0c5b9323e0a089f4ac7e7041bcd9d073bcbe4dd238887c915e0c771e9a6af7"
       ],
       "before_count": 2,
-      "task_id": 6108938624
+      "task_id": 6108938624,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
