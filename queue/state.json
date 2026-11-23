@@ -33526,6 +33526,16 @@
         0.0,
         0.0
       ]
+    },
+    "875406793": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP720",
+      "originals_sha256": [
+        "e3692e6e4412aa818b78dff49d6557d005c1cffab5ee5d8a9b809e677066e860",
+        "64159e57e3635d09c794ae6312b57dfff989aafeb503345013f642b3250f2d77"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
