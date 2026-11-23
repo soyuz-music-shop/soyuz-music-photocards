@@ -1,5 +1,6 @@
 name: SOYUZ PhotoCards — автоматическая очередь до конца каталога
-# Resume after interrupted import; worker verifies gallery before any new Ozon write.
+# Individual product errors are quarantined, reported, and never automatically retried.
+# Restart guarded queue after successful 17-test validation on 2026-11-23.
 
 on:
   workflow_dispatch:
