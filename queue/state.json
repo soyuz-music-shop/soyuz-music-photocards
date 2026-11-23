@@ -33350,7 +33350,7 @@
       ]
     },
     "871116873": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AHA27951313",
       "originals_sha256": [
@@ -33358,7 +33358,8 @@
         "5e711f4ead092bee0b919692fd251289f17c226f779ce7b5917a7bf9a2e91aad",
         "aa728aad9a9ef7e2990ca99e4ed5e265da988d44c5d06c65b064310c94c47c4f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109345496
     }
   },
   "reason": null,
