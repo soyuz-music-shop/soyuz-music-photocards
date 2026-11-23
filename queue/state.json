@@ -46911,7 +46911,7 @@
       ]
     },
     "2210435197": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR-65141TBL",
       "originals_sha256": [
@@ -46919,7 +46919,8 @@
         "0dc1def92c6247c90b35550ba94bd08aefcf57a5be7d6b056fa09046c40757fb",
         "ba9ad6f76cb1c20291a712ffb21511fcbd325b8903161483b740ff511725a6ff"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110876487
     }
   },
   "reason": null,
