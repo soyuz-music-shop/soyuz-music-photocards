@@ -46787,7 +46787,7 @@
       ]
     },
     "2202113010": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DL32410917",
       "originals_sha256": [
@@ -46795,7 +46795,8 @@
         "cf2835c926fe7dbba21562b87e01719b2e6c6f1af796b209cfe8fdb9bcd0fd39",
         "949f6b8c81b786d0c0f2e44802dd9d9337d01967105b16b0dc8d87b7d99fa241"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110867739
     }
   },
   "reason": null,
