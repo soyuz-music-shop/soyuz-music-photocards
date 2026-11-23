@@ -35383,7 +35383,7 @@
       ]
     },
     "1040818895": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NPR1224VINYL",
       "originals_sha256": [
@@ -35391,7 +35391,12 @@
         "6ab32208a2b0814ae1c51959be31689616339fde88509fb19a8d3ca9cd347359"
       ],
       "before_count": 2,
-      "task_id": 6109624897
+      "task_id": 6109624897,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
