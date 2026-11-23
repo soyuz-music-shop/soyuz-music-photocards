@@ -45552,13 +45552,14 @@
       ]
     },
     "2153691803": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IF-121LP",
       "originals_sha256": [
         "61c71de88b43807a522a11c6057cf89324a55bf0b99e6802b7b3433762802efa"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110759649
     }
   },
   "reason": null,
