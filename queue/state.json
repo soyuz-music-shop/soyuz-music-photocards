@@ -27793,6 +27793,16 @@
         0.0,
         0.0
       ]
+    },
+    "616574606": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LNP24880974",
+      "originals_sha256": [
+        "7c98e3d93271531e37cb56aec4df3c55f33aeac17f997277e272436a5d35d8c9",
+        "17ca5503e54aadef3a7d6682c3f670c90e89eec302c49dfb1285c39849ac1dfe"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
