@@ -28786,7 +28786,7 @@
       ]
     },
     "653243333": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DG37084328",
       "originals_sha256": [
@@ -28794,7 +28794,8 @@
         "f2aa70950cf8754fc0a39237cbd894c1a76819f9f4f5d03ea83dad672c44580f",
         "1e5b99c73170ce2e207db62835885e1e6c04ca5814656f3ed9662283805240cf"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108826021
     }
   },
   "reason": null,
