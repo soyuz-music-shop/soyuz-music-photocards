@@ -33958,6 +33958,18 @@
         0.0,
         0.0
       ]
+    },
+    "898239335": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNM-123-1W",
+      "originals_sha256": [
+        "d0ef2d48a207909516cf75ee4d6070e381534ab8b0302a374b3d8a8ebff1b3d8",
+        "916f71cb76ba6be4282aa10f263d2292d38e130e69264765382e8dfa8e81f85a",
+        "bbb62e6372fd4e016ee84c740c3141a2cb0d5d221e8989fc47e6fbc6b3461c0b",
+        "c0a2fbc74d9208a3c1074dbdbd6b9918adb840a0bd1d5cc6e347ede969f7a438"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
