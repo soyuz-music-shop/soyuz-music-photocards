@@ -27881,6 +27881,18 @@
         0.0,
         0.0
       ]
+    },
+    "618597446": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LRCSTUMM255",
+      "originals_sha256": [
+        "02dbb1accf4abb4a1d9fcb60e1595144760d86a24ba2f27d1ab4553c5ab5570a",
+        "35910c4b973f8186c775d81566611af8875b92224e2862f2a177ecc352466704",
+        "0e03b0aef539bf28a564984128cbb37a096b74899524adce34b1c03d020f45a4",
+        "29ea01932f7250307828a70a1857dc8ae62e28634a8c12e1402bfdd5cf744c61"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
