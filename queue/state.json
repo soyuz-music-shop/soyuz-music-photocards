@@ -36661,6 +36661,16 @@
         0.0,
         0.0
       ]
+    },
+    "1087294331": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BLCKND036R-1",
+      "originals_sha256": [
+        "414ee5d822225b0b13d54372f04f5d7122000389a79cd76e6d75317ca2ba4bbd",
+        "5bf62854b3e5e58d3e6899053565f30762af7734d21857c8585c436cf5e37a80"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
