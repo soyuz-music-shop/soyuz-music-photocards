@@ -23601,7 +23601,7 @@
       ]
     },
     "450025098": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R562035",
       "originals_sha256": [
@@ -23610,7 +23610,12 @@
         "9b52f70a48f22cb65d2499b6d4a66837acd7c868e87c8fda6f3e074b82d6ff70"
       ],
       "before_count": 3,
-      "task_id": 6107068872
+      "task_id": 6107068872,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
