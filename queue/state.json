@@ -54253,14 +54253,19 @@
       ]
     },
     "3033137521": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SL838829",
       "originals_sha256": [
         "5c3a160bc696e8ebc9830eadc0488ec68fd7602daa7953ccfb748ac19bd05851"
       ],
       "before_count": 1,
-      "task_id": 6111560616
+      "task_id": 6111560616,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
