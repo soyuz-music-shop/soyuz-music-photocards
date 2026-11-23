@@ -47267,7 +47267,7 @@
       ]
     },
     "2354606534": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ABAG53511060",
       "originals_sha256": [
@@ -47276,7 +47276,12 @@
         "036231bce516f1ce54b74b549f8708ae893812e249d7d137a9c4b9ecffeb12c3"
       ],
       "before_count": 3,
-      "task_id": 6110906054
+      "task_id": 6110906054,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
