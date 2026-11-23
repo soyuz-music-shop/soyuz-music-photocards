@@ -25826,6 +25826,20 @@
         0.0,
         0.0
       ]
+    },
+    "507999481": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAISLP184",
+      "originals_sha256": [
+        "b6df38d6ba71388819c6959bda39bab95e74a750419c107d88a6487361f6fcd3",
+        "471de986acaa20b115a54b18cd947ff793a9fcedfdbb34fb6dcbd8064a0bbda3",
+        "99e3d6f5870569393f8dea6d7ea752135e464e95c9fa66d5ff1f2b863dafd9f4",
+        "b1b72d16f0c751ce925cbcf96cf90973d13b1e4fb67af1a3dbcb91278ba0450a",
+        "92fc4ab3ec705b54026c4362fd3ba097e496447ff4914cf4d8a87082a3dbacfe",
+        "5ce00a8ddfeb8dd150832e916005797629c058779be6b73270a48275bf64b0fa"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
