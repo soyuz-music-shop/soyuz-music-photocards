@@ -23942,7 +23942,7 @@
       ]
     },
     "453281541": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3019B",
       "originals_sha256": [
@@ -23950,7 +23950,12 @@
         "549c2584fb0c3c06a55c582b9753c94b41a3dbb7eb3cca51e58b3bf0eba309c8"
       ],
       "before_count": 2,
-      "task_id": 6107147582
+      "task_id": 6107147582,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
