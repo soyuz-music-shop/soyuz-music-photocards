@@ -31243,6 +31243,17 @@
         0.0,
         0.0
       ]
+    },
+    "780368688": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4640219977678",
+      "originals_sha256": [
+        "08150e3d6c45c416b12d606bf6ca08ca44546dc74c626f8bb71e654a4166c318",
+        "84c20c90b6526fd0b05cfd9ef4f75a4511f94172eb96404a5b1be9da1c235fc0",
+        "c3b5255bb0053e733f58688527d2c77b9472945300b826fcada74b0f3cb980c6"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
