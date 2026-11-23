@@ -34256,6 +34256,16 @@
         0.0,
         0.0
       ]
+    },
+    "914932113": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT806LP",
+      "originals_sha256": [
+        "d9969bdbf260271a06f017a2eab64200a4072726644c31178d948bac7647c49d",
+        "87886818843270f42dc08ca1f5f4653715fa9db991714ddafdb9b2b9a1c1ed32"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
