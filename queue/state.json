@@ -35908,7 +35908,7 @@
       ]
     },
     "1066899603": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TPLP359",
       "originals_sha256": [
@@ -35918,7 +35918,12 @@
         "6275389bca400cbdd24290c37c754e281ba098485f0cfe592b82adfec6e520db"
       ],
       "before_count": 4,
-      "task_id": 6109707109
+      "task_id": 6109707109,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
