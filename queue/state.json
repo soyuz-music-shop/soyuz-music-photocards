@@ -33415,7 +33415,7 @@
       ]
     },
     "873875111": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RMM-052-1",
       "originals_sha256": [
@@ -33423,7 +33423,12 @@
         "ad830372c92457a420819bebcdc11039ac2dd5436dbcd11c51cd592c6ae70765"
       ],
       "before_count": 2,
-      "task_id": 6109353036
+      "task_id": 6109353036,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
