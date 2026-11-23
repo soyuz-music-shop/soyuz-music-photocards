@@ -32673,14 +32673,15 @@
       ]
     },
     "864863283": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "fixcd 20",
       "originals_sha256": [
         "cc1aabddab0fdb91e444cbee2be9d07878cb664ccccf142e6227027f3d754c8a",
         "ea9d7425a602f3df64cfafa546467d541459c2d5fa5e0db1b8015247a430e899"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109257837
     }
   },
   "reason": null,
