@@ -30648,7 +30648,7 @@
       ]
     },
     "756494025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LCDSTUMM106",
       "originals_sha256": [
@@ -30657,7 +30657,12 @@
         "b58358c6e6a88295516e03614cff01ca904082b8f539bf00befdfa4422005600"
       ],
       "before_count": 3,
-      "task_id": 6109024547
+      "task_id": 6109024547,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
