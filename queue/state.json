@@ -40144,7 +40144,7 @@
       ]
     },
     "1248297619": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TRSOH71212614",
       "originals_sha256": [
@@ -40152,7 +40152,12 @@
         "2f3a3634cb5f7ac83b26751450b489d5bea8c6526da0d94d6b531ace5fb93f06"
       ],
       "before_count": 2,
-      "task_id": 6110278265
+      "task_id": 6110278265,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
