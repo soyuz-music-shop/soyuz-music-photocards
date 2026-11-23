@@ -54361,14 +54361,19 @@
       ]
     },
     "3033137632": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RM297421",
       "originals_sha256": [
         "818439ebde3b7e9e456ed0dbbd4c34878cb656772f1beec0ed2275a09433ee29"
       ],
       "before_count": 1,
-      "task_id": 6111568099
+      "task_id": 6111568099,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
