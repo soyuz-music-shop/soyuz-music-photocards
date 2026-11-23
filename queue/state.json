@@ -54163,14 +54163,19 @@
       ]
     },
     "3032899379": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "B002019702",
       "originals_sha256": [
         "9e260de5666a84cdb1ca5e094b8d2e3eb03ad0ae600f006bb331a4128bad79dd"
       ],
       "before_count": 1,
-      "task_id": 6111554220
+      "task_id": 6111554220,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
