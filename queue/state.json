@@ -24023,6 +24023,17 @@
         0.0,
         0.0
       ]
+    },
+    "456343460": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CLD7032517",
+      "originals_sha256": [
+        "34e8cf1ece410b8752f8d87ce38bf738ae29dc9e8ba201a5d4d2c75a5f76239a",
+        "afdd0170e47171dbb7c1a418d4c0cb577f70d1baa3cafa871d3e3048428a95bc",
+        "3828a1477c9e4049effa5542bca073cde175773eb1cdef3fea76a4e7a7cb20ef"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
