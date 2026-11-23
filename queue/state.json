@@ -45116,6 +45116,17 @@
         0.0,
         0.0
       ]
+    },
+    "1953550827": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SHTWN57010244",
+      "originals_sha256": [
+        "573d3625f9e0101cd0588ba7e56f0104b0ea20761ced1e34ef1e17236b1875ee",
+        "45def334f19a345386d937bbfa47d100bc678cf6559187bf25c78f6a90ea3268",
+        "fe060b0786b170a4e76cfccff5394f6c01032837ea134a0a3c9fe4ad8ba047ee"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
