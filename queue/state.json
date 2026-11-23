@@ -41579,6 +41579,17 @@
         0.0,
         0.0
       ]
+    },
+    "1467378894": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT528CDX",
+      "originals_sha256": [
+        "32cbc172affbf95f33db4271ba086461c792ab1be74765d7930356ae1cbd1722",
+        "a868aa79d04388434f40354897c237354c5580735121f1ec333a69900d03d731",
+        "b198085ceadd313c23e41bb91cab73a1b68f0f533ec9e46819e8bcb44e75a6a9"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
