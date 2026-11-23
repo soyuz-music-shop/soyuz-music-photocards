@@ -30012,6 +30012,17 @@
         0.0,
         0.0
       ]
+    },
+    "730444596": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GM70090025",
+      "originals_sha256": [
+        "edcba042d5504b93f83a3ec9b2c547be07fd6068454e6ee7ff9f01d7cb5d3d5a",
+        "3cd37e06bc54b83ecbc78a633d6ea434499807bb33ad0597bd47ddcf706d74f1",
+        "6de0f43067a45846b465de89f0f531eab57979c8e88e4b72efc691ade64ba2ea"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
