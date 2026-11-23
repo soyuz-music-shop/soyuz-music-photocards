@@ -45350,14 +45350,19 @@
       ]
     },
     "2153660833": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSEEDS15",
       "originals_sha256": [
         "f567ad0322b8db35d0c6949604db85a6204641d264b76f1b5965b8286a9516c5"
       ],
       "before_count": 1,
-      "task_id": 6110743783
+      "task_id": 6110743783,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
