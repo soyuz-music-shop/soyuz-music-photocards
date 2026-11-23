@@ -45218,7 +45218,7 @@
       ]
     },
     "2026187390": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAIS230",
       "originals_sha256": [
@@ -45226,7 +45226,8 @@
         "9efb6dfa761a9b1925da14d42bbefdf1dc363e56e9b9e7280b60f331d01560fc",
         "66b9729ab48beb423a82fae1405ca3979a052ef3724b68d1f3cc46648fcfbc2b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110734832
     }
   },
   "reason": null,
