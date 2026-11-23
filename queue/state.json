@@ -26568,7 +26568,7 @@
       ]
     },
     "545401535": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NZ38801422",
       "originals_sha256": [
@@ -26576,7 +26576,12 @@
         "415c8baa7c58eb9455bc20bd359dc03b2d34071196fbe86a180fdbee3c96a4b2"
       ],
       "before_count": 2,
-      "task_id": 6108535835
+      "task_id": 6108535835,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
