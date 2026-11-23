@@ -23852,6 +23852,17 @@
         0.0,
         0.0
       ]
+    },
+    "452017614": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BE557919486",
+      "originals_sha256": [
+        "f8d181bddab4d29f3cd7d9fb162f01c4edbd5d7e5ca570c2d0076a1122ab0c70",
+        "3d5af0bceb68e92d80e8344bea4e0ea0e6212cbcbc8a91383a6545d4cd31eb84",
+        "1627788ff443bf7495cafc256f14437955e2ab5be3397e33f51a244a2f19e4b7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
