@@ -30231,7 +30231,7 @@
       ]
     },
     "737772365": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ARS55248671",
       "originals_sha256": [
@@ -30239,7 +30239,12 @@
         "90099ce2af014d13bf5f99ed85b6e5bb2c9fc00d672b13406f528a245c5d7722"
       ],
       "before_count": 2,
-      "task_id": 6108984132
+      "task_id": 6108984132,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
