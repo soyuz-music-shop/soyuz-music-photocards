@@ -23666,7 +23666,7 @@
       ]
     },
     "450114386": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD162E",
       "originals_sha256": [
@@ -23675,7 +23675,12 @@
         "fe60fa03c73928106acd1f9162a544a5cb68b77cc0ee234035a8bb9fa1fd0500"
       ],
       "before_count": 3,
-      "task_id": 6107091066
+      "task_id": 6107091066,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
