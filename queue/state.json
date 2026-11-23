@@ -41193,7 +41193,7 @@
       ]
     },
     "1443748880": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GM28093019",
       "originals_sha256": [
@@ -41203,7 +41203,12 @@
         "26d7579a59b47f8f8f6146e594290e7a8eabc51222ee0f7ec346650d3fe2bd6f"
       ],
       "before_count": 4,
-      "task_id": 6110420336
+      "task_id": 6110420336,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
