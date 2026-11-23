@@ -36996,7 +36996,7 @@
       ]
     },
     "1091695930": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OJC-021",
       "originals_sha256": [
@@ -37004,7 +37004,12 @@
         "f8309b27c1d6458027aa3175ff5d2b444252be31e86795329e770ed7f3d35335"
       ],
       "before_count": 2,
-      "task_id": 6109877954
+      "task_id": 6109877954,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
