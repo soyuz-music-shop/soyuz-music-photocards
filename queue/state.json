@@ -24994,7 +24994,7 @@
       ]
     },
     "482190306": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PRO0538426281",
       "originals_sha256": [
@@ -25002,7 +25002,12 @@
         "0205337874d8fe8ababa8f0779dc68f71fae77c535fca49ed0c0345b47887d58"
       ],
       "before_count": 2,
-      "task_id": 6107365388
+      "task_id": 6107365388,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
