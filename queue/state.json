@@ -26872,7 +26872,7 @@
       ]
     },
     "557795408": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT248DLP",
       "originals_sha256": [
@@ -26880,7 +26880,8 @@
         "60ad829db672671c368829afb188d569bd397bfabf51de8f8a28b51eb3008faa",
         "fb158a33cd69c72fe908f458c58047cef6f1d19a992fd9142094077e9c217e64"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108582839
     }
   },
   "reason": null,
