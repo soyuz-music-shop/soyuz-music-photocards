@@ -27189,13 +27189,14 @@
       ]
     },
     "565882524": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT378TLP",
       "originals_sha256": [
         "dc8902d8ce4face546697d9b22a678bcef2163c407f6dadfd37e9e394d7f6fe1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6108627470
     }
   },
   "reason": null,
