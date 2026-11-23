@@ -31599,6 +31599,20 @@
         0.0,
         0.0
       ]
+    },
+    "808989202": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNM-603-1",
+      "originals_sha256": [
+        "0c1b54372f000f81d0187360c59dcbb44e462ff2eff77820048e0991b7f045b8",
+        "ffdb98de4845ea2d99e7b2e15b834f3c9415008e45412589021654796c81f908",
+        "ebdf57364138d10626a277ff8ea5dc5271e61a32bca83884ad3712a51838c7d6",
+        "59f12f00798a07c8c479beddcaf73e26ff98fea6d57a9c48a43a5aef0f01621d",
+        "be1191d8abf9994a456318bcb2a9f8714c45e5c59f750f1e27adb50106d7736b",
+        "4a7d7516b938679fb04574ef91dad27893f22b8acf9bee34158e19d3aef69668"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
