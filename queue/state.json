@@ -34448,7 +34448,7 @@
       ]
     },
     "930044633": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PFR21",
       "originals_sha256": [
@@ -34458,7 +34458,12 @@
         "7f3bfa9a806dc9e7c0cf28fae6f40a8b953dffd87670fc98064f40266652ffb5"
       ],
       "before_count": 4,
-      "task_id": 6109504321
+      "task_id": 6109504321,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
