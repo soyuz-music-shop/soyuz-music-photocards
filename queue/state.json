@@ -41630,7 +41630,7 @@
       ]
     },
     "1471059381": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MRCY88048814",
       "originals_sha256": [
@@ -41639,7 +41639,12 @@
         "a8a70ed88a78daf456978d0244a99aa6cd5273a01c5666094e6ed707e93aee84"
       ],
       "before_count": 3,
-      "task_id": 6110459745
+      "task_id": 6110459745,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
