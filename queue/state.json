@@ -55857,14 +55857,15 @@
       ]
     },
     "3130403890": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SGVNY145",
       "originals_sha256": [
         "9a5b96ae7be83129d853aee29535214d778cec69d9d53d49988e9d85f87d2b2c",
         "d40f315d2d40054f329aec2123416fc732056190716bf83b64a4f15671d6deab"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111667607
     }
   },
   "reason": null,
