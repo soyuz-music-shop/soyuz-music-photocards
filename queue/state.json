@@ -44546,14 +44546,15 @@
       ]
     },
     "1797826028": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EMC 3372",
       "originals_sha256": [
         "89b7a5cecf6a99b512f882d68c026d8d1ed89d52639aaf7d8e631559e6c36374",
         "201fe6d36ed02dc51c2f75d60480cd80bb0001a5a00d2a8955c126be3ce6237e"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110681098
     }
   },
   "reason": null,
