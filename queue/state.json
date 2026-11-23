@@ -35315,6 +35315,16 @@
         0.0,
         0.0
       ]
+    },
+    "1034622482": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDV 2848",
+      "originals_sha256": [
+        "a39d3a95a78d735ecc58f8f85a6b24d166ae0074fbba31914004cf89cbc9c7b1",
+        "6fdb6c91e2050acc946fe36368af4a69e5fbd91f0455cdd4c2714090269fed4e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
