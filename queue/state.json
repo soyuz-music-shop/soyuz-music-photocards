@@ -41512,7 +41512,7 @@
       ]
     },
     "1467018804": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDXSTUMM138",
       "originals_sha256": [
@@ -41520,7 +41520,12 @@
         "77a0b069a9da49aa4e31dad2ce8570eef74b05c2e9126ee87d3a267eeb094a32"
       ],
       "before_count": 2,
-      "task_id": 6110448831
+      "task_id": 6110448831,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
