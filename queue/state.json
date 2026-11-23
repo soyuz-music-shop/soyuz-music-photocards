@@ -33383,13 +33383,14 @@
       ]
     },
     "873789109": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LSTUMM59",
       "originals_sha256": [
         "edf99f04db1f120854677dd20107eb0dc780fd378019a0f6a2408b42a25c4150"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6109349091
     }
   },
   "reason": null,
