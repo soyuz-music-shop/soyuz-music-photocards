@@ -40093,7 +40093,7 @@
       ]
     },
     "1247279174": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PCS 7027",
       "originals_sha256": [
@@ -40104,7 +40104,12 @@
         "1b40294fc089af784443eff4f23df8a1864780a47625d36e40c521a60cd22a11"
       ],
       "before_count": 5,
-      "task_id": 6110272011
+      "task_id": 6110272011,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
