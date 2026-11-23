@@ -34684,7 +34684,7 @@
       ]
     },
     "996054309": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GME 999",
       "originals_sha256": [
@@ -34694,7 +34694,12 @@
         "a71e2a6585a9c5909f2f2eb16c7560689e2243951f0d5389f4ac748baa9aa490"
       ],
       "before_count": 4,
-      "task_id": 6109536412
+      "task_id": 6109536412,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
