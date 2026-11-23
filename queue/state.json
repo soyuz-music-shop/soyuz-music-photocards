@@ -27406,6 +27406,17 @@
         0.0,
         0.0
       ]
+    },
+    "584145735": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2695447",
+      "originals_sha256": [
+        "8ffc8cf1e811f48ba95191b83ad8ca25c9160d481fcaa9d7aae712c9edfaaf4f",
+        "64baf4b9afc42ced9ecb26b21119fb5af8a1478640b447ff8dc0dea0d3094890",
+        "ef6cedd399a96e70e9209f5438aa9266c0daade7cd90c002e93272d0c1cfa8b7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
