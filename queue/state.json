@@ -26187,6 +26187,16 @@
         0.0,
         0.0
       ]
+    },
+    "528855835": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NCWE39801024",
+      "originals_sha256": [
+        "225d6c1e83a4de9398f4ee0433476e27d996c813955a8af269fdca47b01aae60",
+        "34824f515d7220539da29804affd9b368f21efda5a47c5835a95222131ce6fb4"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
