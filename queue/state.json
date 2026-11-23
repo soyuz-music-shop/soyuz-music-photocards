@@ -39354,7 +39354,7 @@
       ]
     },
     "1213779579": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FS 1017",
       "originals_sha256": [
@@ -39362,7 +39362,12 @@
         "41c33a16df0a26cd461f7e7f8627cfaa4feb23721c75b15161fedc25f69accb7"
       ],
       "before_count": 2,
-      "task_id": 6110192388
+      "task_id": 6110192388,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
