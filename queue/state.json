@@ -49024,6 +49024,15 @@
         0.0,
         0.0
       ]
+    },
+    "2981259870": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GR143607",
+      "originals_sha256": [
+        "3b7acfd2666d4f373f0dd767f9d7ea9fd55cba930d0aa165287a8a02eccc7f4d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
