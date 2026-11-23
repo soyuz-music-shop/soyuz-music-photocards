@@ -43940,6 +43940,16 @@
         0.0,
         0.0
       ]
+    },
+    "1730081390": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KORN78795120",
+      "originals_sha256": [
+        "59ad2c72e8db19a4c4393d07804303c028acf7272b66cae4a458ad513433586c",
+        "454fb2df61c8563a383200d92e1bb6e387ab4c042f242d8873b70e575dc7f3ea"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
