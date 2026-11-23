@@ -46821,7 +46821,7 @@
       ]
     },
     "2202133758": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NB3359-1Y",
       "originals_sha256": [
@@ -46829,7 +46829,12 @@
         "113faa04737c07e039bdff5e31e06e5d8249513a88f20d36a3bdb784e3078ec9"
       ],
       "before_count": 2,
-      "task_id": 6110869868
+      "task_id": 6110869868,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
