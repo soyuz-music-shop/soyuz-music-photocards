@@ -37514,7 +37514,7 @@
       ]
     },
     "1108132901": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AW099927",
       "originals_sha256": [
@@ -37523,7 +37523,12 @@
         "3ca06eee1e6dfcf5f1e419e99cc372bda2b17c58294498dc45ab986f025c321b"
       ],
       "before_count": 3,
-      "task_id": 6109946753
+      "task_id": 6109946753,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
