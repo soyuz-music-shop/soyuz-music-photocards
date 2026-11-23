@@ -52807,6 +52807,18 @@
         0.0,
         0.0
       ]
+    },
+    "3013420691": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBQLP 2125",
+      "originals_sha256": [
+        "875111a11dcf9219e4df8dfb939b1a4e700ce3fd0f25a9887a76cad8daefad07",
+        "1e42473d3be2f733c7427c07d0501e1d2104dafc6e34737a1e052223bba96a6c",
+        "deee6716457eced352bf8c1e03475440945d9cf81863bc8f14c6c9b24fc40a1b",
+        "9d9aeac84a42e3d21d957cd7027c4ab9f21603f1903e2a40658bcca7e276f54b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
