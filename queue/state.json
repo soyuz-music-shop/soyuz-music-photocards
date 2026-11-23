@@ -44681,7 +44681,7 @@
       ]
     },
     "1849172979": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NISIM64051469",
       "originals_sha256": [
@@ -44690,7 +44690,12 @@
         "7f944c7aa5e13b9ce2f318c8880333a0f73087875da86a82c5b3357b8cb2f473"
       ],
       "before_count": 3,
-      "task_id": 6110690932
+      "task_id": 6110690932,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
