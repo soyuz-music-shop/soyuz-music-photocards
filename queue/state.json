@@ -42877,6 +42877,17 @@
         0.0,
         0.0
       ]
+    },
+    "1575603313": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PL9-02",
+      "originals_sha256": [
+        "b3f14bfbd223bdeec3dbcc0eeffe3f84f8198b5a7ee072cbabadb0a199317732",
+        "8b90ea76fa82d85bdd34ac23345bebc9256739dfd4e5eea487a7018cb7e146d8",
+        "cc62ccab548684d6ba9b65d506c72ac27b32af57b5e7fe3e573f31594a1fd6ed"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
