@@ -40112,7 +40112,7 @@
       ]
     },
     "1248248705": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PLCE49365622",
       "originals_sha256": [
@@ -40120,7 +40120,12 @@
         "0eac8401b04caeb26120b4981a8070a1ab42393100d895963633c2ced5259c7d"
       ],
       "before_count": 2,
-      "task_id": 6110273629
+      "task_id": 6110273629,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
