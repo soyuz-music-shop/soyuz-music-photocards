@@ -24582,14 +24582,15 @@
       ]
     },
     "474704812": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB 6241-0",
       "originals_sha256": [
         "8f106ee133dbc89337e9a620bc3855fee8077ac99c38f508ffddd9b51daafbff",
         "b4c43f0e8a78ce1235e02f6410ed80aff483b28acafd53b4c7e8f096749b72f3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107282097
     }
   },
   "reason": null,
