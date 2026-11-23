@@ -34325,7 +34325,7 @@
       ]
     },
     "915099543": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QN47202819",
       "originals_sha256": [
@@ -34333,7 +34333,12 @@
         "8295f9cf96e1feece74ccc75eab544f073eede5b4c053af135829a69ee5ea656"
       ],
       "before_count": 2,
-      "task_id": 6109488839
+      "task_id": 6109488839,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
