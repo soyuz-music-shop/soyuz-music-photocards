@@ -27809,6 +27809,18 @@
         0.0,
         0.0
       ]
+    },
+    "616577905": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DS98714980",
+      "originals_sha256": [
+        "34ceae7d396ae463dad7f0e8b1d8eb2926c46e32b4317907a6a51fae89159bb1",
+        "a3a744e012c6c8641241d9046a63a4b0d3d59799fc462cbb8c5003ffb7b1c482",
+        "4d702dbe2ac4445df1010d164240a59aea09d9f22e1b559d3b0f5eb1cd339247",
+        "825ee1ee664f9a9916ec4dc738a7a075a723e5ddf1efc865a715e5bec50f5f63"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
