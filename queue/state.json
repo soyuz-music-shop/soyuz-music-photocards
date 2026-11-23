@@ -54807,14 +54807,19 @@
       ]
     },
     "3034162917": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ROTORCD0011",
       "originals_sha256": [
         "b9d38fa45e0f9ab2c2a34392ee26f6939d875dffe29b90a4089af512eb697cee"
       ],
       "before_count": 1,
-      "task_id": 6111602435
+      "task_id": 6111602435,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
