@@ -49939,6 +49939,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005087702": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR35343",
+      "originals_sha256": [
+        "3277ebe75d6297d53c698fa01d1957372d3aea55447887098365673e6bf1583e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
