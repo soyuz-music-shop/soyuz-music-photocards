@@ -46587,7 +46587,7 @@
       ]
     },
     "2188824589": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NBR73133CD",
       "originals_sha256": [
@@ -46600,7 +46600,12 @@
         "deba835b7582b527fdfa56dcd2ea33d63fa09c2a7e847322bfabf460d8edd2e6"
       ],
       "before_count": 7,
-      "task_id": 6110851502
+      "task_id": 6110851502,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
