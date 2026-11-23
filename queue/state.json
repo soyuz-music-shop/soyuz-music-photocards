@@ -33679,7 +33679,7 @@
       ]
     },
     "883363084": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "THC59652213",
       "originals_sha256": [
@@ -33688,7 +33688,8 @@
         "7086531f986a5414d12c762f8642ec96b6c1581b37a517b621f0e0945b1f9deb",
         "6e1e2d2ea260249b29a6daac32102af7d6beb897d817415af5f9c10bd16a528e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109385806
     }
   },
   "reason": null,
