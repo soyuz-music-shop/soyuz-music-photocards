@@ -39947,7 +39947,7 @@
       ]
     },
     "1244528806": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SCRP30192720",
       "originals_sha256": [
@@ -39955,7 +39955,12 @@
         "dd7efdb4d2d09682a88dd397fef83bbcc1f279f5bfc63e828551af5f8d9ebc3c"
       ],
       "before_count": 2,
-      "task_id": 6110256366
+      "task_id": 6110256366,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
