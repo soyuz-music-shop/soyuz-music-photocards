@@ -44258,7 +44258,7 @@
       ]
     },
     "1765199400": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LYSK53550175",
       "originals_sha256": [
@@ -44267,7 +44267,12 @@
         "b8929c64c1ac931f1f1d20d06f326f880e4a7d87afe1b7720bd24aa1087c7ac2"
       ],
       "before_count": 3,
-      "task_id": 6110661599
+      "task_id": 6110661599,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
