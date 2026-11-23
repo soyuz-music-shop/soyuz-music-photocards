@@ -40091,6 +40091,19 @@
         0.0,
         0.0
       ]
+    },
+    "1247279174": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PCS 7027",
+      "originals_sha256": [
+        "2f9a3e8fd59a760d22f888367f898608178bfcc96820c68b07b90cddfc8f0e90",
+        "f7cb0c0b068349423496d45db281ac97806875586a5245e5aa989a7336a16306",
+        "322bd38a5be8bc16b33b70b9662ea6ecd7908e577a29029ed23dc2e70e31b713",
+        "1313f875c10090e18c795c3a1da592569ca5bc97a31bbbf8472a095f3d4ca8b5",
+        "1b40294fc089af784443eff4f23df8a1864780a47625d36e40c521a60cd22a11"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
