@@ -46301,6 +46301,15 @@
         0.0,
         0.0
       ]
+    },
+    "2188093912": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LP 19901",
+      "originals_sha256": [
+        "49ea70e9c8e529e1603bb4323a23f6aeb94dfb98fa474d4c200427b29d56c5ea"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
