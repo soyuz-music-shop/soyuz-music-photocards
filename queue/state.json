@@ -37913,7 +37913,7 @@
       ]
     },
     "1146071853": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL943386",
       "originals_sha256": [
@@ -37926,7 +37926,12 @@
         "2200a909d1de95cb2d0a52a035c16ea24fe3763a4a64dbfdacbd17b2867c3c57"
       ],
       "before_count": 7,
-      "task_id": 6110007047
+      "task_id": 6110007047,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
