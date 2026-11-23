@@ -28906,14 +28906,15 @@
       ]
     },
     "658619262": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN 2048",
       "originals_sha256": [
         "d476943122de4e9af8a839dba26f1973d36950792dbeb9dc19b80586e98a0272",
         "f414cd96e0acd1ce0a735adbb177d4d3c252572fa94f234db6f961cd5b919de8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108839615
     }
   },
   "reason": null,
