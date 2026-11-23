@@ -36813,14 +36813,19 @@
       ]
     },
     "1089555147": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1604BL",
       "originals_sha256": [
         "46c05c7d89b7c90c180f80cf4b7e142ae4e77ebea1510633f7093e47c10e617f"
       ],
       "before_count": 1,
-      "task_id": 6109850368
+      "task_id": 6109850368,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
