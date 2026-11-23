@@ -24323,7 +24323,7 @@
       ]
     },
     "467615899": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SLPNT78645754",
       "originals_sha256": [
@@ -24332,7 +24332,12 @@
         "1f84ad7197b5733ae8f678fee0c2eb812a2fc0582e50e9204bee12198e579801"
       ],
       "before_count": 3,
-      "task_id": 6107229081
+      "task_id": 6107229081,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
