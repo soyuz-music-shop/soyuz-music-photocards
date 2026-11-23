@@ -30875,14 +30875,15 @@
       ]
     },
     "757879208": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DM53370313",
       "originals_sha256": [
         "fc654444801577f718c0ac62a182278bbd2c177e0389e2e3b972ed3cba9ee50e",
         "7fcf309131bcf0698c222aa601ee106aaa28ba445e04cd2179d4684eabefe5f9"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109047918
     }
   },
   "reason": null,
