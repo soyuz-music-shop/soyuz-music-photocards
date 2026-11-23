@@ -37374,7 +37374,7 @@
       ]
     },
     "1104068021": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ESTV 1",
       "originals_sha256": [
@@ -37383,7 +37383,12 @@
         "4ee6abbc0bf477a93283d6f39d30cab4d2dc5878bd90262c00b6aa16554a37e0"
       ],
       "before_count": 3,
-      "task_id": 6109928993
+      "task_id": 6109928993,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
