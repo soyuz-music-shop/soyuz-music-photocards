@@ -27235,6 +27235,17 @@
         0.0,
         0.0
       ]
+    },
+    "566811021": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT202CDX",
+      "originals_sha256": [
+        "bc21829b16ec7ddab0782a52e252c7ef90770f289de3621cb772d07a63c988e6",
+        "299f6dd99ab450924fc186ecdba6dcf9808aa75652f2bf60603af29a245dfc44",
+        "75152471d3b6a4f4437dfed398d916dfa86a41a348113204fb746d9bfb6c10b3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
