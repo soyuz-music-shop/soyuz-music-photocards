@@ -30132,7 +30132,7 @@
       ]
     },
     "732602682": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WHM87352516",
       "originals_sha256": [
@@ -30140,7 +30140,8 @@
         "576c01fc04bf4b11667bd5008651248c76c4721502e0129d54d479bc68813c0d",
         "d579de6207a4cbe22e0b679a48c834b2523118c7cd4f8b22191ff62cf10762a8"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108975099
     }
   },
   "reason": null,
