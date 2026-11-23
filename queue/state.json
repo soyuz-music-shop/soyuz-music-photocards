@@ -29168,7 +29168,7 @@
       ]
     },
     "699113567": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2036",
       "originals_sha256": [
@@ -29178,7 +29178,12 @@
         "d7424e55af5438ea6d0a3d338da50048af244cc24edde3cdc3877f24e7c46a1d"
       ],
       "before_count": 4,
-      "task_id": 6108873479
+      "task_id": 6108873479,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
