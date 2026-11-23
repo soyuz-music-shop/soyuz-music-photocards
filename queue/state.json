@@ -52338,6 +52338,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277595": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CBT540518",
+      "originals_sha256": [
+        "4e3cf053442237e5cca1fb90aac65c7990a0877269b5f1f26e1a115370ff2995"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
