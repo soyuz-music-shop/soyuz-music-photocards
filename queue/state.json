@@ -32165,7 +32165,7 @@
       ]
     },
     "849207549": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT528DLP",
       "originals_sha256": [
@@ -32175,7 +32175,12 @@
         "d50f4931a9b4909659bfd3629afa0690eebebd7a24514bbe66d5036c3d569419"
       ],
       "before_count": 4,
-      "task_id": 6109197490
+      "task_id": 6109197490,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
