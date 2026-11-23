@@ -31161,7 +31161,7 @@
       ]
     },
     "771497597": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2457TY",
       "originals_sha256": [
@@ -31169,7 +31169,12 @@
         "e95384a01331a968196c577ec87514a64481314a6b9e80601f1fc53a95b7e473"
       ],
       "before_count": 2,
-      "task_id": 6109076819
+      "task_id": 6109076819,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
