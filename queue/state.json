@@ -33562,7 +33562,7 @@
       ]
     },
     "879816004": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297800038",
       "originals_sha256": [
@@ -33572,7 +33572,12 @@
         "9d5432f560c5ec33e19ebb297ea3c5feb830180c9cd845f5f402fe2f2b43252f"
       ],
       "before_count": 4,
-      "task_id": 6109369919
+      "task_id": 6109369919,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
