@@ -52656,7 +52656,7 @@
       ]
     },
     "3013277733": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PF843011",
       "originals_sha256": [
@@ -52665,7 +52665,8 @@
         "f7e9c6022ca691fc6d89b0db00bda017af214d1318f1eef6c24114e595330de8",
         "8af9cb7637abd3a8917dffce1eedd29bd78ac30d9b486e11d426c3636b59a67e"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6111458996
     }
   },
   "reason": null,
