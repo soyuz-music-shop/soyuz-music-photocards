@@ -22785,6 +22785,16 @@
         0.0,
         0.0
       ]
+    },
+    "444529594": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MTLC602567048305",
+      "originals_sha256": [
+        "f8a1832a6121f79b45a56a9b86f36bd0329a64fd4b991f5f385f87144e2483e8",
+        "6c7304ef9722697fc21102fe9f979955c7e83e1ca95b48d68745ab86d18ba099"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
