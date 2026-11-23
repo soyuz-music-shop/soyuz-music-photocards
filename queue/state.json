@@ -42689,6 +42689,16 @@
         0.0,
         0.0
       ]
+    },
+    "1564014639": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TBKS97955552",
+      "originals_sha256": [
+        "0f23cf91f7082b8a0b058df75c96764db2f9923b2315ade957df05aae2b9c5e8",
+        "74b8a2ae210b82d353430e7bc34d86eb2f0efb108de713e2002b9da987293202"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
