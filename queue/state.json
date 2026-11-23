@@ -26970,6 +26970,21 @@
         0.0,
         0.0
       ]
+    },
+    "558895538": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT503LP",
+      "originals_sha256": [
+        "fedb2cb90f4f6b32fe15482c70a5b27534e0e395cbc3d2d7ce82983d36b4ba8d",
+        "f97272b25f9bc0b9c5b0c251b08ff11daf5f3501534069e730ef1a722e96310e",
+        "674e7110995515729c1c27ffa628210da18f90f3ecb352bf3f1122ba3d785461",
+        "844b1b88fd068620421a3a791943f5b9d940bc35a0baf1ea5e012f5c195f4eac",
+        "82308b7374f141fe514e78af264feede3faef700295df7519b46c70643a64987",
+        "87e514800444a39a1372ac183a8213c9d2c750936da1fd0cd8290435d2f40c1c",
+        "ef981c2b26d5a0489e1abd2f7004d5e4135c55bf9309aa4ad5b034f7f2d7eda6"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
