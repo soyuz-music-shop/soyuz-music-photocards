@@ -32234,7 +32234,7 @@
       ]
     },
     "849988989": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM029LP",
       "originals_sha256": [
@@ -32242,7 +32242,12 @@
         "0eb0b03a63c7d28a53dde56d19d5c5b5029c0ecd1bc690af37d579c9e98f1998"
       ],
       "before_count": 2,
-      "task_id": 6109204100
+      "task_id": 6109204100,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
