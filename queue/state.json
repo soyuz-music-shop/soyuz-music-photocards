@@ -43650,14 +43650,15 @@
       ]
     },
     "1707050931": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LVR00363",
       "originals_sha256": [
         "1cb9e6bf627be5f47337e201732c1e43b99203a0e47afdc44698c4b92cda28f1",
         "b6d07c228e989990d3fa7f733ea1bdd9520f9113a8d17bd0858c6788887e5800"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110623740
     }
   },
   "reason": null,
