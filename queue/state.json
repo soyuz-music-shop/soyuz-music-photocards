@@ -55755,7 +55755,7 @@
       ]
     },
     "3130403873": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WHP1465",
       "originals_sha256": [
@@ -55766,7 +55766,8 @@
         "7e5285d2f00ce40cf133e2dea8aa20d66ec0a7bed4046b679982017a510dad77",
         "d432e844fe2f015e4f1779ba52fde5097689546e2d853493bff332041838b5fd"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6111661762
     }
   },
   "reason": null,
