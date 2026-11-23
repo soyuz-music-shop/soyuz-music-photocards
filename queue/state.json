@@ -27861,6 +27861,20 @@
         0.0,
         0.0
       ]
+    },
+    "617758757": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPSEEDS4",
+      "originals_sha256": [
+        "7e3dc74a7e86f0b3411e7b29cda3d97c459ae0ab3b9363cfc82b1e781d807391",
+        "fbbf0ab1bbf61caac0b041812766e2a277895fb74dca75ec61b3a67ed37a380b",
+        "a803045b86068e4b8fde3b8610fe24735b8d6ddb24350ff7fd4b252d9b8d2e78",
+        "1e9fd1eed4182a376ae7e728c96ddb5f0b24e2cc87828fbc8890e467722b155f",
+        "92373e1308bab96495282254ca67c243bd5794dc302eaceecbe5d00b277b873e",
+        "278b81b675cd966ce775c18a618c815787ee5f3410e1fd270ce2dd0ef9d7872b"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
