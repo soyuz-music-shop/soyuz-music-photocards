@@ -36412,6 +36412,16 @@
         0.0,
         0.0
       ]
+    },
+    "1081602742": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EMCD 165454",
+      "originals_sha256": [
+        "28e901703db8623591ca47aecd45b34d5974dca560d74f038951dc5ce73b729b",
+        "a0c1359d9a9c2fa4e72b694f5b693cb1ff499666173579a792240486c6d983a2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
