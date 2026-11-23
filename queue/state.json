@@ -48993,7 +48993,7 @@
       ]
     },
     "2981259850": {
-      "status": "imported",
+      "status": "verified",
       "variant": "vinyl-colored-import",
       "offer_id": "HT-136",
       "originals_sha256": [
@@ -49003,7 +49003,12 @@
         "b5fdd15ca15522f20180a94e962c9fc0b1c8b3f5f99968c96b75b09f4359f8b5"
       ],
       "before_count": 4,
-      "task_id": 6111036262
+      "task_id": 6111036262,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
