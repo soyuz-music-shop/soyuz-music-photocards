@@ -24646,7 +24646,7 @@
       ]
     },
     "475808462": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AWH17341289",
       "originals_sha256": [
@@ -24654,7 +24654,12 @@
         "7fc35aed970e28d6bcc3476a57259e25bbe398ea378670d0f2ec78c1a11bb0d6"
       ],
       "before_count": 2,
-      "task_id": 6107293927
+      "task_id": 6107293927,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
