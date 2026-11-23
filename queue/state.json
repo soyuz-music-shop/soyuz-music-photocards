@@ -34191,7 +34191,7 @@
       ]
     },
     "914275303": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TT86353627",
       "originals_sha256": [
@@ -34199,7 +34199,8 @@
         "04e0463fd15570b7c60ed515bd9a174e69b0943801fbae1e25accc84a38b351a",
         "7d0eede2e8e64bd8930b32b191c7b571ebf68c2ebdc9c516dcba790d00a9da36"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109468622
     }
   },
   "reason": null,
