@@ -52428,6 +52428,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277634": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TPLP326DMM",
+      "originals_sha256": [
+        "a9b392aa00494bb847655c827d9a7928618f95cb91a82241fd577f7a80a0c76c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
