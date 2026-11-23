@@ -26671,14 +26671,19 @@
       ]
     },
     "549062262": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KD41567915",
       "originals_sha256": [
         "6abf0156921b2d8ec2e340a0cd3f7305757021bd732247b2835c839a8e6bf549"
       ],
       "before_count": 1,
-      "task_id": 6108551106
+      "task_id": 6108551106,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
