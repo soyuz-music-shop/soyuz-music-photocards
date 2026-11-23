@@ -45580,6 +45580,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691810": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHXCX78603990",
+      "originals_sha256": [
+        "ed01b2459aeb1fee4579c3a72fa2c0a8a21a591d4fb2bf506471dfaa6136b538"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
