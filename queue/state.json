@@ -43650,7 +43650,7 @@
       ]
     },
     "1707050931": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LVR00363",
       "originals_sha256": [
@@ -43658,7 +43658,12 @@
         "b6d07c228e989990d3fa7f733ea1bdd9520f9113a8d17bd0858c6788887e5800"
       ],
       "before_count": 2,
-      "task_id": 6110623740
+      "task_id": 6110623740,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
