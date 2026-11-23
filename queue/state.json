@@ -31315,7 +31315,7 @@
       ]
     },
     "782219543": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT576LPX",
       "originals_sha256": [
@@ -31323,7 +31323,8 @@
         "64049691786a43b92b3dd713297b526996a54e45d92e352d537e490373fbbd0a",
         "bfad949ab5f0749fda152a1d916b1b415674e95a6390c9a018f3d9f41ceb99be"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109095850
     }
   },
   "reason": null,
