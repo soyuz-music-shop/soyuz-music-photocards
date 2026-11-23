@@ -26447,6 +26447,18 @@
         0.0,
         0.0
       ]
+    },
+    "541095206": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STN87145019",
+      "originals_sha256": [
+        "3ff7bde17fc1fb19cfbd43b546e5d5a8073bbbdd9eda7a38b4fffd255b6fa7bd",
+        "416ad85f75d387bb392eb10f27c45176972bb1d310218353372d527d58f75f98",
+        "de3f7407558beed4cd0cff358a956dc2e87818fb8c33649d6dfb21e07ce570d3",
+        "668cbc7563016fa748e2520bad2b2507144ca7901df0363f15a7ef354116bb92"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
