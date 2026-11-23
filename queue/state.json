@@ -23268,6 +23268,17 @@
         0.0,
         0.0
       ]
+    },
+    "447518416": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GRLZ724353113810",
+      "originals_sha256": [
+        "ebfd5268bbe9f3a6f52da969a6e669dc17f286d18902e7b2e9464588514429b8",
+        "75c96a9569873e88d77ef269b8f22762680e4122510c5d5e310bf03061fe18e9",
+        "8ed729198e86f8a5bcd9ee2eed0f5a881183335f99d070c4a1810de38e449bf3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
