@@ -55891,6 +55891,15 @@
         0.0,
         0.0
       ]
+    },
+    "3137340439": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RTRADLP780",
+      "originals_sha256": [
+        "84ca5f95fb5874de2f6e4da76a427851d8efa2296b78a08d26b5a67292fb3dda"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
