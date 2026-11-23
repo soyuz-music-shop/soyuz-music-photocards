@@ -28020,7 +28020,7 @@
       ]
     },
     "619069380": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CR00544",
       "originals_sha256": [
@@ -28029,7 +28029,12 @@
         "0ad460886626e6d9a4e2dc577c2db74959c36ccfac00767da6f4b6fb06b364d1"
       ],
       "before_count": 3,
-      "task_id": 6108741614
+      "task_id": 6108741614,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
