@@ -30825,7 +30825,7 @@
       ]
     },
     "756738458": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM148",
       "originals_sha256": [
@@ -30833,7 +30833,8 @@
         "9f2bfd1d1eb7a5b5d58899a3f9e1f02052488df972a2fb82c67d96ab41c5f9b2",
         "16916708f8dcf08a4d9b3b9adf0d875886585f2f1afae799ee02a859e9a818bb"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109042190
     }
   },
   "reason": null,
