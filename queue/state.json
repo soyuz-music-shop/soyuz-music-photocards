@@ -50725,14 +50725,19 @@
       ]
     },
     "3005926103": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RB33.367",
       "originals_sha256": [
         "0ff16e5ede026947712909032348abf4eef43f1b8ac3b1a67297fadb1bd0e93c"
       ],
       "before_count": 1,
-      "task_id": 6111318064
+      "task_id": 6111318064,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
