@@ -40330,14 +40330,15 @@
       ]
     },
     "1266298116": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AGP35450902",
       "originals_sha256": [
         "2519ba74238c32cec6cd4242df05395e9639ea624c6d26eaed80ddab60672b3a",
         "f20856cb95d0f1efb34372e46e716502bc9982f8a46f5c47cf34d0ceed43e1ce"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110318312
     }
   },
   "reason": null,
