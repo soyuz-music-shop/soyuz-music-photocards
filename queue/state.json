@@ -45818,6 +45818,19 @@
         0.0,
         0.0
       ]
+    },
+    "2170047421": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KLM75686750",
+      "originals_sha256": [
+        "98a5dc33ba0922b9fbad40e7cbd09f4fafb834a165f40f0cf587b9e9bc277ef1",
+        "342eddf25332c6c1e57bd797964dfec16df042d4e4c918b4a54ad0a32baba057",
+        "e734211bdc818df0c386768db2d6727127900acbc3d6d57d921dd4ad32bef875",
+        "3fc7d2742a328ec375a087c91e9ccc900b4d68733aa662393b3d282901c1c128",
+        "4200306e3d774a6cf6e53fd0539727003aac9922f38b7ca90c5f421523a60cc7"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
