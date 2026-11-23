@@ -32737,14 +32737,15 @@
       ]
     },
     "868214753": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1680B",
       "originals_sha256": [
         "0525e4c89833a194458b48386d5352f8f69d308637c29a6913e7c4a715069463",
         "9b04ecf9cfd9c64659049a953a55d69b5447d6a09b18d8ae29fe4faa6741a60c"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109263892
     }
   },
   "reason": null,
