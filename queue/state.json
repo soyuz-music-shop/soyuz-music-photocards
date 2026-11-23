@@ -26993,7 +26993,7 @@
       ]
     },
     "559867031": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT550DLP",
       "originals_sha256": [
@@ -27009,7 +27009,8 @@
         "60a8d62ae535de57c950b808f8a4110842cd4dd94ce49921ba9cb4c5c06bf7b8",
         "518e826e912c29548ebb492a0418ca4c535c6d9df2290b371113e7c141bc0f8a"
       ],
-      "before_count": 11
+      "before_count": 11,
+      "task_id": 6108599538
     }
   },
   "reason": null,
