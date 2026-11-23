@@ -39881,7 +39881,7 @@
       ]
     },
     "1240787325": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RSF71213710",
       "originals_sha256": [
@@ -39889,7 +39889,12 @@
         "24d53adbdd4ef8a898c2ceb45457fa19a0cd9cee75ce8c2b57d5062ad709d68e"
       ],
       "before_count": 2,
-      "task_id": 6110250150
+      "task_id": 6110250150,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
