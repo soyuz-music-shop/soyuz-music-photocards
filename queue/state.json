@@ -33268,7 +33268,7 @@
       ]
     },
     "870660930": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RW51554115",
       "originals_sha256": [
@@ -33277,7 +33277,12 @@
         "1a6bcd4fb8f28b184400c76c61e5a181e6253bc574ebdad4eebfaead485d9c2e"
       ],
       "before_count": 3,
-      "task_id": 6109334420
+      "task_id": 6109334420,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
