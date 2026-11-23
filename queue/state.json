@@ -44239,6 +44239,17 @@
         0.0,
         0.0
       ]
+    },
+    "1764902667": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE1798LP",
+      "originals_sha256": [
+        "05158d890c3dd5cb59ca8265509262696759a9214301cb8adac27dca3b8d2638",
+        "146bc93e4d1c60eb466b764819e757f869443d1b6c5fbef4c88f3164c9cb4010",
+        "c4a2d27a27a3382ab19a7c25b29f6e01607239f42369592f543a928204b95d18"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
