@@ -45334,7 +45334,7 @@
       ]
     },
     "2153660813": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT450CD",
       "originals_sha256": [
@@ -45342,7 +45342,12 @@
         "c1e6c1f22cac48956279022a8db46f39d2c0bbf356a136be46a797d472388c4f"
       ],
       "before_count": 2,
-      "task_id": 6110742424
+      "task_id": 6110742424,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
