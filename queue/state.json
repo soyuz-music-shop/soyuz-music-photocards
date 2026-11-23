@@ -27901,7 +27901,7 @@
       ]
     },
     "618673061": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT450LP",
       "originals_sha256": [
@@ -27913,7 +27913,8 @@
         "277803b5e14827ecd047e8ae683151bebf60ac4a0bf764a3dd4739c177751e00",
         "616fc9983038793ec4b0940ba1fb5befb97770b84d2f00e1935957a046fcacc4"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6108727248
     }
   },
   "reason": null,
