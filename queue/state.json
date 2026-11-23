@@ -28566,14 +28566,15 @@
       ]
     },
     "645494397": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT762LPX",
       "originals_sha256": [
         "96232c7bc9dedf0938ee23a664124e7e5e2df57995d2106208de9b796a064a06",
         "94fdefbb45df65ab9a7bfbcd4354df29eb752db8e310dce0a6cf3bb6061754d6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6108801725
     }
   },
   "reason": null,
