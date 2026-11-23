@@ -38639,6 +38639,16 @@
         0.0,
         0.0
       ]
+    },
+    "1191527895": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EGL27817282",
+      "originals_sha256": [
+        "55dd4b7de467b62b93ddc09dfd0ea9ca659d20a4a29d5dc179f99678003aef7a",
+        "a49675d4122a94135666d885937dde8272f243d2d64d53d9e50c8a7d49a0149c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
