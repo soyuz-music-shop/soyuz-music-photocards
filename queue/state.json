@@ -28174,7 +28174,7 @@
       ]
     },
     "623924017": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPSEEDS12",
       "originals_sha256": [
@@ -28183,7 +28183,12 @@
         "a220044fdb26c46c434d343fe05aca1bfe0eb9d473af0f749704d6b6ab8641ca"
       ],
       "before_count": 3,
-      "task_id": 6108760126
+      "task_id": 6108760126,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
