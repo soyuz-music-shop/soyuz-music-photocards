@@ -33429,6 +33429,16 @@
         0.0,
         0.0
       ]
+    },
+    "874397536": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR63697",
+      "originals_sha256": [
+        "7efeb128798c1f93ef2435905316111bd09e52dec1b104bfd938ca4f28383239",
+        "b71e5039bdb3d11e440fc060a0d32e016c685f855e14a8603885f56b02db9598"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
