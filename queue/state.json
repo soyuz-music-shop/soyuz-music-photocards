@@ -26686,7 +26686,7 @@
       ]
     },
     "549088503": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PSB95821746",
       "originals_sha256": [
@@ -26694,7 +26694,12 @@
         "e1f1889e892588875cbbdcd41eec8aea28effea86702242b72d6622bcf12f640"
       ],
       "before_count": 2,
-      "task_id": 6108553850
+      "task_id": 6108553850,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
