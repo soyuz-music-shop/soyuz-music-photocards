@@ -26189,7 +26189,7 @@
       ]
     },
     "528855835": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NCWE39801024",
       "originals_sha256": [
@@ -26197,7 +26197,12 @@
         "34824f515d7220539da29804affd9b368f21efda5a47c5835a95222131ce6fb4"
       ],
       "before_count": 2,
-      "task_id": 6107712185
+      "task_id": 6107712185,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
