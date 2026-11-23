@@ -40142,6 +40142,16 @@
         0.0,
         0.0
       ]
+    },
+    "1248297619": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TRSOH71212614",
+      "originals_sha256": [
+        "e5b8f9cdccb18382200bedd0e8b7eeb9f617ead6c89084696c11217532bafbed",
+        "2f3a3634cb5f7ac83b26751450b489d5bea8c6526da0d94d6b531ace5fb93f06"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
