@@ -25456,7 +25456,7 @@
       ]
     },
     "491252104": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "import-vinyl-info",
       "offer_id": "BTL38246510",
       "originals_sha256": [
@@ -25467,7 +25467,7 @@
       "task_id": 6107478555,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "492008811": {
       "status": "needs_review_gallery_pending",
