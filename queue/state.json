@@ -53421,14 +53421,19 @@
       ]
     },
     "3017887542": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LAULP3",
       "originals_sha256": [
         "04ca0481231e2b5e7c472faea3128311f279f7324beda1897b169832b713e5c3"
       ],
       "before_count": 1,
-      "task_id": 6111504957
+      "task_id": 6111504957,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
