@@ -40971,6 +40971,18 @@
         0.0,
         0.0
       ]
+    },
+    "1406215823": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TMR-1000CD",
+      "originals_sha256": [
+        "16c6576d630d1bd94a5eab4d55bbf92643a99d38ffab885909d7c50e7e976c46",
+        "7f8bd39e57eb88439ec3dd1e5f917f5d52b53f3ed7c6c5663faa5f5eb93c0639",
+        "bed619cbbe77188d89bd71f0b738e6ef3279b298790cfad76b07454c949e31a5",
+        "29047b500d923a9f747b06e23cdc960bca5d3b50812c7187be491609253395b7"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
