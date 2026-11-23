@@ -51085,6 +51085,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006255366": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OMITD778295",
+      "originals_sha256": [
+        "92a4d6f15a048da1f2736d56293bc811d4bbdb0f82448712c2147230e194a6e8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
