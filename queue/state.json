@@ -22900,7 +22900,7 @@
       ]
     },
     "444605278": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WIGCD317E",
       "originals_sha256": [
@@ -22908,7 +22908,8 @@
         "e9379ef769bac31dfec448027d16eec7b7fb40d7d1cae32610d3a006b9c2241d",
         "f2d659cbf7bf16ff6d473c2fe68ae763f562d84c3d5475ebeedaddf27afe3cce"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6106910706
     }
   },
   "reason": null,
