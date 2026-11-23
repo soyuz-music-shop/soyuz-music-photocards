@@ -33630,14 +33630,19 @@
       ]
     },
     "882801152": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3354",
       "originals_sha256": [
         "adcf2fed699c1e0484d9d9e968e2bcd9eceeaad2aa813e511b2fd07a6de84f9c"
       ],
       "before_count": 1,
-      "task_id": 6109378714
+      "task_id": 6109378714,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
