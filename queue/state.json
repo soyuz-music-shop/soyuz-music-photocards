@@ -49425,6 +49425,15 @@
         0.0,
         0.0
       ]
+    },
+    "2985109820": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BL345111",
+      "originals_sha256": [
+        "341aaa4fbad6c272a763cc4721f9ca40601e6f30a412af2a6fd5960cb47066ca"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
