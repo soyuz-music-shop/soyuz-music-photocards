@@ -55252,13 +55252,14 @@
       ]
     },
     "3130010636": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CCRLP004",
       "originals_sha256": [
         "fedb79adc4cf4af29b24b2ba89733c33cecb4d26cb29c763c3384250ec35f38c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111633685
     }
   },
   "reason": null,
