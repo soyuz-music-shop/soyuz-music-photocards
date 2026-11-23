@@ -45535,6 +45535,15 @@
         0.0,
         0.0
       ]
+    },
+    "2153691802": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ZEN 80X",
+      "originals_sha256": [
+        "282df2fcc58d2096c54b6a6a18f8ca1ef9ab043c278897dfba2afd505bc5c7f8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
