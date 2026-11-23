@@ -26412,6 +26412,17 @@
         0.0,
         0.0
       ]
+    },
+    "540984175": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KCLLP5",
+      "originals_sha256": [
+        "2fdb13806de71be7888af539223e455dc925e6cc9e765b9e5f4ae7e14f6d0970",
+        "0ffaba93941754997849264aeefe642ddeb07db40e3b0750ef90add98db6eb8d",
+        "4613eaad5854179ec1dbb2c97ffbfc66dba6299b2e5abe8862feaa1b8ed79444"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
