@@ -37389,6 +37389,18 @@
         0.0,
         0.0
       ]
+    },
+    "1104112273": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCD1 9034",
+      "originals_sha256": [
+        "b1e284e9267c77b3dfcf7a62877d7670b831b994ee6920d6461b7d556d6bec71",
+        "b2a9460055279e9c9179d00a64bdcda3b0e5e358a1eee665a10fca2cb65300bd",
+        "7d6320fc46638932cb89b26b367e5b46fc7ad20846eb2d261e570e5ef1d80512",
+        "ed933843dc27998aa5213a70639b0818a5d7e96c827b38373cb684e1c304222f"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
