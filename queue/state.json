@@ -31658,14 +31658,15 @@
       ]
     },
     "823926336": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4632000186529",
       "originals_sha256": [
         "0de3ac49e986a74b2fde65594cec8af888e51f11017d09911bb2125eee60fb54",
         "fad02b602b05911e86e70b3c16226b20cca364005b9d511c22a67e7173a9fea5"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109140510
     }
   },
   "reason": null,
