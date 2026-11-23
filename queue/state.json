@@ -46770,7 +46770,7 @@
       ]
     },
     "2202089465": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL1394LP",
       "originals_sha256": [
@@ -46779,7 +46779,12 @@
         "584a5b2b54e5aca5020e40b51223ee3f5e0a086b0206d95565ac7aa51d9e0efa"
       ],
       "before_count": 3,
-      "task_id": 6110866544
+      "task_id": 6110866544,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
