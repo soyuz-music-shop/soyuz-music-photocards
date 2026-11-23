@@ -54526,14 +54526,19 @@
       ]
     },
     "3033137830": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF010022",
       "originals_sha256": [
         "fff751f39670e136bb052ae5c78d35721458842534b1109696e9547fa4ce68ec"
       ],
       "before_count": 1,
-      "task_id": 6111581724
+      "task_id": 6111581724,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
