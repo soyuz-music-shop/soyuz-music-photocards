@@ -25927,7 +25927,7 @@
       ]
     },
     "518089531": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LDR48591913",
       "originals_sha256": [
@@ -25938,7 +25938,12 @@
         "250ad9d140a06ee35c772e75d0e13be32223a448eaae097058b63436cbeb4b4f"
       ],
       "before_count": 5,
-      "task_id": 6107652361
+      "task_id": 6107652361,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
