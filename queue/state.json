@@ -26375,7 +26375,7 @@
       ]
     },
     "540602163": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JQ87023119",
       "originals_sha256": [
@@ -26388,7 +26388,8 @@
         "1b913dac45ff386b12f472f878572df93d25f0bcaaf56169ba2522be0844f6b7",
         "97387316c1f8f0060a21805adce20085fe628ec9a097fe173eb308a4a7d61e32"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6108504715
     }
   },
   "reason": null,
