@@ -42055,7 +42055,7 @@
       ]
     },
     "1508673756": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RKAS38395549",
       "originals_sha256": [
@@ -42063,7 +42063,12 @@
         "da6c4c0b67d526099d9c3fe0687bd01c90107609339eb104987e68eaccc8f3fc"
       ],
       "before_count": 2,
-      "task_id": 6110494525
+      "task_id": 6110494525,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
