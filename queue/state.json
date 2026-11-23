@@ -43182,6 +43182,16 @@
         0.0,
         0.0
       ]
+    },
+    "1659365117": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BYG 529.345 CD",
+      "originals_sha256": [
+        "c08f6959ce038c8c2ecbb3a97cc47f0379e74cbb70e9fb8130107a7e91644fad",
+        "d4406da1d35093bac7d222dc7b9892ef3391ab3af7afdb804a87855485359204"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
