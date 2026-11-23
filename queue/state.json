@@ -44797,6 +44797,17 @@
         0.0,
         0.0
       ]
+    },
+    "1857670796": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TPLP1381",
+      "originals_sha256": [
+        "d4121dd7d485cf9ce411a9174cc6c82852efdf08c42b93940224584f57bd190e",
+        "7bb38e0123426b4398754fa096a749233c7e69532421d8a539858d7529a25123",
+        "ea2c412de3af524c503c4749cbcf00da57149794301e551325ac93dec2359f52"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
