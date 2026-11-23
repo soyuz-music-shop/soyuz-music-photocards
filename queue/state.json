@@ -28419,7 +28419,7 @@
       ]
     },
     "641933944": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NPR954VINYL",
       "originals_sha256": [
@@ -28427,7 +28427,12 @@
         "52a9f5bf2f5c0a2ba683d61bbaece7960bbcf54178b82d23131c68dc37975c5a"
       ],
       "before_count": 2,
-      "task_id": 6108785180
+      "task_id": 6108785180,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
