@@ -22749,7 +22749,7 @@
       "reason": "Ozon /v4/product/info/attributes connection URLError"
     },
     "444475166": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "NRVN602537204830",
       "originals_sha256": [
