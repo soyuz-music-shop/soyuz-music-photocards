@@ -52687,6 +52687,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013277743": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KL618280",
+      "originals_sha256": [
+        "f6d72bea48ad44d8e017a0558dc26c18c160d48e62f53b91272e48d2f099e7a5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
