@@ -46348,14 +46348,19 @@
       ]
     },
     "2188228792": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KLBL24867616",
       "originals_sha256": [
         "3d21b3e263c39369fb0ae92155a4ef5cdcb1b858516b8ea4a0f862cc09e6001a"
       ],
       "before_count": 1,
-      "task_id": 6110829079
+      "task_id": 6110829079,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
