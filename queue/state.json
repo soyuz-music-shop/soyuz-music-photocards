@@ -43519,6 +43519,16 @@
         0.0,
         0.0
       ]
+    },
+    "1696261593": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOORS96065152",
+      "originals_sha256": [
+        "2336f8f174feb80f37639450e5617720771370271a8b816807570db936d889d1",
+        "e0e6a248ee7e6c5cf2f27d76e7cc081416401a2cd3fb5290de804c4cdf9a6937"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
