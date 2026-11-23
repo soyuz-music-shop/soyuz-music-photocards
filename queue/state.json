@@ -34292,7 +34292,7 @@
       ]
     },
     "914986844": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SCP38150209",
       "originals_sha256": [
@@ -34300,7 +34300,12 @@
         "89715b05f846e499318252fd425a6faa32192b98978ead3b8df0d05e7fd9f47c"
       ],
       "before_count": 2,
-      "task_id": 6109484993
+      "task_id": 6109484993,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
