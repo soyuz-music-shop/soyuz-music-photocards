@@ -42620,6 +42620,17 @@
         0.0,
         0.0
       ]
+    },
+    "1563444024": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR1 1871",
+      "originals_sha256": [
+        "135a24ff7e1fffdf3baf0b23561077261bff98f0d5bfb8362b2d87f331aab1bb",
+        "686405f1bf885009ea2f7b53a2486bc9e7603154afb0a696afe0ec9ca11cd4f8",
+        "261052e5e727e1ce7b930f790dba700a2eaa0468dbedd760da3ad96a7d49ee3d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
