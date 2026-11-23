@@ -33892,14 +33892,15 @@
       ]
     },
     "897661811": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT812LP",
       "originals_sha256": [
         "985469b19a2207e5fefe2cd88e37afa7fdce588934bf1d2a1aaa12650b4a6a63",
         "d8aaa3060f5ae1cbdd27546d7712ec2d88133690b75847512307d9574142eb42"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109417352
     }
   },
   "reason": null,
