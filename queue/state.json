@@ -24841,6 +24841,17 @@
         0.0,
         0.0
       ]
+    },
+    "480318379": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RK 40265",
+      "originals_sha256": [
+        "5be9f56b69b98a96d8edc9cdb540c0490ae10b3e7f397bd9b61e7f0e4063bb6d",
+        "21bec153f74c8dbc32749fae3227104543c97722779ead760bd5ba2b7913683c",
+        "276789e1a02d5107e72d243947b566a7235c39b687a223c2ec7a5562da939a76"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
