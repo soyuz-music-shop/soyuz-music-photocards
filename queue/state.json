@@ -43271,7 +43271,7 @@
       ]
     },
     "1669971438": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL32273468",
       "originals_sha256": [
@@ -43281,7 +43281,12 @@
         "a4de55f518c9c090e3c9e0085601f2d30f3a4b321133646a7d54234bfbb86b82"
       ],
       "before_count": 4,
-      "task_id": 6110596763
+      "task_id": 6110596763,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
