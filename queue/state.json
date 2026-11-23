@@ -28069,6 +28069,20 @@
         0.0,
         0.0
       ]
+    },
+    "620191482": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NOISE2LP029X",
+      "originals_sha256": [
+        "d4dd76164645fe71020c780aa17ab68b6acec009fc5a1e19bf7c39c4d58be7c5",
+        "1413d31055ca0432e4be9a28c2cbac63976ec8b498e95d238eac92112aeb74d2",
+        "97e3f3c86d5ec3fe78109307d40b380261e04a0d30fc99f18862ed3e547274cb",
+        "cc13d3faa9af79571ae3d09e7b0fd7093fccb20064493105981dbf3d58ef9bb9",
+        "2af29582000538dbe39098ddeba0ca7fecfa878156316a5d2eabb44b2d7e84f0",
+        "677ad98e8b3fd24a3ab5b382acc57a94aeebad30273d1c33aaa999995502c1fe"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
