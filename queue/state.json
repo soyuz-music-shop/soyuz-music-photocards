@@ -31123,7 +31123,7 @@
       ]
     },
     "771255173": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "vinyl-colored-import",
       "offer_id": "MOVLP2865FC",
       "originals_sha256": [
@@ -31133,7 +31133,8 @@
         "66730ddca68704d6b8aedc7bedaedc2a79d1dbc293dda154064e5671e89121a7",
         "63acda90cf42fa4dc2ad6d0c981b0d7a487ca31a9222f1edb6174b3fded03aa7"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6109072814
     }
   },
   "reason": null,
