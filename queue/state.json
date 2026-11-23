@@ -39728,6 +39728,16 @@
         0.0,
         0.0
       ]
+    },
+    "1236633635": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2 528853",
+      "originals_sha256": [
+        "52bb1bbb8c4e71d62bd0f55259c6df08f89a245a7c3cce0bdbff724f873dd2c1",
+        "d00c2560ca4a56b8048cec7f066ce4ab2aba3be396e883454ac04dd77b6540ff"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
