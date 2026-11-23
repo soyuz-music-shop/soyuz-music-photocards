@@ -28236,6 +28236,15 @@
         0.0,
         0.0
       ]
+    },
+    "629187386": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RS71212713",
+      "originals_sha256": [
+        "9c8094c6c3a4e8079687b54236529381bfc4ab93e024b1ae15a2514630e79c8e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
