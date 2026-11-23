@@ -22969,6 +22969,17 @@
         0.0,
         0.0
       ]
+    },
+    "444636055": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD473",
+      "originals_sha256": [
+        "9b1657a57ab6f225dbb5061f7da95f8e3c6b4d5344b43f2c53d326238d3ff7c8",
+        "cf0a99225b170c90481ba4e222c6e52ecf6499ed0f2c88671c9b1feb472de535",
+        "45d6ff5c573e19726662b8d38c86f0efa92b14a31aef9aef04c00afdae17934a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
