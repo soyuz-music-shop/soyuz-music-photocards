@@ -55189,6 +55189,15 @@
         0.0,
         0.0
       ]
+    },
+    "3130010631": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3521",
+      "originals_sha256": [
+        "1d867fe57dc0d548eaad94a912687703feabd2a32b005d97c3908e04e3efaa58"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
