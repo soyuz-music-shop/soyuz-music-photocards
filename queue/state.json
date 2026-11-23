@@ -39537,6 +39537,17 @@
         0.0,
         0.0
       ]
+    },
+    "1217929123": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KGOL65232509",
+      "originals_sha256": [
+        "6f4da65ae8e2e6ae74f7e5c255d66e081898938b139a2daf7ad394d32522d8bc",
+        "7123de21897537b63142e9dbe15437a26f46aa54e8fe788c505bef11fcc48151",
+        "c5c3ba2a5f7a3c5581d3324cf0a25049e89691085e957197eba885649859cb5f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
