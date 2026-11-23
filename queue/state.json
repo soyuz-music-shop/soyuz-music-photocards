@@ -26923,7 +26923,7 @@
       ]
     },
     "557959933": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MH17855755",
       "originals_sha256": [
@@ -26931,7 +26931,12 @@
         "e068cd0f7b16ec0fda016e12d3699de10333482787a640294c24323b6bdc3d47"
       ],
       "before_count": 2,
-      "task_id": 6108589152
+      "task_id": 6108589152,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
