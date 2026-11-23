@@ -41397,6 +41397,15 @@
         0.0,
         0.0
       ]
+    },
+    "1459554897": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CLN2412",
+      "originals_sha256": [
+        "c744afcb0b56289b83bf18f9418fa3960cd9a9ba3053a7e76c49f28527778a7b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
