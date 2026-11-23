@@ -55302,13 +55302,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3130010643": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP 260",
       "originals_sha256": [
         "4bf6a5e8f1b0996cd2f58d4f4c283261dfa1d9259000a6522bcbfedb4d8e8546"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111637009
     }
   },
   "reason": null,
