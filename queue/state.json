@@ -39236,6 +39236,16 @@
         0.0,
         0.0
       ]
+    },
+    "1208953674": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EGL27934132",
+      "originals_sha256": [
+        "b5c806a5fc9f08edd4122b825982e056a4f7aac34ef1402c996688c6f5b6c090",
+        "503871068e732f15b7fa2c56e1bf29bbce5237f495beee067b92a4da4ed4c684"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
