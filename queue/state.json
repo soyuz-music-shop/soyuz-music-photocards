@@ -51914,14 +51914,19 @@
       ]
     },
     "3006476325": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MV0406-V2",
       "originals_sha256": [
         "cb220a38393b3bc556ece63777725e17d160ff28c69adf974e255536641e5995"
       ],
       "before_count": 1,
-      "task_id": 6111399834
+      "task_id": 6111399834,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
