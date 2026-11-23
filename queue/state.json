@@ -23493,6 +23493,17 @@
         0.0,
         0.0
       ]
+    },
+    "449320494": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JC600753441695",
+      "originals_sha256": [
+        "955cb7f6fd63a2497750afccc7b1c15ba1243eecf62458628a8db5d31198ec05",
+        "618632b2ed5a0afdd9bf56a4fa24ed234a132b9126b573739279dc43b47f5320",
+        "cb1756497b18b8f4b39657cf4d0deeea1badc77f3b5d4d527a5cf73288272cbe"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
