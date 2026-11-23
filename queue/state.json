@@ -28304,7 +28304,7 @@
       ]
     },
     "631676877": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ZZ50204726",
       "originals_sha256": [
@@ -28312,7 +28312,8 @@
         "f3d2791566fb1708d6683ff63c645cbaa027f7551eac44d958157a1f7a065704",
         "fb96f7b4beac7f472b62be4732314034b772dbfb3675441d54540ccc648bdab1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6108772810
     }
   },
   "reason": null,
