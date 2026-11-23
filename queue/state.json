@@ -42742,14 +42742,15 @@
       ]
     },
     "1568376727": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LEDZ27957933",
       "originals_sha256": [
         "b9b999ad6a87795a7572471afff8be9e70d9cb185b00a82ae7e7e532b4a529ea",
         "31e405756db617717f0db240cfcc0fc09a697e56e00a3305ae9b99a5a0407780"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110556718
     }
   },
   "reason": null,
