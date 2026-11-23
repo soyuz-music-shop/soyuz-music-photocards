@@ -41495,7 +41495,7 @@
       ]
     },
     "1463756348": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR51991",
       "originals_sha256": [
@@ -41504,7 +41504,12 @@
         "f44067cafc31519f3185267f65ac07eb0b969086c71f884c458bf44ae5d46588"
       ],
       "before_count": 3,
-      "task_id": 6110447521
+      "task_id": 6110447521,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
