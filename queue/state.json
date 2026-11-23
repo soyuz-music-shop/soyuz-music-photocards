@@ -33300,6 +33300,16 @@
         0.0,
         0.0
       ]
+    },
+    "870966080": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DS98744758",
+      "originals_sha256": [
+        "f29e063060d93320b6b071dba9cca71b88f00acacac36dab60690cba64dc5c03",
+        "dcc8aca7e703bf3fb8f5b99208e34540715bffec48e0013834052d7ef99e8271"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
