@@ -53158,6 +53158,15 @@
         0.0,
         0.0
       ]
+    },
+    "3013420813": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YT116",
+      "originals_sha256": [
+        "cfbafe29381dc5e81fdc5ff557b9fbc653eb8a1e424a771aba0b53b30238e04f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
