@@ -24307,7 +24307,7 @@
       ]
     },
     "465600932": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RMST77493942",
       "originals_sha256": [
@@ -24315,7 +24315,12 @@
         "27196b877786eb284442041301c073c7bf3de29b47785c186f371a25201bd41a"
       ],
       "before_count": 2,
-      "task_id": 6107225814
+      "task_id": 6107225814,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
