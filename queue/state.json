@@ -32817,7 +32817,7 @@
       ]
     },
     "868649983": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP522",
       "originals_sha256": [
@@ -32825,7 +32825,12 @@
         "282534bc9dc218a75a02fab165c5b5c1bd857efe1b0556702d5bd937c5ea0367"
       ],
       "before_count": 2,
-      "task_id": 6109271741
+      "task_id": 6109271741,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
