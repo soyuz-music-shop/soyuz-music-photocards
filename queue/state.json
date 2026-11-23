@@ -43200,7 +43200,7 @@
       ]
     },
     "1659423941": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CK 66425",
       "originals_sha256": [
@@ -43208,7 +43208,12 @@
         "1da2164d6ce9d0a3c96f8f729de3a4bed74e57024a2be2a1bb842178bccd48e8"
       ],
       "before_count": 2,
-      "task_id": 6110592239
+      "task_id": 6110592239,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
