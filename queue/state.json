@@ -29355,7 +29355,7 @@
       ]
     },
     "714838426": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN 2012",
       "originals_sha256": [
@@ -29364,7 +29364,8 @@
         "79984c723afd1241b889c8a4b5bab74db171e523f30bb3a1205d8a9e4a300e81",
         "15e113603de3857ee981435cde693e09b0c6e782b2d506860559fd7ff8aa5c66"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6108893885
     }
   },
   "reason": null,
