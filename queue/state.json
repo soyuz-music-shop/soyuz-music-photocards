@@ -25875,7 +25875,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "510036126": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4632000141221",
       "originals_sha256": [
@@ -25883,7 +25883,12 @@
         "652e54e2e948858d9290cf6f9bab2a071b9bbd4ce84e390c38915d147e73f878"
       ],
       "before_count": 2,
-      "task_id": 6107639361
+      "task_id": 6107639361,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
