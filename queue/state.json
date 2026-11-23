@@ -25301,6 +25301,16 @@
         0.0,
         0.0
       ]
+    },
+    "490041426": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPSEEDS8",
+      "originals_sha256": [
+        "8690e9be75fd4f1274ccdd1811699e82df3e78153eeaf4a28eceb0ec2c35e94a",
+        "689bb4ad006a31a19ee83021dbc43a0eaece0e73e4a94dbb57279d10e2e7b636"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
