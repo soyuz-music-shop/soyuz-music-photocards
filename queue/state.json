@@ -28938,7 +28938,7 @@
       ]
     },
     "660229905": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN 2097",
       "originals_sha256": [
@@ -28948,7 +28948,8 @@
         "1cb0dc6b8eb99b0e9c74e9b7c1db9ddcdcb761637abf2b0b471e0ba4d6af4724",
         "ce11d5b76b392adefee86db69678cab0984e542b6385449026c8ceb9e468fa3a"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6108843418
     }
   },
   "reason": null,
