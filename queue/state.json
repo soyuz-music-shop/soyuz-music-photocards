@@ -47662,6 +47662,17 @@
         0.0,
         0.0
       ]
+    },
+    "2495381511": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LRMMM28824118",
+      "originals_sha256": [
+        "e49f979981c5759081404ef4888e2cf206fcf99a5ec7e2c697037da862860047",
+        "9ee4155cfa29397282a05c42809e4477fb1712d822f241323680a7da3f8c4125",
+        "4ab2b57ffb304172c478414edb5af1cd88e4b53f97539950d53868014f63e544"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
