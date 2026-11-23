@@ -43812,7 +43812,7 @@
       ]
     },
     "1724758450": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RR2 2822",
       "originals_sha256": [
@@ -43820,7 +43820,12 @@
         "97a9eedc630a75a965dbb9846d54159e5c6eec90368f1b9c46c4d86d9f812afd"
       ],
       "before_count": 2,
-      "task_id": 6110634894
+      "task_id": 6110634894,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
