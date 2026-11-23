@@ -52023,6 +52023,15 @@
         0.0,
         0.0
       ]
+    },
+    "3007093431": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNM-530-5",
+      "originals_sha256": [
+        "88c7af96e859392880cde945cccfcb8a5096d31f09b3a4b8e354529c5da843b2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
