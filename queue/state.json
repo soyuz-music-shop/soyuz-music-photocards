@@ -38641,7 +38641,7 @@
       ]
     },
     "1191527895": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EGL27817282",
       "originals_sha256": [
@@ -38649,7 +38649,12 @@
         "a49675d4122a94135666d885937dde8272f243d2d64d53d9e50c8a7d49a0149c"
       ],
       "before_count": 2,
-      "task_id": 6110099601
+      "task_id": 6110099601,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
