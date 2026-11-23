@@ -51657,6 +51657,15 @@
         0.0,
         0.0
       ]
+    },
+    "3006476141": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SBA-010",
+      "originals_sha256": [
+        "89cde38397b089eda986b0acbbb7cfcc28ecb45cbd5f1b1ae4417c0b235d5114"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
