@@ -43845,7 +43845,7 @@
       ]
     },
     "1725112976": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BBKEC24895219",
       "originals_sha256": [
@@ -43853,7 +43853,12 @@
         "c7be2fc8b22d91afbfbaa6e2d854fdd32ede013fa030195f72a0907f63b528e8"
       ],
       "before_count": 2,
-      "task_id": 6110636978
+      "task_id": 6110636978,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
