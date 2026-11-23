@@ -27423,6 +27423,20 @@
         0.0,
         0.0
       ]
+    },
+    "584160920": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2695446",
+      "originals_sha256": [
+        "a2ba1eb069739806284d8c8174cebd4ccefb3eceb667ccbc24461fe9a726756a",
+        "25e9894faf70ff2cb1df274a7478aadee9c5ffccc5cde563b9db047bf059271d",
+        "c1eeb7a1e8679e537f1c5eeb60ce9f49b16cb5f2b2aec09cc08a7780af489c66",
+        "c69bb14ba0c0c88d76514dc1800187bd28bc09bfd494d347ccfe26b87d4da24d",
+        "e3aff1156974ea56bce0db2f62a4d17500c9d32b4f2e6e0782e43275864a198b",
+        "f2399ad9b68f4f8d97eaa71a86e5209764ce83b3b994a4d3eb2a18e378a83c94"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
