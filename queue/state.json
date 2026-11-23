@@ -32465,7 +32465,7 @@
       ]
     },
     "860634189": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP008D",
       "originals_sha256": [
@@ -32473,7 +32473,12 @@
         "6b91c463e42c8bdef09b765f773c507a39ffa92549dbf6a815196b2aa69cad97"
       ],
       "before_count": 2,
-      "task_id": 6109233886
+      "task_id": 6109233886,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
