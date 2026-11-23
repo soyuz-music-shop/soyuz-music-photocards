@@ -42845,7 +42845,7 @@
       ]
     },
     "1572746117": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RRS218",
       "originals_sha256": [
@@ -42853,7 +42853,8 @@
         "6be26b654e45de96b7f7d58967a6f6c319adc187ba3ac1ed661588e53fb1b159",
         "ef9adfe185a945a3f9466eebd1156586a78f6a2f6d2b388e5a8f1830bf1fd8fc"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110564653
     }
   },
   "reason": null,
