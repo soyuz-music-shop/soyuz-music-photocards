@@ -31104,6 +31104,17 @@
         0.0,
         0.0
       ]
+    },
+    "769577646": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4632000186321",
+      "originals_sha256": [
+        "6c166ec44071f2723f89e357e6b32c25e0c89c945f7e5318a2a06a962cb8ccff",
+        "ed3dec5b9b6b7c1bbccf3c4147c916285bd1a6169dc58c5efaf0d6af3c37dfe0",
+        "295a3ea62d8714fe3b0593f6954cfbdb822e6d6fc9dbfd96cdce4b458b4d03e8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
