@@ -24662,7 +24662,7 @@
       ]
     },
     "476543514": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNC69092019",
       "originals_sha256": [
@@ -24674,7 +24674,12 @@
         "e55e09e3ad9ff1bcc75e0ee474d19ebc6f707b63019f1fe263c6b9293995317f"
       ],
       "before_count": 6,
-      "task_id": 6107297418
+      "task_id": 6107297418,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
