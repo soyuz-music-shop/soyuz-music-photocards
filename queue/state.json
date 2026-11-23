@@ -45083,6 +45083,17 @@
         0.0,
         0.0
       ]
+    },
+    "1952449511": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AFM 915-1",
+      "originals_sha256": [
+        "42739e7e3a85faa2ee3915a57d08fc103508e8f25768276f9b0392a075dab4a9",
+        "679bf673d0661982fefbeba5702146c3086910adfabab92c98e6ccc83a0d51cb",
+        "f4a0d6a1d0dd0283c62de00d71938e6d3af35c86f22021e70ad5b0feedc52920"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
