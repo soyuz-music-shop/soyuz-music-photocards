@@ -26905,6 +26905,16 @@
         0.0,
         0.0
       ]
+    },
+    "557948119": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGRM023LP",
+      "originals_sha256": [
+        "3a10889604ea7f70405de6acd24de4f753b516a7bdbaab43413b946f55f52121",
+        "5508878692b3bcff86155a72193293f0e63e25fed241024c8e15bf9f7342019d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
