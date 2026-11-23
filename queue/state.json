@@ -28126,7 +28126,7 @@
       ]
     },
     "621106427": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM54092412",
       "originals_sha256": [
@@ -28135,7 +28135,12 @@
         "4cdd20855dd4fede25e4f4c4b8d5a99c1c648cd4471a9ea99a950a602ffb3ded"
       ],
       "before_count": 3,
-      "task_id": 6108754799
+      "task_id": 6108754799,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
