@@ -32946,7 +32946,7 @@
       ]
     },
     "869255345": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT92595112",
       "originals_sha256": [
@@ -32954,7 +32954,12 @@
         "22748092d02025ab1934cbf78d344d6018889d665d835203d07342e51b2334bd"
       ],
       "before_count": 2,
-      "task_id": 6109293657
+      "task_id": 6109293657,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
