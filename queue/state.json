@@ -52293,14 +52293,19 @@
       ]
     },
     "3013277580": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EN467648",
       "originals_sha256": [
         "213bffacee21447492aefc0672df03f47a3e732f57692fa2f60ad07e4a28990f"
       ],
       "before_count": 1,
-      "task_id": 6111427951
+      "task_id": 6111427951,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
