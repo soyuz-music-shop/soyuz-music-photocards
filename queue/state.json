@@ -41628,6 +41628,17 @@
         0.0,
         0.0
       ]
+    },
+    "1471059381": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MRCY88048814",
+      "originals_sha256": [
+        "ed811624d5b4abe14d2a4a98c08352ed41ac275e5243c7a5c279d7fa39ccd33f",
+        "706975d82b4ce3a1eb4d32732b582aa6cb6bb14069b9b8528aa57d018c60d880",
+        "a8a70ed88a78daf456978d0244a99aa6cd5273a01c5666094e6ed707e93aee84"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
