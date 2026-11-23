@@ -33334,7 +33334,7 @@
       ]
     },
     "870996215": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BON70826228",
       "originals_sha256": [
@@ -33342,7 +33342,12 @@
         "d8d5aab3d04dc5d982206711aa2c6cb476948ba91671d33aee35cad018b3ac15"
       ],
       "before_count": 2,
-      "task_id": 6109343338
+      "task_id": 6109343338,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
