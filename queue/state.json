@@ -28751,7 +28751,7 @@
       ]
     },
     "653112222": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT203CDX",
       "originals_sha256": [
@@ -28760,7 +28760,12 @@
         "6bf3a61eff9764f855cf8a21091c019266e884fc0b62277f7a7119cc310d20f1"
       ],
       "before_count": 3,
-      "task_id": 6108820838
+      "task_id": 6108820838,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
