@@ -31801,7 +31801,7 @@
       ]
     },
     "830144349": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0679LPE",
       "originals_sha256": [
@@ -31811,7 +31811,12 @@
         "5b0c07da6feb0b58b8de0db9cbd31718f2e4def5596f576eca6a00386af15e6a"
       ],
       "before_count": 4,
-      "task_id": 6109156308
+      "task_id": 6109156308,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
