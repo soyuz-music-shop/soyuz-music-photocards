@@ -55921,6 +55921,15 @@
         0.0,
         0.0
       ]
+    },
+    "3137340451": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SW164228",
+      "originals_sha256": [
+        "9412dd9e0f38435875d0cd29b5a6faf4ca54a5a7c5b1b5b13b549ee479674f0e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
