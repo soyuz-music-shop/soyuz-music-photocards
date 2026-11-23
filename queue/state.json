@@ -55560,13 +55560,14 @@
       ]
     },
     "3130108005": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "4AD0121CD",
       "originals_sha256": [
         "fe3bc8aa838fcb2ca27cdc0f8bb02df9e42bd57aa5d2ab4f7f6977fae27b75c9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111650542
     }
   },
   "reason": null,
