@@ -40229,6 +40229,16 @@
         0.0,
         0.0
       ]
+    },
+    "1255282729": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WROAC71454727",
+      "originals_sha256": [
+        "7b3d6144ded04a82e3cf759d3b8a6c796d86475ce674c3e45e2353890b69b035",
+        "a25df6ce9c147e41791147d7bb1b001fedebf8033d4c433c2029635040cbe267"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
