@@ -46492,13 +46492,14 @@
       ]
     },
     "2188703449": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LP 158681",
       "originals_sha256": [
         "395a0cc1cd9c8a2f77b83b078c07c1dc7a4df951cea4dbfc03db3bab980ab600"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110842163
     }
   },
   "reason": null,
