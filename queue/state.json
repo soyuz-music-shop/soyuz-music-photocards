@@ -54611,14 +54611,19 @@
       ]
     },
     "3033386644": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2 727881",
       "originals_sha256": [
         "f118bb9a32c311caab2b11ea6fd58f1e8663bb27b9693aff48cf66b4a9ad7ca7"
       ],
       "before_count": 1,
-      "task_id": 6111588076
+      "task_id": 6111588076,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
