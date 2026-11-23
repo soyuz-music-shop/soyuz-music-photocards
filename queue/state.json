@@ -31451,7 +31451,7 @@
       ]
     },
     "797219636": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SGB50CD",
       "originals_sha256": [
@@ -31459,7 +31459,8 @@
         "863a83a035bed244e62b3e12a1dcc94784e0cc037de8331bbcfff2a6a7d5f5be",
         "c34d5aefe9651dee840f2db19f8ee92c73589ac929d2f4558465545d3786487e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109113549
     }
   },
   "reason": null,
