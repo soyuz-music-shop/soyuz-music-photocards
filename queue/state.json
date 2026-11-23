@@ -31280,7 +31280,7 @@
       ]
     },
     "780433175": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4640219977692",
       "originals_sha256": [
@@ -31289,7 +31289,8 @@
         "d52d559ad8d40f8d09540b578731aa9212b02190b2390973c12f7e9bb242cff3",
         "21e755de11d60639e5671b539263e263ae16c9deff52a97f13543cc1ebd4e09f"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6109091511
     }
   },
   "reason": null,
