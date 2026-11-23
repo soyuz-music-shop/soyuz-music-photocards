@@ -41849,6 +41849,17 @@
         0.0,
         0.0
       ]
+    },
+    "1491276076": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RLST58959680",
+      "originals_sha256": [
+        "beaa49cb08979b36cca5a70ec8418a0b30c2edf17a8c6300dcaa9ed15832c6fe",
+        "84442de15bd0a89b931a29cd62ab63371b0d07813e045632e293a678dc4e911e",
+        "2037167678edae8f33d551f1017d77da15acd51c3ee570d38d8c791b1c71ffd1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
