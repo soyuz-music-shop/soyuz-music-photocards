@@ -48521,14 +48521,15 @@
       ]
     },
     "2967665934": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MTH141825",
       "originals_sha256": [
         "131d9b9859846c928890b6e6eab7cc0b62ac139519b1fa6960375fc17c6e0a3d",
         "81f1bf53f067ee8b25c8748552d4c41a77c517b21e3b01d89d725fa48d2dd694"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111003940
     }
   },
   "reason": null,
