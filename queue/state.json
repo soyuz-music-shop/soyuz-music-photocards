@@ -37326,6 +37326,15 @@
         0.0,
         0.0
       ]
+    },
+    "1102991967": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FIXCD32",
+      "originals_sha256": [
+        "cdc1e099f4127acb1a4c75bb3d95bb97f82432c582534a8ba026a34b171af40f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
