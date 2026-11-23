@@ -49102,13 +49102,14 @@
       ]
     },
     "2984310745": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3904",
       "originals_sha256": [
         "459c1c5e478a990983bccb829e45c84b5a2db44cc0de03207b232e99000cfcd8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111043485
     }
   },
   "reason": null,
