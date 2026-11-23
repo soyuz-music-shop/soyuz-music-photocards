@@ -31583,6 +31583,16 @@
         0.0,
         0.0
       ]
+    },
+    "808182651": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "2000095748335",
+      "originals_sha256": [
+        "ffb9bdb2ee34a8b9e4ab3590622423c0711e217178d4584279def4beb5a63b3d",
+        "8161a45f4d6d8425f001fb39fecb69b5f2e18ac988e99c70294a0f5a0d1dfc28"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
