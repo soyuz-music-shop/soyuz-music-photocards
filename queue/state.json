@@ -50105,6 +50105,15 @@
         0.0,
         0.0
       ]
+    },
+    "3005737051": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MSRBFABCLEVIN",
+      "originals_sha256": [
+        "3c4924f7c0486f07080aff6e570a606e016c0c4b4b3d88a87eecd60efaa65d38"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
