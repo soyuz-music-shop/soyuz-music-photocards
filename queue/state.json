@@ -52400,13 +52400,14 @@
       ]
     },
     "3013277621": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "B0032628-01",
       "originals_sha256": [
         "51aab8dbf5a89a7532aab4e61dbf4671570fc82f60b356e7964071ba78e18f26"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111438555
     }
   },
   "reason": null,
