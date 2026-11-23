@@ -39681,14 +39681,19 @@
       ]
     },
     "1234827698": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297805279",
       "originals_sha256": [
         "4bdcde546f558d076fe11e66913528005fd91a8c59cbd0eee28d372f689108d4"
       ],
       "before_count": 1,
-      "task_id": 6110228619
+      "task_id": 6110228619,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
