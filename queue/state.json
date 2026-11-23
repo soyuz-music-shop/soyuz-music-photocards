@@ -42207,7 +42207,7 @@
       ]
     },
     "1521242201": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT557DLPX",
       "originals_sha256": [
@@ -42215,7 +42215,8 @@
         "6d1084f680d729cf627d2f61d908462044e1518c9660f5c63f611abba87c8901",
         "5e614793582316b1b0ecac731190791b00d56d97e5159492f40722e968177ec4"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110506694
     }
   },
   "reason": null,
