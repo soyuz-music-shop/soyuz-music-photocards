@@ -38508,6 +38508,16 @@
         0.0,
         0.0
       ]
+    },
+    "1190036582": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PMW57567496",
+      "originals_sha256": [
+        "46ba1e33da03a95fdf7ae7a672d234d4a39ebdbdd55a9fa3841ccfc617656e5d",
+        "1b84f487540f6fd0adcd6d0ce2345d56fde289969a04e2a48fb868091afebeb6"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
