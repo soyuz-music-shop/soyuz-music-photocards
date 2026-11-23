@@ -25336,14 +25336,15 @@
       ]
     },
     "490171088": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM073LP",
       "originals_sha256": [
         "8a3ac80bc45d6311ecfcd61f7ad49063df77c679875180491247f37ae1a188b2",
         "ae83c0ad17a44c29521f5fb0419a14e073f52d0a2fa5f36c3d9bf2de72652e0a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6107446211
     }
   },
   "reason": null,
