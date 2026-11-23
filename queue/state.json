@@ -29001,7 +29001,7 @@
       ]
     },
     "667856228": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN 2096",
       "originals_sha256": [
@@ -29011,7 +29011,12 @@
         "754074b6bb5184ceeb0f73580c1befd8dc932541257322f51cf1ac78e472807f"
       ],
       "before_count": 4,
-      "task_id": 6108850833
+      "task_id": 6108850833,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
