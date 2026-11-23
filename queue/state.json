@@ -55983,14 +55983,19 @@
       ]
     },
     "3137360261": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PA175823",
       "originals_sha256": [
         "92f38ea049afa720d4cbb91288faf84debb540efa20f511b3bbf8e81dc1670c8"
       ],
       "before_count": 1,
-      "task_id": 6111673640
+      "task_id": 6111673640,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
