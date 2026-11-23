@@ -27776,6 +27776,17 @@
         0.0,
         0.0
       ]
+    },
+    "616541248": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JRA93971",
+      "originals_sha256": [
+        "6a23c5089c756644c7749e239b252c7360db0ac114c30c150766021fc953449b",
+        "3b16156f49126e6e92120aa951fff0ba6371c9a37850a8dc78af0ee7f60bba55",
+        "cd660f7392767af7668a5d2543817869ecbb0b3924fe826637b415a100b5b8dd"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
