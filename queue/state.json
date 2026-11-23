@@ -32914,7 +32914,7 @@
       ]
     },
     "869231708": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "KOR30660724",
       "originals_sha256": [
@@ -32922,7 +32922,12 @@
         "0f88aff81060826a131887e5160f5b78665ae9a91242294c994d32bc8677f2a5"
       ],
       "before_count": 2,
-      "task_id": 6109290516
+      "task_id": 6109290516,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
