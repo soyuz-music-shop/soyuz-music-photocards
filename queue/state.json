@@ -54146,6 +54146,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899377": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "M 20215",
+      "originals_sha256": [
+        "80c5f2cf7f7256e46c56b5b6458c76e063da9f59005c0983753a8bc8472e3e7d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
