@@ -29740,7 +29740,7 @@
       ]
     },
     "725050014": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DFP87737313",
       "originals_sha256": [
@@ -29749,7 +29749,12 @@
         "94b694355a3b43f7a3b818a6cbd1166ac044b239345c90f259f5788530fa6697"
       ],
       "before_count": 3,
-      "task_id": 6108934970
+      "task_id": 6108934970,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
