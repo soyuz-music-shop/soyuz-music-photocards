@@ -48918,14 +48918,19 @@
       ]
     },
     "2979952337": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 60842",
       "originals_sha256": [
         "a9bc0d8a4d5cb488659ec82d2b00e40ca2540c709999ee02a0f48706ad8393b4"
       ],
       "before_count": 1,
-      "task_id": 6111030834
+      "task_id": 6111030834,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
