@@ -43120,14 +43120,15 @@
       ]
     },
     "1627547784": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TRSOH71886921",
       "originals_sha256": [
         "4e7c8581bb6f6710ed044170435a2e6ca4ddd98c83cb76242b30c2bf3bd5aaf5",
         "7320ee5479111cadea5b016c0254893e2326a975440394d92f2b24a842cb5ede"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110586067
     }
   },
   "reason": null,
