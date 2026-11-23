@@ -53406,13 +53406,14 @@
       ]
     },
     "3017887428": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RI079838",
       "originals_sha256": [
         "dfd9903f4909270208864be0ff4d73b2bfd39c9cf543586ac43721939a3ddc4c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111503659
     }
   },
   "reason": null,
