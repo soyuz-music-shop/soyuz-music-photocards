@@ -50650,14 +50650,19 @@
       ]
     },
     "3005926024": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KR001416",
       "originals_sha256": [
         "48b3d326fd3e04277cba3e0ee6ab508fff1579a1faec20dae3e2287337f980e8"
       ],
       "before_count": 1,
-      "task_id": 6111310387
+      "task_id": 6111310387,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
