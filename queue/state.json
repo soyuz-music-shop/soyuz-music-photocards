@@ -32930,7 +32930,7 @@
       ]
     },
     "869247601": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT15735823",
       "originals_sha256": [
@@ -32938,7 +32938,12 @@
         "371e9be3bed86794a9fc74579960e8237cd1c71029880f7494401c6e05be4ebc"
       ],
       "before_count": 2,
-      "task_id": 6109292108
+      "task_id": 6109292108,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
