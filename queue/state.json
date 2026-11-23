@@ -38908,6 +38908,17 @@
         0.0,
         0.0
       ]
+    },
+    "1200835095": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ARF27982799",
+      "originals_sha256": [
+        "eb5ec21e5e939f2854fc0510aeae605823a42f22b1eead37c4de76e0f3b5566e",
+        "b93dff67f1b7356ec9137ae0040321cf465f92609d57bbb814e857e8a5e68a03",
+        "09b98e4dffccf5d864ca54f73e88715e31e62047c6700a7aa2ef6a19f2f1f198"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
