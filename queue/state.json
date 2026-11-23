@@ -48991,6 +48991,18 @@
         0.0,
         0.0
       ]
+    },
+    "2981259850": {
+      "status": "locked",
+      "variant": "vinyl-colored-import",
+      "offer_id": "HT-136",
+      "originals_sha256": [
+        "31ff29cf93daacf36d6d39e3cbb0e8516f25bf3d65707548d8222771db2f1924",
+        "38612d2f1f739a06a1cea4f328b5b1dff7e4c46ec5d8bab313e26e1e704f0150",
+        "9e8d0a4ad261ef7de88901075719b97c62a2a332af69dd8dcd35a7c98e7397ea",
+        "b5fdd15ca15522f20180a94e962c9fc0b1c8b3f5f99968c96b75b09f4359f8b5"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
