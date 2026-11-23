@@ -52905,13 +52905,14 @@
       ]
     },
     "3013420722": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WCV050",
       "originals_sha256": [
         "5d4d2ed1a0a0c61d8d1503b8e139b8182643c155985d82f660db9b3649ab1507"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111475706
     }
   },
   "reason": null,
