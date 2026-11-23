@@ -27221,7 +27221,7 @@
       ]
     },
     "566783752": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT213DCDX",
       "originals_sha256": [
@@ -27229,7 +27229,12 @@
         "2211b5c3b5220f254d2358295c29df06e0354a260268d66618e63f09af2024e4"
       ],
       "before_count": 2,
-      "task_id": 6108631248
+      "task_id": 6108631248,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
