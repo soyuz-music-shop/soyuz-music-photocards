@@ -55908,14 +55908,19 @@
       ]
     },
     "3137340444": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RTRADLP823",
       "originals_sha256": [
         "6c834254f906e4269a69aa67759b5a4430ecc9fed02cae1efcf8beb471251377"
       ],
       "before_count": 1,
-      "task_id": 6111669859
+      "task_id": 6111669859,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
