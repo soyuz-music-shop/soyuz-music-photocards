@@ -33068,7 +33068,7 @@
       ]
     },
     "870024653": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OZZ48167927",
       "originals_sha256": [
@@ -33076,7 +33076,12 @@
         "01cf531de92acca97298a2457cd9bed9ab59a500f671116df4bee2c445835d08"
       ],
       "before_count": 2,
-      "task_id": 6109306759
+      "task_id": 6109306759,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
