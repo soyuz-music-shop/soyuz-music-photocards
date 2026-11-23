@@ -37578,6 +37578,16 @@
         0.0,
         0.0
       ]
+    },
+    "1110083662": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LZ964481",
+      "originals_sha256": [
+        "53928eed3b9d09d43855cf78012917450517a4157a6d48ea69cac264e73d7f9e",
+        "2fb7cd60c07106795ba844c44c297928a3a82a023f49d4898a9a12b1d60a676f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
