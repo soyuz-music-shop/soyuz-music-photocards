@@ -46088,6 +46088,15 @@
         0.0,
         0.0
       ]
+    },
+    "2179661868": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 2006R",
+      "originals_sha256": [
+        "cd5373e8a3f2c2e923b3d2919d78279b2366817c5ab319ce58872af9d2eb6f4b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
