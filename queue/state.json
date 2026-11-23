@@ -55674,7 +55674,7 @@
       ]
     },
     "3130403867": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JACK 071CV",
       "originals_sha256": [
@@ -55683,7 +55683,12 @@
         "4e3b43cf2967e8bfc1e121c6068bf27e294cbca742622956b3d0233983fb9a41"
       ],
       "before_count": 3,
-      "task_id": 6111657278
+      "task_id": 6111657278,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
