@@ -52533,6 +52533,16 @@
         0.0,
         0.0
       ]
+    },
+    "3013277658": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MP796810",
+      "originals_sha256": [
+        "cbfb8ad6b698296780e842fc788fb2783123aa0dd4d5e9e83e8fe8c5913b37cf",
+        "1e4339c2f1db0a9b1713c0f626bf4b3581d03da64424f71169d152eb5fc2eb66"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
