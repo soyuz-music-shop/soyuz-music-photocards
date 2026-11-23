@@ -22898,6 +22898,17 @@
         0.0,
         0.0
       ]
+    },
+    "444605278": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WIGCD317E",
+      "originals_sha256": [
+        "496854591a1ccf411543e6a6807ab86555ab77e9ca0273d6503a9c4e38aec593",
+        "e9379ef769bac31dfec448027d16eec7b7fb40d7d1cae32610d3a006b9c2241d",
+        "f2d659cbf7bf16ff6d473c2fe68ae763f562d84c3d5475ebeedaddf27afe3cce"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
