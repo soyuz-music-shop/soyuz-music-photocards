@@ -34058,14 +34058,19 @@
       ]
     },
     "900861598": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AF0109V",
       "originals_sha256": [
         "c619ca965f078b630860fc45b83facdd3a408449d3db76ae58a5b303b95c2ab1"
       ],
       "before_count": 1,
-      "task_id": 6109438710
+      "task_id": 6109438710,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
