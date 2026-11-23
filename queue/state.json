@@ -47643,6 +47643,19 @@
         0.0,
         0.0
       ]
+    },
+    "2495293925": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LRDLD64732408",
+      "originals_sha256": [
+        "ce054e37315cea05dab6b0820054a346d20ff4dfb8c39f59e6d81dfff153ad9f",
+        "ab507c02a2c2f347021f16c5b90b246f5c502a3a8a3cb030a565c5e33401718b",
+        "12139f84eac597ed3a9b5962bddccb4ed93e0af0e6dd55021b79d93abfe2e38b",
+        "59bc8dfac5f13c7f3c6a0224231b873b4ac703fa752b8448f815800c20ce6785",
+        "454ffd4d61b0953912d5c9b8b033dffec76552a6748d4dd97e569f82bba21a6b"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
