@@ -43010,6 +43010,21 @@
         0.0,
         0.0
       ]
+    },
+    "1596743426": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HR-62042-2",
+      "originals_sha256": [
+        "7b8c56f6d6dd1d8994eca5afe6cb08b5bfad2219e2c7638ce4e5c892e359fbac",
+        "771ba6107a2ab15985c68766931d00bfef38e1b6744c76a29cac7334f6b3e33a",
+        "78a1b6d5f170ccabdc64d10591e3764f9cebaf00478e8743f11cfbc33d4692f1",
+        "276e6cd7883d393715d60e818564e1e93e156cee47b48e5136627eede541c707",
+        "0b3f79fdf94bcc37c5e32cc9ca6f5d83691a8324cc03888402cf782ffd982e2a",
+        "5405f2b9c96c044a22e84b89601664e79f28b26d49e6cad9d5884a91731af299",
+        "46f710c283342d0b5947fc2bcd71e2eeff28290d745506208ab28cd8ea988d2c"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
