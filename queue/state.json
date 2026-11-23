@@ -25604,7 +25604,7 @@
       ]
     },
     "495038836": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IND92603589",
       "originals_sha256": [
@@ -25612,7 +25612,12 @@
         "e262f54e978b8bf71b60c7db8bf45778501b552128961cd7acb1ebe168231525"
       ],
       "before_count": 2,
-      "task_id": 6107525642
+      "task_id": 6107525642,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
