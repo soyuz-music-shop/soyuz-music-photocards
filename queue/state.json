@@ -52445,13 +52445,14 @@
       ]
     },
     "3013277637": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ST371306",
       "originals_sha256": [
         "d1a8d488cf612b134b0227aea4997caf7af0533aad159a1d5825a3cc085e6ddb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111441773
     }
   },
   "reason": null,
