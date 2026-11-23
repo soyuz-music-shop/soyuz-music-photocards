@@ -55454,7 +55454,7 @@
       ]
     },
     "3130107988": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BT567628",
       "originals_sha256": [
@@ -55462,7 +55462,12 @@
         "03fcb915286ef550c28c41ee0c9c41a46c032b0a5edfac4fec968c063809fb9e"
       ],
       "before_count": 2,
-      "task_id": 6111644772
+      "task_id": 6111644772,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
