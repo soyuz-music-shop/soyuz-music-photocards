@@ -33082,6 +33082,16 @@
         0.0,
         0.0
       ]
+    },
+    "870041888": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP3116",
+      "originals_sha256": [
+        "77f2aee4b33dcd7f3322eedef07fbb40f7ed8fc8f427d539797f10502ca7ce82",
+        "fb5964bd7869a8e85fb2bb245be2ab4bf111e97bd45d4b1b6563478ac600d647"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
