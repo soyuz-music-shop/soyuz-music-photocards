@@ -31369,7 +31369,7 @@
       ]
     },
     "782394809": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT660CLP",
       "originals_sha256": [
@@ -31378,7 +31378,12 @@
         "013d2ca93079d33c8613b5baef9cb7289db6a60f21fb87ddba499046c16cd335"
       ],
       "before_count": 3,
-      "task_id": 6109102272
+      "task_id": 6109102272,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
