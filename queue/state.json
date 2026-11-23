@@ -27580,7 +27580,7 @@
       ]
     },
     "610712939": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RHN98798980",
       "originals_sha256": [
@@ -27588,7 +27588,12 @@
         "f7b3233a3491926901d11147ddb58d5521380018c89b7d7e0842fd7b6ab039e3"
       ],
       "before_count": 2,
-      "task_id": 6108680694
+      "task_id": 6108680694,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
