@@ -46363,14 +46363,19 @@
       ]
     },
     "2188307680": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RHCP24873471",
       "originals_sha256": [
         "62f8c753b6fc2fd7aa01a1d8bade13fb03bfe3f42398f58c14282f197fe2f0ee"
       ],
       "before_count": 1,
-      "task_id": 6110830616
+      "task_id": 6110830616,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
