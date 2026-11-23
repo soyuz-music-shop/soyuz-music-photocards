@@ -37310,6 +37310,16 @@
         0.0,
         0.0
       ]
+    },
+    "1102961714": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRNS575615",
+      "originals_sha256": [
+        "4f3b081a6e59163cb9229f0fe183d6e15a75cf4e7a18f094111d31f8edb6f8de",
+        "db27512112c16642765173fcf617ea80d01f30a1474bfde83ab7b5d5feb517f0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
