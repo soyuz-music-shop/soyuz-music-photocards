@@ -54853,14 +54853,19 @@
       ]
     },
     "3039172770": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DPROMLP153 BLUE",
       "originals_sha256": [
         "1605cd2fbddddda35b560987ce1cd4d0234de89a5fa0d4da9333d22fb7a4ad3c"
       ],
       "before_count": 1,
-      "task_id": 6111607567
+      "task_id": 6111607567,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
