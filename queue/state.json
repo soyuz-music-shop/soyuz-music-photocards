@@ -30031,7 +30031,7 @@
       ]
     },
     "730477402": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GM77531927",
       "originals_sha256": [
@@ -30040,7 +30040,12 @@
         "f301b21caff7f5359aa53e94cd111db463e3ee6635c8f21e37dde7e169939bf0"
       ],
       "before_count": 3,
-      "task_id": 6108964695
+      "task_id": 6108964695,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
