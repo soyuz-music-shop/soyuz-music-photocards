@@ -53798,6 +53798,16 @@
         0.0,
         0.0
       ]
+    },
+    "3019429058": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DM411219",
+      "originals_sha256": [
+        "2013c4bd533db46ed94be0ebb1a8cda2b8e4163ffa470ee2edb3dfb5f2e63d65",
+        "f44e44bc3493f8a8fde978208266e94fd78bb8e0da886741285ca53881312296"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
