@@ -34840,6 +34840,16 @@
         0.0,
         0.0
       ]
+    },
+    "1009526001": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT716LP",
+      "originals_sha256": [
+        "b980e8ed195cfd790144b473fdadd67501c78ceaac3e53b05caaf6b6c5921317",
+        "373af9128c047bf0e4a0796c5970127f0b8856f0e1c13902f7b9473540ae1df5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
