@@ -23906,6 +23906,17 @@
         0.0,
         0.0
       ]
+    },
+    "453151521": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1-565086",
+      "originals_sha256": [
+        "193d33f416ef20a6256f33e0f799f5308c235ae5ea60e9a98229e6e0764912c5",
+        "752ece6cae95d168ccb2b5db279c886e1c795130475665cae070ea95c749e89c",
+        "86b828e238cf66f7be5b51607615fc3fb3a3e9fd406eb2cb7a4ae6eaf37b9f3e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
