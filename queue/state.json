@@ -38589,6 +38589,16 @@
         0.0,
         0.0
       ]
+    },
+    "1190264281": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STNG38586547",
+      "originals_sha256": [
+        "93d60fdcb85ce817a9aa44bbad189ba16a52cd5f4a4a5639dfdc1ccd311a5f13",
+        "f62133879a85b825b7588fb83cabb7f0f3295a36303ece93344034339c2bf885"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
