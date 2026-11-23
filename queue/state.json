@@ -26790,7 +26790,7 @@
       ]
     },
     "554976330": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DRS27986513",
       "originals_sha256": [
@@ -26798,7 +26798,12 @@
         "793019dc07c0bed8f303adddee847a9dea33e8bcec6b4f77e082bd5089b344fa"
       ],
       "before_count": 2,
-      "task_id": 6108571804
+      "task_id": 6108571804,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
