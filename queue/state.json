@@ -45785,7 +45785,7 @@
       ]
     },
     "2169962163": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CR0832",
       "originals_sha256": [
@@ -45793,7 +45793,12 @@
         "0ac556729f2cf41e382560bb2fcf500fd69739d90b359064185f5742a645ace0"
       ],
       "before_count": 2,
-      "task_id": 6110779474
+      "task_id": 6110779474,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
