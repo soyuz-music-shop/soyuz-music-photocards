@@ -37531,14 +37531,15 @@
       ]
     },
     "1109029040": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TS034805",
       "originals_sha256": [
         "d12af6c5c9e25dcc7cecdd34b6402f1bb20d86add94449eebc7741b2c80bc1a8",
         "9ed9f112c260f4faa1e986bb1a61f54f22fd53ca9624e2cb058e8265185d66ab"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109948900
     }
   },
   "reason": null,
