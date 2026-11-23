@@ -53846,7 +53846,7 @@
       ]
     },
     "3032012834": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PA953751",
       "originals_sha256": [
@@ -53854,7 +53854,12 @@
         "1076fe19c9d32e05c8789b3b06ba0ae9411bf9125cd5ccd54541cd0418b90b6d"
       ],
       "before_count": 2,
-      "task_id": 6111531821
+      "task_id": 6111531821,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
