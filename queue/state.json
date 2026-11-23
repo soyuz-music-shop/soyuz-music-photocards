@@ -35973,6 +35973,18 @@
         0.0,
         0.0
       ]
+    },
+    "1068187781": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVATM075",
+      "originals_sha256": [
+        "b2a67768208b3c4c4c32a3983b8a8a54c219991a1f72f84d91bdacb550e9ca2f",
+        "ffeb44d222c0eccd839117529e0bcc8733ba8acd7c6e2681cc58092c6773f771",
+        "de6c83f59d89bff8ad0a11b2faefe694a7dda8dd81af5fbea77a62da18eb9442",
+        "90de1db6bb45bd9647210e90210d8e57761af359798354902ebfe6f61ca5a69c"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
