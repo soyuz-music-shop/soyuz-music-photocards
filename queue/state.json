@@ -38944,7 +38944,7 @@
       ]
     },
     "1202050423": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TBK97900149",
       "originals_sha256": [
@@ -38953,7 +38953,12 @@
         "38f111ec2317f9edb09a4cc4bcdf47916fd1e353506e097915947778792de8a6"
       ],
       "before_count": 3,
-      "task_id": 6110138313
+      "task_id": 6110138313,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
