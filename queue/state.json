@@ -47475,6 +47475,15 @@
         0.0,
         0.0
       ]
+    },
+    "2433734383": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSTUMM277",
+      "originals_sha256": [
+        "05abcf564154cf3616aa2e39a25eb475a1ed84d0e61357b2beb31bdad44755a8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
