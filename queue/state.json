@@ -35235,7 +35235,7 @@
       ]
     },
     "1026848175": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SOD656014",
       "originals_sha256": [
@@ -35244,7 +35244,12 @@
         "388a2e391bfe541526d27fb86b802dfa455741a44e41e23a2a8e1266c22e12b6"
       ],
       "before_count": 3,
-      "task_id": 6109601745
+      "task_id": 6109601745,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
