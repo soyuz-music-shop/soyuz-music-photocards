@@ -39402,7 +39402,7 @@
       ]
     },
     "1215053238": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FS92704922",
       "originals_sha256": [
@@ -39410,7 +39410,8 @@
         "646b2d7bbba75365c04063fe7ea2f9f1c4d7334b1d8898b8fb7b554c2bb48361",
         "ce98d5b39552e86bf1d32033e28a5e6001ecae32b42da92c60ae24656ccdcf9f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6110199329
     }
   },
   "reason": null,
