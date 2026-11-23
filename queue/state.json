@@ -26806,7 +26806,7 @@
       ]
     },
     "555025394": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LG96423932",
       "originals_sha256": [
@@ -26814,7 +26814,12 @@
         "318d2a12d57bc56ba065ba6024fce70985307ac20dc757075b427d94c6b9df96"
       ],
       "before_count": 2,
-      "task_id": 6108574063
+      "task_id": 6108574063,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
