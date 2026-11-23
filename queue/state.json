@@ -41142,7 +41142,7 @@
       ]
     },
     "1437646718": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SD87848217",
       "originals_sha256": [
@@ -41154,7 +41154,12 @@
         "6f967c773e3f21a1c9dee800d9d53c2b2466fbce688e1ee544f759c881ea22c1"
       ],
       "before_count": 6,
-      "task_id": 6110415676
+      "task_id": 6110415676,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
