@@ -35317,7 +35317,7 @@
       ]
     },
     "1034622482": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDV 2848",
       "originals_sha256": [
@@ -35325,7 +35325,12 @@
         "6fdb6c91e2050acc946fe36368af4a69e5fbd91f0455cdd4c2714090269fed4e"
       ],
       "before_count": 2,
-      "task_id": 6109616147
+      "task_id": 6109616147,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
