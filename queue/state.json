@@ -28302,6 +28302,17 @@
         0.0,
         0.0
       ]
+    },
+    "631676877": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ZZ50204726",
+      "originals_sha256": [
+        "a6b1afcf2a0df2277394120d9cff2a2878298bc349deea4515742fe2bc9f6f5f",
+        "f3d2791566fb1708d6683ff63c645cbaa027f7551eac44d958157a1f7a065704",
+        "fb96f7b4beac7f472b62be4732314034b772dbfb3675441d54540ccc648bdab1"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
