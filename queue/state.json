@@ -41984,6 +41984,18 @@
         0.0,
         0.0
       ]
+    },
+    "1504156268": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGRM074LP",
+      "originals_sha256": [
+        "e63466a7aafb4b698f778e2b704cf36eaee857a5b219263dedc26abb30671c54",
+        "5fc89019dabfac306a3571962c64d2d7cc4c799d2be6cf88a747b48e699b30a7",
+        "41ee603b901ca9734545eac4a7677c10c7c395fef84742b47fc8ff914664fecc",
+        "408178e5387cd719ea483b48eb6922ac619528cab74bb4c0b3aa4ea37d4052f0"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
