@@ -55857,7 +55857,7 @@
       ]
     },
     "3130403890": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SGVNY145",
       "originals_sha256": [
@@ -55865,7 +55865,12 @@
         "d40f315d2d40054f329aec2123416fc732056190716bf83b64a4f15671d6deab"
       ],
       "before_count": 2,
-      "task_id": 6111667607
+      "task_id": 6111667607,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
