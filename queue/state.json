@@ -46657,13 +46657,14 @@
       ]
     },
     "2188886446": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WEIRD166LPX",
       "originals_sha256": [
         "5da88af411de7eb8016ab2d43ded4921b8641ca1ac8f02c9918a61ed6c8f7546"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6110856650
     }
   },
   "reason": null,
