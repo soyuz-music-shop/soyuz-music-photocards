@@ -31535,7 +31535,7 @@
       ]
     },
     "805298027": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SLM119P01",
       "originals_sha256": [
@@ -31543,7 +31543,8 @@
         "7de6fd4defdc41ab68f08303192381895b198ead38cc0f5d71210824dbad09c5",
         "6ca9cd045b6628313d91703b6a104b447292603f257b50f71530d4aeb3913061"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109127380
     }
   },
   "reason": null,
