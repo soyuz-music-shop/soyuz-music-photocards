@@ -32703,6 +32703,16 @@
         0.0,
         0.0
       ]
+    },
+    "865112851": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP339",
+      "originals_sha256": [
+        "54939dbe08217ade90c06c19adb9a894871f4aef49b947b7e48e77ca4eea1bab",
+        "4f330e253437f0d9075a956cf405f54ced78b220833741352002a38a1bfc6a31"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
