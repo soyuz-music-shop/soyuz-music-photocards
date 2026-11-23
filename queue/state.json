@@ -43198,6 +43198,16 @@
         0.0,
         0.0
       ]
+    },
+    "1659423941": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CK 66425",
+      "originals_sha256": [
+        "d9bb6e8d91217d24818ba457e351fd801bb3a1307e94f9c3dba8304e022da0c9",
+        "1da2164d6ce9d0a3c96f8f729de3a4bed74e57024a2be2a1bb842178bccd48e8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
