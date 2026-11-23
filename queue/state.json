@@ -42913,7 +42913,7 @@
       ]
     },
     "1590663536": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PL9-06",
       "originals_sha256": [
@@ -42922,7 +42922,12 @@
         "8fb57f57ed9f79c720ff419cb98ca58d7c39b884b787de55e5bb038dd69f6371"
       ],
       "before_count": 3,
-      "task_id": 6110569291
+      "task_id": 6110569291,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
