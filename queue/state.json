@@ -34127,7 +34127,7 @@
       ]
     },
     "908643238": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "2000095748724",
       "originals_sha256": [
@@ -34135,7 +34135,12 @@
         "e2dc7891e09c9c680f9b8d7e9abec423aaafda69e861b97bec0b1f97bd38de43"
       ],
       "before_count": 2,
-      "task_id": 6109450014
+      "task_id": 6109450014,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
