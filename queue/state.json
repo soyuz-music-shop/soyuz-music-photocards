@@ -39419,14 +39419,15 @@
       ]
     },
     "1215174958": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JC37351169",
       "originals_sha256": [
         "00ebe50449a18e105ce5cbdf427f46c6a0010560761e826bd2af9b4dbd6ec737",
         "a6127dceac137dc04aa84f8c7c9275f22ecd26c96948223c050d504132d65e71"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6110201168
     }
   },
   "reason": null,
