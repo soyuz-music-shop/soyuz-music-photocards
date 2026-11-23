@@ -39386,7 +39386,7 @@
       ]
     },
     "1215020584": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GLZ95851194",
       "originals_sha256": [
@@ -39394,7 +39394,12 @@
         "96dcbd6ec2c0a475b757999bb9825f4a99e821d543973156a6fe155eec0a2d23"
       ],
       "before_count": 2,
-      "task_id": 6110197663
+      "task_id": 6110197663,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
