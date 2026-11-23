@@ -29371,6 +29371,16 @@
         0.0,
         0.0
       ]
+    },
+    "714872267": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN 2093",
+      "originals_sha256": [
+        "958ff0b22bf8ed6b51c4510b414e6d6002ac7997f58d58c84eb6e585db1554b2",
+        "6293fa20cc06d2afd558449faee4dda5d4e02348ae25ab4a467765f86bdcdf36"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
