@@ -44426,6 +44426,17 @@
         0.0,
         0.0
       ]
+    },
+    "1791964268": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JLEEH64034677",
+      "originals_sha256": [
+        "e8ec9034c9da8a2e1b67c82397de3f3ab199f9bb09004f9b9f8e6444f879819b",
+        "dc7cf5fe234acad47dfaca9498e64252d6c57809d12a1951cb4547eb16512f24",
+        "0ced4d853af664362fc479cacae48832e2e3741cb5ba7d7764a6c7b6268b2b31"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
