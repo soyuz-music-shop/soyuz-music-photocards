@@ -52535,7 +52535,7 @@
       ]
     },
     "3013277658": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MP796810",
       "originals_sha256": [
@@ -52543,7 +52543,12 @@
         "1e4339c2f1db0a9b1713c0f626bf4b3581d03da64424f71169d152eb5fc2eb66"
       ],
       "before_count": 2,
-      "task_id": 6111450125
+      "task_id": 6111450125,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
