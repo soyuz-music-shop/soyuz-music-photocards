@@ -31519,7 +31519,7 @@
       ]
     },
     "805271437": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCD1 74071",
       "originals_sha256": [
@@ -31527,7 +31527,12 @@
         "96147bd07e6a7cee00da3cd318bfb52fd0163c41c9b57a6ce6d44fc9fb16eff3"
       ],
       "before_count": 2,
-      "task_id": 6109125443
+      "task_id": 6109125443,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
