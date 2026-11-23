@@ -42069,6 +42069,17 @@
         0.0,
         0.0
       ]
+    },
+    "1508688568": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SUICIDELP01",
+      "originals_sha256": [
+        "fa64894b4949a8becdad421dd5f65dcadd88555c9730394533ac4a70d2aee40c",
+        "1a4608084f1a7fb665703b329702fa3980997440f6374e03d4b1f26c56e836ef",
+        "abe4f3cd0ccf0e067a78abd5886bb660b537e0b46785e761d82dd067b3931b6a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
