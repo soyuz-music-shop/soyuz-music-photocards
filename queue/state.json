@@ -31927,7 +31927,7 @@
       ]
     },
     "840728145": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ROAR2334DIGI",
       "originals_sha256": [
@@ -31936,7 +31936,12 @@
         "348ba729d2ae499b7a7ae1101de75e46bb041df210223180b949d2528ce430a9"
       ],
       "before_count": 3,
-      "task_id": 6109168507
+      "task_id": 6109168507,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
