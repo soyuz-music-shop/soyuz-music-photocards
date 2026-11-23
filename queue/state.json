@@ -52505,14 +52505,19 @@
       ]
     },
     "3013277646": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KL311009",
       "originals_sha256": [
         "5c35e3a649e49404e5d0f292b10ac1c69c390497dfc5c9786ab39289d6303409"
       ],
       "before_count": 1,
-      "task_id": 6111447233
+      "task_id": 6111447233,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
