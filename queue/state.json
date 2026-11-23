@@ -36092,7 +36092,7 @@
       ]
     },
     "1074099168": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LZ955885",
       "originals_sha256": [
@@ -36104,7 +36104,12 @@
         "3e2ca591fd375272f7bdfb5ba673a65fbc8d71f67793ce8f242567d8ce006d6a"
       ],
       "before_count": 6,
-      "task_id": 6109737880
+      "task_id": 6109737880,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
