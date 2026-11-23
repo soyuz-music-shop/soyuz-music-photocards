@@ -42411,6 +42411,16 @@
         0.0,
         0.0
       ]
+    },
+    "1544356414": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "VNHL92573221",
+      "originals_sha256": [
+        "35cd92351eaf285bb89834498bc41c2ffad10c93919c5a122f1d4184c666ee27",
+        "625bfc50ab61bcf760a285c8539e375c4ad0c70c2914c59eff75f75200cb0401"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
