@@ -43404,7 +43404,7 @@
       ]
     },
     "1675510967": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RATM54704515",
       "originals_sha256": [
@@ -43412,7 +43412,12 @@
         "67342156581a6e062e4ac9fa357cc2cea023a7350adda0befa0344cba486d50f"
       ],
       "before_count": 2,
-      "task_id": 6110605511
+      "task_id": 6110605511,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
