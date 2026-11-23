@@ -36315,14 +36315,15 @@
       ]
     },
     "1078362945": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3135BV",
       "originals_sha256": [
         "ce11ef18a8335e4adf81c5f9f4042ebed6a79e35c77ee507acb286b809ac15d9",
         "0d8f271b85db80cf55bafe8f1e1f36b2d973acdf4ce9275158ee0095e1ce5686"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6109769126
     }
   },
   "reason": null,
