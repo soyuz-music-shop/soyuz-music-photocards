@@ -55545,13 +55545,14 @@
       ]
     },
     "3130108004": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TWI 123 CD",
       "originals_sha256": [
         "dc9f78a85201c34e4f1718431a464973d114192e57462cd6ce6ade9f95120e4d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111649742
     }
   },
   "reason": null,
