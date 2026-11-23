@@ -27727,7 +27727,7 @@
       ]
     },
     "613190763": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GBLP138",
       "originals_sha256": [
@@ -27737,7 +27737,12 @@
         "274e040cf928b3356d259636c03280eb3429324d3c7df091175922c42bfb8a5b"
       ],
       "before_count": 4,
-      "task_id": 6108701466
+      "task_id": 6108701466,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
