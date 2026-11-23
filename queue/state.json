@@ -34174,7 +34174,7 @@
       ]
     },
     "912045270": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LZ27958282",
       "originals_sha256": [
@@ -34182,7 +34182,8 @@
         "4df4615efe239280590eb346ab7a1ae10ce9343cf60c16188b567b251d375f48",
         "743e98460a0b509170e6e3b77adafc6d2aa58a7823cf79e4ab3fd2ce77e59b11"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6109463202
     }
   },
   "reason": null,
