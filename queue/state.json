@@ -23699,7 +23699,7 @@
       ]
     },
     "450120951": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD220E",
       "originals_sha256": [
@@ -23714,7 +23714,12 @@
         "a5016ce49c1519a3f72de96906ba0aa26c2884a2b16dbad22caa22432ddd31d2"
       ],
       "before_count": 9,
-      "task_id": 6107102137
+      "task_id": 6107102137,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
