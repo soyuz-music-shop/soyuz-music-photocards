@@ -47732,7 +47732,7 @@
       ]
     },
     "2599098386": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4610297809420",
       "originals_sha256": [
@@ -47744,7 +47744,8 @@
         "e6d2c7053defebd670c2f2c227a7026bf6c746fae8ba9ccf177ad7ffe78fc20e",
         "639085787d12a14fb181699018cb22b6227ca94fbbc7dd0b07af37102c9a0b08"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6110945657
     }
   },
   "reason": null,
