@@ -25828,7 +25828,7 @@
       ]
     },
     "507999481": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAISLP184",
       "originals_sha256": [
@@ -25839,7 +25839,8 @@
         "92fc4ab3ec705b54026c4362fd3ba097e496447ff4914cf4d8a87082a3dbacfe",
         "5ce00a8ddfeb8dd150832e916005797629c058779be6b73270a48275bf64b0fa"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6107605849
     }
   },
   "reason": null,
