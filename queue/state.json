@@ -34783,7 +34783,7 @@
       ]
     },
     "1008817132": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EMN48288240",
       "originals_sha256": [
@@ -34792,7 +34792,12 @@
         "ec388eb88076ad68e7a9b320798111c2a020b745b90a78c5dd95afcb37d8285c"
       ],
       "before_count": 3,
-      "task_id": 6109547108
+      "task_id": 6109547108,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
