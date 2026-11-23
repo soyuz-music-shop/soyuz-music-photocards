@@ -54221,6 +54221,15 @@
         0.0,
         0.0
       ]
+    },
+    "3032899488": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EPC 474743 2",
+      "originals_sha256": [
+        "28570ffbe8c84353bb1da1ab3a76209f64eb1ae8f0ca581569333bbbceb8ce93"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
