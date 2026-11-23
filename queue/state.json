@@ -55545,7 +55545,7 @@
       ]
     },
     "3130108004": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "TWI 123 CD",
       "originals_sha256": [
