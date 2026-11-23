@@ -39166,6 +39166,18 @@
         0.0,
         0.0
       ]
+    },
+    "1208028089": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QN58325560",
+      "originals_sha256": [
+        "2f85f81bd6525f49d37143c824532c47afee20bf4a4b98f5e60e4d1bb095e65a",
+        "6d5e5f9d259e533be900a2a9b730e908a33a6ea15788434eba5572a7e9de7c23",
+        "690148cf4d94cc22a4086949e4a3767520dcb04fffde6842d244d5989fc47d82",
+        "e9f524351ac800dd55ce7f1a561d48b69c086d305658df9aa3dbab9e2a998851"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
