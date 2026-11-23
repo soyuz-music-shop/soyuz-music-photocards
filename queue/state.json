@@ -30910,6 +30910,17 @@
         0.0,
         0.0
       ]
+    },
+    "758104143": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DM54606310",
+      "originals_sha256": [
+        "246cca345d15d94cce0fa655976669b19147e96ba67e5e95221b9de701ea2eee",
+        "a4ccedd98cbe95ff6db600978100b37f62ab3385fbc82113ba4a426feb0f6c33",
+        "bb14bbcbcd24ffa29aacb9decc4b5073875eb3f0a6ca9c38ef36406c2186f6a3"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
