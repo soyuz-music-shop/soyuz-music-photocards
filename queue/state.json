@@ -33218,7 +33218,7 @@
       ]
     },
     "870529893": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SOD58655918",
       "originals_sha256": [
@@ -33226,7 +33226,12 @@
         "ec3372785a1beb34941149510f29884be5d4708baab53a7e88dc477287696b55"
       ],
       "before_count": 2,
-      "task_id": 6109328486
+      "task_id": 6109328486,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
