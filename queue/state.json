@@ -77505,14 +77505,19 @@
       ]
     },
     "6800758751": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL LP 429",
       "originals_sha256": [
         "21c186cfb3a8247fbfb1b8a709e1d6a1ac0ad90ec2b15dcba4668e8b08a65701"
       ],
       "before_count": 1,
-      "task_id": 6118453294
+      "task_id": 6118453294,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
