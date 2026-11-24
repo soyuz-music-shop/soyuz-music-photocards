@@ -62228,13 +62228,14 @@
       ]
     },
     "3563073927": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HNEBOX121",
       "originals_sha256": [
         "00064c5f4d2f9a29950aaf3a115b4660245751f402f1be0e81174055cf9a17a6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112702698
     }
   },
   "reason": null,
