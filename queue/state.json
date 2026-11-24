@@ -70781,6 +70781,19 @@
         0.0,
         0.0
       ]
+    },
+    "5219746788": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DAIS187CWBS",
+      "originals_sha256": [
+        "8f55eb131560cd465dd46ed035716088a25d2cc454f0c01552c070bd52e8a1d3",
+        "bc422931671bd2c2e663aed5337c2e888e720f9d2fe4c753b823374d2d4e6bfb",
+        "bfc9ecd49470c87ecd379cc5e33d2fbc164c6ef4f11ac4e3859feed00ade18ee",
+        "187059e39e7ba40b8e17a75a71618d2f0709cf163da480a32079f0525b9307c8",
+        "2964e31533977bcb3069b6e3636021c94a452aef8b45c28988af25dee107408a"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
