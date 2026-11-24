@@ -75670,6 +75670,17 @@
         0.0,
         0.0
       ]
+    },
+    "6720763840": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 3335",
+      "originals_sha256": [
+        "ef55b6cd9aa5fc45749fc86aee240cf090104cef4d0f795348c132f9ce90befc",
+        "6105215f3a9dbcc0287bbaad16e13f19b35a765c4825de9e26f7a0ddbaa4feee",
+        "d7d8ab15152b7cac5d787f5a47a3417b0560f5c376c5695355445e9bfc0f7729"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
