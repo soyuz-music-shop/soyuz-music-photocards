@@ -79337,6 +79337,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920941812": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GI-360LP",
+      "originals_sha256": [
+        "fa8b575a9e362ed8ce1b44d2f17514fed62064b7ea91398f449f32c409074363"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
