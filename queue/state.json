@@ -67693,6 +67693,18 @@
         0.0,
         0.0
       ]
+    },
+    "4385191253": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR4092CMWSBAMSMWBAMSS",
+      "originals_sha256": [
+        "facbd799e0559d0115356ea11d53390fe2dbd0137dbe3ed0ee4a466c58aa934a",
+        "f98b8dfaf14cdcddb638602f7fa589c131c106b8cf88b9c5b1928a300d539e95",
+        "f92686dfbfc8f19625dceed62d6a5ab1d6d94067c3f516e9f24fe75bc61cbf60",
+        "ad4ac76c091261f7d5d033c28cd2e8155b14c7906194a4a1530a830fda960d71"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
