@@ -63527,6 +63527,17 @@
         0.0,
         0.0
       ]
+    },
+    "3730122149": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SRP54529026",
+      "originals_sha256": [
+        "e480b3c3de9d9c70919c27ae68d1755df6abf984c74e5dbf6d267c3d78d653e2",
+        "1487a584c561983b42bc92f50d9d82f38300208b1c153348d88bd5d3bb32c019",
+        "401cc0000975153c999ef2807d645980ab6eccaa5d4a6ab5c91e35fe7c8208a9"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
