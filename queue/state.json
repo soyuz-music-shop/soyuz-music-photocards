@@ -65570,6 +65570,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946177": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD712",
+      "originals_sha256": [
+        "e5e1cfe42bd134957885e7ef896b8bbc8c50fb50d88f3eda278a812f66f4f6b6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
