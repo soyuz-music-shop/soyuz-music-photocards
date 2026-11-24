@@ -73600,6 +73600,17 @@
         0.0,
         0.0
       ]
+    },
+    "5578224675": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "198028767118SC",
+      "originals_sha256": [
+        "73d293ff4b08d7ac10a1ed093fbb5ae020fa6bbd989eaa0136cb15b02e400e3e",
+        "caee72001199ff06bb7d03bd6544b0cf22cfc49551f65ec3fd70aff82d0aafb7",
+        "5233c7d9ebac978a890204a35ee4e18ffaa6a322abb7c689eaa802415da8e65e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
