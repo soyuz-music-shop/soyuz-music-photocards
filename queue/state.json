@@ -80279,6 +80279,15 @@
         0.0,
         0.0
       ]
+    },
+    "6948775767": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC123",
+      "originals_sha256": [
+        "ca9092e509d60eaf5f5a5b828b4155a0e6a5dab0bdf25fb360ac411ce2428b95"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
