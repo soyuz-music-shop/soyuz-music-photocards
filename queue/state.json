@@ -73201,6 +73201,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540173429": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "APC53",
+      "originals_sha256": [
+        "7cad51b5d17eb623b4f85e09605d118a8c2e2a453a288ff2e8729578c5aca9f5",
+        "c771d594fc97d4d759cdfedcc3c33d923e093226962b8683606e74dadfef4488",
+        "9ca0e559ad7cd377ea9c678edb5e6553c41769c6231bed9ad7db9319bf55861e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
