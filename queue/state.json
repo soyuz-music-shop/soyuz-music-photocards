@@ -60791,6 +60791,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824662": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRED744X",
+      "originals_sha256": [
+        "ea678f238322cdd3619e5c028a1901f346c783d8387ff5cd566a1c478fbb49af"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
