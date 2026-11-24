@@ -69774,6 +69774,16 @@
         0.0,
         0.0
       ]
+    },
+    "4462124214": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PF762427",
+      "originals_sha256": [
+        "243361bf770696c4175a0767d6641936d49d5f86c001935c79e5e5c650ad7876",
+        "5175bab59858dd66e4c9a32d531db819fe8c16b8202f215aa02373fd2af4d2b5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
