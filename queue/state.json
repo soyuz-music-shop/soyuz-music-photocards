@@ -66444,14 +66444,19 @@
       ]
     },
     "3784946400": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKD250",
       "originals_sha256": [
         "1e7f25bcaf5e3fe605ac968b4a15e330388fb19aeabc7e576ce6ce03189c4bf0"
       ],
       "before_count": 1,
-      "task_id": 6113570115
+      "task_id": 6113570115,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
