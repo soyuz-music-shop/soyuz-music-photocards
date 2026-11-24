@@ -74891,13 +74891,14 @@
       ]
     },
     "6720506828": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NONECLEAR",
       "originals_sha256": [
         "628b1c9af8ce2771c401b8a9ad28396d3cc2d28f0ad4451076daf3c69b0a4ca5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118204085
     }
   },
   "reason": null,
