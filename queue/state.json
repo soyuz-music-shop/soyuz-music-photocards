@@ -60466,6 +60466,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824593": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LTP-001-LP",
+      "originals_sha256": [
+        "76ccc860e02c7de25993def908ff970c943addb5a2b9459e24af38c30c9c69ce"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
