@@ -60528,13 +60528,14 @@
       ]
     },
     "3562824604": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED2LP 910",
       "originals_sha256": [
         "8a7a6b8c55de2bc4260eb97d61719d2522f490286ba25717c5aceee9eb73cc75"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112354862
     }
   },
   "reason": null,
