@@ -76245,14 +76245,19 @@
       ]
     },
     "6799278980": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "FM015529",
       "originals_sha256": [
         "e803446984405a3fe1b872f705e09129c1a633532446e56d0d1677142a81f864"
       ],
       "before_count": 1,
-      "task_id": 6118342248
+      "task_id": 6118342248,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
