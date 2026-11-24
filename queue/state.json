@@ -61773,6 +61773,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073846": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAM CD 63",
+      "originals_sha256": [
+        "2d63b5c84fb904204b039d08fcda8328844b2a929575bc2633a6c4c25cd5ea1c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
