@@ -68693,6 +68693,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191518": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XLLP834",
+      "originals_sha256": [
+        "823a448c267bede6ed313bade5a4e00f7c11489f3e78a84f9f324ab00a2d5664"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
