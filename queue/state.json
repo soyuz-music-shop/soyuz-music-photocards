@@ -72312,7 +72312,7 @@
       ]
     },
     "5540172660": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MXT003",
       "originals_sha256": [
@@ -72321,7 +72321,8 @@
         "ca4231ae63dc0d300f638a5eaa667185c20fb666e30a6895c4025f9a318592bd",
         "20c104996208a515d7636d523f88873cc04a4da06e25fb335c57d0088405ad98"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117952457
     }
   },
   "reason": null,
