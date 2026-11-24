@@ -69667,14 +69667,19 @@
       ]
     },
     "4462121842": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2725398",
       "originals_sha256": [
         "e22bfa1bbd5dafa65252fd3836e60dc18db34f3e5c7e094b275d6e5f2c31d76a"
       ],
       "before_count": 1,
-      "task_id": 6114106940
+      "task_id": 6114106940,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
