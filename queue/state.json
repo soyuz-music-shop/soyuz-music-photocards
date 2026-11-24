@@ -78196,13 +78196,14 @@
       ]
     },
     "6886227613": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "244501 LP",
       "originals_sha256": [
         "e78bc6fb2239b121c0cabcc6af64987568976e3898b0033b18a578948df7b7ad"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118529099
     }
   },
   "reason": null,
