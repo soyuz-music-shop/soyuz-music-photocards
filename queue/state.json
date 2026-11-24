@@ -78271,13 +78271,14 @@
       ]
     },
     "6886245083": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TEXT055",
       "originals_sha256": [
         "c725333ce6c331ed7a8afaeb51b08888d8b8ac01ec6c6425b3da79c3908589b4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118535322
     }
   },
   "reason": null,
