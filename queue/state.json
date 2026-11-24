@@ -79502,6 +79502,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920975039": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DM769227",
+      "originals_sha256": [
+        "f57d949b2c7cece1f324b6f155780455bf94e2f235e12ef6bcd0db26eb15358b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
