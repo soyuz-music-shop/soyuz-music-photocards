@@ -57868,13 +57868,14 @@
       ]
     },
     "3296659107": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 919",
       "originals_sha256": [
         "062419fd73d98ef9032b66f48d388d9bed9a1b1a7ed0782b7cd8f79c9f9a15ba"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111915957
     }
   },
   "reason": null,
