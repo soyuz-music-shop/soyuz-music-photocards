@@ -80573,13 +80573,14 @@
       ]
     },
     "6961317619": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XL1563CD",
       "originals_sha256": [
         "ad67ea174031d0d04ca6b5a94ce9a85882a488b26e991c1507095b6570cd4262"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118775552
     }
   },
   "reason": null,
