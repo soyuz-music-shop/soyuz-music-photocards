@@ -80392,13 +80392,14 @@
       "reason": "Original image count changed since snapshot"
     },
     "6961317507": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "Ole 829-2",
       "originals_sha256": [
         "e0f9b1ac28b91df8cf1c54f40eedb771f7d262b725eee917966ed2f998400b3a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118752245
     }
   },
   "reason": null,
