@@ -78331,13 +78331,14 @@
       ]
     },
     "6886260439": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP558X",
       "originals_sha256": [
         "845ce2678992c79469691c76e1d48048b0a5f5398e7b5718d39743e4e7298fcb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118540677
     }
   },
   "reason": null,
