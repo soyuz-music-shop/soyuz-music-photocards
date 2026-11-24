@@ -64596,14 +64596,19 @@
       ]
     },
     "3784565089": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "S13",
       "originals_sha256": [
         "d16e889af9b42a2c24a5ccbb38a488195971aa299bb202422cbe4d88166c6a27"
       ],
       "before_count": 1,
-      "task_id": 6113261451
+      "task_id": 6113261451,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
