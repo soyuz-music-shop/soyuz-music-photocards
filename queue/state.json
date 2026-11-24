@@ -63177,7 +63177,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "3576109650": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "cd-import",
       "offer_id": "OTCD-6390",
       "originals_sha256": [
