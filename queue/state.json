@@ -79324,14 +79324,19 @@
       ]
     },
     "6920938630": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BO333312MC",
       "originals_sha256": [
         "cf4ee2b989757590e0269b17b155d24905d5c2432c6604f32835f1e50bb68dbd"
       ],
       "before_count": 1,
-      "task_id": 6118630864
+      "task_id": 6118630864,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
