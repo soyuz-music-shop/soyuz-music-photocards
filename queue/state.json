@@ -61308,6 +61308,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073769": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PECLEC 2697",
+      "originals_sha256": [
+        "7d4919f685fbd9f5b5de5d6cf07d52c595bf9db30bcf18b7ee1dfca4fe8ecbce"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
