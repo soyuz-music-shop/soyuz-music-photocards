@@ -78646,14 +78646,19 @@
       ]
     },
     "6886319025": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "REWIGLP158X",
       "originals_sha256": [
         "9189e9e00082f66f2cca57e46bdc2f87a21fe46e2e2fa80678690fc28899655a"
       ],
       "before_count": 1,
-      "task_id": 6118570305
+      "task_id": 6118570305,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
