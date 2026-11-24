@@ -61093,6 +61093,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073745": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SOUM2CD577",
+      "originals_sha256": [
+        "ac7a10e73a2e9493680d468356a0f0acade33a24c5ad35759bc35ef0feb6de4c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
