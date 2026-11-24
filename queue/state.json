@@ -79956,14 +79956,19 @@
       ]
     },
     "6921046495": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BM590511",
       "originals_sha256": [
         "5a98b766f3ed15cc82cb5c738c26b65cc38b75aaf94a16678602884493d469a9"
       ],
       "before_count": 1,
-      "task_id": 6118686195
+      "task_id": 6118686195,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
