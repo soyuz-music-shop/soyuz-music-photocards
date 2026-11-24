@@ -78839,6 +78839,18 @@
         0.0,
         0.0
       ]
+    },
+    "6886355173": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YT164",
+      "originals_sha256": [
+        "50026b636cee3d3fe1b62e148a50bcd240df8036bfdddb6b2468115f8e830efa",
+        "8a389840943b47019257fd3c6d2144e7447d6cc67c336bb79ed84d1b3761ddee",
+        "65a4e8782646d402bab97a3fa24d3fdf2ebb5b002922204cd65020365c524af5",
+        "c010b5211e1d02fbe0965a2e8f96ca42054326be23a98cf3762e390284beb018"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
