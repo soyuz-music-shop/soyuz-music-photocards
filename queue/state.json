@@ -68821,6 +68821,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191536": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KO740917WHITE",
+      "originals_sha256": [
+        "76b786d8e708b530dda7fadd0393771bcfa89687367cf104faceb64df2838bea",
+        "b7e08e46017ffbb94a8e45b7beea81995edbac54c8da14da256cbd1224eb7383"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
