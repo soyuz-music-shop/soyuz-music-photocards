@@ -70728,7 +70728,7 @@
       ]
     },
     "5219746208": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CSR203LP",
       "originals_sha256": [
@@ -70737,7 +70737,8 @@
         "407670e956638377db89538f113bae26728b46ec187054f572f9fc6add1d9658",
         "0f79b1773b66e1e88845fbf4929a855cfb2d368425fe836755c48eb8ee88b0c2"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117777206
     }
   },
   "reason": null,
