@@ -66263,13 +66263,14 @@
       ]
     },
     "3784946366": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "VMD79299",
       "originals_sha256": [
         "858f706187398b3db87c9f69a83084d048b7fb1dda73e33d14281c8a13e38e6d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113536156
     }
   },
   "reason": null,
