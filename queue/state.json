@@ -58080,13 +58080,14 @@
       ]
     },
     "3296659186": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SMALP1298",
       "originals_sha256": [
         "e895bf3ef6fe9bfba245155ff3e79d90a3a8bab0878452b8060e4fba57109e47"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111943054
     }
   },
   "reason": null,
