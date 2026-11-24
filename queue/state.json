@@ -77774,6 +77774,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886122561": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AP-01CD",
+      "originals_sha256": [
+        "24420c0712b13b8d8039c55cfc144c85d210640a56229b73409c2182bf2ddb01"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
