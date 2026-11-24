@@ -60118,14 +60118,19 @@
       ]
     },
     "3556539537": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYD10 317",
       "originals_sha256": [
         "b63cc85786204a1168a4d20cc6ee8994eda83b158c0f67065de5fabdf433a5cf"
       ],
       "before_count": 1,
-      "task_id": 6112280166
+      "task_id": 6112280166,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
