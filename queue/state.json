@@ -76086,6 +76086,18 @@
         0.0,
         0.0
       ]
+    },
+    "6799223672": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM626340CC",
+      "originals_sha256": [
+        "b5943b757db2649aaba4259bc19b25853e296c671d09992a02c16dd40d56902f",
+        "ec245923e116c90c2c1c92ccefe712707a35e73b69ced6732e5b752f91e2a3b7",
+        "2f65596e1dac3a95b45a31595568568cb0c4ef9d8b0d133cf3bcfc119457fbe1",
+        "78744ec8030b568fedf65970b9b7a863755a22f02ad28abc5f92b5f74666f9fe"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
