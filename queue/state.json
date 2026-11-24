@@ -80172,6 +80172,16 @@
         0.0,
         0.0
       ]
+    },
+    "6921072018": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PB170022",
+      "originals_sha256": [
+        "e4da9de2aa9f09ee01c73fe4365556700fc3a525788779f809ef87e4c9f74fdf",
+        "c4367f5317157a9bef2160d07e2a76e4ee6fe3f686111ad0ae5e3aaffca3bb85"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
