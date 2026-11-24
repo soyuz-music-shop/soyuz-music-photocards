@@ -69851,6 +69851,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462127688": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SC478482",
+      "originals_sha256": [
+        "317cf3f592958c74a68524ce82d0667b5f5e33946bc570f99f54ed91c70a5806"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
