@@ -63695,6 +63695,16 @@
         0.0,
         0.0
       ]
+    },
+    "3784564849": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP2154",
+      "originals_sha256": [
+        "2e6451058009a509d16ee907fbc157a37c3594565d05229dd41efe3c59d3743e",
+        "0727ca90725b39e04ba660c38f624107353d7747a24a984d2d110ac499423757"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
