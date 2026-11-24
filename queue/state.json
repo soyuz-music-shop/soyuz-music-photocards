@@ -63997,13 +63997,14 @@
       ]
     },
     "3784564941": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIK21",
       "originals_sha256": [
         "35dae1a636fa75bbb775940d3f264afadb9c4c8878423bbb37e152b196811f83"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113148042
     }
   },
   "reason": null,
