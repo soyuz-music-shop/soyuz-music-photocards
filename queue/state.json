@@ -62256,6 +62256,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073930": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EANTCD1114",
+      "originals_sha256": [
+        "abd58ab938a19365547713b6f90e0f1136f7833a2201f00a7349867acf742bd9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
