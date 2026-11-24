@@ -78676,14 +78676,19 @@
       ]
     },
     "6886324712": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MCR819998",
       "originals_sha256": [
         "3e4155ac2c139420966f6fcad7d9ff3fff117c319004a16353dcd9191a068ff7"
       ],
       "before_count": 1,
-      "task_id": 6118573296
+      "task_id": 6118573296,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
