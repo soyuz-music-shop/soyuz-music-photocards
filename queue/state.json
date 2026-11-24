@@ -67474,14 +67474,19 @@
       ]
     },
     "4385191203": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGRM028LP",
       "originals_sha256": [
         "310998da9500345aa89c4a98fae236d01c9d7b898bd7dd2689a513daee14e7c4"
       ],
       "before_count": 1,
-      "task_id": 6113719666
+      "task_id": 6113719666,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
