@@ -79137,6 +79137,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920909491": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XLCD583X",
+      "originals_sha256": [
+        "ec0a4c0282af82efd95cfe4136c4e5b23e4ff569ce9b164eebde7dfc298084b6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
