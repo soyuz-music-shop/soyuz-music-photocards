@@ -62243,14 +62243,19 @@
       ]
     },
     "3563073928": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC 32685",
       "originals_sha256": [
         "4468ab607ee8f3dd36a0cec092fdadd3189169c0fd5f802ff8df307054e8bd32"
       ],
       "before_count": 1,
-      "task_id": 6112705497
+      "task_id": 6112705497,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
