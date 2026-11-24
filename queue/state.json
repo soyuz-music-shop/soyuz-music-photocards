@@ -67839,14 +67839,19 @@
       ]
     },
     "4385191283": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1518806OG",
       "originals_sha256": [
         "8515b4c8553362e9b6184d30be9809b78d22be91f547e4e91ca6e1d6fc3c61d0"
       ],
       "before_count": 1,
-      "task_id": 6113771351
+      "task_id": 6113771351,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
