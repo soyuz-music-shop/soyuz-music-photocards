@@ -78809,6 +78809,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886350437": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1 9328",
+      "originals_sha256": [
+        "0d8f495e94bf02b0498f704da970f7abacaad15df5b17f12df058a6e06135492"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
