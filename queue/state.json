@@ -67870,6 +67870,17 @@
         0.0,
         0.0
       ]
+    },
+    "4385191306": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EPC25739",
+      "originals_sha256": [
+        "d4ba957b05110b0c34721d7ff35873ae0fc806fce08748ec11afa68ef94c337a",
+        "38fa0019359cfd6d55262cb984563626b12260d30e04215c56482f101fabd466",
+        "065de86eaa4f5f2dfe09fb2ea76e343c1bd46eaef96a1aa5f5ec4ed2e16ef779"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
