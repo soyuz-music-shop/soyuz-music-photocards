@@ -79103,6 +79103,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920905776": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AMB9322CD",
+      "originals_sha256": [
+        "fd528f6f23424bf425d3fe93385811a9ff72ba2e4dd0c1c6d862c78742164b4c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
