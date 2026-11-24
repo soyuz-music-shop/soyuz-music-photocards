@@ -59552,13 +59552,14 @@
       ]
     },
     "3325378497": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LM 80205",
       "originals_sha256": [
         "5d96b5e7b100614bd9cf8445d8091af82a6d13e41726cdb50d60245dd793ed30"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112182688
     }
   },
   "reason": null,
