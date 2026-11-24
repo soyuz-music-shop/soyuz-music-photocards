@@ -79442,6 +79442,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920961641": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBL 98 CD",
+      "originals_sha256": [
+        "f8e6ab09a026ffb60d265e3800502adfb2a8dce73021c2bfd60110218e3423d3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
