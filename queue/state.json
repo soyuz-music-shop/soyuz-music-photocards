@@ -80601,6 +80601,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317629": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP496",
+      "originals_sha256": [
+        "5d4ff67c1e2d32db713596d61e9b5ad48e3070d2b125f50e2449be64cfebb6b0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
