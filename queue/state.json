@@ -61835,14 +61835,19 @@
       ]
     },
     "3563073866": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ACMEM297CD",
       "originals_sha256": [
         "716803118aecf8a5e491d297454fb55842a1b18005a876808cb3fb015025701f"
       ],
       "before_count": 1,
-      "task_id": 6112624388
+      "task_id": 6112624388,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
