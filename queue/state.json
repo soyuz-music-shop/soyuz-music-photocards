@@ -78286,13 +78286,14 @@
       ]
     },
     "6886249208": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CST111-1",
       "originals_sha256": [
         "bd3fc4ca6fada634c00ad59cd0edcdf19e098a848037ddd58a51969a2eea59cc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118536697
     }
   },
   "reason": null,
