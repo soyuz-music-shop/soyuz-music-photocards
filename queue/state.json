@@ -58571,14 +58571,19 @@
       ]
     },
     "3318541180": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMARCHIVE2",
       "originals_sha256": [
         "809dff778bc087c343a6564e98dc25ec5decd0f5e80d462f85f298e162c1103f"
       ],
       "before_count": 1,
-      "task_id": 6112009728
+      "task_id": 6112009728,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
