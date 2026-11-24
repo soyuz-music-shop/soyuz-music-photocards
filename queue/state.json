@@ -74656,6 +74656,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720436582": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AFM730756",
+      "originals_sha256": [
+        "f7f4befa79bd0048c8f8ecc69e1a875caddf22ba456ff1d103bc784cbbaf034c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
