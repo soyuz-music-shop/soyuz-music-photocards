@@ -78764,6 +78764,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886340626": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "4AD0878CD",
+      "originals_sha256": [
+        "2fc3c0487ff54f07af8539b420918cf60db4e865ba38716996d5abed73868c53"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
