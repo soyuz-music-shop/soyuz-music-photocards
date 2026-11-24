@@ -77343,13 +77343,14 @@
       ]
     },
     "6800726138": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TS116829",
       "originals_sha256": [
         "de85b60578d0590ba67a909f40994ee2e1c23b08739a458f4a89862745f763dd"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118435254
     }
   },
   "reason": null,
