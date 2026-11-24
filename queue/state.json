@@ -57959,13 +57959,14 @@
       ]
     },
     "3296659140": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV785LPLTD",
       "originals_sha256": [
         "d2066b7c76a7bd9caef2bcc7725dac1c2606e677955ab42d0913c9005ac57329"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111928457
     }
   },
   "reason": null,
