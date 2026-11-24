@@ -62921,6 +62921,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109613": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QATOMCD1060",
+      "originals_sha256": [
+        "68607272cb7132b3db69565efd101076cd2a0e15c8b4592870144163f4eb3eb4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
