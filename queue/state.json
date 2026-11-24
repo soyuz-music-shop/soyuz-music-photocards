@@ -70600,7 +70600,7 @@
       ]
     },
     "5219746179": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOARXXX",
       "originals_sha256": [
@@ -70610,7 +70610,12 @@
         "50a86fc30c2b3aed735b59c576e6fe24b21e0fb4cf96fc46d9bfc7d79b45cf80"
       ],
       "before_count": 4,
-      "task_id": 6117762062
+      "task_id": 6117762062,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
