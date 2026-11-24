@@ -65782,13 +65782,14 @@
       ]
     },
     "3784946252": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "VMD279266",
       "originals_sha256": [
         "afecde72156d04d965af066216d5b9fe9e62d93cd35bd293e38fc610c68ce4eb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113461226
     }
   },
   "reason": null,
