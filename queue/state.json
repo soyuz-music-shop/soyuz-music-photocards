@@ -79182,6 +79182,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920915603": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TBK823858",
+      "originals_sha256": [
+        "73718f98a08754c8fbc31a3ccee941ff5c67ba4bbb9f92f4f9853d645126b9ba"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
