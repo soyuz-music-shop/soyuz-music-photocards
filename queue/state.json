@@ -60718,13 +60718,14 @@
       ]
     },
     "3562824635": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HNELP064RED",
       "originals_sha256": [
         "41c235c5b75ee3e94d05cfc8501d8622a72a63b773576a81f54e5a7965a109c2"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112395565
     }
   },
   "reason": null,
