@@ -67992,7 +67992,7 @@
       ]
     },
     "4385191346": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SL601316",
       "originals_sha256": [
@@ -68002,7 +68002,12 @@
         "16f9384655b6a1fb741ac3e8e2afea80015abc54d238bffa2641b35f11a8af6c"
       ],
       "before_count": 4,
-      "task_id": 6113793540
+      "task_id": 6113793540,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
