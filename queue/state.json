@@ -67197,6 +67197,17 @@
         0.0,
         0.0
       ]
+    },
+    "4385191133": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV183793CLEAR",
+      "originals_sha256": [
+        "1334f2b6cbf87de7d715871cf9e4ff1c389a6e7e00240468ac65a5dabc3a447c",
+        "51c085cd6dc709ff2b1d3ed9b409d45c277a4fc49c79a01059efaff30796a10f",
+        "731c6b5327db8b3f39c083582e294f11534841fd326af572aeca455c9e54ab1e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
