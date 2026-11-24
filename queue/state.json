@@ -66038,13 +66038,14 @@
       ]
     },
     "3784946316": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBGPD150",
       "originals_sha256": [
         "5b75e55fdd5e165c0653865c4cdfe6d708808b2f196c149973eedbcef1a97b91"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113498879
     }
   },
   "reason": null,
