@@ -72946,6 +72946,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172818": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IDIOTR003TLBB",
+      "originals_sha256": [
+        "abf8c042503aa65e2a2f56e5cf452b3f9ee3e31885f4bd00c881f413283af884",
+        "11bb27e417d511a8a32bca576f6047d9c24c72f258fd6788bb6e7335a905e8f4",
+        "64aff9690ce4ca4c2cf6d9b9a51834bfbeb9320d8447a9ef62592a1ac10f9c0b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
