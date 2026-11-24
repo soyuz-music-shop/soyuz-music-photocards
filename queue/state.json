@@ -57358,14 +57358,19 @@
       ]
     },
     "3296658996": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SOM 517LP",
       "originals_sha256": [
         "db977affc52f0c9f372bcb20fa90c981987dd464be64abcc0dc4540c9528e516"
       ],
       "before_count": 1,
-      "task_id": 6111856910
+      "task_id": 6111856910,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
