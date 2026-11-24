@@ -68448,6 +68448,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191440": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EES-044BS",
+      "originals_sha256": [
+        "d55a793819470713e3a9dce82cbc3bc64c648ee64287b9a6cc4c148250de908c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
