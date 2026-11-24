@@ -58416,14 +58416,19 @@
       ]
     },
     "3296811107": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 550",
       "originals_sha256": [
         "15d6cf7294b2b04f334b3cc8a2a6ba264fb9303bc7cefbd487ad8f59e7f52eac"
       ],
       "before_count": 1,
-      "task_id": 6111987591
+      "task_id": 6111987591,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
