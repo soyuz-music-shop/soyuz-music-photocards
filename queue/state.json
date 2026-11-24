@@ -63771,6 +63771,27 @@
         0.0,
         0.0
       ]
+    },
+    "3784564870": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP2149",
+      "originals_sha256": [
+        "45027bd95095ba49fc75844165ec41c7f04a7b4f7ad6243896163807836fa7c3",
+        "01d18aac1c2df2db21ec65d8ce3f357218a71a384614f215d76d98a89eb7b195",
+        "022f3b251901432fad72229a702a17ef583499776e2007379438a69ea6b1f859",
+        "e0451c1744145d986fc0655715204a3ed71d3327be3ec73dbd1574911f70da61",
+        "cea5796c12583004bb5fb095b925ad9063078430773f9b68c7ebf3ebfca7b9f0",
+        "5479ecc925bcd57f8363a607a78b1243dbf2c126ad5dec1229b22e9d2b5b4bc9",
+        "87af95b8e390a5824452b90e2b938eb66fec98a92bff863eaceec0e359de5a33",
+        "ef329bf35bc4fe692d43eb0a550866d9bcf32c2cd28656691a0196456ace21d5",
+        "3f0f69450f96f9803a40849a7f8cc53c3b9baa6bf94539bbf2b31522b083f747",
+        "f2bb59239cd62ad73ccdc88eebad0ee99c9515172aee163ba6b9c33be58502f7",
+        "dcd0ee568d887d742880144b5ffaa62e5a385554bffe5424b51e73d074282d2a",
+        "c1e1b8a87493191a7d32ef459826e0f42a1fe5f9534f857d7e2c199fbb99a6c0",
+        "e3cbaf0fbb8aa3c056cf343a13519f7c2d8166aa6af57ec52cddae6252400e1c"
+      ],
+      "before_count": 13
     }
   },
   "reason": null,
