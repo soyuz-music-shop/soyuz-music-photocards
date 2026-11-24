@@ -69184,6 +69184,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191616": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ZEN195",
+      "originals_sha256": [
+        "deed4379cd5620b55a9d4f2a0ffa9cc1a8a1c73c7c5d9426c5329278b7bbff91",
+        "fdf898f4d3549e0cff92b61397f4d37959a4b50fbb2025fb260d84f594be4d16"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
