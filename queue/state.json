@@ -58584,6 +58584,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541189": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BROLLYCD4",
+      "originals_sha256": [
+        "bbe40d12e95cf689c4f466123b75963104ae985aa8a935429fe4e43849a250c6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
