@@ -77474,7 +77474,7 @@
       ]
     },
     "6800749743": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TM565318",
       "originals_sha256": [
@@ -77482,7 +77482,12 @@
         "558f66b2a20af36eee0513796a3fc82bbf4de5ff31fd0604e12c0c0f260112be"
       ],
       "before_count": 2,
-      "task_id": 6118449965
+      "task_id": 6118449965,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
