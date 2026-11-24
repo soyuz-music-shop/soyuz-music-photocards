@@ -63595,7 +63595,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3749015929": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4680017661430",
       "originals_sha256": [
@@ -63604,7 +63604,8 @@
         "5cc22b01a6289f281b6847d66b1f1dc0b5c76c53eb5133c444d7cedd6b09cd9f",
         "875babe965d4cac6cb5ecef25da91814e8d7c4afef125e3d82364ddc20787cc7"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6113069116
     }
   },
   "reason": null,
