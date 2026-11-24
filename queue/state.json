@@ -57699,14 +57699,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3296659060": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AA436044",
       "originals_sha256": [
         "6f90a18ce772c6862eac71664628809c29a341f31c10e03dbe2bf6c692da0214"
       ],
       "before_count": 1,
-      "task_id": 6111896276
+      "task_id": 6111896276,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
