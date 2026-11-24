@@ -64656,14 +64656,19 @@
       ]
     },
     "3784565126": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SX2135",
       "originals_sha256": [
         "acf339762aac02d3379de8237b2117d2eca4d50b691a3007b151ff9d208bda75"
       ],
       "before_count": 1,
-      "task_id": 6113271567
+      "task_id": 6113271567,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
