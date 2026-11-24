@@ -61563,6 +61563,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073804": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAM CD 112",
+      "originals_sha256": [
+        "c0a86206f150e5bedd0c6faa37b1dd28740637da6b2fc02acfb2b441427d5ba3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
