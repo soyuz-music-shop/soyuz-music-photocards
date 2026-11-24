@@ -75976,13 +75976,14 @@
       ]
     },
     "6799179955": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ABRP168320",
       "originals_sha256": [
         "3b9cb4bcdca2877f4686a3b02d95cd241c76d64dbe2f4c2e028233daeca19a18"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118313981
     }
   },
   "reason": null,
