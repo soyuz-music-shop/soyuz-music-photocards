@@ -63876,14 +63876,19 @@
       ]
     },
     "3784564903": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2165",
       "originals_sha256": [
         "a7e0945903dd48f08968f0c9885fe5e2746a39b54bd80d03c759fb6184381b68"
       ],
       "before_count": 1,
-      "task_id": 6113122460
+      "task_id": 6113122460,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
