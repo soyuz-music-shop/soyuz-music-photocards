@@ -68233,13 +68233,14 @@
       ]
     },
     "4385191389": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RP895322",
       "originals_sha256": [
         "abbcab7646d6b71227a948d0cac38f9d611847905763fbeb02a4472938ed655d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113831345
     }
   },
   "reason": null,
