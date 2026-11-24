@@ -68050,14 +68050,19 @@
       ]
     },
     "4385191349": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SG622010",
       "originals_sha256": [
         "2c38909a06ba11f2178372ef7e55080514ec627e70ccefaade48185676b3ed6e"
       ],
       "before_count": 1,
-      "task_id": 6113800782
+      "task_id": 6113800782,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
