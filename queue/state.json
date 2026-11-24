@@ -58833,6 +58833,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541245": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IS739933",
+      "originals_sha256": [
+        "af424e5f16ee21181a682147e3054b16dc59505e03b579c3dca01b864193e3a4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
