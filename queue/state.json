@@ -76275,14 +76275,19 @@
       ]
     },
     "6799289050": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GA191974BACS",
       "originals_sha256": [
         "c3df24b634f7387562d1851576b498a70840116e6317665bae433c8676eb47c8"
       ],
       "before_count": 1,
-      "task_id": 6118346492
+      "task_id": 6118346492,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
