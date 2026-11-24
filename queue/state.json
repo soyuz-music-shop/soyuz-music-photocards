@@ -76832,6 +76832,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800623443": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OO156525",
+      "originals_sha256": [
+        "7f3b678087de61536a8767ee990e68e7034be0c108ddf8174058b89d3ac8ba5b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
