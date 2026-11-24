@@ -60403,13 +60403,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824588": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LEMLP231",
       "originals_sha256": [
         "0a9ed0b4b27eed424299236e43a95597d84246447b590af10b907816fa12c8f9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112329587
     }
   },
   "reason": null,
