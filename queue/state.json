@@ -79504,14 +79504,19 @@
       ]
     },
     "6920975039": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DM769227",
       "originals_sha256": [
         "f57d949b2c7cece1f324b6f155780455bf94e2f235e12ef6bcd0db26eb15358b"
       ],
       "before_count": 1,
-      "task_id": 6118649045
+      "task_id": 6118649045,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
