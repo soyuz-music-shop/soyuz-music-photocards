@@ -76273,6 +76273,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799289050": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GA191974BACS",
+      "originals_sha256": [
+        "c3df24b634f7387562d1851576b498a70840116e6317665bae433c8676eb47c8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
