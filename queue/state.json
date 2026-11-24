@@ -76069,6 +76069,17 @@
         0.0,
         0.0
       ]
+    },
+    "6799214320": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BS987921",
+      "originals_sha256": [
+        "00e4c8f644c5516dca8402969ed657457d465887de6c2c807ca639e76b822c23",
+        "73dda250fa6a90fc0980f75ca44596d5889d7b03cc1b3afeb5d579ec1f07f06c",
+        "f7a0db963e703210083bf3cf8274dd6ff5c38c72ba79be19e30a5f96cd6ae21a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
