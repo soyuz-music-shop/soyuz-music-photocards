@@ -61295,13 +61295,14 @@
       ]
     },
     "3563073768": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "EREACD 21014",
       "originals_sha256": [
         "6b3f0a7481003cfdb38e7e7971d4aa2f0e3630f6ee9c4f6bdfbb42ecc97c0201"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112518294
     }
   },
   "reason": null,
