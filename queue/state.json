@@ -73570,14 +73570,15 @@
       ]
     },
     "5578222673": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RUF2108",
       "originals_sha256": [
         "d3ee56dcc689659d4ab10c0c85c8e7ab07ef77ae1e0e6d6417f5e23804e151ac",
         "a111af94cbbdd6d0ef188106b4581879077dd514c409dbaa38697462732489de"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118082452
     }
   },
   "reason": null,
