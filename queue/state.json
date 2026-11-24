@@ -62346,6 +62346,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073950": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QCRPOPD240",
+      "originals_sha256": [
+        "87b5070b772a2bcf43e4b4f1bda3ff0c87bb183a050932e08d422bd845012b91"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
