@@ -63417,6 +63417,19 @@
         0.0,
         0.0
       ]
+    },
+    "3648727579": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RTRADLP680",
+      "originals_sha256": [
+        "6582d9f3846ba2fe490558e45af9837af48731dc8d54775bd5f5f40dc43c9497",
+        "7c72893583abde7a092f83265b1ac9c196b4844439171e3845ab14a846bccbad",
+        "f420d53f88f52076a3296e278f95ef8d4129324d9c8534a87b1a068c0a8a888d",
+        "7f46ada8b051038c72f82a496ec2d79954eb1fcd6f7dfb0d5d59b4b380c03826",
+        "76d7c0c1cc3eed0a01e08b66d104323558af477ce7fdf7300baac149382fb45e"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
