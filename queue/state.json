@@ -78889,14 +78889,19 @@
       ]
     },
     "6886362586": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HB586033PWBS",
       "originals_sha256": [
         "a1e290885841f3609a6f36270665e88207ed46cd6dd6c98135c75db9c9b5bfcf"
       ],
       "before_count": 1,
-      "task_id": 6118594818
+      "task_id": 6118594818,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
