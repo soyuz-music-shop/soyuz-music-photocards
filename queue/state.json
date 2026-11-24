@@ -73169,7 +73169,7 @@
       ]
     },
     "5540173074": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LC956117",
       "originals_sha256": [
@@ -73178,7 +73178,12 @@
         "b131a1f440d519d55cce2299f621a317db51672aae1fd36eb2bd90d3c320406d"
       ],
       "before_count": 3,
-      "task_id": 6118033080
+      "task_id": 6118033080,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
