@@ -70155,7 +70155,7 @@
       ]
     },
     "4462346497": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MT362925",
       "originals_sha256": [
@@ -70168,7 +70168,8 @@
         "8f0288dc426bd46cbbfbb6c2f0c5391fd4b894b4fb2870983e32b8c3f2d80b3f",
         "233d3ec53972bd6693ee4dd278c2c40fec1f5ea423541b7553d26213a570f945"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6117721196
     }
   },
   "reason": null,
