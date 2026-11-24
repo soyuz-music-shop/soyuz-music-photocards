@@ -57943,14 +57943,15 @@
       ]
     },
     "3296659137": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV806LPLTD",
       "originals_sha256": [
         "4e9be16bafa3a30670d949769445ab6dc8f5bbeefff1c3dd499f56878a7ff061",
         "c1ae262547023b2f54889fab128d7e176fe5b06ee5c1bd85d1e95f6f39a073b6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111926459
     }
   },
   "reason": null,
