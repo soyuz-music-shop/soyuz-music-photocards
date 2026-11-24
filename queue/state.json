@@ -80045,6 +80045,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921058488": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MU665771TRGG",
+      "originals_sha256": [
+        "757a35e300c149eb4f8f156a0b86680a2be44b94256faa0aa641bae32a014310"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
