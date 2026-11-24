@@ -74987,14 +74987,19 @@
       ]
     },
     "6720561402": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WE5",
       "originals_sha256": [
         "cd33afe17e7362904e2b07d716c2166b8a765a03f143ffdac8562bb43ece281a"
       ],
       "before_count": 1,
-      "task_id": 6118212307
+      "task_id": 6118212307,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
