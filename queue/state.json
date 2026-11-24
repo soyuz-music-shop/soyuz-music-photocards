@@ -79474,13 +79474,14 @@
       ]
     },
     "6920968528": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DL191712",
       "originals_sha256": [
         "798aa89f08336cb30df82e6776e2c1df3b8ff9c39325de299bd50fd8e536b804"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118645988
     }
   },
   "reason": null,
