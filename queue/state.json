@@ -79879,6 +79879,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921038690": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MA822448WHITE",
+      "originals_sha256": [
+        "2632facf179277efbcd7b144a563b76cfe1472dd02d3216ea2ef1e9717b61c99"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
