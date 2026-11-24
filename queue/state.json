@@ -79009,14 +79009,15 @@
       ]
     },
     "6920891662": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LP-DED-037",
       "originals_sha256": [
         "58855a67a32ef5fb636e7e79c64f4d8a9ddeb6369c0f526118424b22823ebd9c",
         "34f321f0a85dd050cb177f858120447e71fc2f5f199c85c93c5dd38259712714"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118605814
     }
   },
   "reason": null,
