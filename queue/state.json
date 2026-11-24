@@ -80392,7 +80392,7 @@
       "reason": "Original image count changed since snapshot"
     },
     "6961317507": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "Ole 829-2",
       "originals_sha256": [
