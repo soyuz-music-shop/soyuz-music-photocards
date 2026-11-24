@@ -75223,7 +75223,7 @@
       ]
     },
     "6720644023": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MSP593328",
       "originals_sha256": [
@@ -75236,7 +75236,12 @@
         "1273b16766f94ace10f7d58aa15ef00200222be0092a5c0156a3d6703c6ce611"
       ],
       "before_count": 7,
-      "task_id": 6118240084
+      "task_id": 6118240084,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
