@@ -77249,6 +77249,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800709998": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SC186024",
+      "originals_sha256": [
+        "12b3eff0b3b72ff0c99b776b4e4d18793901f2f3e85876b4da4dab3a623db357"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
