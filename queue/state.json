@@ -59730,6 +59730,15 @@
         0.0,
         0.0
       ]
+    },
+    "3325378549": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EWR077LPLTD",
+      "originals_sha256": [
+        "183beb3fd72052173c8792d553b456c154f1435c03cad1003653dc5b105260dd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
