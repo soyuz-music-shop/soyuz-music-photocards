@@ -57629,6 +57629,16 @@
         0.0,
         0.0
       ]
+    },
+    "3296659049": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 546SPLATER",
+      "originals_sha256": [
+        "4477ef973522d8bd013f197d834538f425b729312f34c97780b388ca0a584b1e",
+        "d3c59f4c4985e84f808d73d5cfa4297027a6d8c68e4bceae0c1f4e35ee63017d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
