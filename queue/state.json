@@ -62168,14 +62168,19 @@
       ]
     },
     "3563073913": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC 2062",
       "originals_sha256": [
         "a0124af8292cf8d0c36bdbc1efcd3d9eafbe082308a897a9dadd446ad969c806"
       ],
       "before_count": 1,
-      "task_id": 6112690729
+      "task_id": 6112690729,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
