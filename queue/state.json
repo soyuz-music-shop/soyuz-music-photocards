@@ -74861,14 +74861,19 @@
       ]
     },
     "6720494082": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DB289424",
       "originals_sha256": [
         "42d15591133ecdb5829b365bdcb352e8a50895f6c67737eee0086c999369f029"
       ],
       "before_count": 1,
-      "task_id": 6118201281
+      "task_id": 6118201281,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
