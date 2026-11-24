@@ -74874,6 +74874,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720500586": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FC164R",
+      "originals_sha256": [
+        "c12f0ec8810dd773508a24d280dc98b9f60fb3d75bd24dd9cbbdcd7ade9d6da1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
