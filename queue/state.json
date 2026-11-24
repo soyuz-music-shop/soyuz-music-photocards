@@ -80421,6 +80421,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317516": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XX334680",
+      "originals_sha256": [
+        "1dec504d6a6daf7e5d1926211c6ad481a5fc810b38534379a9dfd26230d143a7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
