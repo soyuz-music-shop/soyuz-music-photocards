@@ -57478,13 +57478,14 @@
       ]
     },
     "3296659012": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SECLP139R",
       "originals_sha256": [
         "e247d422567b4695fca8b59f071c89ffcbc6843a4338a2c4036846e10ad3f09e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111870894
     }
   },
   "reason": null,
