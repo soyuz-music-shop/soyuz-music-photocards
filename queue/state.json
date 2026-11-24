@@ -58186,13 +58186,14 @@
       ]
     },
     "3296659210": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB 5162-1",
       "originals_sha256": [
         "a9df70d101cfc7b36570a9f005f104f1a099077404be9974eb4a8fabefeded1d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111955555
     }
   },
   "reason": null,
