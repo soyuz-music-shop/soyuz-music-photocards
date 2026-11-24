@@ -68008,6 +68008,25 @@
         0.0,
         0.0
       ]
+    },
+    "4385191347": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV162891CLEAR",
+      "originals_sha256": [
+        "0bf7900582a3bed2321ade9ac989aaab92a06bdae5044a1ed69a23acda00e74d",
+        "8f52837e0fb7d9c5a213ad97180abce2ae4355b48046b2c3d3a925d5d5e1dab7",
+        "db9fb98cccb9c83cb3204f0108c0605ab251f96a760182a6230240b94e288dde",
+        "618afd9dcb46be850aeaaa13afdf9abd360d39bff0b5ab375e965ccc41d30be4",
+        "c54d2d4abbab5a5981ecdae03a2be3510f7578a3f0342e790eebe6a2e33f27c4",
+        "d20caadfa9c5e835762a8eaa7ef3112c3c17068f6cccd4ce854d92e18dfb3465",
+        "835d983e8004a1f4f137193d674b10695fe7564030ea5c3acab4817b4de0f634",
+        "12113b420d60d94ada338a25f6c40416741d6d63c15511e6855c546c52f12a70",
+        "e158a76a0574024059390046c828eb9933f26e02a50d6db126686d138a0f3a4a",
+        "59d91c40981bc6550ddac41d93464fc604d8ef279a51ab56012a0283f3ff58c7",
+        "4ee6db57f1eae92184f03ceb104bf0e833d8be8b6d7a409ac66b97de778e16da"
+      ],
+      "before_count": 11
     }
   },
   "reason": null,
