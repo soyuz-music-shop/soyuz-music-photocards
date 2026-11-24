@@ -70839,7 +70839,7 @@
       ]
     },
     "5219747207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WAX9211-2AMBER",
       "originals_sha256": [
@@ -70847,7 +70847,8 @@
         "f01f312a907712d5dd56315ff4a8c6f952e55449a1bf5693fd4150c506ee6d8d",
         "b10cbfe984d7bdab7c580001ecac7a6730dc061278436cb85a410db1e63f3dc0"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117793943
     }
   },
   "reason": null,
