@@ -58339,14 +58339,19 @@
       ]
     },
     "3296659258": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AF0026",
       "originals_sha256": [
         "ed5415fc30da7ffa5b983276806ff8b0275fa1e110d0260f53441de2aaedd007"
       ],
       "before_count": 1,
-      "task_id": 6111977735
+      "task_id": 6111977735,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
