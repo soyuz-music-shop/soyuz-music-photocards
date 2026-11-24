@@ -61550,14 +61550,19 @@
       ]
     },
     "3563073802": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PURPLE 001",
       "originals_sha256": [
         "9e164662acb4c5defdb6fa0de1b33d44d1b34f8181cb2ec5e772d2a69032d9a8"
       ],
       "before_count": 1,
-      "task_id": 6112567789
+      "task_id": 6112567789,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
