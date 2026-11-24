@@ -71513,7 +71513,7 @@
       ]
     },
     "5540172541": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SBM018LP",
       "originals_sha256": [
@@ -71521,7 +71521,12 @@
         "94d67e3d0187e7618ffb6e41a9519a1c24b9b74219e3a2147136f9c81f41dd97"
       ],
       "before_count": 2,
-      "task_id": 6117874366
+      "task_id": 6117874366,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
