@@ -56642,7 +56642,7 @@
       ]
     },
     "3282475086": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "UWR00100CD",
       "originals_sha256": [
@@ -56650,7 +56650,12 @@
         "a0e92e2a94469c39adf4d07535b50e2ea16e1a256f483728c62f30cfbfc2731d"
       ],
       "before_count": 2,
-      "task_id": 6111747134
+      "task_id": 6111747134,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
