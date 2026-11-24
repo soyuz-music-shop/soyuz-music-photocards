@@ -70618,7 +70618,7 @@
       ]
     },
     "5219746188": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCD13641UCOS",
       "originals_sha256": [
@@ -70628,7 +70628,8 @@
         "e5a8858b4de396b1149cfd94be6944bb12e907226b1d57bcf7e7371fe44fe8fb",
         "60fa630a3ec8b488df9180161ed6dbde8125877e0be04e0bad2554740fa86665"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6117763339
     }
   },
   "reason": null,
