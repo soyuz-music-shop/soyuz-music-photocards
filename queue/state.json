@@ -78029,6 +78029,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886191262": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DBSB30",
+      "originals_sha256": [
+        "84ceabf24df82b08614953f1573863818c70a9850308b24142eff4751bac5c01"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
