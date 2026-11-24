@@ -59626,6 +59626,16 @@
         0.0,
         0.0
       ]
+    },
+    "3325378520": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PFM 80654",
+      "originals_sha256": [
+        "3043fdaad7e84c4f7d7de582f825c729fc697d6e8608500538e9a8ea96ee7520",
+        "57e8e13b99c62c0c02ae3d02d17f464ae7be459520d6bef1dfca4987a42ed572"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
