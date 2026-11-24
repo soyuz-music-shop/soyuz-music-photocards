@@ -76511,14 +76511,15 @@
       ]
     },
     "6799354335": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MC643812",
       "originals_sha256": [
         "69f218848d89a52943fbf6dc4323799c30e314c8f18e4c545254d0b15579388e",
         "a2159879e71263950facf697dd8e72375fa43833455312e3cc9a4c6f4efe2578"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118367441
     }
   },
   "reason": null,
