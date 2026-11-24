@@ -75434,6 +75434,21 @@
         0.0,
         0.0
       ]
+    },
+    "6720717604": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PJ026139YBG",
+      "originals_sha256": [
+        "155bdbba43e0ddb473005d79b5d2e2a963f3e8297d3492871a363fb801444769",
+        "c794d46171ec4e5bbf8593790464122b7a2cc9577914ca414574ea48c6f4e7d3",
+        "a4ca7347ff170e4bc9164daef44e005c373b5e62ab9c3fe3633ece89197058ec",
+        "981e15f6a5d3dd3212f237b96645081e2199876409c3d5609f86c13bb2eb05c8",
+        "8013170eb76b81893effb3df7537da6d55c396ca8870c8440d355c4acf748d1d",
+        "0717cb09b40a3972e00e91823774f5b10cdc42ad7def346c82d2c5de5345720d",
+        "a4ad9228b51f5aa0ce19c5c62e4db53e9c9d76d5fa39cd8cfa961ad7b88df9a1"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
