@@ -58616,7 +58616,7 @@
       ]
     },
     "3318541192": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MMCD22X",
       "originals_sha256": [
@@ -58626,7 +58626,8 @@
         "bb97e06a0bab559213b29abd646f93c5c2492255fac57b313e797c8922400c1e",
         "dce11424873a233258311dece9ffb9081f2399c092c5589ca1cd91c82449ad71"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6112017092
     }
   },
   "reason": null,
