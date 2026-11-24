@@ -76696,13 +76696,14 @@
       ]
     },
     "6800592116": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDXSTUMM52",
       "originals_sha256": [
         "128be37e86937f65382925a4bac3d83f18b90b04c8aa899028d92fbc21108ae9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118385009
     }
   },
   "reason": null,
