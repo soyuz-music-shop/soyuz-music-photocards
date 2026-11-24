@@ -61655,13 +61655,14 @@
       ]
     },
     "3563073821": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NRT025",
       "originals_sha256": [
         "1a214d461dd25338a9181a395722a47eb3f6980f236be48c9bbb503f51af8b0e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112587970
     }
   },
   "reason": null,
