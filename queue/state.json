@@ -56595,6 +56595,15 @@
         0.0,
         0.0
       ]
+    },
+    "3282474986": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BF039665",
+      "originals_sha256": [
+        "2ccb88ceb8aef37183c529d3dc5be40a05b991201a303d75cba07ae2b1dbbc94"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
