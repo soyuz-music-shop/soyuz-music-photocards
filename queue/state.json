@@ -69974,14 +69974,19 @@
       ]
     },
     "4462182889": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MJ186923",
       "originals_sha256": [
         "cbd89e69db1e06850ac1c0a88cb46d9b121d047f1af3fb2bbab723b65eb742c0"
       ],
       "before_count": 1,
-      "task_id": 6114171294
+      "task_id": 6114171294,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
