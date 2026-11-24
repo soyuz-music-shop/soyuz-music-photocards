@@ -73031,7 +73031,7 @@
       ]
     },
     "5540172916": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FS949104",
       "originals_sha256": [
@@ -73041,7 +73041,8 @@
         "ddfd462b181c33e2a7dce0e8abeec681c6474f275597f115cb73194f3712e536",
         "11d7e8576befde83d8e02d5df113aba23d848fe5da0e77e924bde81942abc32b"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6118019171
     }
   },
   "reason": null,
