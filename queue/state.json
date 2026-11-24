@@ -78181,13 +78181,14 @@
       ]
     },
     "6886223427": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EL341188CLEAR",
       "originals_sha256": [
         "1f1f78fcb026baa179251182190f2f707f145b1fdeaec6262e76298a631ab493"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118527973
     }
   },
   "reason": null,
