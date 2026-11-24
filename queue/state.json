@@ -71824,6 +71824,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172590": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AP035RED",
+      "originals_sha256": [
+        "f9714ff8a5ce04d97c09bfcc4d6ad153caaa54c8f6d82c88aaab0495587c8802",
+        "50184bdd5ee209aed9d4dcf3ed9b9542fe7400b4ff42dbbe4a75b7424d5e2422"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
