@@ -75765,14 +75765,19 @@
       ]
     },
     "6720783059": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NPR1158JC",
       "originals_sha256": [
         "89d3cc72221505723525440a25b696780010984dc0c085a29c3da1b107914892"
       ],
       "before_count": 1,
-      "task_id": 6118292868
+      "task_id": 6118292868,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
