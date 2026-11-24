@@ -78089,6 +78089,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886202996": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DB976062",
+      "originals_sha256": [
+        "5d27cbd185613fb3623f2e8fb431f1e1286f16fe1adc38704ea694d240c3fe58"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
