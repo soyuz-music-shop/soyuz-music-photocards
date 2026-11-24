@@ -61745,14 +61745,19 @@
       ]
     },
     "3563073835": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRPOPBOX201",
       "originals_sha256": [
         "0d0d0787be739bcd755bd96157081f85b37e7ef3e9d0b5768614cbf7eaf7e9f3"
       ],
       "before_count": 1,
-      "task_id": 6112607247
+      "task_id": 6112607247,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
