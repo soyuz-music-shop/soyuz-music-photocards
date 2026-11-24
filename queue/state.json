@@ -65240,6 +65240,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946117": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKD300",
+      "originals_sha256": [
+        "88e013e08399c6daee993a1b374449ce3102447afc5ed7219f5ebcd7ce455196"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
