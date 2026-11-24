@@ -74641,6 +74641,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720430530": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NPR1213MB",
+      "originals_sha256": [
+        "aae66a0b18fcf9272f3adb8588e3085143d331709d1665d1f909806fb4758ef5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
