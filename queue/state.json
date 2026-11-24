@@ -69913,13 +69913,14 @@
       ]
     },
     "4462133740": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SL352227",
       "originals_sha256": [
         "032e313ecd15497d0eb59991c5706c5cfc6e534b9ebe46a191337a1375696790"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114158097
     }
   },
   "reason": null,
