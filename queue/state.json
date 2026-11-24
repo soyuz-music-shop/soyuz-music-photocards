@@ -77079,13 +77079,14 @@
       ]
     },
     "6800676599": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RATM511917",
       "originals_sha256": [
         "dde916050c803cd7a70d63a9b4c27bdfddf55dd165c25853a783437800a77d57"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118415806
     }
   },
   "reason": null,
