@@ -74658,14 +74658,19 @@
       ]
     },
     "6720436582": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AFM730756",
       "originals_sha256": [
         "f7f4befa79bd0048c8f8ecc69e1a875caddf22ba456ff1d103bc784cbbaf034c"
       ],
       "before_count": 1,
-      "task_id": 6118180484
+      "task_id": 6118180484,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
