@@ -77924,6 +77924,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886158891": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "REWIGLP128",
+      "originals_sha256": [
+        "7ee4814525b0d233b477649abd481f2d3c74ebd90491c1c722d2eb50d5d2abd1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
