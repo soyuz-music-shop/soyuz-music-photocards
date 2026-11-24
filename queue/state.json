@@ -59309,13 +59309,14 @@
       ]
     },
     "3318706810": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BROLLYCD1",
       "originals_sha256": [
         "b1188da380180f09560f38560f989fcbe7bc3958f7c9bc130eabadae62a80830"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112137140
     }
   },
   "reason": null,
