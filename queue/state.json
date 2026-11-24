@@ -73084,7 +73084,7 @@
       ]
     },
     "5540172956": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON314BLACK",
       "originals_sha256": [
@@ -73093,7 +73093,12 @@
         "c5e0079a00793741a5ee7c9f283e8b1ceabebe465fb434deabb0df0d55adc2a7"
       ],
       "before_count": 3,
-      "task_id": 6118023849
+      "task_id": 6118023849,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
