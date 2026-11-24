@@ -77535,14 +77535,19 @@
       ]
     },
     "6800765257": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "VH955274",
       "originals_sha256": [
         "60681f1cd1c51b392112b88454c93d92281d49cf048f42ec171421bd233c9951"
       ],
       "before_count": 1,
-      "task_id": 6118456785
+      "task_id": 6118456785,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
