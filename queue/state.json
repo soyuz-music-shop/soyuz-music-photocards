@@ -72276,7 +72276,7 @@
       ]
     },
     "5540172653": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GM342516RBM",
       "originals_sha256": [
@@ -72287,7 +72287,12 @@
         "8047cbd49e42bd06be5db733a2b6c6f8e6f96b6030f484002b5eb4fff62bd7b4"
       ],
       "before_count": 5,
-      "task_id": 6117948608
+      "task_id": 6117948608,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
