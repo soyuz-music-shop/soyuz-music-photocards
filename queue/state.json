@@ -75208,13 +75208,14 @@
       ]
     },
     "6720638241": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MM855958BT",
       "originals_sha256": [
         "08ffac3cfa010e9bf5d89c8fcb36f40b44a0413544ba944d63ea98a5e97f79a0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118237992
     }
   },
   "reason": null,
