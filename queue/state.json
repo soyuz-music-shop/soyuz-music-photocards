@@ -79939,6 +79939,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921045078": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 728670",
+      "originals_sha256": [
+        "5c0147b2a786381667537b5a42298716311511a2a69186ffa0d4de4298a81eb3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
