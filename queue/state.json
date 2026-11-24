@@ -71593,6 +71593,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172562": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CD183411GB",
+      "originals_sha256": [
+        "76612d56b22d83aa574b81626e457697932ef18e51eb66a9ee556cff16114a3e",
+        "ef1e9e675f700a1b06eba3a2a7dc137b8ef9e1142544714caf44e1383ea55ab8",
+        "91060cc54b19b5ae4100085051c73fde0464d24be8496f80bf196675a3522425",
+        "8ebd7f7676c6a2f2a4d664fd4f456083801b253cf3a08201508d2cf029aa7f87"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
