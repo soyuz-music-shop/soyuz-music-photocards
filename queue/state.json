@@ -74709,14 +74709,19 @@
       ]
     },
     "6720449993": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BM610417GTSGACS",
       "originals_sha256": [
         "b0e672a43b54f317dbee7646db7cea09d50ab39c000970463c8f1163ba479872"
       ],
       "before_count": 1,
-      "task_id": 6118186802
+      "task_id": 6118186802,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
