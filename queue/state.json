@@ -71956,6 +71956,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172605": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WCV080",
+      "originals_sha256": [
+        "194fe91f24114750c55d03bcf7a0448ebfe4ff7b3fc482e37c35024657e8da69",
+        "20ec37a5e039e11d90d2b3094c299cb2eaf6196ebdced3b557889874dd5decb6",
+        "7ac6f9050f6d47dc03e86377798e65515e518cf9e49fac3216be8c4b4daef25a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
