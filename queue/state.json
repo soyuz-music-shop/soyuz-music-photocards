@@ -75244,7 +75244,7 @@
       ]
     },
     "6720650419": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BLCKND011R-3",
       "originals_sha256": [
@@ -75255,7 +75255,12 @@
         "770d8967f74c09ce4e6725afbbd3ad880fc6c8000836c15f43eb0bcfcd9614df"
       ],
       "before_count": 5,
-      "task_id": 6118241890
+      "task_id": 6118241890,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
