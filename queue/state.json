@@ -61820,14 +61820,19 @@
       ]
     },
     "3563073865": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRJAM40",
       "originals_sha256": [
         "00d78310634f5170c974596a0fa41de629fdad1dbccd168d451c1c8a90271386"
       ],
       "before_count": 1,
-      "task_id": 6112621790
+      "task_id": 6112621790,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
