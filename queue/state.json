@@ -61230,7 +61230,7 @@
       ]
     },
     "3563073763": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PECLEC22699",
       "originals_sha256": [
@@ -61242,7 +61242,12 @@
         "0c94269d784c716979104a0408d804d5fcf1907e666cccbff8eb1aa24007e359"
       ],
       "before_count": 6,
-      "task_id": 6112505783
+      "task_id": 6112505783,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
