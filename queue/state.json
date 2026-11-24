@@ -72863,6 +72863,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172778": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPGRON201",
+      "originals_sha256": [
+        "0c0aaa2c9cdcd60a907dc86ba767be4190490ba52eee74bcaa27c0b268e277a4",
+        "5b018e581475a49646c7503a09c021319046635f14499a5d8ea280ae92047569",
+        "3593ffafa439863d17123242e40243a0d7855d860864d8a48685494d11254bcd"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
