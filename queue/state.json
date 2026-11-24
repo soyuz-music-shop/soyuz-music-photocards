@@ -67396,6 +67396,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191182": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AI782328",
+      "originals_sha256": [
+        "153b01c96c3175c0f91a6be79f4a8583bb552c4e11c8e5a3ac8fee7c3362e7e1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
