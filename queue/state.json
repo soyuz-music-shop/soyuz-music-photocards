@@ -80758,6 +80758,10 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Offer or product name changed since snapshot"
+    },
+    "6961317843": {
+      "status": "skipped_existing_template",
+      "matched": "cd-import.png"
     }
   },
   "reason": null,
