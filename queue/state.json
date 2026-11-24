@@ -59169,14 +59169,19 @@
       ]
     },
     "3318706790": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BROLLYCD2",
       "originals_sha256": [
         "1fb27747f4f4792ba7df12a5c7f67ac431bac2f323e298da1bff98f51196bf67"
       ],
       "before_count": 1,
-      "task_id": 6112111531
+      "task_id": 6112111531,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
