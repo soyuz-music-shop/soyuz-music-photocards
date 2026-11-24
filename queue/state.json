@@ -62621,6 +62621,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109570": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEM165",
+      "originals_sha256": [
+        "c73445fafede179c741a212153b6037d6f3392c93bed64018e0821bea4eefbe9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
