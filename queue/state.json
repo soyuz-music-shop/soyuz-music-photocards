@@ -77731,13 +77731,14 @@
       ]
     },
     "6886111013": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "VR381",
       "originals_sha256": [
         "a170eeccadb8f0d9b5845a95cb15a8b7c417c6c389f68640576cc1202515ea8d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118480423
     }
   },
   "reason": null,
