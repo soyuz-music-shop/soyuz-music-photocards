@@ -58494,6 +58494,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541164": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BOMMCD1",
+      "originals_sha256": [
+        "a57fe3fb5f6c93f8ec4fbb7e41c710cbee9775f17680b6c06df04f4ce1065513"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
