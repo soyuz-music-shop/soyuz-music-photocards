@@ -76769,6 +76769,16 @@
         0.0,
         0.0
       ]
+    },
+    "6800608992": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "COUNT118",
+      "originals_sha256": [
+        "6634806fd6b58e93cc9438b56f77987323bee9488e1f683648494a376eb4598f",
+        "d93ba9ad205b86adf631265a54b928e20522e32c7627a6a380b1dca59a42b367"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
