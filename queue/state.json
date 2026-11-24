@@ -68971,13 +68971,14 @@
       ]
     },
     "4385191563": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RUG1328TXRB",
       "originals_sha256": [
         "b7b140263ec6673884df3205b2c979a4962df020267f2ec1a803c3c835339798"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113971646
     }
   },
   "reason": null,
