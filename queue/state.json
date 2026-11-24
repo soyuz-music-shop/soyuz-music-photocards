@@ -79120,7 +79120,7 @@
       ]
     },
     "6920907928": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WARPLP21R",
       "originals_sha256": [
@@ -79131,7 +79131,12 @@
         "3a4ceacde3551865a98eff390fd3a6a9e118383e25274777ced908eb81e76cf9"
       ],
       "before_count": 5,
-      "task_id": 6118612893
+      "task_id": 6118612893,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
