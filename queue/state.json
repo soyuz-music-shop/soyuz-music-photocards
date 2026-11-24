@@ -60638,13 +60638,14 @@
       ]
     },
     "3562824617": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BREDD864",
       "originals_sha256": [
         "c07dab6b0864478007f98b94e9f19a99518153a5902f4ffe7fdf28229b3a069e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112376960
     }
   },
   "reason": null,
