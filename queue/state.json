@@ -77836,13 +77836,14 @@
       ]
     },
     "6886137784": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AG026320TRRR",
       "originals_sha256": [
         "6193bbc7a3dfcabde703c3835d0e944dc1c97d6275d95fd1da12d70aebeca684"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118492865
     }
   },
   "reason": null,
