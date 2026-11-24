@@ -65347,13 +65347,14 @@
       ]
     },
     "3784946138": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBGPD117",
       "originals_sha256": [
         "ee3094ba8a6391df2193a5e372418e49aa83ccaa444fd1605646af788126069d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113389640
     }
   },
   "reason": null,
