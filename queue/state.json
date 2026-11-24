@@ -59762,7 +59762,7 @@
       ]
     },
     "3325378555": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PARA502LPLTD",
       "originals_sha256": [
@@ -59771,7 +59771,12 @@
         "5c7fb710993211a94c7c13473d39766921be31d6b38f773eb04b53ffe81ecb05"
       ],
       "before_count": 3,
-      "task_id": 6112219544
+      "task_id": 6112219544,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
