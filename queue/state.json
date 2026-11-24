@@ -57168,6 +57168,15 @@
         0.0,
         0.0
       ]
+    },
+    "3289717580": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UWR00098CD",
+      "originals_sha256": [
+        "9507acca6f462cd39471e0c5649616f5848628bd54640df230c05756b435653e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
