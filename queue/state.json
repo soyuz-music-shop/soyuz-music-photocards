@@ -77851,14 +77851,19 @@
       ]
     },
     "6886140641": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AG026337TRRR",
       "originals_sha256": [
         "daf20385a5e9509de30d8b922963ef1bb3f3fb3cb9ea65d442ac69cddfae180f"
       ],
       "before_count": 1,
-      "task_id": 6118494413
+      "task_id": 6118494413,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
