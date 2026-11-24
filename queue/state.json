@@ -63662,6 +63662,18 @@
         0.0,
         0.0
       ]
+    },
+    "3762174577": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DISS077CDD",
+      "originals_sha256": [
+        "8d392e14c583e48aa28be20251f91af3608c41997e7c484423da357c60e5e478",
+        "61931133a63e376ee3ce21a8cc09d4c6ff3b23b7cbf6fd02d1f2d7f40a31e0df",
+        "1386a30e7fe2f75ddd3a9513701de4d3626e7a2320e163f134045e95c8a112ef",
+        "e8b500a90bb41e5a976b7571823a7eed022b2d3d0aab8ee41f9d4e55a952582a"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
