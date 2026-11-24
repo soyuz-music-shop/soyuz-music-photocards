@@ -76431,7 +76431,7 @@
       ]
     },
     "6799331995": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MF717389CLEAR",
       "originals_sha256": [
@@ -76440,7 +76440,8 @@
         "76dfb49405589e7c00d2a72861b35dee86f47b2136bba8d826e9ff386317193e",
         "ab5ad0ad5238767270a8864145ff697a1cb7f29a99ca7410fc2f62afaa334858"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118361658
     }
   },
   "reason": null,
