@@ -68869,14 +68869,15 @@
       ]
     },
     "4385191539": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ROGV-181BT",
       "originals_sha256": [
         "38adfe880b22600b214ec260e37f28132051d6ea1f01b993d2d457aa6e0e70e1",
         "0631a5231e5e1ada9caf8f548d6ac11a79f26774c2593321ec3f97c50fbe19ce"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6113953021
     }
   },
   "reason": null,
