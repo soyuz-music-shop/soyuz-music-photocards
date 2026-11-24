@@ -59700,6 +59700,15 @@
         0.0,
         0.0
       ]
+    },
+    "3325378540": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PARA 562LP",
+      "originals_sha256": [
+        "f85e06a6485bbe12e8ef23bbf015b181be4ee71c2c0e9655ff62c8fd91c641f9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
