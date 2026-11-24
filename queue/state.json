@@ -78751,14 +78751,19 @@
       ]
     },
     "6886337799": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ECM 1252/53",
       "originals_sha256": [
         "515eac54f1539610fada8ec495bd4fafe347f20a357d01d4576fb6cfaefb15f4"
       ],
       "before_count": 1,
-      "task_id": 6118580420
+      "task_id": 6118580420,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
