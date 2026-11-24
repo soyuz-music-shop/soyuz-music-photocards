@@ -67216,14 +67216,19 @@
       ]
     },
     "4385191138": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FACT100",
       "originals_sha256": [
         "d86f1ddcc409c4ba3cd1e842644926d72c65e1b9eb1f29045a5ea3286b125adc"
       ],
       "before_count": 1,
-      "task_id": 6113684461
+      "task_id": 6113684461,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
