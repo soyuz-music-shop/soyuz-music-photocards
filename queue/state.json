@@ -56440,14 +56440,19 @@
       ]
     },
     "3277020211": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MICR018",
       "originals_sha256": [
         "65bfc49571a319c48e365b61fe75ad4a8d7d58d9bbd88748850d3acc431fd4ba"
       ],
       "before_count": 1,
-      "task_id": 6111717013
+      "task_id": 6111717013,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
