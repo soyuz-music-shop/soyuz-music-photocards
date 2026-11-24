@@ -66368,7 +66368,7 @@
       ]
     },
     "3784946380": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSXE2133",
       "originals_sha256": [
@@ -66376,7 +66376,12 @@
         "2cfdea90000dd187b73888747506a70306d2ce481aa8bbf31ffe071ec9dab67c"
       ],
       "before_count": 2,
-      "task_id": 6113555761
+      "task_id": 6113555761,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
