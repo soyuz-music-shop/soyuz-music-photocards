@@ -80762,6 +80762,10 @@
     "6961317843": {
       "status": "skipped_existing_template",
       "matched": "cd-import.png"
+    },
+    "6976506862": {
+      "status": "skipped_existing_template",
+      "matched": "cd-import.png"
     }
   },
   "reason": null,
