@@ -80047,14 +80047,19 @@
       ]
     },
     "6921058488": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MU665771TRGG",
       "originals_sha256": [
         "757a35e300c149eb4f8f156a0b86680a2be44b94256faa0aa641bae32a014310"
       ],
       "before_count": 1,
-      "task_id": 6118699326
+      "task_id": 6118699326,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
