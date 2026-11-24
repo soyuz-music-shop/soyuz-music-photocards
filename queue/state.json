@@ -59292,6 +59292,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3318706805": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMCD 666-18",
+      "originals_sha256": [
+        "864492ed328efd402fdb93088b0c3fd694c894316f227de8563c19bce1cfe8f2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
