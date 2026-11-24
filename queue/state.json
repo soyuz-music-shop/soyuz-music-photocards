@@ -76038,14 +76038,15 @@
       ]
     },
     "6799200909": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BL556227",
       "originals_sha256": [
         "5544ea39919ed43341de3d5bcaf02cdd9b1c600ffaefdfb07e6c53a2a8b8a602",
         "54f2dc42de03baca4ea6d06e96505157418669811c5e9d891684e302253778a5"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118321030
     }
   },
   "reason": null,
