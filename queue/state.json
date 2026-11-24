@@ -70856,7 +70856,7 @@
       ]
     },
     "5232090132": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297810747",
       "originals_sha256": [
@@ -70869,7 +70869,12 @@
         "31cdb2b0b5d2946b46aae94514fe3684671aa98dbeb8f831a806eb71940b0844"
       ],
       "before_count": 7,
-      "task_id": 6117797391
+      "task_id": 6117797391,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
