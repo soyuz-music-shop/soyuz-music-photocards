@@ -71875,7 +71875,7 @@
       ]
     },
     "5540172599": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LC650712",
       "originals_sha256": [
@@ -71883,7 +71883,12 @@
         "0c232ee88213fb0695d513627d7d916dd0c9c71bc31e2db425c81b0178bf4b7c"
       ],
       "before_count": 2,
-      "task_id": 6117911630
+      "task_id": 6117911630,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
