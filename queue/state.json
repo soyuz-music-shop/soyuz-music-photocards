@@ -72916,14 +72916,15 @@
       ]
     },
     "5540172813": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SRE751LP",
       "originals_sha256": [
         "f0040523eaf84c38b32cf45ac84191ad2282e6b6d4778340d6c919c05414dd82",
         "18b1d391390dd5e62d18c10a5997184b6fcb1f467601b62f5f7e8b912f569076"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118005824
     }
   },
   "reason": null,
