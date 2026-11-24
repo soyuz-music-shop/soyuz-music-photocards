@@ -64459,6 +64459,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565064": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP071TV",
+      "originals_sha256": [
+        "50f112e8af7471e076cdd906c98446e1b4ddde89186462a06d86e1190eea57c7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
