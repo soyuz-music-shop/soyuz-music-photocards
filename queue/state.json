@@ -77954,6 +77954,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886169540": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CR502571SBM",
+      "originals_sha256": [
+        "13413590c9fc02eff5b48b5aef0aac792d32ef7281dc674fbc0b2a2efe4ef178"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
