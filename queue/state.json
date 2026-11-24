@@ -71595,7 +71595,7 @@
       ]
     },
     "5540172562": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CD183411GB",
       "originals_sha256": [
@@ -71605,7 +71605,12 @@
         "8ebd7f7676c6a2f2a4d664fd4f456083801b253cf3a08201508d2cf029aa7f87"
       ],
       "before_count": 4,
-      "task_id": 6117881766
+      "task_id": 6117881766,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
