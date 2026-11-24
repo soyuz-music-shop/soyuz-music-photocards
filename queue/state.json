@@ -75047,7 +75047,7 @@
       ]
     },
     "6720583223": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 54507",
       "originals_sha256": [
@@ -75056,7 +75056,12 @@
         "186340b63b71e59d07c219f8ab2904edf25618ea613f238e591db5ae8cecc8f8"
       ],
       "before_count": 3,
-      "task_id": 6118219018
+      "task_id": 6118219018,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
