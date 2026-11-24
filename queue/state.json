@@ -56777,6 +56777,17 @@
         0.0,
         0.0
       ]
+    },
+    "3282704096": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PF843110",
+      "originals_sha256": [
+        "b9ccdcc43e96867d3987704148068022166007db3ba13c01b36015182e572725",
+        "b17eb671dd2814df151fc146f547e8a7deeea7959703637bcb1187589d9be1b2",
+        "c840ee10e4d1d9ab8c713c0236d0116abb8c384d75688fd4d85386d5581a951d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
