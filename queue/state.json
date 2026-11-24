@@ -79090,14 +79090,19 @@
       ]
     },
     "6920902888": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AP-02",
       "originals_sha256": [
         "db905ba01bbca81bd8b2039b56c4a513abde08949370656a1dbca9691a60b9fc"
       ],
       "before_count": 1,
-      "task_id": 6118611141
+      "task_id": 6118611141,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
