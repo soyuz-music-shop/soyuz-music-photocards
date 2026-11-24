@@ -67014,7 +67014,7 @@
       ]
     },
     "4175276202": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TPLP2008",
       "originals_sha256": [
@@ -67028,7 +67028,12 @@
         "2cf23ec003198348cf3c4fad72823ddc2a2747846d541bdb9832be213904af87"
       ],
       "before_count": 8,
-      "task_id": 6113660336
+      "task_id": 6113660336,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
