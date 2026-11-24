@@ -64305,7 +64305,7 @@
       ]
     },
     "3784565013": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NED6",
       "originals_sha256": [
@@ -64316,7 +64316,8 @@
         "7c408aebcedfd8b3ac0f81bf6c80cd06eb05370698836970c957fd3412553d74",
         "a787043de968bb04b64135e6106be535c47ec722ca2db03f66f195df38d29a2c"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6113208079
     }
   },
   "reason": null,
