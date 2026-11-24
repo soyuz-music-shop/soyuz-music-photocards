@@ -69821,6 +69821,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462124979": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2-535339",
+      "originals_sha256": [
+        "00ca51e75d69d3c6875a32c0d6c45e3f55e3de10c49d2d9d5b0076d5baba750c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
