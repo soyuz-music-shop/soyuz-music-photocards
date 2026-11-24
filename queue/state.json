@@ -61338,6 +61338,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073771": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBSF 012CD",
+      "originals_sha256": [
+        "5f1faaf8e3050ecd825edf6f155d59793a9a54d95907768042258e6d53aa0303"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
