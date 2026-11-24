@@ -58635,14 +58635,19 @@
       ]
     },
     "3318541199": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BROLLYEPS",
       "originals_sha256": [
         "880fa0140d213a355ded79f6b3e62b180ac1688bc20cf8d4212bec2c9a1526e3"
       ],
       "before_count": 1,
-      "task_id": 6112019639
+      "task_id": 6112019639,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
