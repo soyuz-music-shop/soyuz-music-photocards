@@ -67852,6 +67852,18 @@
         0.0,
         0.0
       ]
+    },
+    "4385191292": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR56709CCSSCIW",
+      "originals_sha256": [
+        "9da414d466131dbc6e286569c7d0d92646db21bc408e1ce5750685b6388669b9",
+        "bc3850e51d8f0f47518905f7a63c86c3d7c06ab084e6b379d31f661e7fc37d4d",
+        "84bf6e35615234611e8be38b9dff7f59c186c948469db20034e76a9254e13733",
+        "ffa4bc3291edd31b050087a39104a036be810c88ebad25a53a340a475e0cf514"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
