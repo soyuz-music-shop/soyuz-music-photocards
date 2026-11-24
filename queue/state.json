@@ -71775,6 +71775,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172586": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AP094",
+      "originals_sha256": [
+        "8191f55428546b8553ddb2174ea596dd05dbba933fb1aea4a8f302618d96ce58",
+        "a640ff7414acb22dcfffc88b3f212e805887b2e2dbee0b3628b404831673d2bf"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
