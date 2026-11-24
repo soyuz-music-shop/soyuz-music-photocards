@@ -63177,7 +63177,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3576109650": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "cd-import",
       "offer_id": "OTCD-6390",
       "originals_sha256": [
@@ -63187,7 +63187,7 @@
       "task_id": 6112922837,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     }
   },
   "reason": null,
