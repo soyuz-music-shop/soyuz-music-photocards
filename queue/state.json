@@ -60900,14 +60900,19 @@
       ]
     },
     "3562824675": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LEMLP230",
       "originals_sha256": [
         "20368b157db03c15cef38ef1ccb697e2cc477125392da76ccbcba76fece73e23"
       ],
       "before_count": 1,
-      "task_id": 6112434419
+      "task_id": 6112434419,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
