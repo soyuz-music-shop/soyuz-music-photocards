@@ -57647,13 +57647,14 @@
       ]
     },
     "3296659053": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AF0027",
       "originals_sha256": [
         "fff4c5325d30413bdb9357a25fcecd0c1700ef1f8f86f3edc31f9f18b01fd63c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111890822
     }
   },
   "reason": null,
