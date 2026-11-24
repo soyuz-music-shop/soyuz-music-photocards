@@ -61278,6 +61278,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073767": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAM CD 75",
+      "originals_sha256": [
+        "cf697994d4bbbca63b616377c9a81613237dee8fe3ebb2a36045e00d0737ecc1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
