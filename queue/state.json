@@ -72483,6 +72483,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172694": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RC768445SPLATTER",
+      "originals_sha256": [
+        "f54928d54f3a0be8c0bc2f343881ba35c53b930395bfe5131cf251c7d80c5f07",
+        "bfb05629e25cbe7d5af65bdb5b7db77b68f393adbf1e7d574bd4f631a1d42867"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
