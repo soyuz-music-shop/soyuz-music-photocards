@@ -76416,14 +76416,19 @@
       ]
     },
     "6799328174": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MC048722",
       "originals_sha256": [
         "90044234e26e84c1c399a423333ecdab2fcd7949beae580c44bd81db46be514c"
       ],
       "before_count": 1,
-      "task_id": 6118360303
+      "task_id": 6118360303,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
