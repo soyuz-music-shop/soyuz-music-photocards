@@ -61095,14 +61095,19 @@
       ]
     },
     "3563073745": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOUM2CD577",
       "originals_sha256": [
         "ac7a10e73a2e9493680d468356a0f0acade33a24c5ad35759bc35ef0feb6de4c"
       ],
       "before_count": 1,
-      "task_id": 6112479718
+      "task_id": 6112479718,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
