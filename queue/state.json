@@ -72006,6 +72006,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172611": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YCR/096LPRC",
+      "originals_sha256": [
+        "b84f49fcd39b8c29e7d836a467c9bd43558ec96e7a09e3f1cbdc972282426b6f",
+        "3b6e47c0d01aa9df4aaa8993d03d6f7daa59ea73170377399e6b181ddeb9e37f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
