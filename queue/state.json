@@ -69122,6 +69122,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191604": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DD830470",
+      "originals_sha256": [
+        "628f112d1a0ee066140359f41995db9d3b07b80856a80ff90a1dc3945f927abe"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
