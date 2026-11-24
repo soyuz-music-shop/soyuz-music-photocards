@@ -78932,6 +78932,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886369356": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX806743RBSCS",
+      "originals_sha256": [
+        "296d61ebd5e470b61d01f1b1851b84a23d861aa88c13cf16822fccde230247a2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
