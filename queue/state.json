@@ -70895,7 +70895,7 @@
       ]
     },
     "5234993796": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOARXXXI",
       "originals_sha256": [
@@ -70905,7 +70905,8 @@
         "f5cdee7c8ac64be16616510d7674e44754999e6961b08fb6f3f539084db42a4c",
         "e84f037ddbb5bfe7100c219978cd1e8172ca3f57717205983dd87e16346415a8"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6117802546
     }
   },
   "reason": null,
