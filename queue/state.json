@@ -71297,7 +71297,7 @@
       ]
     },
     "5540172491": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TAL23",
       "originals_sha256": [
@@ -71305,7 +71305,12 @@
         "a7312726fd4511ae7542c330e7b630fcd5063f22ef18843ae485d27c447a86e3"
       ],
       "before_count": 2,
-      "task_id": 6117853465
+      "task_id": 6117853465,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
