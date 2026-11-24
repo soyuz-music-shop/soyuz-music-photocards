@@ -60103,13 +60103,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3556539529": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PBREDD756GREEN",
       "originals_sha256": [
         "39fa820800105f3b35b1f30ad35ac765cbe42edc628172021f16b049ed9cd2ab"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112277212
     }
   },
   "reason": null,
