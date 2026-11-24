@@ -80513,14 +80513,19 @@
       ]
     },
     "6961317581": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XX350819",
       "originals_sha256": [
         "3e74dd62c95bc55ab4b36fbde37084baa775298b14657283ca5f88fb16c514ee"
       ],
       "before_count": 1,
-      "task_id": 6118768041
+      "task_id": 6118768041,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
