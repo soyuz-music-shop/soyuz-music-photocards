@@ -67346,6 +67346,17 @@
         0.0,
         0.0
       ]
+    },
+    "4385191171": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT208LPXBURGUNDY",
+      "originals_sha256": [
+        "f286e35d1fd55877b2c00c5c8d6ef64017ce052f4cd03560897437a8ca7b44d0",
+        "198b331271ba4987b2ccbd211ee8d4a3550680ed9744bba9ff4680b89b74e936",
+        "51fa745746922d289e162911a97569908d40e9bea376b2109116daba9ccfa879"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
