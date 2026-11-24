@@ -69109,13 +69109,14 @@
       ]
     },
     "4385191587": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OLE-1125-1",
       "originals_sha256": [
         "82a894e2a3b44d702fff54065a2e9049b1203e50b5d9688cd3ef4ea59a7ea594"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113997631
     }
   },
   "reason": null,
