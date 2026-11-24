@@ -80203,6 +80203,16 @@
         0.0,
         0.0
       ]
+    },
+    "6921078351": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 76012",
+      "originals_sha256": [
+        "bd21bc0e84e2e95cea604670098b9cbb9a5a0c83b911e46cad193360c57b291b",
+        "c2a34a5500b645552e97f9748b159244f883c59b052ab47260242b5ebe588ae6"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
