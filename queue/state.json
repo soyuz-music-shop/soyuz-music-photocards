@@ -73235,6 +73235,20 @@
         0.0,
         0.0
       ]
+    },
+    "5541363935": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BHE0754",
+      "originals_sha256": [
+        "a0dc8347a50d74b5de72746959d67f4e630c2ffd4a4b054beba355fe7d600f46",
+        "10441a320bf321f200c863658f3a90f215307fe7cf81148a3a026e3e49d43533",
+        "30363e079d957d5f5b15e1dd16117aa4084926171ffb811fe19849f9e4f3fabe",
+        "356f5940acf361cfa73fd23068eef5351e937e775d5919b88ca059c1164f4320",
+        "a38cb76f3531533e7c08d12c44d1937e14a3e7605a9ae8a715eed5de5056e40d",
+        "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
