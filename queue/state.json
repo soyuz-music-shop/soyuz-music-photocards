@@ -69500,14 +69500,15 @@
       ]
     },
     "4385191736": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MCR829959GREY",
       "originals_sha256": [
         "fb4d6af2b13a82b7302691a5e1ea56795f79f9b60cc1a47a99f19626c7509fa9",
         "56a1cfa6d409832ef3141bce6d32a77cd7d3087a2a803a0ef45c1704d88bc23a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6114070623
     }
   },
   "reason": null,
