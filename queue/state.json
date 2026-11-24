@@ -75276,6 +75276,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720660958": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MO879234GOLD",
+      "originals_sha256": [
+        "a6f856bf03b435829409a7c2371dac325160433fc8fbc92a2db597225a0caa6c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
