@@ -79548,6 +79548,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920984645": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DL610320BI",
+      "originals_sha256": [
+        "b84e2842b5b6d9342e126cdb51dd97de74976af21d987f8f3c314a8e6a7f2f0b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
