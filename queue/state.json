@@ -61758,6 +61758,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073840": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JLBM001CD",
+      "originals_sha256": [
+        "720c8dd6517ec7fbff8fe8ef870136a34f73c2242d1eb655ff4c2e9157e649f1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
