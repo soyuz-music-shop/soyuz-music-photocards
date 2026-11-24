@@ -80060,6 +80060,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921060169": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "REWIGLP160",
+      "originals_sha256": [
+        "aa0ba94c234d0056214154c264f763f0174e18bd7ef33108fb83e503a17f1e68"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
