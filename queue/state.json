@@ -56535,6 +56535,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020230": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMG004",
+      "originals_sha256": [
+        "122002211d8864b24cc0bc73eb6d306c3be139cf138088df77fec0e59764b595"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
