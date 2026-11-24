@@ -65130,6 +65130,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946093": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKD126",
+      "originals_sha256": [
+        "294547ef626f9e6d46b770af10b3356d281b1391b79101011c73d7f1a6c6705d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
