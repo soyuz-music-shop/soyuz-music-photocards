@@ -72751,14 +72751,15 @@
       ]
     },
     "5540172753": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IDIOTR005PINK",
       "originals_sha256": [
         "dd77f4febebab77ad7991ab7b6966d6cdd0fc03a87144c3091a68b37c31fe786",
         "d4c78d752774732428b9d94ec3a2e4bd7091be24e216f297a940ba1beb829062"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117992401
     }
   },
   "reason": null,
