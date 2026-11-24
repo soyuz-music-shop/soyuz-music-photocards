@@ -58820,14 +58820,19 @@
       ]
     },
     "3318541241": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PHAZZ 099",
       "originals_sha256": [
         "18241fea30b3833fa98e35e51a43fe27fe630b11abfac35a06537cd45e967de7"
       ],
       "before_count": 1,
-      "task_id": 6112051277
+      "task_id": 6112051277,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
