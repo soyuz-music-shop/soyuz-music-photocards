@@ -59834,13 +59834,14 @@
       ]
     },
     "3325510995": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ETTB145",
       "originals_sha256": [
         "3b0149e4f6b3da273a8ab2a99fb11d7103c0c891569318fef5e4148ad6bb16f8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112231209
     }
   },
   "reason": null,
