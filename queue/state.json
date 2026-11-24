@@ -77714,6 +77714,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886108215": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ABRP254211",
+      "originals_sha256": [
+        "9ebd63711ae776bcbe41012896f8a06af006435900e2bb75422ed669a4ca866b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
