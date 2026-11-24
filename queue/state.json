@@ -71645,6 +71645,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172571": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC383NATURAL",
+      "originals_sha256": [
+        "3b6fc33f2f7cd27af45f6a332da78f5382d8524b40f45e1903faf39e51233a96",
+        "ab07416a1c04babf62cff035bb47594f046985a8a91b1ce5a07162afda7d29f2",
+        "f2f6a4a16bb8401e816cb5c5c57f6d8a469ec46129b414cd9be08a1c2b71136c",
+        "a94de41c3ec88f4fd9fdfbfad4fdef6f5f65a46649fc1bb105efc7771efc3a0b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
