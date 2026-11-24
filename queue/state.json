@@ -77296,14 +77296,15 @@
       ]
     },
     "6800718149": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SC801996",
       "originals_sha256": [
         "6035c88a10b978ac6562e49ec4e5c744d89e14c878dac1cbd262f8cbd2690f12",
         "641bb1b6e52a831035e9f7a51a3e8a6704e3e7033f57a2229accf0b120913a7b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118431173
     }
   },
   "reason": null,
