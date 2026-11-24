@@ -75079,14 +75079,19 @@
       ]
     },
     "6720597980": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WIGCD523",
       "originals_sha256": [
         "a5530be9098b1ff9070dd9e2e3b64cfc447f8356a2ca724585354793f9b21456"
       ],
       "before_count": 1,
-      "task_id": 6118222712
+      "task_id": 6118222712,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
