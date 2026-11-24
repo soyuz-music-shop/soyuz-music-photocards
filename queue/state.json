@@ -71889,6 +71889,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172600": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ONULP47",
+      "originals_sha256": [
+        "8e95b55d351c1ef8e0cdf9c9d985afc3433e419b09d9d2aeb1f675a161613b64",
+        "6158cf51b737aede1a2694e18129f8a5b6d3b08f4cfa938d8e37217526820eb2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
