@@ -71729,7 +71729,7 @@
       ]
     },
     "5540172580": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "REPOVIN004BAGM",
       "originals_sha256": [
@@ -71737,7 +71737,12 @@
         "5b39bca6a36edb2dcda772b294163074cc7861325ffa3f7294962be42defdc09"
       ],
       "before_count": 2,
-      "task_id": 6117895015
+      "task_id": 6117895015,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
