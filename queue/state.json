@@ -70153,6 +70153,22 @@
         0.0,
         0.0
       ]
+    },
+    "4462346497": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MT362925",
+      "originals_sha256": [
+        "062d5a25639ac542a9775cdc135b6f2b9c8b7d9ebc2d8d738930efc15067b5b2",
+        "7a65ba3a541c29e7c4e9e24500c2a365ded13c4a221ab91b35cba955b6b6f1a7",
+        "57f34b3e98a92ab1078cf61a10bf9aae2ee0cbe54c3c0488446468a2b91d04a6",
+        "6df0e81bfd9253efc9c68fbeb0d763fcde1f0bd96064e35fb74a2978d8485d97",
+        "126620d1ddaf8d0db220033009823c9b593ad1d3d21344f43da05f0591b0bcda",
+        "c046fc6f274e1d08d76561313016e237cd21cc55757f9d6ba2d3f893250f5950",
+        "8f0288dc426bd46cbbfbb6c2f0c5391fd4b894b4fb2870983e32b8c3f2d80b3f",
+        "233d3ec53972bd6693ee4dd278c2c40fec1f5ea423541b7553d26213a570f945"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
