@@ -76944,14 +76944,19 @@
       ]
     },
     "6800647768": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QU644240",
       "originals_sha256": [
         "04dfe7df89510d766158814a9fd7d47abe8dff07864d050a7ea3f1b68442ea56"
       ],
       "before_count": 1,
-      "task_id": 6118406769
+      "task_id": 6118406769,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
