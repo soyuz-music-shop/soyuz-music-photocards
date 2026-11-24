@@ -60246,6 +60246,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3562824562": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRTLP020",
+      "originals_sha256": [
+        "8516ed89318587dfaeb15458112ba76623bf794ae1c0c46f3b5eee319bb91e79"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
