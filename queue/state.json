@@ -74452,7 +74452,7 @@
       ]
     },
     "6503775199": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TMR042",
       "originals_sha256": [
@@ -74460,7 +74460,12 @@
         "b9eeb3773f5ca14de17fb647a28b2c76f288fd720c7cfd5bce02daab69ee7994"
       ],
       "before_count": 2,
-      "task_id": 6118161260
+      "task_id": 6118161260,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
