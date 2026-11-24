@@ -57898,14 +57898,19 @@
       ]
     },
     "3296659119": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 885 LP3-MARBLE",
       "originals_sha256": [
         "7250dd710f2729ba0725fa037e7d1e381aac7168b902350a1e5b70438771cfec"
       ],
       "before_count": 1,
-      "task_id": 6111919567
+      "task_id": 6111919567,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
