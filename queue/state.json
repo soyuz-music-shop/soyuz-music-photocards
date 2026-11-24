@@ -66201,6 +66201,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946350": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCH195",
+      "originals_sha256": [
+        "f1f2d37b21cb190f0486cf2b749302aa32d191c1d37adfb545c2a0fd7377e924"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
