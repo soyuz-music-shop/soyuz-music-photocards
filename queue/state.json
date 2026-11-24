@@ -68218,14 +68218,19 @@
       ]
     },
     "4385191386": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ECM1073",
       "originals_sha256": [
         "deec9fbf6160091ed27ed11f64775a0d2d40f04163fe164811d120af22b117c9"
       ],
       "before_count": 1,
-      "task_id": 6113829029
+      "task_id": 6113829029,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
