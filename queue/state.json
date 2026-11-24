@@ -59819,14 +59819,19 @@
       ]
     },
     "3325510984": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WL112CD",
       "originals_sha256": [
         "00b9c448ba886bfbba4e36f582b092f93250fd47f922197ddb93fbbcb64cd6ad"
       ],
       "before_count": 1,
-      "task_id": 6112228580
+      "task_id": 6112228580,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
