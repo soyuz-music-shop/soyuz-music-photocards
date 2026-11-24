@@ -58171,14 +58171,19 @@
       ]
     },
     "3296659208": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RADLP2",
       "originals_sha256": [
         "e1be4169db7018eda90844c7e74585d392ff8fc8034816d9be524c4f24321fad"
       ],
       "before_count": 1,
-      "task_id": 6111953836
+      "task_id": 6111953836,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
