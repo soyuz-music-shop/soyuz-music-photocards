@@ -58352,6 +58352,17 @@
         0.0,
         0.0
       ]
+    },
+    "3296659264": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBT 4858-7",
+      "originals_sha256": [
+        "1ff23a261ba58a9fa48f2854a1034f53f0a463c5394d6282d72c1dab201a93c2",
+        "d652483678fc6a7bce0ba03f30d66c5de9cf72630c0898b93cb8bdba321d5ca5",
+        "5259b78f53f53637d32e633f23eeab682fa8eb6f62aff1dcb6d9e897aaa5c692"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
