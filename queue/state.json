@@ -71449,13 +71449,14 @@
       ]
     },
     "5540172521": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LA193558",
       "originals_sha256": [
         "94c483fe03fc01bce8d92afbd9adb97f88c078b466d82d1a96e070cb2f827f01"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117868341
     }
   },
   "reason": null,
