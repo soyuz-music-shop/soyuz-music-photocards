@@ -60855,14 +60855,19 @@
       ]
     },
     "3562824668": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PCRPOPLP263TRANSPARENT",
       "originals_sha256": [
         "d9ce63f4e4a51a49b4c0e0f0f047b52ed22d7967a0a7e7086c42eecef9b2f718"
       ],
       "before_count": 1,
-      "task_id": 6112425248
+      "task_id": 6112425248,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
