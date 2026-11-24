@@ -79821,13 +79821,14 @@
       ]
     },
     "6921030865": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LP832621",
       "originals_sha256": [
         "b2fa86fe8f52cd1316b116c291f5d333a412faf9bfcb9b13c8506ded98efd3eb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118675273
     }
   },
   "reason": null,
