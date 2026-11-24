@@ -60438,7 +60438,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824591": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "DISS0190LPXRYS",
       "originals_sha256": [
