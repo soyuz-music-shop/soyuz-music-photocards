@@ -73896,7 +73896,7 @@
       ]
     },
     "6228985924": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BBSF003CD",
       "originals_sha256": [
@@ -73905,7 +73905,12 @@
         "f076351d4ab7426317811e4a01de2fb4431b097df72e4804fc097078edb37c4e"
       ],
       "before_count": 3,
-      "task_id": 6118113528
+      "task_id": 6118113528,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
