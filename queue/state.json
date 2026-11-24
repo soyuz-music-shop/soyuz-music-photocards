@@ -59582,7 +59582,7 @@
       ]
     },
     "3325378505": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UMB LP1",
       "originals_sha256": [
@@ -59590,7 +59590,12 @@
         "3f2312e6de3ae791c99c52555acf19d40b106e7f3712739704a00694856dd9a4"
       ],
       "before_count": 2,
-      "task_id": 6112188278
+      "task_id": 6112188278,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
