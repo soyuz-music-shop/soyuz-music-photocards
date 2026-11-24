@@ -57712,6 +57712,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659065": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MF522272",
+      "originals_sha256": [
+        "19074f46d06186ce317436053f51a5104932ab35521595e3a409705f5e6bd08c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
