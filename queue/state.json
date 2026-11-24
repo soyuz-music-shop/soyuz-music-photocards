@@ -80281,14 +80281,19 @@
       ]
     },
     "6948775767": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC123",
       "originals_sha256": [
         "ca9092e509d60eaf5f5a5b828b4155a0e6a5dab0bdf25fb360ac411ce2428b95"
       ],
       "before_count": 1,
-      "task_id": 6118734498
+      "task_id": 6118734498,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
