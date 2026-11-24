@@ -56999,13 +56999,14 @@
       ]
     },
     "3283959760": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MC161816",
       "originals_sha256": [
         "bbfc6c3aa3ee06b8d425d58f0b6c52d8f9b8b7ebdff3e63420cfb707ed1a014f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111792275
     }
   },
   "reason": null,
