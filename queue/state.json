@@ -61775,14 +61775,19 @@
       ]
     },
     "3563073846": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAM CD 63",
       "originals_sha256": [
         "2d63b5c84fb904204b039d08fcda8328844b2a929575bc2633a6c4c25cd5ea1c"
       ],
       "before_count": 1,
-      "task_id": 6112612854
+      "task_id": 6112612854,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
