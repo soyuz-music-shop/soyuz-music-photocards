@@ -75457,14 +75457,19 @@
       ]
     },
     "6720720826": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NPR1176JC",
       "originals_sha256": [
         "0cc0ebfdf6956341abfd1d3bc47eee15b7598af727f76c7016c69b16256ac1e4"
       ],
       "before_count": 1,
-      "task_id": 6118261893
+      "task_id": 6118261893,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
