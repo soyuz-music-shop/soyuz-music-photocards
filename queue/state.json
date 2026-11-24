@@ -68276,6 +68276,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191401": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TW756517",
+      "originals_sha256": [
+        "d5f2ca4074fc4a402a93a7daebbf8327286679e0612cbb4e66a54cbf9fb7a333"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
