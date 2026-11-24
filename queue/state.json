@@ -74298,7 +74298,7 @@
       ]
     },
     "6503627940": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 33250",
       "originals_sha256": [
@@ -74310,7 +74310,12 @@
         "aa3f776f2e078d2176a192b3c8ec22b07546d28bfcfd5ba2665b713da81ccb85"
       ],
       "before_count": 6,
-      "task_id": 6118149114
+      "task_id": 6118149114,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
