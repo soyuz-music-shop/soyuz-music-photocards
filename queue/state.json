@@ -68339,14 +68339,19 @@
       ]
     },
     "4385191420": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FACT150",
       "originals_sha256": [
         "472ee39d91a0c859df6273f797b9e81fd0e2f9b475de6b0fc5f38ed22cfd5160"
       ],
       "before_count": 1,
-      "task_id": 6113847203
+      "task_id": 6113847203,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
