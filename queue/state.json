@@ -58883,13 +58883,14 @@
       ]
     },
     "3318541251": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OLOGYCDSET1",
       "originals_sha256": [
         "22c0160753abb2d79dedc134e5da54742fa794706e04742dfa42db0881dbe207"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112060573
     }
   },
   "reason": null,
