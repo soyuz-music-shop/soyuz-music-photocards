@@ -68096,6 +68096,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191367": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HZ594854RA",
+      "originals_sha256": [
+        "8918a6f7c1de831bf6817d9c033629c689056cb8c95f189684ffbad893c1ec75"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
