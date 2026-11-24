@@ -72008,7 +72008,7 @@
       ]
     },
     "5540172611": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YCR/096LPRC",
       "originals_sha256": [
@@ -72016,7 +72016,12 @@
         "3b6e47c0d01aa9df4aaa8993d03d6f7daa59ea73170377399e6b181ddeb9e37f"
       ],
       "before_count": 2,
-      "task_id": 6117924068
+      "task_id": 6117924068,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
