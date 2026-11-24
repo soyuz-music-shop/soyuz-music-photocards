@@ -74130,7 +74130,7 @@
       ]
     },
     "6503603990": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR1 2695",
       "originals_sha256": [
@@ -74138,7 +74138,12 @@
         "e59d2e800572e8003c86807a34a8ea4990d2c8f525744518bb247507fe7a4a87"
       ],
       "before_count": 2,
-      "task_id": 6118135803
+      "task_id": 6118135803,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
