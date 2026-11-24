@@ -67663,6 +67663,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191237": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAD3315",
+      "originals_sha256": [
+        "e8bdcc105fd52342d65fd1318910405b269a35728dfeaf638399b807be91b3db"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
