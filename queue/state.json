@@ -72568,7 +72568,7 @@
       ]
     },
     "5540172715": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MJ107011SR",
       "originals_sha256": [
@@ -72576,7 +72576,12 @@
         "87f7911920887913286e2fe51b5755167ad039e93e42d73a9f392206641f4d53"
       ],
       "before_count": 2,
-      "task_id": 6117978573
+      "task_id": 6117978573,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
