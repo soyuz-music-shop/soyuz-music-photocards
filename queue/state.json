@@ -57418,14 +57418,19 @@
       ]
     },
     "3296659003": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AS582277",
       "originals_sha256": [
         "9419e33d405ecffe76fbd63502f31b85a0a7ae25ea80aed8857aa27bf0e68aa4"
       ],
       "before_count": 1,
-      "task_id": 6111864136
+      "task_id": 6111864136,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
