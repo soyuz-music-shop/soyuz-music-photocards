@@ -57521,6 +57521,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659027": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FLOATLP6471",
+      "originals_sha256": [
+        "713eb5e6b90aad13624ce9166ca823ff165ff3e8998bd120331dc5ca88a2ff9e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
