@@ -58048,6 +58048,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659170": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 546GOLD",
+      "originals_sha256": [
+        "69cedb3d66b20392f62e6b74eb50ef03fcaeb219ee6cd925794c61e0f7e93e32"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
