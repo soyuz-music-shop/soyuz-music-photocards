@@ -69247,6 +69247,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191628": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1727106",
+      "originals_sha256": [
+        "c8c6cb939a5fdef3784e723a93cb887c5897d69546bbd6a7a11923edf459ff79",
+        "3c0edf56849914a9bb3ae7345808f78a7e2eddec868fc052bf0e9ad52a0109ea"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
