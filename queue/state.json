@@ -80543,13 +80543,14 @@
       ]
     },
     "6961317590": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP124",
       "originals_sha256": [
         "cfb525c55d12f3903c56058c7a6b181a6b74f11c449d5ac579627b7dc6c6c24f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118771879
     }
   },
   "reason": null,
