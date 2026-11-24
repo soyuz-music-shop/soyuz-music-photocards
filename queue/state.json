@@ -73491,6 +73491,23 @@
         0.0,
         0.0
       ]
+    },
+    "5552457624": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XL1644T",
+      "originals_sha256": [
+        "a81b73fb5f2a96f53a18c523b221b61ba0c8923dd1f87b501384b73f1e28f2c3",
+        "462e4739917045a8b20ab0723cb5457d8c4abb2f21197c2f9bfa653f7a57e621",
+        "f9ae8699f3e989221b451dfb76c2f8b263f2f97c92e222fae9dd2a784c0c7675",
+        "0b0508257c43b2521d0723a6c2b7184a4de03b4a54ff96cca91d9375388c59e2",
+        "b84c57c368f62902e952a51980541f5639486fe88eaa3a3f572160641cad98d5",
+        "9b7bcc88386950b1e0c724a40d849aae18c02e0e78b5e2bdd9dc4d8e86d22471",
+        "1dfcacbee0a3aeceefa2dfafe16cb2dcd11861445b924f0980e4d8cde6933f57",
+        "d507c5d127668e58473ab5dcf499b84439a95d62e613cf96381491d7b0778b47",
+        "91b1d7528da4519af9c5ae1a00abfaddd2b25dd2085452c2a685009356616a5a"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
