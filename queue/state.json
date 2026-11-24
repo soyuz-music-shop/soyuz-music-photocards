@@ -65152,7 +65152,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3784946098": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "CDTOP21610",
       "originals_sha256": [
