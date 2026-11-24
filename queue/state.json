@@ -65767,13 +65767,14 @@
       ]
     },
     "3784946243": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTOP1654",
       "originals_sha256": [
         "ad6b14c9ab707d224c986e6a981433cd560e85333940eca8fb4266663474bc39"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113459312
     }
   },
   "reason": null,
