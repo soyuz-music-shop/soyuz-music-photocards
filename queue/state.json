@@ -71697,14 +71697,15 @@
       ]
     },
     "5540172576": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "YZYGAMMA001",
       "originals_sha256": [
         "cfb1d9a0cb6ea1fb8bf13aef79b7c6933321d38487aff6734366904d92d49c70",
         "27fd7f5468ee71ef29b5898be68bb2e6aded6bf5b8e70bb469e30f884a0daab2"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117891159
     }
   },
   "reason": null,
