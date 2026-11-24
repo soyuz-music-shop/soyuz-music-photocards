@@ -71480,7 +71480,7 @@
       ]
     },
     "5540172527": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "29MU0048LP",
       "originals_sha256": [
@@ -71489,7 +71489,12 @@
         "a2285ba298df317b7f91942166a1795f0c7d04da4cc8029b533f92548c68dda4"
       ],
       "before_count": 3,
-      "task_id": 6117871314
+      "task_id": 6117871314,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
