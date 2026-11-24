@@ -66368,14 +66368,15 @@
       ]
     },
     "3784946380": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDSXE2133",
       "originals_sha256": [
         "d02000e9310fbb681aeecb940ff59cf8f3186f5f20afb9f9a3eeb087198b67ac",
         "2cfdea90000dd187b73888747506a70306d2ce481aa8bbf31ffe071ec9dab67c"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6113555761
     }
   },
   "reason": null,
