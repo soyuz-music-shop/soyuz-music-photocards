@@ -78301,14 +78301,19 @@
       ]
     },
     "6886252109": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KONG001LP",
       "originals_sha256": [
         "d99f5ed6108d19810e0ea7d7eb935f88ec2d239ef8d4f3cb7dfb59d0bb346763"
       ],
       "before_count": 1,
-      "task_id": 6118537990
+      "task_id": 6118537990,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
