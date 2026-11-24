@@ -73065,6 +73065,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172931": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX080918SBM",
+      "originals_sha256": [
+        "7d04ba9f1b123f87e90ecebb308f00eb88036026f110ecac1c5c2c0a0b7fa31c",
+        "0954ed7b8550ff80ce250b97a71375cd8587a9ad71a7e59fa6888744a539eefe",
+        "e35175ff95794b6d38a44a49dfa017ffc09f0f9ad735deea8a5b81c2a7592f2b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
