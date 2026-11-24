@@ -71144,6 +71144,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172457": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MIG00263RC",
+      "originals_sha256": [
+        "0adc690b66062c6a1ee22b9fe0ee587ba744c555bf7ed84a814a8c269aeae6c9",
+        "7957e14c695746fdb40e022abb37c7ac1830d4e59359e94f6078a1b19ca8859d",
+        "6b5eb2b0dd782ddd46efb833e3da2ef33ee45e3917f167c9103b615a058347f0"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
