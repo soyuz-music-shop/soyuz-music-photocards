@@ -68984,6 +68984,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191566": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SP279764",
+      "originals_sha256": [
+        "4171b28974d66b575e1161fa72ca651aeb922b1be6fcb97d55d0c32102c9ffa4",
+        "2e6a90da22158d7f6076e3c4505e1f9fa9d5c8388dc12c432103a2774112c626"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
