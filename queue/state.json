@@ -70125,13 +70125,14 @@
       ]
     },
     "4462315911": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OO552427",
       "originals_sha256": [
         "ffd23a7bb2f024e97ce36bf17db649c07004e053c53430d526ed42fbf16405ec"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117717973
     }
   },
   "reason": null,
