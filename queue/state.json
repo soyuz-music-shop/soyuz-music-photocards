@@ -64443,7 +64443,7 @@
       ]
     },
     "3784565063": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP145",
       "originals_sha256": [
@@ -64452,7 +64452,8 @@
         "0e5cca29a988c8ca35893c9f13ddd0ca64a6f86597d4be7f6bb906ddd5ed86b3",
         "dea9395764dee9e54a29da7caa8e293c769783f2ca96efe3d8ccc72060e80a36"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6113234199
     }
   },
   "reason": null,
