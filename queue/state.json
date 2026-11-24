@@ -73203,7 +73203,7 @@
       ]
     },
     "5540173429": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "APC53",
       "originals_sha256": [
@@ -73212,7 +73212,12 @@
         "9ca0e559ad7cd377ea9c678edb5e6553c41769c6231bed9ad7db9319bf55861e"
       ],
       "before_count": 3,
-      "task_id": 6118036458
+      "task_id": 6118036458,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
