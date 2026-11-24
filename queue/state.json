@@ -61048,6 +61048,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824698": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRED857TURQUOISE",
+      "originals_sha256": [
+        "afc6cb2cc5f574afb615fa2c09c84d476a6571cbd13f972a1bb92c7e376538c3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
