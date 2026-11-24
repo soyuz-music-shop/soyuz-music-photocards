@@ -73493,7 +73493,7 @@
       ]
     },
     "5552457624": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL1644T",
       "originals_sha256": [
@@ -73508,7 +73508,12 @@
         "91b1d7528da4519af9c5ae1a00abfaddd2b25dd2085452c2a685009356616a5a"
       ],
       "before_count": 9,
-      "task_id": 6118075250
+      "task_id": 6118075250,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
