@@ -67824,13 +67824,14 @@
       ]
     },
     "4385191279": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TOP594526RED",
       "originals_sha256": [
         "cf0599231bb021ad84f7329dd9d9b71b9771b3449c5b3b683c0870e1e0a2bae0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113769381
     }
   },
   "reason": null,
