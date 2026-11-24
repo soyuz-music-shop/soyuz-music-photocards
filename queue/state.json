@@ -74367,7 +74367,7 @@
       ]
     },
     "6503685795": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GOOLP-023",
       "originals_sha256": [
@@ -74377,7 +74377,12 @@
         "994fd9991c4bcbe34da8e92344e0f1830d0647b623039f263761f61abea199ab"
       ],
       "before_count": 4,
-      "task_id": 6118153745
+      "task_id": 6118153745,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
