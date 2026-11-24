@@ -66594,13 +66594,14 @@
       ]
     },
     "3784946443": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDWIKD308",
       "originals_sha256": [
         "e3821290296c93ad3c1b7a586e0f62296087f792ad7710373647a481ab9b3e58"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113599102
     }
   },
   "reason": null,
