@@ -56731,6 +56731,15 @@
         0.0,
         0.0
       ]
+    },
+    "3282704061": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AM706351",
+      "originals_sha256": [
+        "bb9612005a5950608c0167da6d906b635813d286430c56f434ce367bd638b3a0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
