@@ -79894,6 +79894,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921040381": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MA821304",
+      "originals_sha256": [
+        "30d6431a1985567c65e913b82140b21d83fc74e7aa90cd8be8045b61e8125874"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
