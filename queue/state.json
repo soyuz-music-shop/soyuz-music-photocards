@@ -70140,13 +70140,14 @@
       ]
     },
     "4462346485": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MSAP185CD",
       "originals_sha256": [
         "7c0ecab58096b7d4179ba1e3f25702d67367a7027ede6793e6564eb7f10b9484"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117719356
     }
   },
   "reason": null,
