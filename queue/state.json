@@ -58123,6 +58123,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659196": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV553LP",
+      "originals_sha256": [
+        "37ba8f939aa7d62ef800f77d1bc1ec5af1bf496591539dca423f1aaa607dd942"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
