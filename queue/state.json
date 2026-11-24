@@ -79745,7 +79745,7 @@
       ]
     },
     "6921016842": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JB056329",
       "originals_sha256": [
@@ -79753,7 +79753,12 @@
         "c11e913f17544edf0f8f81c326628ad00bb8fe2359fb8ccd909a15792c123adc"
       ],
       "before_count": 2,
-      "task_id": 6118669039
+      "task_id": 6118669039,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
