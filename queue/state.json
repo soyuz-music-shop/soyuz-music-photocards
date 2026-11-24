@@ -74280,6 +74280,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503626395": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ISO-008-1",
+      "originals_sha256": [
+        "ba05d392a7bb6bc45e8ce0b80c4ecea5854a06c6d2432b9492bc2ac0a83d0504",
+        "212f7302e2c346adf218e410b3ed4e94e223b768501debdd3eb50dde03a62ebe"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
