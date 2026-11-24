@@ -77376,7 +77376,7 @@
       ]
     },
     "6800731398": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "R1 727193",
       "originals_sha256": [
@@ -77388,7 +77388,8 @@
         "e2941e0a4fef365e7a9778802adcc0b160cc2ee16e7e09743d14d0b601ce2a11",
         "b63802d0874f973a7809d480ed111c62869a6b70e1be7dbe29e5e84a305c7406"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118438517
     }
   },
   "reason": null,
