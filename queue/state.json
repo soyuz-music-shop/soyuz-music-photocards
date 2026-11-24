@@ -57660,6 +57660,17 @@
         0.0,
         0.0
       ]
+    },
+    "3296659054": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBCV 0712",
+      "originals_sha256": [
+        "15a2e0cfd5bb38e1b4f2c14fef38ae6878cc4c72e90070a169726c83edd24f39",
+        "a1cbf8b974ea90d116874bf0341dc58b7ea7c0212083c4fdf12beef37355ed60",
+        "609beb27590f1365424fce779a5cb6f44a57edd8d36ecdcc560e4e9de07c8d15"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
