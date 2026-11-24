@@ -57262,7 +57262,7 @@
       ]
     },
     "3289858453": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNA000253",
       "originals_sha256": [
@@ -57271,7 +57271,12 @@
         "212bb81799e9c4e570bc5b2de3af1a5d9e65f7a324c4b47fc8cf94933ed072a4"
       ],
       "before_count": 3,
-      "task_id": 6111846072
+      "task_id": 6111846072,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
