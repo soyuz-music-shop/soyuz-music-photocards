@@ -79169,14 +79169,19 @@
       ]
     },
     "6920913394": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP395",
       "originals_sha256": [
         "57364ff0e36adc93e8900ba2063312a1548f394e432d0d54ceab203ece7298d0"
       ],
       "before_count": 1,
-      "task_id": 6118615369
+      "task_id": 6118615369,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
