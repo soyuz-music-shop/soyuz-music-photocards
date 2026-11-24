@@ -63798,6 +63798,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564876": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHD1627",
+      "originals_sha256": [
+        "3d8f9a558d62f707a691c7c58227e1db223b1f107548511b5c74a34e08d31443"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
