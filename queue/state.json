@@ -73405,6 +73405,16 @@
         0.0,
         0.0
       ]
+    },
+    "5541364181": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GM138924",
+      "originals_sha256": [
+        "be26a7088240568f2cdd38599a91c22fd74b66ec0d4bf717eab9c3bff4a8d750",
+        "669a2a593ca809ad047020d0d046549186862eb82f8c56525048654ba07f6c1a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
