@@ -66427,6 +66427,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946398": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSXE009",
+      "originals_sha256": [
+        "43bd9112823b72da8744605e28a48106769d7aaa5e97a3da83f8f3dd166a25a1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
