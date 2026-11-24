@@ -78194,6 +78194,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886227613": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "244501 LP",
+      "originals_sha256": [
+        "e78bc6fb2239b121c0cabcc6af64987568976e3898b0033b18a578948df7b7ad"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
