@@ -75565,7 +75565,7 @@
       ]
     },
     "6720745007": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SM359074UC",
       "originals_sha256": [
@@ -75577,7 +75577,8 @@
         "836c866df7523b7efd1872e5626105468e88896fd8e9536b5f351340df06522f",
         "05e004d6847ac81d377bb32a0d5ec75b382a3609b51203db88612f1d4fdd90a5"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118273883
     }
   },
   "reason": null,
