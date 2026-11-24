@@ -60853,6 +60853,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824668": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PCRPOPLP263TRANSPARENT",
+      "originals_sha256": [
+        "d9ce63f4e4a51a49b4c0e0f0f047b52ed22d7967a0a7e7086c42eecef9b2f718"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
