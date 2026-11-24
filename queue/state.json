@@ -73423,14 +73423,15 @@
       ]
     },
     "5541364231": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GM729320",
       "originals_sha256": [
         "98abdd6f5d107a98664ddad93ca8225aea90daee1b110cfbaa0f0c6d538af2be",
         "6539e393b567009802b93d6b65f95434efa8f6dc7837898134918be25ff23b38"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118064582
     }
   },
   "reason": null,
