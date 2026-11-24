@@ -63741,6 +63741,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564864": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CH256",
+      "originals_sha256": [
+        "bf23b7ae0765265a8b35077fc5b3ff5e194a1dcde7888fc4814488e3c9bf1c04"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
