@@ -59884,13 +59884,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3325511040": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MER145",
       "originals_sha256": [
         "0ad09d5f5c25ac9e40d7f38cf7f7b1d2fd90fb9b1aad2a2dfdf22e4483332102"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112240350
     }
   },
   "reason": null,
