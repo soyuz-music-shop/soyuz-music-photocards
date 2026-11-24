@@ -69911,6 +69911,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462133740": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SL352227",
+      "originals_sha256": [
+        "032e313ecd15497d0eb59991c5706c5cfc6e534b9ebe46a191337a1375696790"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
