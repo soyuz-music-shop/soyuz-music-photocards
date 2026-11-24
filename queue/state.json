@@ -68141,6 +68141,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191378": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1726508",
+      "originals_sha256": [
+        "ecffad2c9a764cfc31dff3158d3a6fe6b6b3081258ea0ee9604d68c17ca5d361"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
