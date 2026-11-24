@@ -67936,6 +67936,19 @@
         0.0,
         0.0
       ]
+    },
+    "4385191333": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VH811235OT",
+      "originals_sha256": [
+        "f925596771b5352116c9f6dcb13ac9b1603de47a6d16465dc4aabb2176dbd089",
+        "aad6b4693aa1ed8c9ec6211f5c0a51ab23beb0c3b27ce5b44b615a59d6784814",
+        "cc9c97cfee65d3f319e99ae40c649dec77281a65efd9d6f8afd5d8d4145cdb1c",
+        "5e20eb59e1ce2473301b95776b86c5c4e75085a5515cd0fa6699baee3ca3f895",
+        "c5140030dc14780135fd328208d703b2425489b1b987233c19ab68bbfa0edb52"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
