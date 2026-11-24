@@ -71842,7 +71842,7 @@
       ]
     },
     "5540172593": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MIG03391TPWBWM",
       "originals_sha256": [
@@ -71850,7 +71850,8 @@
         "b529f090ee52f0edca07db6b63e63193fc990c4dca1e83741adb39507d25f6b2",
         "8ddf90dc4880018f81873220f27c29171f5cc77ee145ef4ce0582e6457ba50cc"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117908431
     }
   },
   "reason": null,
