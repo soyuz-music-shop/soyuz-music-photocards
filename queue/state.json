@@ -60288,13 +60288,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824570": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PCRPOPLP214XCS",
       "originals_sha256": [
         "a56f0cc3ab7a69635b6dd4ac8fe43e04592c26848e6ec649869bd1da5313d815"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112309390
     }
   },
   "reason": null,
