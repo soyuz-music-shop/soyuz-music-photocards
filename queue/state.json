@@ -71713,7 +71713,7 @@
       ]
     },
     "5540172579": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ONULP56",
       "originals_sha256": [
@@ -71721,7 +71721,12 @@
         "83a3c0304f2035f91a60909cf0cadc6d2f13fb5eab49794c7a49837c18934f88"
       ],
       "before_count": 2,
-      "task_id": 6117893189
+      "task_id": 6117893189,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
