@@ -68695,14 +68695,19 @@
       ]
     },
     "4385191518": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP834",
       "originals_sha256": [
         "823a448c267bede6ed313bade5a4e00f7c11489f3e78a84f9f324ab00a2d5664"
       ],
       "before_count": 1,
-      "task_id": 6113917227
+      "task_id": 6113917227,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
