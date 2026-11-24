@@ -67728,13 +67728,14 @@
       ]
     },
     "4385191255": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MCR829928",
       "originals_sha256": [
         "4add1e194e64d8a2ff8a98251c251675329fbad3bef7799ae6a8bf9b8404dd11"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113755464
     }
   },
   "reason": null,
