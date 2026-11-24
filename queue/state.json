@@ -62408,14 +62408,19 @@
       ]
     },
     "3576024918": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP005D",
       "originals_sha256": [
         "fc7427dc056e95a34e35536b3c07ee1de23e0f029bbe9ad4dd2aa4dace743258"
       ],
       "before_count": 1,
-      "task_id": 6112738415
+      "task_id": 6112738415,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
