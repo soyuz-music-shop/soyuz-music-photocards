@@ -79774,6 +79774,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921021804": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CAI003LP",
+      "originals_sha256": [
+        "00a5aa0c92741b6a8cb75fd6a6671d85e58566876fa61e584f5cf8ce34f81d77"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
