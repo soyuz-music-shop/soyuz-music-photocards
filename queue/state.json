@@ -59897,6 +59897,15 @@
         0.0,
         0.0
       ]
+    },
+    "3325511041": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WL102CD",
+      "originals_sha256": [
+        "1afd77547af86c0fd663ace73f706cf99b3c72b6e186193a2f48406755feb30b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
