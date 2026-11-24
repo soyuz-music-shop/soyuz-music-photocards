@@ -76726,14 +76726,19 @@
       ]
     },
     "6800598540": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NS618745",
       "originals_sha256": [
         "a8b3d031deb88c27c13bd2879d8b4e16de492962e15893cda489be0ab202d3e3"
       ],
       "before_count": 1,
-      "task_id": 6118388297
+      "task_id": 6118388297,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
