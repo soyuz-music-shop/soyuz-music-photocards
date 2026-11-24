@@ -80407,7 +80407,7 @@
       ]
     },
     "6961317508": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PA953690",
       "originals_sha256": [
@@ -80415,7 +80415,12 @@
         "ce264b98f345daa01f0dbad2981912fcbe2fd34049c70c134460832d33342730"
       ],
       "before_count": 2,
-      "task_id": 6118754158
+      "task_id": 6118754158,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
