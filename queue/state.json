@@ -64988,6 +64988,22 @@
         0.0,
         0.0
       ]
+    },
+    "3784565228": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SX2133",
+      "originals_sha256": [
+        "09e24a0fd00518489871f7484734a952103bae0ee1d559bb45b056dae21d3451",
+        "2cdf47eb4f60872729e02e4ce27bd91570d458d4de63af1756f4e1dae2fd3eb5",
+        "449859b187606cad3a0e1bdfdde4660291a53433b8df3ce0d877fca81510a590",
+        "bc9c0838b5226c6d83ee8d122a656944ec0654bd628dd268eea8ded2d5d67eb2",
+        "ee558eaee62d382134b9787439962736434cef72790c2c0b566937947954f416",
+        "7097828f732c5aa30319152a68ddd1e99e80fd9f5b31202baf58347ec76cdd1f",
+        "c8faf804ed52e130cd73d5a45ceb3fda8360d89b6cabf6f926992cb4822ac69c",
+        "aeedffbea41e3d95e7f6554d1068da16c92d1363a6b9b4b5a1ce71e03574742d"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
