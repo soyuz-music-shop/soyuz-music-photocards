@@ -77583,14 +77583,19 @@
       ]
     },
     "6800775603": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 726130",
       "originals_sha256": [
         "7b96fea9d643748c7d797e4b141076843a28e64177ac4a8be36a174350cf8ac7"
       ],
       "before_count": 1,
-      "task_id": 6118462203
+      "task_id": 6118462203,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
