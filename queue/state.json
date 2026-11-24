@@ -78151,14 +78151,19 @@
       ]
     },
     "6886216207": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DD177816",
       "originals_sha256": [
         "954b1ccc3adc303ff9b0dd03c4b21e3259250b12e7aa57308f20712cd551f841"
       ],
       "before_count": 1,
-      "task_id": 6118525151
+      "task_id": 6118525151,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
