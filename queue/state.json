@@ -77264,6 +77264,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800711979": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EES-035",
+      "originals_sha256": [
+        "cf54b64710610843a9a52c8ecf5fe0ec35f1a434d4a0f0ba73961f34a76d4b2c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
