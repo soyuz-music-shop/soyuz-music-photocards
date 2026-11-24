@@ -74211,14 +74211,15 @@
       ]
     },
     "6503619154": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DMUCD19802887782",
       "originals_sha256": [
         "eba9456499e00170c0ca7526f6db2a03497622adeebde58009832b5374ec900e",
         "ae0b5570c422a1d9d723b2d50a644b59cc953a5427f037a52a0a6b7b3533eaaa"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118141892
     }
   },
   "reason": null,
