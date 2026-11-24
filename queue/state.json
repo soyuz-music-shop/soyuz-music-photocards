@@ -69328,13 +69328,14 @@
       ]
     },
     "4385191674": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PSB854179",
       "originals_sha256": [
         "8873a1832f63de5dc114ed6ee8a5ec418a7423286a87fc644649f563da93fc1e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114037052
     }
   },
   "reason": null,
