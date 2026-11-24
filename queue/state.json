@@ -71295,6 +71295,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172491": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TAL23",
+      "originals_sha256": [
+        "903d4da667ed07012eb34155743146cfce41e10f0654f094611f330e0beffdb8",
+        "a7312726fd4511ae7542c330e7b630fcd5063f22ef18843ae485d27c447a86e3"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
