@@ -70138,6 +70138,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462346485": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MSAP185CD",
+      "originals_sha256": [
+        "7c0ecab58096b7d4179ba1e3f25702d67367a7027ede6793e6564eb7f10b9484"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
