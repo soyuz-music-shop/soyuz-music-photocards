@@ -80142,6 +80142,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921068872": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NO144733",
+      "originals_sha256": [
+        "b68828e1986b1f9dcf3b764272ec109a224990a6c738ea2bf7ef42dd67cf6645"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
