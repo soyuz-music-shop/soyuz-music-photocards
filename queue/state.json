@@ -68216,6 +68216,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191386": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECM1073",
+      "originals_sha256": [
+        "deec9fbf6160091ed27ed11f64775a0d2d40f04163fe164811d120af22b117c9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
