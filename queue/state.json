@@ -71975,7 +71975,7 @@
       ]
     },
     "5540172606": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MIG02181",
       "originals_sha256": [
@@ -71983,7 +71983,12 @@
         "b383ca32a1646e749394329a70057c1ba76243d28cf979201039d81727d6b91f"
       ],
       "before_count": 2,
-      "task_id": 6117921096
+      "task_id": 6117921096,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
