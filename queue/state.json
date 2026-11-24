@@ -76354,7 +76354,7 @@
       ]
     },
     "6799313080": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LDR591821",
       "originals_sha256": [
@@ -76363,7 +76363,12 @@
         "bf2c53c45a374431db028cd8599afe664489d5128f63ed562af70c61b4a512f7"
       ],
       "before_count": 3,
-      "task_id": 6118354675
+      "task_id": 6118354675,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
