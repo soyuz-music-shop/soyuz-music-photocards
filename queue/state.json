@@ -80704,6 +80704,10 @@
         0.0,
         0.0
       ]
+    },
+    "6961317693": {
+      "status": "skipped_existing_template",
+      "matched": "vinyl-russian.png"
     }
   },
   "reason": null,
