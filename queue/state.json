@@ -65707,14 +65707,19 @@
       ]
     },
     "3784946232": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHD1414",
       "originals_sha256": [
         "04e96bdbcee776a5a02c140036d2d7f3af1b2f25ad9568dc49e5f7f52dc45b3c"
       ],
       "before_count": 1,
-      "task_id": 6113451704
+      "task_id": 6113451704,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
