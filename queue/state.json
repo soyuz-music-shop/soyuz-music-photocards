@@ -80326,13 +80326,14 @@
       ]
     },
     "6948775874": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOCLP150",
       "originals_sha256": [
         "e2c4d146d66ef9022aced8601025673e2c4f033c652e8efe1a664d1e48b53401"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118743235
     }
   },
   "reason": null,
