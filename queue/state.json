@@ -58926,6 +58926,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541263": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BROLLYCD5",
+      "originals_sha256": [
+        "d82d90d1c29e9044495842b7a5becdae621f35db3da3b827e83ab2ade60886b6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
