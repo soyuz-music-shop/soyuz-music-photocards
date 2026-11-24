@@ -65405,6 +65405,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946146": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDTOP1663",
+      "originals_sha256": [
+        "f79a2a99cc87a6a6bb90a3046dff139a4be17a68a0841dc0b030c92b7f3c7803"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
