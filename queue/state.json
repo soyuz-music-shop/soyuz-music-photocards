@@ -75870,6 +75870,18 @@
         0.0,
         0.0
       ]
+    },
+    "6721012707": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLPCLEAR2008",
+      "originals_sha256": [
+        "d6f56a4d7cf39a911b9e9cba90bbd59855d7101926e600b4ad843e86911595c1",
+        "c8081df30b4bf3c700a9750f901d0b7e9332cbea3b1547d3b44f9f52556fdc01",
+        "91170e4ca0acb0ace2a78a1140a40dc484b48e6241284903337393c3ad3419ac",
+        "89d66150e998511c54ee21e78af64858b87eca0560e7a5ab0e3530b707b51297"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
