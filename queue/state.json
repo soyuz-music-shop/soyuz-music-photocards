@@ -72041,7 +72041,7 @@
       ]
     },
     "5540172620": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RRS260",
       "originals_sha256": [
@@ -72049,7 +72049,8 @@
         "8995cf299c162b2a8f1afc22496bba892d3c688bd43dc361ff1d15cdbb8c0020",
         "7c467d19c093d4dbd4a4952a5d2b739332ca3260ea87c003ca0bac9f267def6e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117927071
     }
   },
   "reason": null,
