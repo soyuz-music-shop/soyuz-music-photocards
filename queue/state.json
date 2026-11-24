@@ -79984,6 +79984,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921049671": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MM969325",
+      "originals_sha256": [
+        "deeac38dc574497aff6e34840252b4f4d4704d98028730110a5a049e1220ade5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
