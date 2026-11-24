@@ -73407,7 +73407,7 @@
       ]
     },
     "5541364181": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GM138924",
       "originals_sha256": [
@@ -73415,7 +73415,12 @@
         "669a2a593ca809ad047020d0d046549186862eb82f8c56525048654ba07f6c1a"
       ],
       "before_count": 2,
-      "task_id": 6118062030
+      "task_id": 6118062030,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
