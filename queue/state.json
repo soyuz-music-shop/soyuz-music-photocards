@@ -74431,6 +74431,19 @@
         0.0,
         0.0
       ]
+    },
+    "6503772691": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TMR-300",
+      "originals_sha256": [
+        "2849dae9a55532c2376cdbc43b3468f5fb95fae780dee9907d2761080a4d2c98",
+        "329e078807ca78e3bd303ffe34a0f6b86c83a8d310dd3c714085529731603ae7",
+        "f1636f77eb6cc310e759021a0fb48e39e1e07de03351dd1e1724e9090df3f58c",
+        "ff2d0b3f19ab38f7df80b306c5a5fcca59ad104af22af34469aeab75054333cf",
+        "62efde5b294cdc87493665b6e712f337b55faac377c0567f5b1f9720878c0453"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
