@@ -66068,14 +66068,19 @@
       ]
     },
     "3784946323": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKD230",
       "originals_sha256": [
         "5de4a75f28eb9236171f275a7c5da9a3ea2f62c86b7215c6e600f90a07bd791a"
       ],
       "before_count": 1,
-      "task_id": 6113503119
+      "task_id": 6113503119,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
