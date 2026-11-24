@@ -63132,6 +63132,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109638": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNEBOX111",
+      "originals_sha256": [
+        "59c6bcc57c544ed0fca33d8e40d13a78452f96a234dad99d6a80beea6699599f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
