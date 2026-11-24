@@ -56718,13 +56718,14 @@
       ]
     },
     "3282704034": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TTC243318",
       "originals_sha256": [
         "6c269d43c05192694e939ee421bc35bc2d6f6bd129ffc883137f5ca1938f2d74"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111756934
     }
   },
   "reason": null,
