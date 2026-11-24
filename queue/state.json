@@ -79167,6 +79167,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920913394": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP395",
+      "originals_sha256": [
+        "57364ff0e36adc93e8900ba2063312a1548f394e432d0d54ceab203ece7298d0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
