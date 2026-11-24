@@ -80122,7 +80122,7 @@
       ]
     },
     "6921067529": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NO144450",
       "originals_sha256": [
@@ -80135,7 +80135,8 @@
         "c7af05789adb561324312d924d15582d8edcbbc80193acf11c7e5a6995e492e5",
         "8aa0995708aa3f3b7f171cbb082d8ac616c6d0a96b45e55139c0dcd334a14508"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6118711428
     }
   },
   "reason": null,
