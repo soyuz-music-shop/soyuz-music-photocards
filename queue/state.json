@@ -56408,6 +56408,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v4/product/info/attributes connection URLError"
+    },
+    "3277020206": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RLP 010900",
+      "originals_sha256": [
+        "8b3ed2c628913fe85814c40f4251d9092ff710a288a93e99d92e7d3c40858c2b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
