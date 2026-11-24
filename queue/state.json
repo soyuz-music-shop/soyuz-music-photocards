@@ -60573,14 +60573,19 @@
       ]
     },
     "3562824608": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BRED752X",
       "originals_sha256": [
         "32182cbc2949f1b47b9e38c9a8526ab81cd317e3e5d64fcacc904527283173c7"
       ],
       "before_count": 1,
-      "task_id": 6112363420
+      "task_id": 6112363420,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
