@@ -63595,7 +63595,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3749015929": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-russian",
       "offer_id": "4680017661430",
       "originals_sha256": [
