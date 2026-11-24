@@ -59094,13 +59094,14 @@
       ]
     },
     "3318706781": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BYE010CDS",
       "originals_sha256": [
         "0732abdbcb670354a21d7cb73371f10d8bac33b0244c2d575c45320efd7f7553"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112098222
     }
   },
   "reason": null,
