@@ -71464,14 +71464,15 @@
       ]
     },
     "5540172523": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JB477018",
       "originals_sha256": [
         "c1454d6234d6e8f11608b1d617c1a80e11c1d6376c30e75e3a566cf94807bbcc",
         "104fb6dba2960bba5418285409627c5ff3f3165a90ad5972c5a9c4775de30786"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117869789
     }
   },
   "reason": null,
