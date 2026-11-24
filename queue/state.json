@@ -70266,6 +70266,16 @@
         0.0,
         0.0
       ]
+    },
+    "4462500769": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "D002630204",
+      "originals_sha256": [
+        "db8212518d25e7e70ec8a2e8eefdbc6b7d3799c325cf249baff999113dda1a47",
+        "b306a6fc008279b26abab03baf999dfbd5d7f04fae448369e936c02ef9fe87f2"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
