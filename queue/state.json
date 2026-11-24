@@ -74433,7 +74433,7 @@
       ]
     },
     "6503772691": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TMR-300",
       "originals_sha256": [
@@ -74444,7 +74444,12 @@
         "62efde5b294cdc87493665b6e712f337b55faac377c0567f5b1f9720878c0453"
       ],
       "before_count": 5,
-      "task_id": 6118159684
+      "task_id": 6118159684,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
