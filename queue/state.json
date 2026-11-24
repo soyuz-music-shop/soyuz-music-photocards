@@ -80468,13 +80468,14 @@
       ]
     },
     "6961317540": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TS859567",
       "originals_sha256": [
         "c0141f4fa7fe2b82474eb7db72d4b4cb58aeaab9a02d04a998f6134cd550b7d3"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118762157
     }
   },
   "reason": null,
