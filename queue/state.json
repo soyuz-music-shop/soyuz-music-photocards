@@ -69532,7 +69532,7 @@
       ]
     },
     "4385191747": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1726624SEA-BLUE",
       "originals_sha256": [
@@ -69540,7 +69540,12 @@
         "17b7024751dfba7aac4e908ceb710ec15b3512c6387227b66e638b51595225f6"
       ],
       "before_count": 2,
-      "task_id": 6114077930
+      "task_id": 6114077930,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
