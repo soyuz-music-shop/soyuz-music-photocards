@@ -58466,14 +58466,19 @@
       ]
     },
     "3297031088": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOSH097FDRUS",
       "originals_sha256": [
         "c93e0e8a2a99790dd83ba7fdd8a6d398c158f2d8a6274219ee1b7a96277341ac"
       ],
       "before_count": 1,
-      "task_id": 6111994726
+      "task_id": 6111994726,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
