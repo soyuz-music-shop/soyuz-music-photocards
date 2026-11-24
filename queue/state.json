@@ -72896,6 +72896,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172812": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RW741810WHITE",
+      "originals_sha256": [
+        "4b2b4232e84e247e77ffba4c6db07a5b2ffcadeb3711cf50d7f38aabbef4a23e",
+        "c184721b9a8c342bb3ff5a349723cdea8e1261bc6fedc6a6362d22df5d0685e1",
+        "c4bef684d15e533d72cc47b7e7fd8f1ea8e693ffa464c3ca5469f302a5b23865",
+        "78d97471c7a7ed7c033602c1a8c5068bb24ee104015b7cd42a3cc77aceb81d69"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
