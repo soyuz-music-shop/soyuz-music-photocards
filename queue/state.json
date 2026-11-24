@@ -61488,6 +61488,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073788": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNE1CD212",
+      "originals_sha256": [
+        "7547158ff311b6db3a6f732287f759c748ff06bdb36a34b469bbe05b4375dbdf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
