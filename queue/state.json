@@ -59412,6 +59412,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706823": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD08",
+      "originals_sha256": [
+        "474c67039b753ae823a86b34a1b216b517f27ffd4f885e539773b36d9491f96f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
