@@ -62501,6 +62501,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576025040": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRED2LP924",
+      "originals_sha256": [
+        "06c4ceb20999ef1cd0abf2acf974846d751883944c878136d184fa973d2c535d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
