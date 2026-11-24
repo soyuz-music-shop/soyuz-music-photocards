@@ -76167,6 +76167,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799256202": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDMUTEL5",
+      "originals_sha256": [
+        "038743a22cf8d01aa14c7b2595ba142146510a526aad6cc1f8f4fa8f1df78a68"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
