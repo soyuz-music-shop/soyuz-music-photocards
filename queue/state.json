@@ -65932,13 +65932,14 @@
       ]
     },
     "3784946288": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDKEND407",
       "originals_sha256": [
         "c547a2e458e8fc20c7797bc5a8f3b0ae1ce73859dbedd03379a43f4d8517f492"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113483380
     }
   },
   "reason": null,
