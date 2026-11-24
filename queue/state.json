@@ -79285,6 +79285,15 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Ozon gallery not confirmed"
+    },
+    "6920932328": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WARPLP70R",
+      "originals_sha256": [
+        "6fb4374709fc456efbc513cbd694e38cba83328eeb7956991aa00d1c658f2ecd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
