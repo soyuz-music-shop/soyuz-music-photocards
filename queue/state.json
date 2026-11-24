@@ -78887,6 +78887,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886362586": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HB586033PWBS",
+      "originals_sha256": [
+        "a1e290885841f3609a6f36270665e88207ed46cd6dd6c98135c75db9c9b5bfcf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
