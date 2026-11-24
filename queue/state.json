@@ -80498,14 +80498,19 @@
       ]
     },
     "6961317561": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF767224",
       "originals_sha256": [
         "3650140806887fe1ef6baa68634915d653fd5bf2711a564ec0fc27ce4f6e0561"
       ],
       "before_count": 1,
-      "task_id": 6118765785
+      "task_id": 6118765785,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
