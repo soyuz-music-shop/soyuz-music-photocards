@@ -74417,7 +74417,7 @@
       ]
     },
     "6503769087": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WSCD19439842412",
       "originals_sha256": [
@@ -74425,7 +74425,12 @@
         "9e324fc0f48a86913b9aa5f08f05416b5375f54d12233007f0ed111ddbefa5dc"
       ],
       "before_count": 2,
-      "task_id": 6118158214
+      "task_id": 6118158214,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
