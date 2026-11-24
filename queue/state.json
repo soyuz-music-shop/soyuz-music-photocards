@@ -63263,13 +63263,14 @@
       ]
     },
     "3576109661": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PURPLE005",
       "originals_sha256": [
         "80b3b7b2ac9d970db6c3240f1bc4e13d19976296443538e7bda7f6cfed575f4e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112961044
     }
   },
   "reason": null,
