@@ -77939,6 +77939,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886163022": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBQ2700LP",
+      "originals_sha256": [
+        "ea87a2beb11e84df74e1a60b32af3cddddede4c9f6b80d22e9e816a1af5d492d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
