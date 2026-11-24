@@ -74906,13 +74906,14 @@
       ]
     },
     "6720515524": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PampaCD016",
       "originals_sha256": [
         "7f90190577a5a10134b29773a8a3c373b8c937b270f8536ae918c44da947ed6f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118205531
     }
   },
   "reason": null,
