@@ -67330,6 +67330,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191165": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CX590818GBM",
+      "originals_sha256": [
+        "4800a4ffd5de17227f4ef6fa6315a9c04c760108ee4363c9e69b4f2adcc0994c",
+        "180ea8a09447e466032da67848839432194ceff8d7d5a9fc2ba1de2d4e6a27db"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
