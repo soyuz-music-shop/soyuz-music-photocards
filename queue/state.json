@@ -58262,6 +58262,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659227": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SMALP1255",
+      "originals_sha256": [
+        "63b0f0b667e1526a37a618738c32761c7e310690a56cbfe9310d6857750a8f05"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
