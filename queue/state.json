@@ -75244,7 +75244,7 @@
       ]
     },
     "6720650419": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BLCKND011R-3",
       "originals_sha256": [
@@ -75254,7 +75254,8 @@
         "6e92f9e5e539f107f544fb2dcf1e7c49ba4f5a2ad89a9a13eed1f82d09a653b3",
         "770d8967f74c09ce4e6725afbbd3ad880fc6c8000836c15f43eb0bcfcd9614df"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6118241890
     }
   },
   "reason": null,
