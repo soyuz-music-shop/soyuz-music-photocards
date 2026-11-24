@@ -72469,7 +72469,7 @@
       ]
     },
     "5540172691": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP718108",
       "originals_sha256": [
@@ -72477,7 +72477,12 @@
         "8fbb151fcdc896cd8521b73fe771b91f5677e5b387b23fbe5ba4fcf7ba29e3c0"
       ],
       "before_count": 2,
-      "task_id": 6117967954
+      "task_id": 6117967954,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
