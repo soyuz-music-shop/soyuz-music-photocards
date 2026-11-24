@@ -77395,6 +77395,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800733912": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TC709516",
+      "originals_sha256": [
+        "86e80995eb87a82ce709c32649387dfc8e3ffc7966c55bf50991faf2ecbc9acd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
