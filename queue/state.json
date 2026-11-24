@@ -68261,6 +68261,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191400": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PA974312",
+      "originals_sha256": [
+        "e3d03b70be1ff4695607b6b36335ed5317045cb45c408a350ef571eeb9d16981"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
