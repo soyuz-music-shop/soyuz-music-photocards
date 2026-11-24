@@ -75312,6 +75312,17 @@
         0.0,
         0.0
       ]
+    },
+    "6720669552": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT378DCD",
+      "originals_sha256": [
+        "ff785714c5f5d5e407f29249cc2b8d9d10c8770bd168d37623ddf6a8debdb2b8",
+        "ee383f6a117693905575f92bd6bce2fbd7f7765319a88861cba030057fe020a9",
+        "b756c66ccd103d9b1dc295cd14952b9fd49bd1c5cf969da498c2445e916d1892"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
