@@ -63544,6 +63544,17 @@
         0.0,
         0.0
       ]
+    },
+    "3730288784": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "COL5102482",
+      "originals_sha256": [
+        "6daf45f3de26cd0985b6a0d3203337f715dd2203d4ba3bbc664b935425f2c7f4",
+        "f351faddfe2ecea72cf560a59c0ad0f86cf66edcb17f10d49e50590b7320b008",
+        "f83387acfd85abebc52b8286da16fba784a6db41cd99b5d716e5c762b51d215d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
