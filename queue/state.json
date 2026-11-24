@@ -71395,6 +71395,15 @@
         0.0,
         0.0
       ]
+    },
+    "5540172501": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LPGRON194",
+      "originals_sha256": [
+        "f6a6f198315d29975d5a6c550439e70cfc7dc844dea050ffbe7bc256c75a3e91"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
