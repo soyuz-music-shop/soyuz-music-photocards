@@ -72293,6 +72293,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172654": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TR567",
+      "originals_sha256": [
+        "1c2a6cf9e21e41349a6070e19ab8ebf4fc1501e0c641863cb52b562f4dd3c8ae",
+        "30c260fa0dfd176ba2ad4586410947baaa911b048dd85fb75c5de2dd3dde7d82",
+        "29bc8cbd09b5a099c0501daa06298fcf06fc527289e4b86f9fbc77ebd122d66c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
