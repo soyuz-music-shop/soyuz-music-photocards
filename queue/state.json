@@ -77107,6 +77107,20 @@
         0.0,
         0.0
       ]
+    },
+    "6800682836": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 726080",
+      "originals_sha256": [
+        "b482ec11e50db60111ab1f9b952b3913daa2fa2ff7aeb2c95ac71887ba2c42ff",
+        "4dd8f6fd6f298afc9c34b00cd552de5ee05441fd0499b78ea236a398af08e9d6",
+        "50f256c6cfc390db3db091d065be6cf83a687ee53ed173016d427c2127eb5422",
+        "ef4301d272fcc6a1e6a941a9127721db15400c17dff143a8c038944851bcc2c1",
+        "81d89bd9ee20e406d02729de78bd3209db2bb2fcfd024c2434b6c07cce0d1ffb",
+        "68a6c04754e1cc1103d2d56a8535851bf0e94928b558d7c24739f1aecf43b829"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
