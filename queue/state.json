@@ -62108,13 +62108,14 @@
       ]
     },
     "3563073897": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBBR 0165",
       "originals_sha256": [
         "d85d76dce3aaf04159c8776fd89c6af5427c985b066e59ee902e5225b135a73b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112678091
     }
   },
   "reason": null,
