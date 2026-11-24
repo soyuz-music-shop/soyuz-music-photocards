@@ -75550,13 +75550,14 @@
       ]
     },
     "6720741696": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SC956926",
       "originals_sha256": [
         "abc78faa1afd11ea3252bbd03d658106b1b7f0c8ff5859e0b2019dcefce99ee4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118271725
     }
   },
   "reason": null,
