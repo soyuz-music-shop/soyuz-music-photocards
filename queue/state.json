@@ -76121,7 +76121,7 @@
       ]
     },
     "6799237322": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CR321340",
       "originals_sha256": [
@@ -76129,7 +76129,12 @@
         "285bfed9d2eafc5a29d0a681e3f8a55b5f52d74f88f9d6b928b41b88ccfefcbb"
       ],
       "before_count": 2,
-      "task_id": 6118328862
+      "task_id": 6118328862,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
