@@ -58201,7 +58201,7 @@
       ]
     },
     "3296659213": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DSOD-714926",
       "originals_sha256": [
@@ -58210,7 +58210,8 @@
         "2a39601d52681d8f5d77e8aa6cd8556735e04c2729a5dca3aadc1ca892c10f8c",
         "010bff1f6567ee56209d9c683e44c837808d022e46da4b0a00578d1098f225ef"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6111957887
     }
   },
   "reason": null,
