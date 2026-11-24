@@ -76447,6 +76447,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799336862": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MV609346",
+      "originals_sha256": [
+        "1f0657bb2c65fdb7449314d5c756b92dfb5f58e8ed395abae77660cfc7001f11"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
