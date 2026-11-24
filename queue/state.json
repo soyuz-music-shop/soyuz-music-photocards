@@ -68869,7 +68869,7 @@
       ]
     },
     "4385191539": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROGV-181BT",
       "originals_sha256": [
@@ -68877,7 +68877,12 @@
         "0631a5231e5e1ada9caf8f548d6ac11a79f26774c2593321ec3f97c50fbe19ce"
       ],
       "before_count": 2,
-      "task_id": 6113953021
+      "task_id": 6113953021,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
