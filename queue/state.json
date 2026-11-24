@@ -63149,13 +63149,14 @@
       ]
     },
     "3576109644": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC2003",
       "originals_sha256": [
         "aef859881160199bf60c967eb97531bd63773e98821a416a724ecd39a12dee36"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112904643
     }
   },
   "reason": null,
