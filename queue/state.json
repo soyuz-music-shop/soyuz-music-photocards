@@ -57821,13 +57821,14 @@
       ]
     },
     "3296659100": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FLOATLP6452",
       "originals_sha256": [
         "f0d20ad2c107dcf8e94048a9ad16e29fd4bdd625d236ce4bce44274b9715240a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111910435
     }
   },
   "reason": null,
