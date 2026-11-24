@@ -76895,7 +76895,7 @@
       ]
     },
     "6800636593": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PM136592BS",
       "originals_sha256": [
@@ -76906,7 +76906,12 @@
         "fe0efc089f4f62aa1c0d5190d9a3fa5b694cceef9dfa6ef664d6e3c8167e7cae"
       ],
       "before_count": 5,
-      "task_id": 6118403507
+      "task_id": 6118403507,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
