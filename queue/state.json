@@ -70616,6 +70616,19 @@
         0.0,
         0.0
       ]
+    },
+    "5219746188": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCD13641UCOS",
+      "originals_sha256": [
+        "de30e32ea6a3d194af24b7cfca221c115f02528b7ac9155f81ed849c2b8d6238",
+        "7155cd37e7ab63b66a4411c77f32c9ed33ce4bf60835d7bdb8465c267ed17bc3",
+        "95e344f5f9cf4017aefd8d585f5284d1ea3ea083fb3b2ab58f7fa1e1e10ad537",
+        "e5a8858b4de396b1149cfd94be6944bb12e907226b1d57bcf7e7371fe44fe8fb",
+        "60fa630a3ec8b488df9180161ed6dbde8125877e0be04e0bad2554740fa86665"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
