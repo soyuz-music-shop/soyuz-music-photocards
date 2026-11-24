@@ -57679,14 +57679,19 @@
       ]
     },
     "3296659055": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "Elixir XXVIII LP",
       "originals_sha256": [
         "ea7abcdd6b358d0267bb81486bd378a9b2ae5ea4ea8a1ae743404e46741420c0"
       ],
       "before_count": 1,
-      "task_id": 6111893944
+      "task_id": 6111893944,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
