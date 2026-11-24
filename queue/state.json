@@ -76135,6 +76135,16 @@
         0.0,
         0.0
       ]
+    },
+    "6799243213": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CX611698",
+      "originals_sha256": [
+        "1d42f62bfdfd1bb417809fb79721ba228fc5089c074cb541d1ed582d9d615938",
+        "f166829bc6f55f01611cfd6b3aa655c26866c9a846ecfd4b358f5d8c8b367b1d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
