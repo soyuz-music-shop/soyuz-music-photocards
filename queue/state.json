@@ -60308,13 +60308,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824573": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PECLECLP2654",
       "originals_sha256": [
         "21f4dec183b5ad1fa6a8de967441a844e6dbf75223f1554a07d0c882fc668bcc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112312670
     }
   },
   "reason": null,
