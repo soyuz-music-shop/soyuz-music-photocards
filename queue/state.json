@@ -72380,6 +72380,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172670": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BB493",
+      "originals_sha256": [
+        "1a24c07d8ea5d3c285089c4157ae6da79a023fa9b124326ab68efe467231b523",
+        "c66a62dedb02d7bdc953b5d7271bae98c00dd6d2d0dbffd5c195a34d6c69663a",
+        "9be0041ace672b7d2c9e31c92f1b18f645f434d281e2a0883f135b33a9de67a8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
