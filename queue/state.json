@@ -67071,6 +67071,19 @@
         0.0,
         0.0
       ]
+    },
+    "4175869946": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBLP1532",
+      "originals_sha256": [
+        "f55c99346a9d1a6e1edce1aedf4b78e869d825eac97709aef128adacf8df752e",
+        "7e58bbc11722bacd1a9856467e2e93313aa003ffdbf718db43f724d8168e8245",
+        "ed2372d7870287fb97e1a3172614c26f255c6760b08e78b199e755841da4428f",
+        "e133ef3cb6105dafb8556958b5289069005e0a7e14f7767e51573d948cf3e411",
+        "9aeb9ff21d528d55a6fa5a8ab04dea4c017fda8deb97a677bbb359939b557e1b"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
