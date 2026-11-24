@@ -76989,13 +76989,14 @@
       ]
     },
     "6800656763": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QU638881",
       "originals_sha256": [
         "90b7040628068e513dc1cef56381a3dfa3fdc7a10ab2f8d0ac35549442659680"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118409547
     }
   },
   "reason": null,
