@@ -67788,7 +67788,7 @@
       ]
     },
     "4385191262": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SC881295LBT",
       "originals_sha256": [
@@ -67800,7 +67800,8 @@
         "8320c369a2fa91cc7469f314e9091ba36c5f948ba6e2c0ad70b2ae1767e02f40",
         "7f9bb7f5be7b06dc4b29eac47730ee6515cb391be89db8282957a35f57fdb699"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6113765000
     }
   },
   "reason": null,
