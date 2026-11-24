@@ -68248,14 +68248,19 @@
       ]
     },
     "4385191395": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA973575",
       "originals_sha256": [
         "7f7473a432b0f764156f03bb555506cbf81cbe8d9be740920c0a6c8072a3c840"
       ],
       "before_count": 1,
-      "task_id": 6113833497
+      "task_id": 6113833497,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
