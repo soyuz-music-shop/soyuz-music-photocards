@@ -76054,7 +76054,7 @@
       ]
     },
     "6799207277": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BO840025",
       "originals_sha256": [
@@ -76063,7 +76063,12 @@
         "77e566e5d90aa5663772be25b9b09a489ccb0561550ef2b9816f4abca2d1662b"
       ],
       "before_count": 3,
-      "task_id": 6118322646
+      "task_id": 6118322646,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
