@@ -69279,6 +69279,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191657": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KLP310",
+      "originals_sha256": [
+        "3e2835d18eabba00fd961cf07dbf49d4a19f28855ce43238e6da75385afe29a3",
+        "43d388b8a5d1c9a82783d5a9a512d6e911bd034416d10e023234c6c52a98d0ef"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
