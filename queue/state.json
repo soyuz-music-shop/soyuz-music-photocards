@@ -66156,6 +66156,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946333": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "VCD79512",
+      "originals_sha256": [
+        "1de9d469a6185573eb6fc02bdde920829865587b06e17eff984c5e5333f5c191"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
