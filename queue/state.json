@@ -75186,6 +75186,20 @@
         0.0,
         0.0
       ]
+    },
+    "6720632665": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 70171",
+      "originals_sha256": [
+        "e263782ad5368e075841cc67c8cc0271a1ca37df6386e85f6a39386bb3df01e3",
+        "51c5e15d852a60a95dbd54e302f6dce42340386a94073ac6e86e9f5ae0e92de3",
+        "e4a28145caa701304ca66afb034841e6b026e88580d13e88552c99930d6054db",
+        "206d3400b922a6427659109bf5a9a64c91ccded40227d6d3ce04ee321214cb19",
+        "fdb414f69d5023b857365021b1918b75f477c4695cc7362c3d61f478c8c04a00",
+        "0a8f3a1ad8ce755c523ec76b39264b227770a8f6556c5d311b34211356a1ca5b"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
