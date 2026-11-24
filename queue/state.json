@@ -70253,14 +70253,19 @@
       ]
     },
     "4462488663": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF709720",
       "originals_sha256": [
         "0ab6b8dff304161d33987557ce3333c5ab4dd938390ed7e4f90d78c1ddb98098"
       ],
       "before_count": 1,
-      "task_id": 6117732912
+      "task_id": 6117732912,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
