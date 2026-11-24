@@ -63117,6 +63117,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109637": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QCRSEG065D",
+      "originals_sha256": [
+        "ab46d22fc001592c1b2e08fb785f9edb21e2738ec7e41408a18dcd90a59c44a3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
