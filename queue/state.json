@@ -60915,14 +60915,19 @@
       ]
     },
     "3562824676": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EANTLP1098",
       "originals_sha256": [
         "c9aa88b819cbc2c075e765ef555b48700fae5446c1f8fb6cbc9c3a73da96fe53"
       ],
       "before_count": 1,
-      "task_id": 6112437851
+      "task_id": 6112437851,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
