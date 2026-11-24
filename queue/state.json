@@ -79257,6 +79257,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920926802": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "warplp123r",
+      "originals_sha256": [
+        "a582b06379e26e5101cdae29ccd5dd8ce465d3c6d025ffd0049ac07ce8d6fcfe"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
