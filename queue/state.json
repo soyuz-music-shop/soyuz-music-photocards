@@ -57804,6 +57804,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659098": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AA441048",
+      "originals_sha256": [
+        "dd34643a537afa11ab4278aedc143fcd7a5a8175cbb1a1d551258c91e21a866a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
