@@ -75617,14 +75617,19 @@
       ]
     },
     "6720754515": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TS812928",
       "originals_sha256": [
         "b8e400c1f7e1a9084fa4363908c574706c3f34c795cfbc3f1821f2f1152e8d8f"
       ],
       "before_count": 1,
-      "task_id": 6118279256
+      "task_id": 6118279256,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
