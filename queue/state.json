@@ -63922,14 +63922,19 @@
       ]
     },
     "3784564908": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CH65",
       "originals_sha256": [
         "dad69d69a572ceab36560945ea160bace817bea93236d848f940a327eb00546e"
       ],
       "before_count": 1,
-      "task_id": 6113131166
+      "task_id": 6113131166,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
