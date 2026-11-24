@@ -69744,6 +69744,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462121950": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CD410123",
+      "originals_sha256": [
+        "27e8f32c82620767a9a28b8de9fdb458a3eb98418b001d2434172e6bafec69fc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
