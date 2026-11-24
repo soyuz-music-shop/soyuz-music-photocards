@@ -76880,14 +76880,19 @@
       ]
     },
     "6800633379": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PA614491RR",
       "originals_sha256": [
         "849b5085f06aad441887d7589376952e69c054f5425b6e438056c66a856622d7"
       ],
       "before_count": 1,
-      "task_id": 6118402174
+      "task_id": 6118402174,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
