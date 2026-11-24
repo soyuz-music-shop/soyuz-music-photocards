@@ -68352,6 +68352,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191424": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LF813872",
+      "originals_sha256": [
+        "1fa973f68f9623d99c1f90a97960a28b09d9e6e8782985bcfacfcf0dcde4b552"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
