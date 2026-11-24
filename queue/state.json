@@ -70223,13 +70223,14 @@
       ]
     },
     "4462432015": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PM235297",
       "originals_sha256": [
         "10f05d601de55aabca7b6a3b903c0d01350c2439e85e660cc6af278a8a759837"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117728975
     }
   },
   "reason": null,
