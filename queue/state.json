@@ -73516,7 +73516,7 @@
       ]
     },
     "5578218199": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LR 536 LP",
       "originals_sha256": [
@@ -73530,7 +73530,12 @@
         "6721da3f468ddd17840c0483bcbfa3db2362d4ce9127a57e03f8e44085ca9669"
       ],
       "before_count": 8,
-      "task_id": 6118077537
+      "task_id": 6118077537,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
