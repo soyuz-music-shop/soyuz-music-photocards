@@ -60778,14 +60778,19 @@
       ]
     },
     "3562824659": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "10CHERRY537",
       "originals_sha256": [
         "07ecde7896d420e931171b26f153732b6f3fc9301a0455101f4d6573d70f6989"
       ],
       "before_count": 1,
-      "task_id": 6112408960
+      "task_id": 6112408960,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
