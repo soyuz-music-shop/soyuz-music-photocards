@@ -57139,7 +57139,7 @@
       ]
     },
     "3289551257": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QU644172",
       "originals_sha256": [
@@ -57147,7 +57147,12 @@
         "9ce2c694452e8cd6140d2771d3404586cfa7964a8ee01a8521c5598591dcd6a1"
       ],
       "before_count": 2,
-      "task_id": 6111808418
+      "task_id": 6111808418,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
