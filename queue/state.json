@@ -80708,6 +80708,11 @@
     "6961317693": {
       "status": "skipped_existing_template",
       "matched": "vinyl-russian.png"
+    },
+    "6961317701": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Offer or product name changed since snapshot"
     }
   },
   "reason": null,
