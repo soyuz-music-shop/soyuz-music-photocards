@@ -61325,14 +61325,19 @@
       ]
     },
     "3563073770": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRSEGBOX050",
       "originals_sha256": [
         "74a91118c5d882c420039271e046702ece1c9961898a5858a1c78926858c8145"
       ],
       "before_count": 1,
-      "task_id": 6112523991
+      "task_id": 6112523991,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
