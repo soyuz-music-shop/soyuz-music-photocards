@@ -64915,14 +64915,19 @@
       ]
     },
     "3784565219": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2063",
       "originals_sha256": [
         "fb041c8d8c48a8a68fc1fe8746d42af3c235a3ee1c884a80b1cc30f290306907"
       ],
       "before_count": 1,
-      "task_id": 6113311701
+      "task_id": 6113311701,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
