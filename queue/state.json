@@ -64534,6 +64534,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565077": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGP2314",
+      "originals_sha256": [
+        "3788c1c6ba25d436e7dca6b4259608e48407bb6d6ed4079b9f21734130eac84a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
