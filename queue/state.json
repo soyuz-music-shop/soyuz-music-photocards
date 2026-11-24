@@ -72648,7 +72648,7 @@
       ]
     },
     "5540172737": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HE211580VIOLET",
       "originals_sha256": [
@@ -72661,7 +72661,12 @@
         "defcc3a87835549745a9118c890f1c4a9cf02201bf2557c760aa7e841b970f66"
       ],
       "before_count": 7,
-      "task_id": 6117986001
+      "task_id": 6117986001,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
