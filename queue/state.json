@@ -80528,13 +80528,14 @@
       ]
     },
     "6961317586": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RHCP999621",
       "originals_sha256": [
         "ec8c9dfea73eb9b40596b75167cb3bdcacf5368f6ceeab7c560cd7a1c7e8092e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118769769
     }
   },
   "reason": null,
