@@ -74261,7 +74261,7 @@
       ]
     },
     "6503624725": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FKAPINK075678590726",
       "originals_sha256": [
@@ -74274,7 +74274,12 @@
         "182c844fedcf58ff7d3796a9ff135e8795e9bd7bc07c63d90bb64e51620e4b00"
       ],
       "before_count": 7,
-      "task_id": 6118146435
+      "task_id": 6118146435,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
