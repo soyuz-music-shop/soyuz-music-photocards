@@ -67555,14 +67555,19 @@
       ]
     },
     "4385191210": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV5725398UC",
       "originals_sha256": [
         "5b97635187eff4fc54f42da7a54d6e45a87a9c537b5410b71a9891c4d2d41b20"
       ],
       "before_count": 1,
-      "task_id": 6113731231
+      "task_id": 6113731231,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
