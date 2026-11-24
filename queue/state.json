@@ -74831,14 +74831,19 @@
       ]
     },
     "6720485006": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WM175",
       "originals_sha256": [
         "28c469f00616d583bae2d8799fd9e3e0d569306d2ff356ffe73ca9eb855e0b1e"
       ],
       "before_count": 1,
-      "task_id": 6118198408
+      "task_id": 6118198408,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
