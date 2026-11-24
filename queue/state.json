@@ -57042,6 +57042,15 @@
         0.0,
         0.0
       ]
+    },
+    "3283959777": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EPC 508362 2",
+      "originals_sha256": [
+        "8a68d1c2bcab9201a26dd0af09ea38b5eee3b99a192a8507d6f2de272217d519"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
