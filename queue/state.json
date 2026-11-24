@@ -71083,7 +71083,7 @@
       ]
     },
     "5313222050": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP1856CLEAR",
       "originals_sha256": [
@@ -71094,7 +71094,8 @@
         "9d7d11239f11df75fc3598665dc38b9fc2e3065997ba7a16367a211376954c3f",
         "ad012cb99e814e6aa1c846b52d4372bf9392737811ae8fe3a59c154a965d76c8"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6117830210
     }
   },
   "reason": null,
