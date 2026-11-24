@@ -75856,14 +75856,15 @@
       ]
     },
     "6721009766": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBRLP 73311",
       "originals_sha256": [
         "cfbf78074470d0827b77bcd796d949ded6e6c77607364c4a361e9feb15554b7e",
         "2d03e3bd33447a03262e3403b3a53fcd976f5f8eef1ea564e1d6e50596bbf446"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118302911
     }
   },
   "reason": null,
