@@ -75263,14 +75263,19 @@
       ]
     },
     "6720655773": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MO878633GT",
       "originals_sha256": [
         "6add7736ce024ffda8b6a3d6133800a29bdba5ad590a2a1b87f390621a8e5215"
       ],
       "before_count": 1,
-      "task_id": 6118243221
+      "task_id": 6118243221,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
