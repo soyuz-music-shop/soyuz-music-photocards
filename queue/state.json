@@ -61138,6 +61138,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073751": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SFMCD255",
+      "originals_sha256": [
+        "44cb1320bebd96f5784f49899f99425ec36c11558401234ab097a6f9c3263969"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
