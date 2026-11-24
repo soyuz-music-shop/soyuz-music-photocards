@@ -78479,6 +78479,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886284854": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM590610RT",
+      "originals_sha256": [
+        "b4597ad6415d8c41f78971377905161bc03828ef10ba030c57fb13a20a70ed43"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
