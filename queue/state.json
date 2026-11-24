@@ -76586,6 +76586,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799374413": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT364CD",
+      "originals_sha256": [
+        "d21c4dd5a5a31d1d2d066a9c690b465215edf605c808d49acb44d2cfd51c839f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
