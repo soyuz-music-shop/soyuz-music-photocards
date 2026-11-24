@@ -63291,6 +63291,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109667": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNE3CD220",
+      "originals_sha256": [
+        "28337ce33dc81101fc5fe73fb9490d5eee4eff13f9e68c728a1efdc5ce137f38"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
