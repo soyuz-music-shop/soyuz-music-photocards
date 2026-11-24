@@ -61213,6 +61213,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073760": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2847",
+      "originals_sha256": [
+        "0e73db4b65e674ce33fd93ffe74eff5289de8dad443f353edc211d25688e3dd4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
