@@ -73665,7 +73665,7 @@
       ]
     },
     "5578228988": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TB053214",
       "originals_sha256": [
@@ -73675,7 +73675,12 @@
         "10bfbf40f5906ab45e7757b96829d46ecd26904f03d93b230482ce49d2f34a0d"
       ],
       "before_count": 4,
-      "task_id": 6118091477
+      "task_id": 6118091477,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
