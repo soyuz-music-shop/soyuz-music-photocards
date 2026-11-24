@@ -67012,6 +67012,22 @@
         0.0,
         0.0
       ]
+    },
+    "4175276202": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TPLP2008",
+      "originals_sha256": [
+        "720ea40e565e4d127d491a544e4dd349de881f927832be72057fcb9829efaa73",
+        "682ddef3da54f3864a4daf994ddbed6c5605f889feaa40dd676a3f80ca72c096",
+        "12aa034162f3c80ef65696232e8c8c7d2684457db3f3ab765b981725f3fb7e85",
+        "4c1d1c41096497f42f2020254aa527151e603b701b769d56ff557d24e75e97a1",
+        "7b52b482769b0fb3de79bf56a939d8a49889182936285b44692d2bb2363b7db0",
+        "bbfe86fe613336c9f2909fad9e3b2f40e813326cd15d9ce9fa2d92735b2dd148",
+        "0a6b24b564815063ba9e2e6b469cf2db1c5655420f72c3f2066506093d5e923e",
+        "2cf23ec003198348cf3c4fad72823ddc2a2747846d541bdb9832be213904af87"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
