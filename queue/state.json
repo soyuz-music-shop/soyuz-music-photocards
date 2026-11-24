@@ -71681,7 +71681,7 @@
       ]
     },
     "5540172575": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ERLP069",
       "originals_sha256": [
@@ -71689,7 +71689,12 @@
         "2e4bb7936797cc9a9e71d25070914dcc90efa36d95641beff17327f812da0d66"
       ],
       "before_count": 2,
-      "task_id": 6117889446
+      "task_id": 6117889446,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
