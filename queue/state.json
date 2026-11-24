@@ -71543,6 +71543,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172546": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TB084911",
+      "originals_sha256": [
+        "050a1e2b108e125e42f81550cc29a64fa644c269ceb1eefad312a17688118c14",
+        "b3e63a67ecb6be593970042a1db5d17a273e6cf95d26f5c1b37f7c6f37a3b55f",
+        "b140a0b06bd6b22cb14c41298084bc3c7425d27902445166fb96154728a266e5"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
