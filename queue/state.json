@@ -60945,14 +60945,19 @@
       ]
     },
     "3562824681": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYLP298",
       "originals_sha256": [
         "bced6b80ad93b5f4c757fabe9e88d831fb051c1b65e662c60fef6a665ca42e14"
       ],
       "before_count": 1,
-      "task_id": 6112444287
+      "task_id": 6112444287,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
