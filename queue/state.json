@@ -78919,14 +78919,19 @@
       ]
     },
     "6886367195": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WARCHILD16CD",
       "originals_sha256": [
         "7507b80a077b3c2bd0e69da387360add818ff9b357cabd786009fed3008d03bc"
       ],
       "before_count": 1,
-      "task_id": 6118598224
+      "task_id": 6118598224,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
