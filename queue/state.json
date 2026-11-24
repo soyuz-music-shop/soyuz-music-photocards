@@ -59929,14 +59929,19 @@
       ]
     },
     "3326061200": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BYE012CD1",
       "originals_sha256": [
         "f717c9918a3db393317302a77b845b3025de18720d32bf1d162781b9999c1543"
       ],
       "before_count": 1,
-      "task_id": 6112248911
+      "task_id": 6112248911,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
