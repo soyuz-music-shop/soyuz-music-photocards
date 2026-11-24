@@ -72364,7 +72364,7 @@
       ]
     },
     "5540172668": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOG051LP",
       "originals_sha256": [
@@ -72373,7 +72373,8 @@
         "941cfd43ea6e1bb65363c856e5b929ab44b3c5deb67663857f463896a45dc32b",
         "794b5fa68c82a7c13ff35a641e0116522b541945d2a4e0f52a04e881478ec799"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117957541
     }
   },
   "reason": null,
