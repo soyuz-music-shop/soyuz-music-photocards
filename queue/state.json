@@ -74399,6 +74399,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503765054": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2 76661",
+      "originals_sha256": [
+        "08c91a272576e6625a2629f3b5b9ddf54b86a730ec5da8a43876051186e91087",
+        "2d317e42da66fcd029d524e05b01ca3edf42667264b155bd606c8c452927ffec"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
