@@ -72719,7 +72719,7 @@
       ]
     },
     "5540172751": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AKT11LPCLEAR",
       "originals_sha256": [
@@ -72727,7 +72727,12 @@
         "349c5a3d4106970e381597ad59cde11c039c721632055392651932f8eef8e14f"
       ],
       "before_count": 2,
-      "task_id": 6117990205
+      "task_id": 6117990205,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
