@@ -70914,7 +70914,7 @@
       ]
     },
     "5235577198": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ROTOR0089",
       "originals_sha256": [
@@ -70923,7 +70923,8 @@
         "29307e1c04b3666eba27da9edc08f40a378e45665f7330aaad1ea8822af9d5d9",
         "408c03663a12ef5afcdae7cf963e9613fde5fa945ff24c848f81f97b70f17e92"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117805353
     }
   },
   "reason": null,
