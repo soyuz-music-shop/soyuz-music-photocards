@@ -74227,7 +74227,7 @@
       ]
     },
     "6503620981": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DMCDV19802841092",
       "originals_sha256": [
@@ -74235,7 +74235,8 @@
         "70080c7a0e95bf191d528b09bee3ea9bd22ab0747b64c1c0170e1d326f339330",
         "2300c2a5461d5e6c8768ac5d5ebaf7e43a453339e1a9805bd57049dba27cf89d"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118143351
     }
   },
   "reason": null,
