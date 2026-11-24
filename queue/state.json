@@ -77327,14 +77327,15 @@
       ]
     },
     "6800723843": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SU370814",
       "originals_sha256": [
         "df077145f41801deead25592b592295e3089bd73e9e371e7cf848fdece2c0789",
         "e9c7dc38f60256e65c0c160262d5be8fb34af8a36c8b80977d67e9b544d9249f"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118433933
     }
   },
   "reason": null,
