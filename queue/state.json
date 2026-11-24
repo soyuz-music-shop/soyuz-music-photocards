@@ -69646,6 +69646,19 @@
         0.0,
         0.0
       ]
+    },
+    "4449105257": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WPZR-31082",
+      "originals_sha256": [
+        "e9325c962ffb8789f11c86781940da8776b6563e51c03063818f59ea284f6a5f",
+        "33c44e27ef67cb612bbb7365584bdef7f31cf64f8e343119e5a332cda3ab4717",
+        "f4fadbb496a98f01081372765021b42823ffe76f25f1925cc63cd9d5cdba0e4a",
+        "4767428cb764ecd9e52a0df185c3d04540ae51b8298c794673e4c76f18fa72d0",
+        "a14493e16ca9ed356734e6485c9d05d5282eb62b6a12afed8ff2d123b339be80"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
