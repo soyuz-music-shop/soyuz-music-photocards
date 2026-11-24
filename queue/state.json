@@ -78239,6 +78239,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886238332": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TEXT042",
+      "originals_sha256": [
+        "fcfd609170aab75bf885353932281da9ba93731943102ac310f7ae37f7b74e5d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
