@@ -70002,6 +70002,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462234410": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TRS229633",
+      "originals_sha256": [
+        "2050de6190f333fc6f5a759c4e6979af3b7b313305c353452636abac0a972f45"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
