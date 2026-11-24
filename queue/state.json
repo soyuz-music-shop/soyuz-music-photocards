@@ -62228,14 +62228,19 @@
       ]
     },
     "3563073927": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HNEBOX121",
       "originals_sha256": [
         "00064c5f4d2f9a29950aaf3a115b4660245751f402f1be0e81174055cf9a17a6"
       ],
       "before_count": 1,
-      "task_id": 6112702698
+      "task_id": 6112702698,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
