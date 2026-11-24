@@ -61730,14 +61730,19 @@
       ]
     },
     "3563073829": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NRTBOX015",
       "originals_sha256": [
         "c2d91fdaeae000d09f7d5e21d368ee8c2fdfd84620c63965d0c50c816d17539e"
       ],
       "before_count": 1,
-      "task_id": 6112602306
+      "task_id": 6112602306,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
