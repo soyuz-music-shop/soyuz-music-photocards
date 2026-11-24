@@ -77806,14 +77806,19 @@
       ]
     },
     "6886129773": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "4AD0822LP",
       "originals_sha256": [
         "3e936691e7f8128557a69da8a966a0d292d29427b52821aa6e3238fe3dea0024"
       ],
       "before_count": 1,
-      "task_id": 6118489887
+      "task_id": 6118489887,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
