@@ -79041,7 +79041,7 @@
       ]
     },
     "6920895732": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ANGN618219",
       "originals_sha256": [
@@ -79051,7 +79051,8 @@
         "f47b274b98e1ae402c99bb9308880e2c1e5813f2888d89686022c24035385ff5",
         "905239573e8a3ae6eefde40369cf02910488dca96ea812ed350d5371d5e71cda"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6118608350
     }
   },
   "reason": null,
