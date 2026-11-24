@@ -64975,13 +64975,14 @@
       ]
     },
     "3784565226": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2206",
       "originals_sha256": [
         "7f2097775b4fbe73a740d5c395e22ada638e4702526903e5e1ae38a0aaf2fa08"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113321458
     }
   },
   "reason": null,
