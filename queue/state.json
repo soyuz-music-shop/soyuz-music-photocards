@@ -59154,14 +59154,19 @@
       ]
     },
     "3318706789": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HRR 544CD",
       "originals_sha256": [
         "ef11631f80711fec0fdfa7c135ba4db10640731de94e064aee8f20b3fb1ae575"
       ],
       "before_count": 1,
-      "task_id": 6112108599
+      "task_id": 6112108599,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
