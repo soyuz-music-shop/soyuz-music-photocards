@@ -60383,13 +60383,14 @@
       ]
     },
     "3562824585": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED891CLEAR",
       "originals_sha256": [
         "68d9bdfb8e4bcff50e81902aac09ca4bc057b9f6e14470dd9d08e91e6a557cfc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112326889
     }
   },
   "reason": null,
