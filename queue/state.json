@@ -78061,13 +78061,14 @@
       ]
     },
     "6886197113": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DB976109",
       "originals_sha256": [
         "54e5988801242534e4dfd2b82424e5106a2c1e6124f29c2df85235017fb9af33"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118516599
     }
   },
   "reason": null,
