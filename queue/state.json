@@ -73117,6 +73117,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172990": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RC767295BLUE",
+      "originals_sha256": [
+        "a93626e79e957d8233b7dbefc1ef0579d99322590d4a768959265ec0f24d5d02",
+        "0b0f0910b6bfc31ee0bb914e9c884d3b7b1635af224d0eaff19126d47fb9f03a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
