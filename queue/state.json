@@ -69484,7 +69484,7 @@
       ]
     },
     "4385191733": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HS933265",
       "originals_sha256": [
@@ -69492,7 +69492,12 @@
         "dca1971a36602405959c3f0a3cd35cff3f78b534089b8b4d7495f9db8658c05d"
       ],
       "before_count": 2,
-      "task_id": 6114067028
+      "task_id": 6114067028,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
