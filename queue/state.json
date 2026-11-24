@@ -56455,13 +56455,14 @@
       ]
     },
     "3277020212": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RLP 010300",
       "originals_sha256": [
         "47310b8e7b9df40304e26634d63b90a974884e57729b3a078d39de41d2077aaf"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111720605
     }
   },
   "reason": null,
