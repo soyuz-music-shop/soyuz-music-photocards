@@ -75017,13 +75017,14 @@
       ]
     },
     "6720571652": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT516DCD",
       "originals_sha256": [
         "0d0dab8f4b1d2964dbd1f9f4c9436b328d8d29da026226d3e58123c98747454d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118214883
     }
   },
   "reason": null,
