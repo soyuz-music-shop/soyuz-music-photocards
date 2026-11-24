@@ -63546,7 +63546,7 @@
       ]
     },
     "3730288784": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "COL5102482",
       "originals_sha256": [
@@ -63555,7 +63555,12 @@
         "f83387acfd85abebc52b8286da16fba784a6db41cd99b5d716e5c762b51d215d"
       ],
       "before_count": 3,
-      "task_id": 6113040197
+      "task_id": 6113040197,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
