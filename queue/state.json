@@ -62816,6 +62816,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109601": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FRCD402",
+      "originals_sha256": [
+        "d19253d277ac19d7adfb2351d3133aa153a8758962d0bf231abc7da95e3fe0e3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
