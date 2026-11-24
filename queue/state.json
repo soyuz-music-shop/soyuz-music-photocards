@@ -73289,7 +73289,7 @@
       ]
     },
     "5541364040": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CLN2102CD",
       "originals_sha256": [
@@ -73297,7 +73297,12 @@
         "0ff5569adaad66803165849ca4c92f8d76553a770348cd6e1220412a6312d341"
       ],
       "before_count": 2,
-      "task_id": 6118045004
+      "task_id": 6118045004,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
