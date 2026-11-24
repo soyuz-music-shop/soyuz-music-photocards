@@ -71124,7 +71124,7 @@
       ]
     },
     "5540172455": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AIC486910HY",
       "originals_sha256": [
@@ -71137,7 +71137,8 @@
         "8dad3c7dc55a120c51e94a1b6994ca349783570de22f55deee252cd9f692d27d",
         "31c39b1aa158ed4a12320af677f0a13ea76e57edd20b70b57f062b41dec589a3"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6117835495
     }
   },
   "reason": null,
