@@ -75132,7 +75132,7 @@
       ]
     },
     "6720612332": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDSTUMM506",
       "originals_sha256": [
@@ -75144,7 +75144,8 @@
         "ad7f99d3d69b768364115c1fb69afb223f0633628e438e515ba1dbd64e5e82a8",
         "47fc05357b77fd951957b127fd8f761e3a57f18b39dcb749500e14baf1639cd3"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118229409
     }
   },
   "reason": null,
