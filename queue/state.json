@@ -59747,14 +59747,19 @@
       ]
     },
     "3325378554": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MER145LP",
       "originals_sha256": [
         "0ad09d5f5c25ac9e40d7f38cf7f7b1d2fd90fb9b1aad2a2dfdf22e4483332102"
       ],
       "before_count": 1,
-      "task_id": 6112216925
+      "task_id": 6112216925,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
