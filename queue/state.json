@@ -70238,13 +70238,14 @@
       ]
     },
     "4462488659": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MO200539",
       "originals_sha256": [
         "56d87066c2db5688cb8acc59b6dabc68f7588bb3559468a3092d966316047cf4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117730881
     }
   },
   "reason": null,
