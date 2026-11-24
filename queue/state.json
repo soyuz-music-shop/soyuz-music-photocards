@@ -78374,6 +78374,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886269269": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JL947991GREEN/BLACK",
+      "originals_sha256": [
+        "ad43ff454692ef9095d465eee41baf77e6f26e194b6e59e6ce61e3d62e9a76fb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
