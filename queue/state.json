@@ -70108,6 +70108,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462315655": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RR7432-2",
+      "originals_sha256": [
+        "e980020fdc281dd7f0a8432cf0bf179c1d5c1dc3b678a4832d8ba382e376de3b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
