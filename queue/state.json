@@ -78874,13 +78874,14 @@
       ]
     },
     "6886360333": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TT842275",
       "originals_sha256": [
         "862ff51db1f8c568fd818b91d402005d9e810f6c3b275b26b4fca7442d4a0618"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118593519
     }
   },
   "reason": null,
