@@ -61183,6 +61183,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073755": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC22891",
+      "originals_sha256": [
+        "de00520248f0a2a29e210512701d0af034b4ed70451d3110c616fb1a720d75ad"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
