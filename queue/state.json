@@ -62288,14 +62288,19 @@
       ]
     },
     "3563073939": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RPMBX 540",
       "originals_sha256": [
         "158ab6301dd0d8b7d1b9204c9cc3f1ffd14a29b0326e8a777de05d693f469c59"
       ],
       "before_count": 1,
-      "task_id": 6112714441
+      "task_id": 6112714441,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
