@@ -62063,14 +62063,19 @@
       ]
     },
     "3563073886": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WECLEC 22524",
       "originals_sha256": [
         "f347fd7fa850ec1ed202bf0f256e3b2235f4e70841e1aa05c38fc661a7770075"
       ],
       "before_count": 1,
-      "task_id": 6112665215
+      "task_id": 6112665215,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
