@@ -68771,6 +68771,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191530": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CO546623CLEAR",
+      "originals_sha256": [
+        "5c049aff37b961c309a77025413ede1e1ca6a8530c25ca8e1d84ead0257f76b9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
