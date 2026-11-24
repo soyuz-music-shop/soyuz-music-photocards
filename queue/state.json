@@ -72185,7 +72185,7 @@
       ]
     },
     "5540172642": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HE211597GOLD",
       "originals_sha256": [
@@ -72196,7 +72196,12 @@
         "6d8ac1395530577eb4c971953cce0e6c969a42585867882972258610096a1fda"
       ],
       "before_count": 5,
-      "task_id": 6117940003
+      "task_id": 6117940003,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
