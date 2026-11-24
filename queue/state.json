@@ -69362,7 +69362,7 @@
       ]
     },
     "4385191677": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MA972938",
       "originals_sha256": [
@@ -69371,7 +69371,8 @@
         "40b620a4f4f48e52164e466212d6fb6ca58b8001d47877c3c21067248d63eacb",
         "04aa580b8dcf4e34fdff1bcd43f58c02e161684002f5c8d446f778c5849efbf1"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6114043000
     }
   },
   "reason": null,
