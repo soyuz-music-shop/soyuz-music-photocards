@@ -76462,6 +76462,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799341355": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE-2031LP",
+      "originals_sha256": [
+        "64abed46b02d339f9adf35e9f71efd3c2e88b934f15b5761e878fec2e35c066d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
