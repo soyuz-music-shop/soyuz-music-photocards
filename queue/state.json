@@ -74760,7 +74760,7 @@
       ]
     },
     "6720463877": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WCD05025S",
       "originals_sha256": [
@@ -74771,7 +74771,12 @@
         "a68a986aef9e25605d77471dca315f1d77386e28108de0bf665a9a5e86f097ad"
       ],
       "before_count": 5,
-      "task_id": 6118192049
+      "task_id": 6118192049,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
