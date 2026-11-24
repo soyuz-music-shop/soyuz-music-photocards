@@ -63306,6 +63306,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109669": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MANTCD21003",
+      "originals_sha256": [
+        "97f9f60600e12c5bd4533b60f34628058ad0c211398950eb5e0a6c9526f5e7cf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
