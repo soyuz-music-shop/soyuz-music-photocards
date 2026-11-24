@@ -72833,7 +72833,7 @@
       ]
     },
     "5540172772": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "29MU0045LP",
       "originals_sha256": [
@@ -72841,7 +72841,12 @@
         "37c3fb8a424c2c3ce23011c5cd441eb9e04ce411990246ebee638355bbf88b36"
       ],
       "before_count": 2,
-      "task_id": 6117998330
+      "task_id": 6117998330,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
