@@ -57260,6 +57260,17 @@
         0.0,
         0.0
       ]
+    },
+    "3289858453": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BNA000253",
+      "originals_sha256": [
+        "89adbc76bb54df3afcd71fab2e88167ae6033308daf26dd791cbbfcb83c41d20",
+        "be24bfcf73cca6c61f13f2eab8186266d334c8151ab05ec114cd0bf3e24668a7",
+        "212bb81799e9c4e570bc5b2de3af1a5d9e65f7a324c4b47fc8cf94933ed072a4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
