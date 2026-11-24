@@ -56597,14 +56597,19 @@
       ]
     },
     "3282474986": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BF039665",
       "originals_sha256": [
         "2ccb88ceb8aef37183c529d3dc5be40a05b991201a303d75cba07ae2b1dbbc94"
       ],
       "before_count": 1,
-      "task_id": 6111740867
+      "task_id": 6111740867,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
