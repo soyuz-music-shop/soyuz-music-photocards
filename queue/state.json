@@ -57170,13 +57170,14 @@
       ]
     },
     "3289717580": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UWR00098CD",
       "originals_sha256": [
         "9507acca6f462cd39471e0c5649616f5848628bd54640df230c05756b435653e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111812272
     }
   },
   "reason": null,
