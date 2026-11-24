@@ -57567,6 +57567,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659037": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBCV 0710",
+      "originals_sha256": [
+        "df95d2433f9d2f1ee12342be0fa90ee4fbdb8aa9ca0995ca5f3239bf31a9d16a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
