@@ -67771,6 +67771,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191259": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FACT.40CLEAR",
+      "originals_sha256": [
+        "2900cedc6f879190acd49ab68f55aeba65bb0b32640a6affcca11e89d8ae0857"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
