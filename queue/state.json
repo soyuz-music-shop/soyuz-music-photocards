@@ -80122,7 +80122,7 @@
       ]
     },
     "6921067529": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NO144450",
       "originals_sha256": [
@@ -80136,7 +80136,12 @@
         "8aa0995708aa3f3b7f171cbb082d8ac616c6d0a96b45e55139c0dcd334a14508"
       ],
       "before_count": 8,
-      "task_id": 6118711428
+      "task_id": 6118711428,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
