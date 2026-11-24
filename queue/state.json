@@ -75169,7 +75169,7 @@
       ]
     },
     "6720622733": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LLH550439PBGM",
       "originals_sha256": [
@@ -75179,7 +75179,8 @@
         "5fdc6127d1452180fafcd426c7df8e771281cbc1b1a61469d4985b98b0562b91",
         "fe10bbeb23dba1bcc9c66b49f80d1274b14c4abb10e02409f426ce16a8d1c039"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6118233999
     }
   },
   "reason": null,
