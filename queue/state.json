@@ -58601,13 +58601,14 @@
       ]
     },
     "3318541190": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MMCD20",
       "originals_sha256": [
         "30dfc25f56c63419897ee6e0d0ff9f0634e3ecfdbf2ae9da451bb6a1cc1c17b5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112014469
     }
   },
   "reason": null,
