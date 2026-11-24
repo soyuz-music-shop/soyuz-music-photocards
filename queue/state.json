@@ -77144,14 +77144,19 @@
       ]
     },
     "6800687683": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JR921069",
       "originals_sha256": [
         "2101aa27881d35aba186e4646ff7913813d3b8c8236183333b05791adc9b65d1"
       ],
       "before_count": 1,
-      "task_id": 6118419909
+      "task_id": 6118419909,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
