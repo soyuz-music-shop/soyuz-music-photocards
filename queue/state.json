@@ -70205,6 +70205,16 @@
         0.0,
         0.0
       ]
+    },
+    "4462432011": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DP871921",
+      "originals_sha256": [
+        "884d03b1613a6861f0fa5d217c17b236c91ecaf62c02ff3504dc24e597ce41dc",
+        "49b504b4646a404ff6970b59cc4c33f919e8e4678166089048ac6f8307fa0a06"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
