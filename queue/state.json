@@ -75485,6 +75485,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720729314": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RE666744BAP",
+      "originals_sha256": [
+        "9ca7968672ffe7691bbaf5e90c8eaf3fbb6faa6d7f8487cc4674c826df74985d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
