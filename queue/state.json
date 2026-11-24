@@ -67444,13 +67444,14 @@
       ]
     },
     "4385191197": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "R1516251GE",
       "originals_sha256": [
         "6207c113a18c55be7774d7caca4ae65b764abe65517801f8eeffba790bb099cc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113715727
     }
   },
   "reason": null,
