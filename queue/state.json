@@ -68171,6 +68171,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191382": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RSE0400-1",
+      "originals_sha256": [
+        "e8954c0d1891d53bd925a9c16d59e4aaf3e354539dece746b46514a33074cea8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
