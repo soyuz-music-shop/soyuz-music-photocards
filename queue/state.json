@@ -79534,7 +79534,7 @@
       ]
     },
     "6920981546": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2 728118",
       "originals_sha256": [
@@ -79542,7 +79542,12 @@
         "3914af51a1c00771873a8a00f19d15443c8a06bd0b7694ccf60b314ee57684f7"
       ],
       "before_count": 2,
-      "task_id": 6118651574
+      "task_id": 6118651574,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
