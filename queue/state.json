@@ -62651,6 +62651,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109574": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDLEMDD101",
+      "originals_sha256": [
+        "106f9b4d5fa8be782149c4feae697e3769f02cf04a318f305e6ad22c1fa516cf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
