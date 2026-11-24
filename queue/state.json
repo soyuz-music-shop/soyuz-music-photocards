@@ -60733,14 +60733,19 @@
       ]
     },
     "3562824639": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BREDD895",
       "originals_sha256": [
         "d2ec53a3cc40a596e2615d047831f8e6afd65c726a789968dd46062a4ddf1768"
       ],
       "before_count": 1,
-      "task_id": 6112398396
+      "task_id": 6112398396,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
