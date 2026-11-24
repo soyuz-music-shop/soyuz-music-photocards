@@ -79118,6 +79118,19 @@
         0.0,
         0.0
       ]
+    },
+    "6920907928": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WARPLP21R",
+      "originals_sha256": [
+        "ca7c95b85cc5cb9852756e46afa038c1208da8d318fa2625537959d00dab1bc6",
+        "0fed03c414c60eb1aabc88ed027098c0efc51c90d1c2bebf6cde9f0508a69791",
+        "5d4fa666c087f1d66ad46a8d1930044764fb007e8999772fa15fd57f58970bb4",
+        "4ae3f8968daf91d3923c38a2adab3d099c40d50cf8aa4abae6dde6b7a37caece",
+        "3a4ceacde3551865a98eff390fd3a6a9e118383e25274777ced908eb81e76cf9"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
