@@ -73257,14 +73257,15 @@
       ]
     },
     "5541363993": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CLN2101CD",
       "originals_sha256": [
         "f54600f595396437fa98da41a733aedd91d8b21e1a542cecc00672fb404d5b4b",
         "fdf97a10ab82db6b7d5efc998a425f418875ac8d39d71d60c52b22a4b9109ca3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118041478
     }
   },
   "reason": null,
