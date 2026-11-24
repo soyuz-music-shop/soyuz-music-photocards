@@ -66626,14 +66626,19 @@
       ]
     },
     "3784946447": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDSEWD163",
       "originals_sha256": [
         "c601dfb52821e09c64610e65fa4cd5ba4058611041da499276fd62875afd7840"
       ],
       "before_count": 1,
-      "task_id": 6113605752
+      "task_id": 6113605752,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
