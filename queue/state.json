@@ -58110,14 +58110,19 @@
       ]
     },
     "3296659188": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 885",
       "originals_sha256": [
         "b772413ccda1c2c0ab3a249404497b3ed5abe3428ae6ab208098e1bae784a0c7"
       ],
       "before_count": 1,
-      "task_id": 6111946839
+      "task_id": 6111946839,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
