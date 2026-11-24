@@ -61170,13 +61170,14 @@
       ]
     },
     "3563073753": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACME344BOX",
       "originals_sha256": [
         "f582ec70367efd5887ada47817ef7fbcc4460bb5299797517b680fbdbe47d779"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112493722
     }
   },
   "reason": null,
