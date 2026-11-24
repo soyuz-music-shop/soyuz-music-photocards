@@ -56567,14 +56567,19 @@
       ]
     },
     "3282474963": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "IF-104CD",
       "originals_sha256": [
         "2967f5d1fff88813ffa44bd84458c25112b37d5e1cf0a6339097a2085c791bf1"
       ],
       "before_count": 1,
-      "task_id": 6111736675
+      "task_id": 6111736675,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
