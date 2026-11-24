@@ -56364,6 +56364,24 @@
         0.0,
         0.0
       ]
+    },
+    "3277020202": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT553DLP",
+      "originals_sha256": [
+        "f9c02f008c8f4d96728cf173466629a15f9458e7b48678e4778d2df06e58a2af",
+        "86ce12d1ebd04e99d434556494601678626d5c717f9faa705cd00075ee8a7325",
+        "a18f5ceb9c3bafcc3e9a99dcb33c0cdecf7c5aedeed9e0894e91bc222b262f01",
+        "5d491d2fc0cfe41832bc6b157e90ed7f675cedcea362efbea3fd2be4e2991c93",
+        "bbe10a02511f381e7f5083245ec14ad7c4f0321e8747e769772b02378cd3d4f5",
+        "40dae6d8c82fc235929260ecb6bdf7ee541957487b7638674f9fda4dd693e98d",
+        "6fa4c0c3d7031b6902880223c94be2877b847c614f629abf0e11b6889b7db2ea",
+        "d98fa1096793debe92d775e3efbb93b652cac29167cea35d3974bfb0a4afc51d",
+        "311212e8cc544f6ec8d22580b5931478ec5f5881c0ea36eeaef938aef013368a",
+        "2dfc8706fb2fce05043895ed5a07dbb88440253c3d94c724607a232fe88d3012"
+      ],
+      "before_count": 10
     }
   },
   "reason": null,
