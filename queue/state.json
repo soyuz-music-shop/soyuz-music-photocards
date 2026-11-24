@@ -73150,6 +73150,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540173062": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TR569",
+      "originals_sha256": [
+        "2887e6fc3afd1c1bb09ac33e2a18a964d974a1f548463a4f27dbc98440e6e89a",
+        "b9e60095d1638a9a1a2825863017ae33e5ed9c2c5ffb76fa256fd61fe78b893c",
+        "137235b103dad5c6be43a91082511592e991d5bf8b9266f2aaeb997d6911bc74"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
