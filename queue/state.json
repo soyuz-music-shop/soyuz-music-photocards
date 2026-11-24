@@ -66113,13 +66113,14 @@
       ]
     },
     "3784946327": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTOP1485",
       "originals_sha256": [
         "ba694484f4e62c14cd6749f495d5bb7e28f7d24610a85e7f6261082c7c28d956"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113509648
     }
   },
   "reason": null,
