@@ -58063,6 +58063,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659185": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV670LPLTD",
+      "originals_sha256": [
+        "5c2fffb9685b4666c1c58b8a75849f7494506d83398897df2c3d8370fe2c2426"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
