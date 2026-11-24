@@ -64744,6 +64744,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565163": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHD1634",
+      "originals_sha256": [
+        "4603cb90737090f3a6c6d43b6d317eba45645a4446037c93275e249aab0a6e68"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
