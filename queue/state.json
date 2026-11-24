@@ -57155,14 +57155,19 @@
       ]
     },
     "3289551284": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RPM10143203",
       "originals_sha256": [
         "bc8457cbd65ff1eedb9ab1a6714ab7c8a109b4b6d7194cefa75419e635409a43"
       ],
       "before_count": 1,
-      "task_id": 6111810408
+      "task_id": 6111810408,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
