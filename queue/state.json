@@ -62998,14 +62998,19 @@
       ]
     },
     "3576109618": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDMRED35",
       "originals_sha256": [
         "7788b2a1ce4c54db14f96693ec533e703e636520832c114caeaa4231dd7a9ed6"
       ],
       "before_count": 1,
-      "task_id": 6112866965
+      "task_id": 6112866965,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
