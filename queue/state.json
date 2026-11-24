@@ -62908,13 +62908,14 @@
       ]
     },
     "3576109612": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HNEBOX116",
       "originals_sha256": [
         "4b3de6d2702d28c021d03b748230065e9d22439dd05bac54c018eee308cb8f83"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112847877
     }
   },
   "reason": null,
