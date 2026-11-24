@@ -72767,7 +72767,7 @@
       ]
     },
     "5540172758": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "E6417-1",
       "originals_sha256": [
@@ -72775,7 +72775,12 @@
         "06882839856d26697c093acdea16255f2956acbeb17adb6089740e6f573d3b70"
       ],
       "before_count": 2,
-      "task_id": 6117993747
+      "task_id": 6117993747,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
