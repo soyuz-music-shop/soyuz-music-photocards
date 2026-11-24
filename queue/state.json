@@ -77327,7 +77327,7 @@
       ]
     },
     "6800723843": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SU370814",
       "originals_sha256": [
@@ -77335,7 +77335,12 @@
         "e9c7dc38f60256e65c0c160262d5be8fb34af8a36c8b80977d67e9b544d9249f"
       ],
       "before_count": 2,
-      "task_id": 6118433933
+      "task_id": 6118433933,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
