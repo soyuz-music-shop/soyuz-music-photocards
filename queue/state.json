@@ -71263,6 +71263,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172485": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ISO-010-LP-RE",
+      "originals_sha256": [
+        "0b15089ebbe399ae72695c6b30ad4ce160aa12bd0be07b78065a465105c4e6a4",
+        "224c322171ad504cdf967b5b63850511983f5dcb5a7e223109c9d186ca308608"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
