@@ -65465,6 +65465,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946154": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDKEND250",
+      "originals_sha256": [
+        "927ef4763824a718fe7286cab47e619936c95372ae74252f94971265698d551f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
