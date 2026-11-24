@@ -62018,13 +62018,14 @@
       ]
     },
     "3563073883": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GLAM CDD 135",
       "originals_sha256": [
         "71559b08f33103d20dadf81b08e281734597748dced4d6eb5c6df1274e4ceaf4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112656823
     }
   },
   "reason": null,
