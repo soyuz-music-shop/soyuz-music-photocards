@@ -62271,6 +62271,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073931": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NRT999",
+      "originals_sha256": [
+        "6ef556a0b63bedab59a908c64a1e27db407c50be8904fc852bbe0a0e40d716d8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
