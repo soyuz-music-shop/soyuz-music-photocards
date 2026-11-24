@@ -62451,6 +62451,18 @@
         0.0,
         0.0
       ]
+    },
+    "3576024989": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRTLP002T",
+      "originals_sha256": [
+        "0418afc6122462e3fa6af3d6827bcfdf6e0875fe9d1e63d7b835b30d127cc591",
+        "ff337c7db5853db3fcf4018b476dedab8dd642cb04a81310845d21f0ed48a212",
+        "149a6f787ed56e1be91d928946dc405d2d9e82e69cc33bf81a4709b3afe14aab",
+        "4d87c0858c63302fa80df00d595709aa5a2d8b080b4d4ffaf9fbf6528ba1635a"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
