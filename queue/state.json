@@ -69017,7 +69017,7 @@
       ]
     },
     "4385191570": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IP628474BRR",
       "originals_sha256": [
@@ -69025,7 +69025,12 @@
         "19c834015d36b01d461850fa7f2e87461724d410540ee248c31ce510257f525e"
       ],
       "before_count": 2,
-      "task_id": 6113979907
+      "task_id": 6113979907,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
