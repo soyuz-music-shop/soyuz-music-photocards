@@ -73457,6 +73457,18 @@
         0.0,
         0.0
       ]
+    },
+    "5541364262": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GM138931",
+      "originals_sha256": [
+        "4bc886dfa78664fa11a47fb2f05be7c967a3b3fa5b55374510dcc9f107b2ee17",
+        "6a0715b7d5cc831e5d28de68d712a1a32dbd3ccdd0025ceefec4d262f24493c1",
+        "60fc80b4352c2feef7228560e33ee8013abfbd33e1feb024fcf02e72b9054a13",
+        "9040c51898eb466c279deeaf6d5c6cf31625d14b8d42dd35dee4bd9a664aeb9b"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
