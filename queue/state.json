@@ -62846,6 +62846,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109603": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2601",
+      "originals_sha256": [
+        "47e96a0e3f83f21f1e46815bb3ce7c1c229581a43216b50e54dacbf50d368d23"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
