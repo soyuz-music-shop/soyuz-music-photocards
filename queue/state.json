@@ -79397,6 +79397,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920951686": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CX584213YS",
+      "originals_sha256": [
+        "cc1e16b4ca26edc87fec62074ef05debe47906520a723f674e982344156277f4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
