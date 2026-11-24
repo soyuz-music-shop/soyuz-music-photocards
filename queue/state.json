@@ -64943,6 +64943,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565223": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SEW027",
+      "originals_sha256": [
+        "8d7e185d919bbfc3bf7ea6bf014aef61d0cdd213d5bca6c319620d558f950911"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
