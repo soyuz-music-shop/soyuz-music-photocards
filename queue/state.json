@@ -57232,14 +57232,19 @@
       ]
     },
     "3289717668": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PVRT714100",
       "originals_sha256": [
         "2b76d52259d353aad3e0f1e94307927ddeaa0528f9c7c67f21cd929e2c6e6a3d"
       ],
       "before_count": 1,
-      "task_id": 6111842514
+      "task_id": 6111842514,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
