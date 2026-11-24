@@ -59076,6 +59076,16 @@
         0.0,
         0.0
       ]
+    },
+    "3318706780": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HE739636",
+      "originals_sha256": [
+        "f4187397f1ceaa2829984841331985b31d41f9d387bcd4e33eb0dc78c15704ad",
+        "c992c94372f0ec8f1f366eb6145dd8a458ba997ff8a265130e39c4923ee6596a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
