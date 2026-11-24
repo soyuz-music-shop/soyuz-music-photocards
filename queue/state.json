@@ -80266,14 +80266,19 @@
       ]
     },
     "6948775765": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SRFM0013",
       "originals_sha256": [
         "9210736e5391fc9d2e1b402b1f037a7366dc2e8c7c61fd6c78c5010df6e6e13d"
       ],
       "before_count": 1,
-      "task_id": 6118732351
+      "task_id": 6118732351,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
