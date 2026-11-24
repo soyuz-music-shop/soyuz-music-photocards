@@ -62076,6 +62076,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073892": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WROBIN3CD",
+      "originals_sha256": [
+        "cecb6c014e6d5eb8b727eee4a5987b9a25e98b7fb6f0218853c6ccead7c3ebde"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
