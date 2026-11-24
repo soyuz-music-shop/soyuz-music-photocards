@@ -75293,7 +75293,7 @@
       ]
     },
     "6720665000": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT432DCD",
       "originals_sha256": [
@@ -75305,7 +75305,8 @@
         "bec150464cb58ed7db94038ff5576869e5a168d47569a6c3a7c150d1a2755fca",
         "d260ac27775fe85ea120fc7e553a007767963442ee3eeb0f5caf6d215e5208e2"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118246277
     }
   },
   "reason": null,
