@@ -76200,13 +76200,14 @@
       ]
     },
     "6799267821": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT3CD4",
       "originals_sha256": [
         "5ce1ca7a578f3f896df075bffa8655c54e2ad427769617e93eb134e3ac8666a2"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118337164
     }
   },
   "reason": null,
