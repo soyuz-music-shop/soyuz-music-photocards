@@ -77142,6 +77142,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800687683": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JR921069",
+      "originals_sha256": [
+        "2101aa27881d35aba186e4646ff7913813d3b8c8236183333b05791adc9b65d1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
