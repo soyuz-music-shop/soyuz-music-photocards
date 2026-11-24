@@ -79060,13 +79060,14 @@
       ]
     },
     "6920897579": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "GBLP 182",
       "originals_sha256": [
         "e2ffee3b13d853d43fbd57178c19427d392aa69d2f3ddea2faa704c0f2ff52d1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118609366
     }
   },
   "reason": null,
