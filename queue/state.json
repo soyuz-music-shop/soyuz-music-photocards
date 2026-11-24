@@ -70691,7 +70691,7 @@
       ]
     },
     "5219746205": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MA137853PT",
       "originals_sha256": [
@@ -70701,7 +70701,8 @@
         "e4202312501fd86ba5891374e39e4d7c85bc7ca6ae88cb41e283620e37a0a6b1",
         "23ad1204d9177dcc2ae7dee1569ccd7897b0216b3c16a26e2fd5e54f6602bc32"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6117772924
     }
   },
   "reason": null,
