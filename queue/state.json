@@ -64403,6 +64403,23 @@
         0.0,
         0.0
       ]
+    },
+    "3784565058": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP2094",
+      "originals_sha256": [
+        "15115832add85922a8e172a1be02b1c7642032c823b90d996006e62c567782d5",
+        "cb84cbfdeacdf36e219f14761833837f5194d08e0b6a4e00c9c42372d1dc383a",
+        "83d78307884c6638eb4dd043b1a24d1b662d1ed1313e95fe31773f9cc971c2dd",
+        "44a6e12d2828551e470ca27e2200a62e0ed22d18afd5d7a64347dd55cf087cfa",
+        "ea525d4769a3cd635b9e737560a41a6e76a73afb4d9a9cb5e802ae7e1d869e10",
+        "359dc044cf0f3e3c85fd06fa0c21bcedd921070f8b41a8554313d45a6c25ce0d",
+        "f02426aecbafbe12202683863bbf4e1c9925a3c2541e82064abc8b1d3c4413c5",
+        "a9214ad55c9cc1680b025fb9326aafff9adefbdb16f64c1b11f36797a8a39051",
+        "677863f475f6a829cde350d56903c10dea292b304720f5f81f6da0aec194e0d5"
+      ],
+      "before_count": 9
     }
   },
   "reason": null,
