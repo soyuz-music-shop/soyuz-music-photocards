@@ -61200,14 +61200,19 @@
       ]
     },
     "3563073758": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WECLEC 2658",
       "originals_sha256": [
         "a8ee3d65fb3d8c74e4ecedc8b6d6da3c4b2bb893970a0a243075d512d7064c3b"
       ],
       "before_count": 1,
-      "task_id": 6112499471
+      "task_id": 6112499471,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
