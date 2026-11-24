@@ -75223,7 +75223,7 @@
       ]
     },
     "6720644023": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MSP593328",
       "originals_sha256": [
@@ -75235,7 +75235,8 @@
         "9ea8b9273dfe61400c9c84ac1aa1c69170e36086931dcdbec987efa0ff52b698",
         "1273b16766f94ace10f7d58aa15ef00200222be0092a5c0156a3d6703c6ce611"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118240084
     }
   },
   "reason": null,
