@@ -69883,14 +69883,19 @@
       ]
     },
     "4462127707": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TOP594670",
       "originals_sha256": [
         "e1075dfab6b300750beeb02a8942411092e13dbea47064d1f56d441e0afa9d27"
       ],
       "before_count": 1,
-      "task_id": 6114152367
+      "task_id": 6114152367,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
