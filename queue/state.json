@@ -68650,13 +68650,14 @@
       ]
     },
     "4385191508": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FACTSEVENTYFIVE",
       "originals_sha256": [
         "ddf6b2bb3ed92105180b5ec5b1719aabb19f20e7768bd6127312004f6ca79033"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113906246
     }
   },
   "reason": null,
