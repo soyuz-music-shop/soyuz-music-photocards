@@ -68788,7 +68788,7 @@
       ]
     },
     "4385191533": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SALVO388LPBLUE",
       "originals_sha256": [
@@ -68796,7 +68796,12 @@
         "f29ba23e75d61ed2c5a2bc3f728a821924617dabfbd50d50e1a300a97c196f09"
       ],
       "before_count": 2,
-      "task_id": 6113937937
+      "task_id": 6113937937,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
