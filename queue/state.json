@@ -72485,7 +72485,7 @@
       ]
     },
     "5540172694": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RC768445SPLATTER",
       "originals_sha256": [
@@ -72493,7 +72493,12 @@
         "bfb05629e25cbe7d5af65bdb5b7db77b68f393adbf1e7d574bd4f631a1d42867"
       ],
       "before_count": 2,
-      "task_id": 6117969735
+      "task_id": 6117969735,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
