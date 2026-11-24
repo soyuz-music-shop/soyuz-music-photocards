@@ -64581,14 +64581,19 @@
       ]
     },
     "3784565084": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SEW009",
       "originals_sha256": [
         "afadddbeaf30b60725a888dd8cacadd8c0de5bee4a0b10812042c057bd6df2d9"
       ],
       "before_count": 1,
-      "task_id": 6113258877
+      "task_id": 6113258877,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
