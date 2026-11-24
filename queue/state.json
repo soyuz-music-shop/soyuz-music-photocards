@@ -80691,13 +80691,14 @@
       "matched": "vinyl-russian.png"
     },
     "6961317677": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PA137227",
       "originals_sha256": [
         "8b7a2c857d0db3a5cb731bb8d583c6bc9cae30c052486b70417f855068fca0f7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118791008
     }
   },
   "reason": null,
