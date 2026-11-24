@@ -71873,6 +71873,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172599": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LC650712",
+      "originals_sha256": [
+        "5e578d7340ec473e21d7ec5748b1cedb7515bcfe6d5c9164c0dcb3107e09f9fa",
+        "0c232ee88213fb0695d513627d7d916dd0c9c71bc31e2db425c81b0178bf4b7c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
