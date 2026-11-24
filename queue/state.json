@@ -70062,6 +70062,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462249564": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TC914778",
+      "originals_sha256": [
+        "8b65d9f4ebd3c7aa5df5d12fe7aceb07bf75904a002d9de525e3dcc3570897b0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
