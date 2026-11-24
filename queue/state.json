@@ -61020,13 +61020,14 @@
       ]
     },
     "3562824696": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DISS20244LPRB",
       "originals_sha256": [
         "a83c3cd9cc25f720647802c287abf65ed710b81ea58c76d80fb5d982e394c795"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112464764
     }
   },
   "reason": null,
