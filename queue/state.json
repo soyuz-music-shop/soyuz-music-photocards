@@ -77881,14 +77881,19 @@
       ]
     },
     "6886147175": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BL069753RED",
       "originals_sha256": [
         "f043fc522be4cf0e2cbd9ef71f21a457671b09d2831b7b70daadf66257b8e4e3"
       ],
       "before_count": 1,
-      "task_id": 6118497838
+      "task_id": 6118497838,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
