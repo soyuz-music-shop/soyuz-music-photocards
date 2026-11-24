@@ -71681,14 +71681,15 @@
       ]
     },
     "5540172575": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ERLP069",
       "originals_sha256": [
         "33d5862564207077ad591aa4bbac28e7907948e5a2010c5d51b22b89c7cdbf3d",
         "2e4bb7936797cc9a9e71d25070914dcc90efa36d95641beff17327f812da0d66"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117889446
     }
   },
   "reason": null,
