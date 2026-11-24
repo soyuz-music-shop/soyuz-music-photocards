@@ -78136,14 +78136,19 @@
       ]
     },
     "6886212649": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DE828418RED",
       "originals_sha256": [
         "35be808a831ae63702f77aef44a6a93329c913722acc3752f7669e12c30e13ed"
       ],
       "before_count": 1,
-      "task_id": 6118523938
+      "task_id": 6118523938,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
