@@ -80341,14 +80341,15 @@
       ]
     },
     "6961317374": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SOAD082724",
       "originals_sha256": [
         "f6b64159a266896a1b37a4db8e1c88b7cdfc05243fe8bf14721aa849a65934c4",
         "58fb5cc84f881ebbad4f0ce078fa05f9b8b3f723718f0463d3d3b15f63be6c9d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118745552
     }
   },
   "reason": null,
