@@ -74777,6 +74777,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720469980": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NBR 72442",
+      "originals_sha256": [
+        "06f32e3f2d9b049b600394b66a48694dcfb1cbe1302d86c7e6edf5af7917deab"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
