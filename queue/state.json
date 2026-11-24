@@ -80017,13 +80017,14 @@
       ]
     },
     "6921055767": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MO829775RR",
       "originals_sha256": [
         "a3adf72d9c4c6d65761760da3e7d4c58a07378ade117dc6490b717c05b2ebef2"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118694988
     }
   },
   "reason": null,
