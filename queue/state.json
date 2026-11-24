@@ -80030,6 +80030,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921057195": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MU665740ORS",
+      "originals_sha256": [
+        "7375a3467c15e9b095435dca15c23c4b0309a6c3807327445ee0b18a7c532aad"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
