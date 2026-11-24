@@ -61520,14 +61520,19 @@
       ]
     },
     "3563073796": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2800",
       "originals_sha256": [
         "8db230802887cb11afbada126dff68f8df379091f39b69b627d1e8a16236b34f"
       ],
       "before_count": 1,
-      "task_id": 6112561773
+      "task_id": 6112561773,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
