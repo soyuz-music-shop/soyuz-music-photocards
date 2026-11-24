@@ -75872,7 +75872,7 @@
       ]
     },
     "6721012707": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLPCLEAR2008",
       "originals_sha256": [
@@ -75882,7 +75882,12 @@
         "89d66150e998511c54ee21e78af64858b87eca0560e7a5ab0e3530b707b51297"
       ],
       "before_count": 4,
-      "task_id": 6118305571
+      "task_id": 6118305571,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
