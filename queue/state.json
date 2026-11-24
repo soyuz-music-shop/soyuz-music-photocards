@@ -70746,7 +70746,7 @@
       ]
     },
     "5219746225": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TB6188CCLEAR",
       "originals_sha256": [
@@ -70756,7 +70756,8 @@
         "b5b38718809abf6c3f46feefb3d7b74444592ef25acf15c5a4118e01dba1a689",
         "09daaf82dc969a30f8ec228ebd645910f8dcb4ef9c2dd1960031316832761ea6"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6117779379
     }
   },
   "reason": null,
