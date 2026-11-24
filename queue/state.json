@@ -77017,6 +77017,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800663521": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OLE1798CD",
+      "originals_sha256": [
+        "b7c912832ede6021ff68dd9b7be241b64140aeb8bb16363c77b0348ea7b83f82"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
