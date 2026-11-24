@@ -78436,14 +78436,19 @@
       ]
     },
     "6886277638": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC 334",
       "originals_sha256": [
         "e4342c61c3ef65f9c05218528da3742177457b2aae7f237d0c9ba1fa7357a916"
       ],
       "before_count": 1,
-      "task_id": 6118550492
+      "task_id": 6118550492,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
