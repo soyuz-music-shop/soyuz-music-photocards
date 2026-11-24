@@ -58511,13 +58511,14 @@
       ]
     },
     "3318541165": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MM60BOX1",
       "originals_sha256": [
         "d30b90c87ef2da3bcd6dad1be679c3335a3c1b6d8febed0a3e903d4bdadb942e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112001036
     }
   },
   "reason": null,
