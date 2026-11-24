@@ -79274,7 +79274,7 @@
       ]
     },
     "6920929620": {
-      "status": "imported",
+      "status": "needs_review_gallery_pending",
       "variant": "import-vinyl-info",
       "offer_id": "WAP200R",
       "originals_sha256": [
