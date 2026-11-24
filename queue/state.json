@@ -78811,14 +78811,19 @@
       ]
     },
     "6886350437": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 9328",
       "originals_sha256": [
         "0d8f495e94bf02b0498f704da970f7abacaad15df5b17f12df058a6e06135492"
       ],
       "before_count": 1,
-      "task_id": 6118586129
+      "task_id": 6118586129,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
