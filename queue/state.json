@@ -66577,6 +66577,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946441": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHK964",
+      "originals_sha256": [
+        "2fb46fae1b253e391fbfd35f7af7ef25005b45a60da598422e64573a34f1a153"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
