@@ -72552,14 +72552,15 @@
       ]
     },
     "5540172707": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBR74531",
       "originals_sha256": [
         "86a2520b70b5af79cd6f5836b16203323e472b4b43d72cd29f4e425527461f53",
         "5097fdcf58cf1aa74785731394d497aa920705fdbdf4d6553346649376cdb61d"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117976926
     }
   },
   "reason": null,
