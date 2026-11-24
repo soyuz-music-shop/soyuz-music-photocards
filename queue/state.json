@@ -59834,14 +59834,19 @@
       ]
     },
     "3325510995": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ETTB145",
       "originals_sha256": [
         "3b0149e4f6b3da273a8ab2a99fb11d7103c0c891569318fef5e4148ad6bb16f8"
       ],
       "before_count": 1,
-      "task_id": 6112231209
+      "task_id": 6112231209,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
