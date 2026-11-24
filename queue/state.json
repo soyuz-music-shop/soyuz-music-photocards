@@ -67773,14 +67773,19 @@
       ]
     },
     "4385191259": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FACT.40CLEAR",
       "originals_sha256": [
         "2900cedc6f879190acd49ab68f55aeba65bb0b32640a6affcca11e89d8ae0857"
       ],
       "before_count": 1,
-      "task_id": 6113762466
+      "task_id": 6113762466,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
