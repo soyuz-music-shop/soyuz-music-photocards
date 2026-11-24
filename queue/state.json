@@ -77533,6 +77533,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800765257": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "VH955274",
+      "originals_sha256": [
+        "60681f1cd1c51b392112b88454c93d92281d49cf048f42ec171421bd233c9951"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
