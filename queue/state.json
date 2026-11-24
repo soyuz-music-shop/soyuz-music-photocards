@@ -72582,6 +72582,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172729": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BB391",
+      "originals_sha256": [
+        "9cadc58dea0916441bebbf1dd9ba8314cfa36e5ffaa7c09dcdd44372eda8fca6",
+        "7586fa1baec2df78ebeaa1bdbaeaa9aa9fdad796d72cbba6a3dbf162afb3013c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
