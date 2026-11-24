@@ -72091,6 +72091,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172624": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ERLPO28",
+      "originals_sha256": [
+        "0b59dd585d88f705a0b2d14d58891e120832868d2f8f814d2d8fe5b1e5e31461",
+        "2d4cb7daac5b2bcb0ce3dacc7772d170fece57f7596cbba692999ab4078c5337",
+        "8e9c78dfb7d0c337cb04d4e5d8a807c1c63422cf6cc8c6df16b36b9cd553260c",
+        "f88589ee465eb8ded37d37398f10b9a625e1ae2715164e8afeecb4453bf644ea"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
