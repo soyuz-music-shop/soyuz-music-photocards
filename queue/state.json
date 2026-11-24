@@ -59457,6 +59457,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706832": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AM321123",
+      "originals_sha256": [
+        "6dcefcb3ec7039b00a0d31648cb0f0adb16bc156cbaa44f94ad8c77597bd6700"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
