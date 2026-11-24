@@ -60483,13 +60483,14 @@
       ]
     },
     "3562824597": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "30HZLP47DCPS",
       "originals_sha256": [
         "2d10e55450026fe832b73af7967c8b7a6df261cc6926c4ab8d7a8dfb24ff319b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112345580
     }
   },
   "reason": null,
