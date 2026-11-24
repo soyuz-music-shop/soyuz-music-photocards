@@ -74758,6 +74758,19 @@
         0.0,
         0.0
       ]
+    },
+    "6720463877": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WCD05025S",
+      "originals_sha256": [
+        "cbb54f98aa18ad549546ccd9d499d3d8f4845f70e841bdd19df0ab48208c6f5f",
+        "a92a173ab0b97a59733d3c71704629d5b7f9c0cf3eee54efb40e616974f10f8a",
+        "de801bb3c778d639278f12f6f49d0f7b9978a2958cf38c1492fb557da5c62960",
+        "aa7dc76ea0cb19e30efa8d0947c25de6a0a110eab4b96e16beb8d21d2f67411b",
+        "a68a986aef9e25605d77471dca315f1d77386e28108de0bf665a9a5e86f097ad"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
