@@ -61080,14 +61080,19 @@
       ]
     },
     "3563073743": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM 116",
       "originals_sha256": [
         "5d8164e14e93aad799c8a8ca6dac6a6e0bf089201b7e8f433ff5437eca7ecbb1"
       ],
       "before_count": 1,
-      "task_id": 6112476593
+      "task_id": 6112476593,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
