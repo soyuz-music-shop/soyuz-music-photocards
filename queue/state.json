@@ -77281,13 +77281,14 @@
       ]
     },
     "6800714225": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SL793821",
       "originals_sha256": [
         "81133d48a37b34bc73643cabc78b81c804b88ba5b1475f61f2d2593e68875a83"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118429613
     }
   },
   "reason": null,
