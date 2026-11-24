@@ -78421,13 +78421,14 @@
       ]
     },
     "6886275306": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOC 332",
       "originals_sha256": [
         "66ce8f1c51c10ea7caeb48a9a5b11d2088b2294c3ef3626320b54ef29698a17c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118549233
     }
   },
   "reason": null,
