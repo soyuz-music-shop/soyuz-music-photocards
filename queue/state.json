@@ -66735,7 +66735,7 @@
       ]
     },
     "3812308622": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ROCKACT166CD",
       "originals_sha256": [
@@ -66744,7 +66744,12 @@
         "c5b03cfb8dc2bb7c3ad7a434f9ca5cb45267aebd9a5783e0f857c8c16688f55a"
       ],
       "before_count": 3,
-      "task_id": 6113623266
+      "task_id": 6113623266,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
