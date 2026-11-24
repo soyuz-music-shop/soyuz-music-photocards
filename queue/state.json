@@ -70125,14 +70125,19 @@
       ]
     },
     "4462315911": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OO552427",
       "originals_sha256": [
         "ffd23a7bb2f024e97ce36bf17db649c07004e053c53430d526ed42fbf16405ec"
       ],
       "before_count": 1,
-      "task_id": 6117717973
+      "task_id": 6117717973,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
