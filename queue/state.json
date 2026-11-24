@@ -60688,14 +60688,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824631": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PCRPOPLP212XCBS",
       "originals_sha256": [
         "e5c93e32e1cb74538598b8d2a9a062235bb75106e4f13c69f1e2187934ce91ac"
       ],
       "before_count": 1,
-      "task_id": 6112389868
+      "task_id": 6112389868,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
