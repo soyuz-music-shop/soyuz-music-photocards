@@ -62863,14 +62863,19 @@
       ]
     },
     "3576109605": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2381",
       "originals_sha256": [
         "6bf7b69471e455f231352197a0eaec05a3c39624065d2181b8595b6e086c70c7"
       ],
       "before_count": 1,
-      "task_id": 6112838316
+      "task_id": 6112838316,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
