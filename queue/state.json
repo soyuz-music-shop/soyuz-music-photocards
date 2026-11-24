@@ -80190,13 +80190,14 @@
       ]
     },
     "6921074455": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOC400",
       "originals_sha256": [
         "0711b233df0c87ebfb85314636d91de310a6e843f6728915c1b73e7693215598"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118721267
     }
   },
   "reason": null,
