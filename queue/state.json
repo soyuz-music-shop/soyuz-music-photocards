@@ -73475,6 +73475,16 @@
         0.0,
         0.0
       ]
+    },
+    "5541364269": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GM138603",
+      "originals_sha256": [
+        "a8207511321c7b35d828bc2771a8b22813f34fc4aab74a53348e35d60acff6f4",
+        "658eb3c122a94b92b75de3c08a3666b33065a7b718a499af54cdaadd90c7413e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
