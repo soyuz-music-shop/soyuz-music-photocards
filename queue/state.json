@@ -78449,6 +78449,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886280360": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR7471-1",
+      "originals_sha256": [
+        "dc6599d784fa3f1900aaebba6a031406eb6dfc6839370b85c2a11888acdeee4a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
