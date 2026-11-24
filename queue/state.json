@@ -69452,7 +69452,7 @@
       ]
     },
     "4385191729": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IM784392",
       "originals_sha256": [
@@ -69460,7 +69460,12 @@
         "54eabf0c4a9bbfce0d2c4e546f71b6699fa2c626d2ab5194737f3d7993212ede"
       ],
       "before_count": 2,
-      "task_id": 6114060074
+      "task_id": 6114060074,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
