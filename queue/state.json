@@ -73050,7 +73050,7 @@
       ]
     },
     "5540172925": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PSYCHOBABBLE136CW",
       "originals_sha256": [
@@ -73059,7 +73059,12 @@
         "77260b0e7332e5a5840ac882a92ba38891968fdccf68f4265376506930aec8ec"
       ],
       "before_count": 3,
-      "task_id": 6118020682
+      "task_id": 6118020682,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
