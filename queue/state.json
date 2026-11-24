@@ -73459,7 +73459,7 @@
       ]
     },
     "5541364262": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GM138931",
       "originals_sha256": [
@@ -73468,7 +73468,8 @@
         "60fc80b4352c2feef7228560e33ee8013abfbd33e1feb024fcf02e72b9054a13",
         "9040c51898eb466c279deeaf6d5c6cf31625d14b8d42dd35dee4bd9a664aeb9b"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118070123
     }
   },
   "reason": null,
