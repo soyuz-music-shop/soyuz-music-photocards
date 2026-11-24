@@ -58399,6 +58399,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659279": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JRR-BB025",
+      "originals_sha256": [
+        "ea4483e59c83032d5ff86d0b911f5e1811d10a1c7d03d275f1f83205261fcda3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
