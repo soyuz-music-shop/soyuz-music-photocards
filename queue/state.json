@@ -66231,6 +66231,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946355": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKD336",
+      "originals_sha256": [
+        "f6e15f9a308b8d1958c2bde783f29579354f42f20efbb0ea0613c31e30745a52"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
