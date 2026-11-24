@@ -74844,6 +74844,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720489439": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DA620926",
+      "originals_sha256": [
+        "ed555ce34259ab41021dbcbdbb95d34fc678be9217de2058f118f92409415b1b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
