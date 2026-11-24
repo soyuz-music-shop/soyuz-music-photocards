@@ -72436,14 +72436,15 @@
       ]
     },
     "5540172675": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HRR966",
       "originals_sha256": [
         "d71072ae5850844a7e4fbe2efdecf80d1c993b243a6797c9579bcc406cda0a33",
         "b95ca41782cefba7ccc3e5c09cd997425d33c6c2cb6d4c1ff53162a1e3e1a946"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117964825
     }
   },
   "reason": null,
