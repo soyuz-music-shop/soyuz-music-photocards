@@ -73354,7 +73354,7 @@
       ]
     },
     "5541364126": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BHE0753RIC",
       "originals_sha256": [
@@ -73365,7 +73365,12 @@
         "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
       ],
       "before_count": 5,
-      "task_id": 6118053836
+      "task_id": 6118053836,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
