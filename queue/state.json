@@ -71578,7 +71578,7 @@
       ]
     },
     "5540172551": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON314TSWHITE",
       "originals_sha256": [
@@ -71587,7 +71587,12 @@
         "61fb4a52dcaa4a715593ed0652739b813ae787af4e17afd7108914b02f1a6953"
       ],
       "before_count": 3,
-      "task_id": 6117880334
+      "task_id": 6117880334,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
