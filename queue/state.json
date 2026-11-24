@@ -59324,14 +59324,19 @@
       ]
     },
     "3318706811": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BYE008CDS",
       "originals_sha256": [
         "22e82e31399653150c8b7902216cdc722bd2014ce16b20af20a3af0bfda9a42e"
       ],
       "before_count": 1,
-      "task_id": 6112140233
+      "task_id": 6112140233,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
