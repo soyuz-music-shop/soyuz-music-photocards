@@ -61790,13 +61790,14 @@
       ]
     },
     "3563073848": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GLAM CDD 109",
       "originals_sha256": [
         "63ee7b377db5df338b8c000a254ab39c6305ca7d1648a9db69fb4c66e7fcd96f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112616077
     }
   },
   "reason": null,
