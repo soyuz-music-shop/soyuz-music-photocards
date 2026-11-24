@@ -76834,14 +76834,19 @@
       ]
     },
     "6800623443": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "OO156525",
       "originals_sha256": [
         "7f3b678087de61536a8767ee990e68e7034be0c108ddf8174058b89d3ac8ba5b"
       ],
       "before_count": 1,
-      "task_id": 6118398566
+      "task_id": 6118398566,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
