@@ -56688,13 +56688,14 @@
       ]
     },
     "3282475233": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UWR00104",
       "originals_sha256": [
         "31c391d90e58c0ffff0cea288d4af7b6d0fca598ee39872c9e79a895f05dd8b0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111753076
     }
   },
   "reason": null,
