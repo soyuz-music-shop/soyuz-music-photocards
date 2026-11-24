@@ -70689,6 +70689,19 @@
         0.0,
         0.0
       ]
+    },
+    "5219746205": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MA137853PT",
+      "originals_sha256": [
+        "b9902f39071cd5693813a69976705d1181f581d1b6a51c038323818e826ee83c",
+        "8da0f9364a39c9b44b03fba4bcd6a1966d3d615190439e7947b12ee28dd471a7",
+        "10438c3ae27c6354fa0888d3509bafe4813d26c6cb7878adb976ff98f1a5350d",
+        "e4202312501fd86ba5891374e39e4d7c85bc7ca6ae88cb41e283620e37a0a6b1",
+        "23ad1204d9177dcc2ae7dee1569ccd7897b0216b3c16a26e2fd5e54f6602bc32"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
