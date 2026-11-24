@@ -62213,13 +62213,14 @@
       ]
     },
     "3563073923": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBRED725",
       "originals_sha256": [
         "1882884fa55b6127389ef51be6d5f3497e2e440507a4b492eba664661fbc239a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112699670
     }
   },
   "reason": null,
