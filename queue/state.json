@@ -68956,14 +68956,19 @@
       ]
     },
     "4385191562": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BE140102RED",
       "originals_sha256": [
         "f65807b6357095356a16d447b6b6307fbaa9405189b00ab4efdcf275d17fd7de"
       ],
       "before_count": 1,
-      "task_id": 6113969289
+      "task_id": 6113969289,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
