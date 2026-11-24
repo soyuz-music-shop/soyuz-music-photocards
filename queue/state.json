@@ -73119,7 +73119,7 @@
       ]
     },
     "5540172990": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RC767295BLUE",
       "originals_sha256": [
@@ -73127,7 +73127,12 @@
         "0b0f0910b6bfc31ee0bb914e9c884d3b7b1635af224d0eaff19126d47fb9f03a"
       ],
       "before_count": 2,
-      "task_id": 6118027664
+      "task_id": 6118027664,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
