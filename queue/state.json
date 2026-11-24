@@ -67923,14 +67923,19 @@
       ]
     },
     "4385191331": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DP776716",
       "originals_sha256": [
         "116308a4a89c04934be51a426673e324f3c1a76d5cd677f612cc73e12d1e4a3b"
       ],
       "before_count": 1,
-      "task_id": 6113783390
+      "task_id": 6113783390,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
