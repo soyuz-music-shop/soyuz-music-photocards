@@ -71397,13 +71397,14 @@
       ]
     },
     "5540172501": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON194",
       "originals_sha256": [
         "f6a6f198315d29975d5a6c550439e70cfc7dc844dea050ffbe7bc256c75a3e91"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117863657
     }
   },
   "reason": null,
