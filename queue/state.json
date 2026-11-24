@@ -57866,6 +57866,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659107": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 919",
+      "originals_sha256": [
+        "062419fd73d98ef9032b66f48d388d9bed9a1b1a7ed0782b7cd8f79c9f9a15ba"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
