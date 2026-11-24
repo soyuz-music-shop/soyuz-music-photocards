@@ -76071,7 +76071,7 @@
       ]
     },
     "6799214320": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BS987921",
       "originals_sha256": [
@@ -76079,7 +76079,8 @@
         "73dda250fa6a90fc0980f75ca44596d5889d7b03cc1b3afeb5d579ec1f07f06c",
         "f7a0db963e703210083bf3cf8274dd6ff5c38c72ba79be19e30a5f96cd6ae21a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118324142
     }
   },
   "reason": null,
