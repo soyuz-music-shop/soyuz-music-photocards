@@ -62531,6 +62531,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109555": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNECD017D",
+      "originals_sha256": [
+        "2e6d196fc8b0e47edbdb9b7aa7d873ec90d2fc10e2558e365fb0eee5f11f3d1a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
