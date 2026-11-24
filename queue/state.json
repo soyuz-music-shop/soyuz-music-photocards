@@ -69430,7 +69430,7 @@
       ]
     },
     "4385191727": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MT001112BWM",
       "originals_sha256": [
@@ -69443,7 +69443,8 @@
         "f1be4f1ea0b143bfad6e128d27752748b841a84a375623c4bdade9df50cda43d",
         "37631877b02830b9cbc64034e2c7a64074ddea7aa2e5cacedb41ade8e27c7072"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6114056248
     }
   },
   "reason": null,
