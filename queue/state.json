@@ -61580,14 +61580,19 @@
       ]
     },
     "3563073805": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CR4POPBX291",
       "originals_sha256": [
         "afedae8f5daf2966f26adf445fe3fda1d9225a99fe9ba3da6a6cdc961e4c1633"
       ],
       "before_count": 1,
-      "task_id": 6112574411
+      "task_id": 6112574411,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
