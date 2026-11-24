@@ -69728,6 +69728,16 @@
         0.0,
         0.0
       ]
+    },
+    "4462121947": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BM287020",
+      "originals_sha256": [
+        "0356d7fce33b83155fe027cbb183d3d60161cf47dd5a5c998835f1059da7cc87",
+        "aa58af399b308bdfc413bbf9b2c020a0df8177ebd770dd3afcb1f9a967f91e07"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
