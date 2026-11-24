@@ -67809,13 +67809,14 @@
       ]
     },
     "4385191271": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MO135008CS",
       "originals_sha256": [
         "0c9dfe301a66492552ca80d81705f06fb9047ab5109f040ab9934677d7a99519"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113767236
     }
   },
   "reason": null,
