@@ -66716,7 +66716,7 @@
       ]
     },
     "3789075259": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "VMD 79244",
       "originals_sha256": [
@@ -66726,7 +66726,8 @@
         "a5d2222154bf2471dd7bfb8ff9f26902b49f1873633ab3ffbe06f01746384ae2",
         "2543b767172bc6ed9fffeefa742d5b7af37390cf849f77baac47302ba3c30301"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6113620837
     }
   },
   "reason": null,
