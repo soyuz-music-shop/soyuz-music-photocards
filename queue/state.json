@@ -56888,6 +56888,22 @@
         0.0,
         0.0
       ]
+    },
+    "3282704145": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JP164213",
+      "originals_sha256": [
+        "27c90b57a7560c082a2dcc3b6cf9cadc2ded20d034309f5ff66ec1f8a0d131d0",
+        "b5e25c89405e9e13d4e104ca12a0292fa73e31fca24d4722c0cea38e2bdd0562",
+        "3d7b7caded24fb8a1cda466f29e46bafdc4c376992c0fdbf0d91f3254c2c3823",
+        "b6aaa62abe478059370ac6d75e359cf8d718e35b04bc73c8c3dc8d56533b937d",
+        "e4d1a4c9e9b57051b6dc7a5f001641a7f148402e767c75235f3d951b0f3818f6",
+        "7d931ef933673a4988d5a6690fd35b3ad2a0cc97d93862e44917caed3702eae4",
+        "65194286e48eaaef072ecbd2c8d77f85c4e860345aee39b911953199981bde72",
+        "52963fc9c61a2d153ea28e475f680c7c8fac93d23e5c51e7abb1b3235a1271d8"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
