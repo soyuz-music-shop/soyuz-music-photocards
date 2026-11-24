@@ -78119,6 +78119,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886210579": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DB591839",
+      "originals_sha256": [
+        "55a5e70e889e7a450e0acda11a2c0b2672b183a9c150fa3cd0c42fe210e66eac"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
