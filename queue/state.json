@@ -76121,14 +76121,15 @@
       ]
     },
     "6799237322": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CR321340",
       "originals_sha256": [
         "74139f35009e99035b635e303edbe943780dca3ab220f3533a2a2370d2a0db4e",
         "285bfed9d2eafc5a29d0a681e3f8a55b5f52d74f88f9d6b928b41b88ccfefcbb"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118328862
     }
   },
   "reason": null,
