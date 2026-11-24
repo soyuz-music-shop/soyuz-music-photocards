@@ -59003,13 +59003,14 @@
       ]
     },
     "3318706771": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BYE007CD",
       "originals_sha256": [
         "a187d7d63a0ed8cb8d6afa28d6f34f27bf8fd9daa5c063dac500bfeeda2d8c9b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112080164
     }
   },
   "reason": null,
