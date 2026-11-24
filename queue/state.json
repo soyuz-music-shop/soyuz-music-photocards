@@ -64275,14 +64275,19 @@
       ]
     },
     "3784565007": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CHD1649PURPLE",
       "originals_sha256": [
         "aaacf46b8f33f6abf613a15ef27db0dbc3b1d235e1dc9f01951fdc9fe866163f"
       ],
       "before_count": 1,
-      "task_id": 6113201607
+      "task_id": 6113201607,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
