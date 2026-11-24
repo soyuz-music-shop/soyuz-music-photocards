@@ -80157,6 +80157,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921070294": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1 541302",
+      "originals_sha256": [
+        "fb0b76a1872e093973db3d217da64da0b118fde3ab19ffed399425e1e97f3100"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
