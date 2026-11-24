@@ -57911,6 +57911,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659124": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV646LP",
+      "originals_sha256": [
+        "f4255b02ae5f8eeeeeb325f453a502020f9d245c772e76e9b63e9a740326e853"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
