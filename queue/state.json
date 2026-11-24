@@ -79698,6 +79698,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921010971": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TEXT051",
+      "originals_sha256": [
+        "1cda24a1f772a6cb0dc26efde74b7ff42994ba12c310f40e31c5a2622eeda3db"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
