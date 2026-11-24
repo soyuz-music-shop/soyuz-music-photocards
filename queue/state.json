@@ -64222,6 +64222,21 @@
         0.0,
         0.0
       ]
+    },
+    "3784564987": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP30RED",
+      "originals_sha256": [
+        "dfd7b4c0ae7f8f33cb13b22ad422a6eb2b12438e2f2f7fc9fcbdc592e24a682a",
+        "62c18962ad745c1184f258b4c73a87fc2b4b20fd1e2e412a2cc90ac756b780db",
+        "2ea4df26611e6428b5d5c7cdfd368e372eb8bff6c9aa1d0acc2e7ac849b71135",
+        "ba812bfe4dcae7d55ab7c78d3f6e97af26997aeb2f4fe96a84c9190f139033a3",
+        "a966087721c712972dc06ed01d0020f3605432938499a90246fd112a4cd61802",
+        "02594b28c90f00eef0e59219ec04b706a13d4060d91bd67e8778df146dcbcf53",
+        "feb275931a1b03d09a0f53ae02977bcd669ace6f6839ce5677adac10d6271820"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
