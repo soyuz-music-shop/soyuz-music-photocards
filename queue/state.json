@@ -69776,7 +69776,7 @@
       ]
     },
     "4462124214": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF762427",
       "originals_sha256": [
@@ -69784,7 +69784,12 @@
         "5175bab59858dd66e4c9a32d531db819fe8c16b8202f215aa02373fd2af4d2b5"
       ],
       "before_count": 2,
-      "task_id": 6114131293
+      "task_id": 6114131293,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
