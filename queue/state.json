@@ -77296,7 +77296,7 @@
       ]
     },
     "6800718149": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SC801996",
       "originals_sha256": [
@@ -77304,7 +77304,12 @@
         "641bb1b6e52a831035e9f7a51a3e8a6704e3e7033f57a2229accf0b120913a7b"
       ],
       "before_count": 2,
-      "task_id": 6118431173
+      "task_id": 6118431173,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
