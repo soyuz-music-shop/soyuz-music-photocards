@@ -78676,13 +78676,14 @@
       ]
     },
     "6886324712": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MCR819998",
       "originals_sha256": [
         "3e4155ac2c139420966f6fcad7d9ff3fff117c319004a16353dcd9191a068ff7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118573296
     }
   },
   "reason": null,
