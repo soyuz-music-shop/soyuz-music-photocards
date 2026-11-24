@@ -72260,7 +72260,7 @@
       ]
     },
     "5540172652": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VOX86LP",
       "originals_sha256": [
@@ -72268,7 +72268,12 @@
         "196d2dae34a95c0a217558d2a71667fbecf99965945d6bbf4c1c1e6648307cbb"
       ],
       "before_count": 2,
-      "task_id": 6117946648
+      "task_id": 6117946648,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
