@@ -78949,14 +78949,19 @@
       ]
     },
     "6886371811": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XX811205",
       "originals_sha256": [
         "4c36c4895a9e038ca11b7e934b6b31804da699da1f2f9b808dff6d401ab5cc55"
       ],
       "before_count": 1,
-      "task_id": 6118600852
+      "task_id": 6118600852,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
