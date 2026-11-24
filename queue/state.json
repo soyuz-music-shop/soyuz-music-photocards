@@ -79367,6 +79367,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920946736": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CX584206",
+      "originals_sha256": [
+        "bb1bcffcd25f657ab633f305e73f1ce1fe0e3e20f99618db97834a3591ee8bba"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
