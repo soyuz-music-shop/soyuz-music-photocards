@@ -64879,6 +64879,19 @@
         0.0,
         0.0
       ]
+    },
+    "3784565213": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIKAD132RED",
+      "originals_sha256": [
+        "daf8c0597a3e8633f44dc606c457bd7d9e2bb59d460baf6d46464c382882aff3",
+        "2c41234cce56ee2c7d9783cba8529cd4297ebbab5e223fca8837ec769b13c74f",
+        "58b90918f44a82202bc040fa8fd626bcd350db74677aa6007c64832ec6ee49e2",
+        "035f1e650fe65c2324ce9523226e76f3ea9b60954d4e5ee13962ae8c8443ea55",
+        "caa6ae483657421a882d35f8cdeffc076126f488d125d2306954830ba8121687"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
