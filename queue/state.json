@@ -58354,7 +58354,7 @@
       ]
     },
     "3296659264": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NBT 4858-7",
       "originals_sha256": [
@@ -58362,7 +58362,8 @@
         "d652483678fc6a7bce0ba03f30d66c5de9cf72630c0898b93cb8bdba321d5ca5",
         "5259b78f53f53637d32e633f23eeab682fa8eb6f62aff1dcb6d9e897aaa5c692"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6111979663
     }
   },
   "reason": null,
