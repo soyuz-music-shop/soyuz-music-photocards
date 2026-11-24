@@ -58541,13 +58541,14 @@
       ]
     },
     "3318541171": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PF739490",
       "originals_sha256": [
         "59fa3b61e834ac283cc181b63d19a30f4ab16a83aa3f44a702de4166b1c1bbde"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112005340
     }
   },
   "reason": null,
