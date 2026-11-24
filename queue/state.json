@@ -56969,14 +56969,19 @@
       ]
     },
     "3283959695": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF708426",
       "originals_sha256": [
         "0f2ee5cf5b58f8208204d1ba964132eb9bbde034d9149da58d1489c5eb265cc8"
       ],
       "before_count": 1,
-      "task_id": 6111788362
+      "task_id": 6111788362,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
