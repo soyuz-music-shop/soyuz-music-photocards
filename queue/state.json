@@ -80062,13 +80062,14 @@
       ]
     },
     "6921060169": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "REWIGLP160",
       "originals_sha256": [
         "aa0ba94c234d0056214154c264f763f0174e18bd7ef33108fb83e503a17f1e68"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118701859
     }
   },
   "reason": null,
