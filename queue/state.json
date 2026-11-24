@@ -67257,14 +67257,19 @@
       ]
     },
     "4385191146": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "IM784286",
       "originals_sha256": [
         "f781ef6e8ac84b1e093b95c658b941cde5026d0bc5ace9ce449381f5c8c2600c"
       ],
       "before_count": 1,
-      "task_id": 6113689146
+      "task_id": 6113689146,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
