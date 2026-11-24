@@ -58805,13 +58805,14 @@
       ]
     },
     "3318541240": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RADCD3",
       "originals_sha256": [
         "a279f996ebf505ba5402a28b6f3275f0efd0b191d02054c406ca4466cc747ba0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112048709
     }
   },
   "reason": null,
