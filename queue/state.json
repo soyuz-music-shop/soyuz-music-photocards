@@ -63829,6 +63829,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564879": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP082ORANGE",
+      "originals_sha256": [
+        "40ede8e1574d42898ab4d7e42b25aa0c023b74405f6e6feb5b184d4d945fcc25"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
