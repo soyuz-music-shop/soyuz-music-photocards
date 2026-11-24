@@ -78691,13 +78691,14 @@
       ]
     },
     "6886327518": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MCR820000GS",
       "originals_sha256": [
         "3c42603ecc673ec56758dca29f6523a9fb785e405aaea6fc58be842f1db1328e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118574788
     }
   },
   "reason": null,
