@@ -73586,14 +73586,15 @@
       ]
     },
     "5578223755": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BONF032",
       "originals_sha256": [
         "474d45a86f92ba1c53c1574f14bb1cc56f2ac8cbb79a381ccc3e953fd7ce8bd1",
         "070b9bb23968f9fb5db7cbee5634da2df0bb117b4f9faf8a20bf4fe83d319bb6"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118083926
     }
   },
   "reason": null,
