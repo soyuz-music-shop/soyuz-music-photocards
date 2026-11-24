@@ -57277,6 +57277,17 @@
         0.0,
         0.0
       ]
+    },
+    "3289858479": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "JNB000260",
+      "originals_sha256": [
+        "d9e6d9c27c404d26fba1915fc58ffae042d6f6e106f94257525f65cc410ca053",
+        "377972d2bd048902d4cc8a836168a77e71f6456722929a1e36a505f65025d8bd",
+        "a9373c993241ba2e31e280598c3f3a95b63a51407cddd2718c8e815547d339a4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
