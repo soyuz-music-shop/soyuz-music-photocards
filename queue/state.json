@@ -63164,13 +63164,14 @@
       ]
     },
     "3576109649": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PURPLE022D",
       "originals_sha256": [
         "cacf3e9f2420551e47b07f96b9a3eba81c9221d3a11b7e78a6f5e77fb2aecfbb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112913532
     }
   },
   "reason": null,
