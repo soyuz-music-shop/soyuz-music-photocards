@@ -77129,14 +77129,19 @@
       ]
     },
     "6800685107": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RHCP668125",
       "originals_sha256": [
         "abf757990646d0ae7757084423746210f664ae682cf7cd328351c25a2b202114"
       ],
       "before_count": 1,
-      "task_id": 6118418915
+      "task_id": 6118418915,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
