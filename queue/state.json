@@ -77358,7 +77358,7 @@
       ]
     },
     "6800728936": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 726102",
       "originals_sha256": [
@@ -77368,7 +77368,12 @@
         "8139104aa0ab7b81e10bda83f581c291156f954f5ef0e8f70ad0b12bf748acb2"
       ],
       "before_count": 4,
-      "task_id": 6118436747
+      "task_id": 6118436747,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
