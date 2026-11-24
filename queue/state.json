@@ -78329,6 +78329,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886260439": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP558X",
+      "originals_sha256": [
+        "845ce2678992c79469691c76e1d48048b0a5f5398e7b5718d39743e4e7298fcb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
