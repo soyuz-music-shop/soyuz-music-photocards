@@ -72093,7 +72093,7 @@
       ]
     },
     "5540172624": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ERLPO28",
       "originals_sha256": [
@@ -72102,7 +72102,8 @@
         "8e9c78dfb7d0c337cb04d4e5d8a807c1c63422cf6cc8c6df16b36b9cd553260c",
         "f88589ee465eb8ded37d37398f10b9a625e1ae2715164e8afeecb4453bf644ea"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117931184
     }
   },
   "reason": null,
