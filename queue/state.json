@@ -56748,14 +56748,19 @@
       ]
     },
     "3282704064": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM47",
       "originals_sha256": [
         "c27363d25144ab78fd47b475b396def95d26a677fcce282489c6f80ee825f932"
       ],
       "before_count": 1,
-      "task_id": 6111760581
+      "task_id": 6111760581,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
