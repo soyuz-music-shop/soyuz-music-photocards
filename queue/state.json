@@ -58050,13 +58050,14 @@
       ]
     },
     "3296659170": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 546GOLD",
       "originals_sha256": [
         "69cedb3d66b20392f62e6b74eb50ef03fcaeb219ee6cd925794c61e0f7e93e32"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111939383
     }
   },
   "reason": null,
