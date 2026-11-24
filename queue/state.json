@@ -68678,6 +68678,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191511": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE829-1",
+      "originals_sha256": [
+        "fed0dbf9e283b8c770c4c0f34fd5ef7cfa7205de9bd8987900563e9f75040202"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
