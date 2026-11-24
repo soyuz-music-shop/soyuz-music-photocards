@@ -62563,13 +62563,14 @@
       ]
     },
     "3576109560": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDSOL-72088",
       "originals_sha256": [
         "729eb31c0f0231a5824eb1cb5a3c80c59ce4ccf2aecbe47820be12b87903c5ce"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112774394
     }
   },
   "reason": null,
