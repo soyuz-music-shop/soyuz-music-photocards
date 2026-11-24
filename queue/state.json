@@ -77221,13 +77221,14 @@
       ]
     },
     "6800703520": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SA550221",
       "originals_sha256": [
         "a13ccd547207e32daedabffaacb619dc29cb009aa0a21f36370cbe3f8d6abecb"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118424477
     }
   },
   "reason": null,
