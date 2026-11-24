@@ -72202,6 +72202,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172644": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "YO467LPEWHITE",
+      "originals_sha256": [
+        "e1b7761e8b4b3018199d4e783f22c7c10ab1d012a21a0338996f09abda1fb6f4",
+        "80d7a2f90926bbadd326131c7a58117ceef8608a64627f2fab67a1ac3a9551c4",
+        "bcf9cd8bdb0805b5c9ab508b56332dc424ef1a64b0c8a9eedd69b4ea8e5c7f52",
+        "7b5ffccb7785c7f2dac4dfa5fffa7b9913ba3fbd7e726a351042c57dd8696775"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
