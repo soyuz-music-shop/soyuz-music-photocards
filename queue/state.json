@@ -68933,7 +68933,7 @@
       ]
     },
     "4385191549": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SC881325CC",
       "originals_sha256": [
@@ -68948,7 +68948,12 @@
         "a5ffaf87d8ad31cc02b8751449e5d8fe2cc282b4346ecdee12aca8e62d8b88c9"
       ],
       "before_count": 9,
-      "task_id": 6113967150
+      "task_id": 6113967150,
+      "after_count": 11,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
