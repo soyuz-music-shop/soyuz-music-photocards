@@ -70691,7 +70691,7 @@
       ]
     },
     "5219746205": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA137853PT",
       "originals_sha256": [
@@ -70702,7 +70702,12 @@
         "23ad1204d9177dcc2ae7dee1569ccd7897b0216b3c16a26e2fd5e54f6602bc32"
       ],
       "before_count": 5,
-      "task_id": 6117772924
+      "task_id": 6117772924,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
