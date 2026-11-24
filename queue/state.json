@@ -71432,7 +71432,7 @@
       ]
     },
     "5540172517": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HE211573TURQUOISE",
       "originals_sha256": [
@@ -71440,7 +71440,8 @@
         "03f816235d0afb2614f8bc677f96e31bbde8ef11bcd0466bc8ef3871a98a32d8",
         "004b9b90604f1739adbb6383936e2e49ac483bab989909345a4321595ad46b7f"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117866787
     }
   },
   "reason": null,
