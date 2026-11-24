@@ -78719,6 +78719,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886332550": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECM 1560",
+      "originals_sha256": [
+        "25bf0eccc25c8236076c6fa1630eb896d2882110e6c7c87d05cec1d5db5bcc10"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
