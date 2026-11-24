@@ -64390,13 +64390,14 @@
       ]
     },
     "3784565044": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "KENT2530",
       "originals_sha256": [
         "2711142294da2b1cf66ae2687623ab49cc7d2a8f42e506e56ad425f73636f5f6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113224367
     }
   },
   "reason": null,
