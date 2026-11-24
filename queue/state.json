@@ -59294,14 +59294,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3318706805": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMCD 666-18",
       "originals_sha256": [
         "864492ed328efd402fdb93088b0c3fd694c894316f227de8563c19bce1cfe8f2"
       ],
       "before_count": 1,
-      "task_id": 6112134703
+      "task_id": 6112134703,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
