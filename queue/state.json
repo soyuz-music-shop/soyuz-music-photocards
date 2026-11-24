@@ -60498,14 +60498,19 @@
       ]
     },
     "3562824599": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BRED878",
       "originals_sha256": [
         "f0c1afdb47792577339daf82d17d962256941891880547a8e421c88c510ce9e2"
       ],
       "before_count": 1,
-      "task_id": 6112348707
+      "task_id": 6112348707,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
