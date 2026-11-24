@@ -72399,7 +72399,7 @@
       ]
     },
     "5540172673": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON305TRANSPARENT",
       "originals_sha256": [
@@ -72410,7 +72410,12 @@
         "626f7261ba5cf278f56ae6f175df86709836feb52592b3ccdf4f505628028f52"
       ],
       "before_count": 5,
-      "task_id": 6117961017
+      "task_id": 6117961017,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
