@@ -60418,13 +60418,14 @@
       ]
     },
     "3562824589": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SFE 094MSBB",
       "originals_sha256": [
         "1cee558a11e262a93a50da2efd46c6fafc106c1551ab5af3f15d1a71bdfb9b31"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112331951
     }
   },
   "reason": null,
