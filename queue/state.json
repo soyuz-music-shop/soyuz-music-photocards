@@ -72126,6 +72126,22 @@
         0.0,
         0.0
       ]
+    },
+    "5540172637": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PTPS60LPXCLEAR",
+      "originals_sha256": [
+        "f4afaba01e130be25f1f99c1db5c02e8c3819318261a3ebd70d7e26d65ba384e",
+        "569c9ee2a0557686643c7407d3ca10e68884bdc193748fb1da304d3fd7f5ebac",
+        "f85037d1386a25fba35b8ed10e0d29f4fcf1c54e3053312ea23626c52ecc9ea9",
+        "fc1e01c66d4207c67a179a9ad1c39daa5bb507d9bfbac9814e58604e319aacc3",
+        "9cea26306ca0d983371bde3000588d2d5a2014d58682a71737130d6582a4ecd3",
+        "1442f06bf112a69b33082893f1329b2dd414000572b36daff25e6a5d37bd8265",
+        "242ebdd50c7640eab217d739025aead2f45327fbf7231137d13d6fe47c34da54",
+        "8542a2bb5139e9d6b39bcf4a7a5c8b60c70cb130c836532c6d65f234137e3d0c"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
