@@ -59397,6 +59397,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706821": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HRR 552 CD",
+      "originals_sha256": [
+        "f1e46d04ce5cef2887829380db9cb7f4319fe7661f64e2cb73d6a5e9bedac9bc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
