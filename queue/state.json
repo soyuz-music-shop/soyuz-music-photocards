@@ -63175,6 +63175,15 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Ozon gallery not confirmed"
+    },
+    "3576109650": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OTCD-6390",
+      "originals_sha256": [
+        "cdb85772dc6cbc1cdd05a2907d166fa300f955a4cffea8322df7578c200c475b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
