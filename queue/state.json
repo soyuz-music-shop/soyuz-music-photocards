@@ -79791,14 +79791,19 @@
       ]
     },
     "6921026400": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC254LP-C3",
       "originals_sha256": [
         "610ef9395c63c9f19e51334a7028f608f7ea699ab8651a023652c287778d1291"
       ],
       "before_count": 1,
-      "task_id": 6118672961
+      "task_id": 6118672961,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
