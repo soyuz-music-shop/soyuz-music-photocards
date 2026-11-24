@@ -63756,6 +63756,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564866": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP2075",
+      "originals_sha256": [
+        "9a1afa13ba592e949ecd9758e60d93e5c9e802c8070e84779d5cf272fac778f7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
