@@ -80451,6 +80451,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317539": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TS853145TANGERINE",
+      "originals_sha256": [
+        "6a123253d71e4ecab03b77b278b482d7625e8a94b807cdac16ab81e471574154"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
