@@ -72800,7 +72800,7 @@
       ]
     },
     "5540172760": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LC353612",
       "originals_sha256": [
@@ -72808,7 +72808,8 @@
         "5a093da76e2b576ac264afd387e9894f7d3ee4f75c1031fe4c7b230ccad384df",
         "ee5189cb8f18263f0998eea08a1a0daafeb1d23b89bc6e285be28776b4a2b09e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117996042
     }
   },
   "reason": null,
