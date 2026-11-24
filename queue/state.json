@@ -69380,7 +69380,7 @@
       ]
     },
     "4385191696": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP252",
       "originals_sha256": [
@@ -69388,7 +69388,8 @@
         "3293d88a0217dcb25320e9364bc16a656c9052c9199b5b3e642f403640f75a57",
         "ac8c04a0b6ed9cb1e903b49674ff5969651e80f1d167d9456f2112fb1e8d0a45"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6114046032
     }
   },
   "reason": null,
