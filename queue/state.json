@@ -74876,14 +74876,19 @@
       ]
     },
     "6720500586": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FC164R",
       "originals_sha256": [
         "c12f0ec8810dd773508a24d280dc98b9f60fb3d75bd24dd9cbbdcd7ade9d6da1"
       ],
       "before_count": 1,
-      "task_id": 6118202554
+      "task_id": 6118202554,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
