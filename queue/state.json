@@ -60623,13 +60623,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824616": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AHOY1LP422",
       "originals_sha256": [
         "48cc7a362545dce547c9d92b69986a1fc5c53459a7cca0499a999b131c862ca8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112373699
     }
   },
   "reason": null,
