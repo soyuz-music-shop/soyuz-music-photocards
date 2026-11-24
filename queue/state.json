@@ -58307,6 +58307,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659248": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 982-1",
+      "originals_sha256": [
+        "a220b6c5316d8e5aacf5a22a793cce44848de712d743d08bba1cf89ec8815248"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
