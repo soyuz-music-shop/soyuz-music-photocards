@@ -57325,6 +57325,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296658992": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 831",
+      "originals_sha256": [
+        "0f91ee2d2aa1b0e967a5e779034f5800ab19a1ac7db6064a786beb21bc7f0c79"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
