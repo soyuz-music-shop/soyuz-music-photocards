@@ -72204,7 +72204,7 @@
       ]
     },
     "5540172644": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "YO467LPEWHITE",
       "originals_sha256": [
@@ -72213,7 +72213,8 @@
         "bcf9cd8bdb0805b5c9ab508b56332dc424ef1a64b0c8a9eedd69b4ea8e5c7f52",
         "7b5ffccb7785c7f2dac4dfa5fffa7b9913ba3fbd7e726a351042c57dd8696775"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117941688
     }
   },
   "reason": null,
