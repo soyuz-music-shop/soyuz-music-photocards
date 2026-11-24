@@ -76588,13 +76588,14 @@
       ]
     },
     "6799374413": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT364CD",
       "originals_sha256": [
         "d21c4dd5a5a31d1d2d066a9c690b465215edf605c808d49acb44d2cfd51c839f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118373923
     }
   },
   "reason": null,
