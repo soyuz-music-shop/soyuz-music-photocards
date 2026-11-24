@@ -63342,7 +63342,7 @@
       ]
     },
     "3613559360": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "cd-russian",
       "offer_id": "4610297810105",
       "originals_sha256": [
@@ -63356,7 +63356,7 @@
       "task_id": 6112985592,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3628031735": {
       "status": "verified",
