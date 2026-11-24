@@ -57029,14 +57029,19 @@
       ]
     },
     "3283959774": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PF709522",
       "originals_sha256": [
         "f65a903bd8bb8d3043b8f690aa77f5e6c44443b66e656337ae0e08f99a71931d"
       ],
       "before_count": 1,
-      "task_id": 6111796009
+      "task_id": 6111796009,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
