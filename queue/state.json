@@ -62683,14 +62683,19 @@
       ]
     },
     "3576109577": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAMCD68",
       "originals_sha256": [
         "9dcd0514737045c574f83fda234266bf59f3a817d43f2ab2fbad4881bf1975d3"
       ],
       "before_count": 1,
-      "task_id": 6112800522
+      "task_id": 6112800522,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
