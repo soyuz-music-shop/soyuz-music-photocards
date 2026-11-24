@@ -75436,7 +75436,7 @@
       ]
     },
     "6720717604": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PJ026139YBG",
       "originals_sha256": [
@@ -75448,7 +75448,8 @@
         "0717cb09b40a3972e00e91823774f5b10cdc42ad7def346c82d2c5de5345720d",
         "a4ad9228b51f5aa0ce19c5c62e4db53e9c9d76d5fa39cd8cfa961ad7b88df9a1"
       ],
-      "before_count": 7
+      "before_count": 7,
+      "task_id": 6118260715
     }
   },
   "reason": null,
