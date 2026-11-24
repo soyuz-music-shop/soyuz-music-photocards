@@ -66607,6 +66607,17 @@
         0.0,
         0.0
       ]
+    },
+    "3784946444": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD315",
+      "originals_sha256": [
+        "b98cda4452ba1e76b8b1e0830141d8bd1d2312d3073d54d1b8e103783831b239",
+        "cd8178ccc8b8d8cbe75a233d416038839d6236eed5cc8588a1df9181046e44dd",
+        "ee762bed6d8913fa8e5e8d6a6bc95f5898a9c6bb6f7dd56e66af007f90690b72"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
