@@ -76893,6 +76893,19 @@
         0.0,
         0.0
       ]
+    },
+    "6800636593": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PM136592BS",
+      "originals_sha256": [
+        "3b7fab8bc32fa9c886df5e31308368250553b0079daac704f3b27f26aff6224c",
+        "f8946355280f01807fd5d7b925328798230aa4e9399f456e7956fb35ee154bfe",
+        "6d2c0fab3d409a3c6610dfbca084ce8183475064ed6b194acb261b60159881eb",
+        "cf3af9883d2e3097953f3226e66362f43ea00a0468bdcec816bb1e0b3a251e10",
+        "fe0efc089f4f62aa1c0d5190d9a3fa5b694cceef9dfa6ef664d6e3c8167e7cae"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
