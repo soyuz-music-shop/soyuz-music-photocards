@@ -63906,14 +63906,15 @@
       ]
     },
     "3784564907": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIKAD210",
       "originals_sha256": [
         "38f30badbf45c20580b13fe81ae1348d3b808da8d913172948ca87d258f355fd",
         "483302ef24355e946b223f82850b76100f650b3b49ac7fce8bfead47f23994e8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6113128217
     }
   },
   "reason": null,
