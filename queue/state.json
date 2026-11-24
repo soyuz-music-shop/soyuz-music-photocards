@@ -57928,14 +57928,19 @@
       ]
     },
     "3296659134": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CLLP 64297",
       "originals_sha256": [
         "d76984cf24b5afbc0e37dc3c557a3cd8efa05b4aef0f2b7d4b14ee17076d6694"
       ],
       "before_count": 1,
-      "task_id": 6111923069
+      "task_id": 6111923069,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
