@@ -57582,6 +57582,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659042": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DSR 307 LP",
+      "originals_sha256": [
+        "27321b77353f4cd8d563eff1d96ec092308c53d6624e204e19a528e834e15645"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
