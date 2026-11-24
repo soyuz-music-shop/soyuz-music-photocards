@@ -67111,6 +67111,18 @@
         0.0,
         0.0
       ]
+    },
+    "4192329622": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBCD1532",
+      "originals_sha256": [
+        "79475e3a51d05cb4f2651b2e560b02815dbc9d678cf1a290f9a3c9abc29bce53",
+        "221cfdf8518243822e6b83b97db4d14132c8d93fc3edc3b26799092e26a4e920",
+        "5d0fb4dc5e85be144c63b622e37ad4a28024f471e09e0f13f854599c7548cef7",
+        "f177b10769b46932624b238ac6f25187d70687120cdf1e55426aadb95ef9df01"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
