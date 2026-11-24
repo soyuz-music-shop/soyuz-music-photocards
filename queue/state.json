@@ -73237,7 +73237,7 @@
       ]
     },
     "5541363935": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BHE0754",
       "originals_sha256": [
@@ -73248,7 +73248,8 @@
         "a38cb76f3531533e7c08d12c44d1937e14a3e7605a9ae8a715eed5de5056e40d",
         "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6118039604
     }
   },
   "reason": null,
