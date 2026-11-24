@@ -56492,7 +56492,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3277020222": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "SPT007439",
       "originals_sha256": [
