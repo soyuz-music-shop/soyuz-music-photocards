@@ -60883,6 +60883,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824672": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AHOYLP421",
+      "originals_sha256": [
+        "4374c19598a8baeba257054c93b40736cd7582027a904236a4884120c13063dc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
