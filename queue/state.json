@@ -80264,6 +80264,15 @@
         0.0,
         0.0
       ]
+    },
+    "6948775765": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SRFM0013",
+      "originals_sha256": [
+        "9210736e5391fc9d2e1b402b1f037a7366dc2e8c7c61fd6c78c5010df6e6e13d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
