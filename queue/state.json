@@ -77176,14 +77176,19 @@
       ]
     },
     "6800693090": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RA940343",
       "originals_sha256": [
         "c8c0dfe1e4997a1eb852154c6f5025b6e40f527004946a69df350d38ff37df50"
       ],
       "before_count": 1,
-      "task_id": 6118421842
+      "task_id": 6118421842,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
