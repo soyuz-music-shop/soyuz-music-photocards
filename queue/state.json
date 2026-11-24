@@ -68802,6 +68802,19 @@
         0.0,
         0.0
       ]
+    },
+    "4385191535": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ZA656278BLUE",
+      "originals_sha256": [
+        "6f12f479b6f562f3f99a617ace6d777893078fbb0fddc8194b29e94f2d5813d6",
+        "f54efa18df27b27b8bcecae3b4546faab89990313cd29c6467a4524675cbcbee",
+        "a3f10afc65ced9f6fd9dc109a8255544ffe831d4f85333439b0a2d7d5addd957",
+        "1b285ab7591a7ba241fb84ecd4064d8761c5057fe133cbb627a5c23ec6278c74",
+        "916e47e68800dceb3de2370bbbf3a9377b6b8ec4b2ec6b3b99f9c2818d46a962"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
