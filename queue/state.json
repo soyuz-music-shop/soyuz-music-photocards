@@ -78541,13 +78541,14 @@
       ]
     },
     "6886299801": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MM589324FAGM",
       "originals_sha256": [
         "6442587fd165096d6f4a21c35eb9d4e1286f6bfe3c943cde70530a839f405a16"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118560884
     }
   },
   "reason": null,
