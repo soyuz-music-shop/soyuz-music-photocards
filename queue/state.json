@@ -76664,7 +76664,7 @@
       ]
     },
     "6799398873": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LVB138881",
       "originals_sha256": [
@@ -76672,7 +76672,8 @@
         "5d225da9bb9a593be46e6673ad660bb9739859ef3a62bd90a5a97251c944a253",
         "13f95ec732c37396f7929bd1fa0d1a75241679372384019c5ec95510f2373a97"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118382139
     }
   },
   "reason": null,
