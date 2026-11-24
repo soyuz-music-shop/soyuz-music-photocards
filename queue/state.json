@@ -71010,7 +71010,7 @@
       ]
     },
     "5248138685": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2060",
       "originals_sha256": [
@@ -71020,7 +71020,12 @@
         "13b3c6f466ed82b8fef8565e6669f9e1f3e1712cc3eaf2e35b377fc8245fcc8c"
       ],
       "before_count": 4,
-      "task_id": 6117820366
+      "task_id": 6117820366,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
