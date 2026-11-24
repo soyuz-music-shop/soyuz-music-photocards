@@ -78977,6 +78977,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886376735": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 62449",
+      "originals_sha256": [
+        "62114d3cca5707fe5eaab18617bc3effff956a22528523ff7b2de97c4b8a77fa"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
