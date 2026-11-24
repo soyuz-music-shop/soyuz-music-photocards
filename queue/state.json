@@ -57201,7 +57201,7 @@
       ]
     },
     "3289717624": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TRNTXP000420",
       "originals_sha256": [
@@ -57209,7 +57209,12 @@
         "26a2b6aff0db64ad468c21b6eafe09db290f1c216d81013ed2d2eb974d84e747"
       ],
       "before_count": 2,
-      "task_id": 6111816087
+      "task_id": 6111816087,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
