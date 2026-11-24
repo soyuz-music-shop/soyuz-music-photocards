@@ -66701,13 +66701,14 @@
       ]
     },
     "3784946470": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDCHD1075",
       "originals_sha256": [
         "05bad5d74b44577ba123843b8b6fc5d6098b0edb13f221f25cfc799d3ac55af8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113617788
     }
   },
   "reason": null,
