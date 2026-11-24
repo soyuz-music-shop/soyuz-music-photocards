@@ -69565,7 +69565,7 @@
       ]
     },
     "4385191780": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BJ114472",
       "originals_sha256": [
@@ -69573,7 +69573,12 @@
         "5dce591a47968103b20f454c3564f6df9a47efd6bdceacbd04b973c25dc153c8"
       ],
       "before_count": 2,
-      "task_id": 6114085734
+      "task_id": 6114085734,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
