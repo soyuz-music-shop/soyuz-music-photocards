@@ -70800,6 +70800,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219747123": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BIAS4002",
+      "originals_sha256": [
+        "87f5be525dc2d4d90428f98cd4d14a2cb316ce7b242cbc1b759f1cb8e86a4fd7",
+        "8c846801a829cd59c0917a2ee2e1d944c36f2511f7028c21a2790895cd4bfed2",
+        "2b0c8bdcfbcc63a49764afeb9c3254f97346b08a6e7db3872c8f1abce8a8b3d8",
+        "8ad2dd3f052f68895d78c323b2b8388667696bcf5a7f9195ba45353f7b4de7d8"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
