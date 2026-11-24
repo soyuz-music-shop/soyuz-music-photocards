@@ -68450,14 +68450,19 @@
       ]
     },
     "4385191440": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EES-044BS",
       "originals_sha256": [
         "d55a793819470713e3a9dce82cbc3bc64c648ee64287b9a6cc4c148250de908c"
       ],
       "before_count": 1,
-      "task_id": 6113865771
+      "task_id": 6113865771,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
