@@ -63844,6 +63844,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564880": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP2069CLEAR",
+      "originals_sha256": [
+        "2f6f928a0ae36140860d643f43a759cfd535ba83b8f9a33ecbad9cbd77f38bf4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
