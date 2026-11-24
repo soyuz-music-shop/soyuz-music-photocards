@@ -70034,14 +70034,19 @@
       ]
     },
     "4462238408": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BJ261916",
       "originals_sha256": [
         "dd6f6253f3b848de361817528a3e79d2d208205bc747662b84083b5c606c038b"
       ],
       "before_count": 1,
-      "task_id": 6114183302
+      "task_id": 6114183302,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
