@@ -75421,14 +75421,19 @@
       ]
     },
     "6720712799": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIGLP533X",
       "originals_sha256": [
         "88185796308542579245f0e2ef0ecbf1f0d22006e75c1892a59515e52138cd1a"
       ],
       "before_count": 1,
-      "task_id": 6118259322
+      "task_id": 6118259322,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
