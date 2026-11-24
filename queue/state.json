@@ -66472,6 +66472,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946405": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBGPM281",
+      "originals_sha256": [
+        "73d8450d942277050f7748c39d680d109d3bdae90701cfde0696bf2cc397a46b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
