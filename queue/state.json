@@ -60621,6 +60621,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3562824616": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AHOY1LP422",
+      "originals_sha256": [
+        "48cc7a362545dce547c9d92b69986a1fc5c53459a7cca0499a999b131c862ca8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
