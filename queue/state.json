@@ -67938,7 +67938,7 @@
       ]
     },
     "4385191333": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VH811235OT",
       "originals_sha256": [
@@ -67949,7 +67949,12 @@
         "c5140030dc14780135fd328208d703b2425489b1b987233c19ab68bbfa0edb52"
       ],
       "before_count": 5,
-      "task_id": 6113785977
+      "task_id": 6113785977,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
