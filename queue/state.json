@@ -75115,6 +75115,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720607027": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KE322849GAWS",
+      "originals_sha256": [
+        "e8dd3f6530c63cac59beb4d1e5cc19ee8e67d911f126c5a86238b912d50a72c0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
