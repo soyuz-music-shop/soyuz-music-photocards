@@ -70077,6 +70077,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462263135": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SL741020",
+      "originals_sha256": [
+        "1cdee948599cb103ba84e5fe42ab1e62ddd4bf19d44acfa77d5b927d6c0f801c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
