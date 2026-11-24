@@ -61353,6 +61353,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073773": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDMRED592",
+      "originals_sha256": [
+        "1927ae8e52ca8300f1a2063e911f48b4957a9a4a7985d37909bf0648e0a4df10"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
