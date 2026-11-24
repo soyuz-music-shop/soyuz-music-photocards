@@ -77234,6 +77234,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800706587": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SG021411WHITE",
+      "originals_sha256": [
+        "d45c8ef492f2fc0b8125dcc5a6dfeb8bd33ad48895dfeefce592fe1579e5a127"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
