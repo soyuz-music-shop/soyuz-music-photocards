@@ -71924,7 +71924,7 @@
       ]
     },
     "5540172603": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SC875782BLUE",
       "originals_sha256": [
@@ -71934,7 +71934,12 @@
         "8efdeb2bea6b114cf8b055c2f2832229cfea0bb21aae3fb08414ce75f1f1f98a"
       ],
       "before_count": 4,
-      "task_id": 6117916476
+      "task_id": 6117916476,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
