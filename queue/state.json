@@ -74349,6 +74349,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503646528": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "B0023318-01",
+      "originals_sha256": [
+        "7a71b28074e7d226c150b978675c32470b728858535940710714afa234816f60",
+        "014d60da2bf2b751e60172b1ec833eed05055826502bde9ce049caecec7b70a5"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
