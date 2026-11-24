@@ -64072,13 +64072,14 @@
       ]
     },
     "3784564959": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BGP2319",
       "originals_sha256": [
         "f55046a4cd93a59a6088a4bdb7d309daa6171e675c5e67fe3a68288e7271475e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113163365
     }
   },
   "reason": null,
