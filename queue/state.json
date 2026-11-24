@@ -77746,14 +77746,19 @@
       ]
     },
     "6886114434": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CHURCH062",
       "originals_sha256": [
         "a3a4cdbe67558246c4a19237153404ef28872c343457ed1b801f929ae58ef836"
       ],
       "before_count": 1,
-      "task_id": 6118481912
+      "task_id": 6118481912,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
