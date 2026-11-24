@@ -60945,13 +60945,14 @@
       ]
     },
     "3562824681": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYLP298",
       "originals_sha256": [
         "bced6b80ad93b5f4c757fabe9e88d831fb051c1b65e662c60fef6a665ca42e14"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112444287
     }
   },
   "reason": null,
