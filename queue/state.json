@@ -76153,7 +76153,7 @@
       ]
     },
     "6799250428": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CO337834",
       "originals_sha256": [
@@ -76161,7 +76161,12 @@
         "b76c90e053c9ee01c4f1c45cd766c4cb208a2e87485dad53b2d4c8cf17f14a40"
       ],
       "before_count": 2,
-      "task_id": 6118331792
+      "task_id": 6118331792,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
