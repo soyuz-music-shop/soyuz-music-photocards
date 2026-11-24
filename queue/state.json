@@ -71840,6 +71840,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172593": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MIG03391TPWBWM",
+      "originals_sha256": [
+        "7da44936cc7bb1d00005e01ad26c868db4a31821c2e41feb67b81c82d6c6b070",
+        "b529f090ee52f0edca07db6b63e63193fc990c4dca1e83741adb39507d25f6b2",
+        "8ddf90dc4880018f81873220f27c29171f5cc77ee145ef4ce0582e6457ba50cc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
