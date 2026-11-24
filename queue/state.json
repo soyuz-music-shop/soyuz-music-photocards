@@ -67854,7 +67854,7 @@
       ]
     },
     "4385191292": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR56709CCSSCIW",
       "originals_sha256": [
@@ -67864,7 +67864,12 @@
         "ffa4bc3291edd31b050087a39104a036be810c88ebad25a53a340a475e0cf514"
       ],
       "before_count": 4,
-      "task_id": 6113774188
+      "task_id": 6113774188,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
