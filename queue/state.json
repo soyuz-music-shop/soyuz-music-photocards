@@ -62198,14 +62198,19 @@
       ]
     },
     "3563073919": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CRNOW 56",
       "originals_sha256": [
         "29834f26ad1baecc1e1df2c003cd124c4db6d2f4ba9fc0e983b8203f88c7f0d9"
       ],
       "before_count": 1,
-      "task_id": 6112696737
+      "task_id": 6112696737,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
