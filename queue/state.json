@@ -65152,14 +65152,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3784946098": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDTOP21610",
       "originals_sha256": [
         "eb66859ea39c590b0c0c91a5cca253a7ca9e2a2796e929b6f443944d0284e70d"
       ],
       "before_count": 1,
-      "task_id": 6113352883
+      "task_id": 6113352883,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
