@@ -67348,7 +67348,7 @@
       ]
     },
     "4385191171": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT208LPXBURGUNDY",
       "originals_sha256": [
@@ -67357,7 +67357,12 @@
         "51fa745746922d289e162911a97569908d40e9bea376b2109116daba9ccfa879"
       ],
       "before_count": 3,
-      "task_id": 6113701321
+      "task_id": 6113701321,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
