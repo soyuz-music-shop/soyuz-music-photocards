@@ -75810,13 +75810,14 @@
       ]
     },
     "6720792996": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ZEN285A",
       "originals_sha256": [
         "7fb076ede4c549ae97b7b32bbbabc1b07df618c824ba1089a7723e51b9fc3edd"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118298067
     }
   },
   "reason": null,
