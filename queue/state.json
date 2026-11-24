@@ -61095,13 +61095,14 @@
       ]
     },
     "3563073745": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "SOUM2CD577",
       "originals_sha256": [
         "ac7a10e73a2e9493680d468356a0f0acade33a24c5ad35759bc35ef0feb6de4c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112479718
     }
   },
   "reason": null,
