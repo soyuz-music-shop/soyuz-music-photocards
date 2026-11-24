@@ -75654,7 +75654,7 @@
       ]
     },
     "6720760485": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XL1414CD",
       "originals_sha256": [
@@ -75663,7 +75663,8 @@
         "b882afcf44de9c621e07e809dfeecff0c1e208a61146ef725987226211bef13e",
         "17bdf8179211fe46391bf4076b82794e637fef8839c569472f040ce2949db680"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118282650
     }
   },
   "reason": null,
