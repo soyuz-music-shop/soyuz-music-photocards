@@ -73373,7 +73373,7 @@
       ]
     },
     "5541364135": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "D004920702",
       "originals_sha256": [
@@ -73383,7 +73383,12 @@
         "9c51279eff85d511a6af44286c94f071710b04f934743985ec4529fc5f2e7291"
       ],
       "before_count": 4,
-      "task_id": 6118056134
+      "task_id": 6118056134,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
