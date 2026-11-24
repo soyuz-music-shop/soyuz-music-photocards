@@ -76865,13 +76865,14 @@
       ]
     },
     "6800629335": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PL291528",
       "originals_sha256": [
         "f5809086312a983602658ac757a7c2251ddc60f50edb1100c29b58c7e33b8734"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118401114
     }
   },
   "reason": null,
