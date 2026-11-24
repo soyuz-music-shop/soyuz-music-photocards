@@ -79668,6 +79668,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921008978": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TEXT025",
+      "originals_sha256": [
+        "96d54dce9349246d636eb9c2e49abafc785fc71aa64c505f042bd7452b0bdb5f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
