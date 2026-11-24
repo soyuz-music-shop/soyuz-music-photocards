@@ -72452,7 +72452,7 @@
       ]
     },
     "5540172690": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AR147611",
       "originals_sha256": [
@@ -72461,7 +72461,12 @@
         "295109f084197f9e35f5d991dba23883bbe6ae9d9c8f409ff714ee85de3418c7"
       ],
       "before_count": 3,
-      "task_id": 6117966396
+      "task_id": 6117966396,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
