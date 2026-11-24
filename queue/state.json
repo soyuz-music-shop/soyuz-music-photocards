@@ -79685,14 +79685,19 @@
       ]
     },
     "6921010950": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TEXT036",
       "originals_sha256": [
         "d0c1f359a356cfc83ab901040d2defee74e5c24a39a39115e2f8d7d73fa0ee44"
       ],
       "before_count": 1,
-      "task_id": 6118664159
+      "task_id": 6118664159,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
