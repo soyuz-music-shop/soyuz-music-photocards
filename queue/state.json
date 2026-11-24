@@ -57137,6 +57137,16 @@
         0.0,
         0.0
       ]
+    },
+    "3289551257": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QU644172",
+      "originals_sha256": [
+        "e69d1c710539381027e227ea15df52368ac3b770e6bbff31d661b4aeba6f38e5",
+        "9ce2c694452e8cd6140d2771d3404586cfa7964a8ee01a8521c5598591dcd6a1"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
