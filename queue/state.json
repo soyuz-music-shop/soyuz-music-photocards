@@ -60203,7 +60203,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824555": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "ExM014LPCS",
       "originals_sha256": [
