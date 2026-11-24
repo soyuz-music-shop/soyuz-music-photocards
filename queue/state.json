@@ -78121,14 +78121,19 @@
       ]
     },
     "6886210579": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DB591839",
       "originals_sha256": [
         "55a5e70e889e7a450e0acda11a2c0b2672b183a9c150fa3cd0c42fe210e66eac"
       ],
       "before_count": 1,
-      "task_id": 6118521981
+      "task_id": 6118521981,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
