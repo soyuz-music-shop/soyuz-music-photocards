@@ -63920,6 +63920,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564908": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CH65",
+      "originals_sha256": [
+        "dad69d69a572ceab36560945ea160bace817bea93236d848f940a327eb00546e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
