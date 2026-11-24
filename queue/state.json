@@ -70155,7 +70155,7 @@
       ]
     },
     "4462346497": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT362925",
       "originals_sha256": [
@@ -70169,7 +70169,12 @@
         "233d3ec53972bd6693ee4dd278c2c40fec1f5ea423541b7553d26213a570f945"
       ],
       "before_count": 8,
-      "task_id": 6117721196
+      "task_id": 6117721196,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
