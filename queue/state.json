@@ -68852,6 +68852,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191538": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1695110SILVER",
+      "originals_sha256": [
+        "311429b2ff2e8ff7f3a30d2080253f5c9d43932c6c5629d0e577a1c5b154a3a5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
