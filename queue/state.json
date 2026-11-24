@@ -73167,6 +73167,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540173074": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LC956117",
+      "originals_sha256": [
+        "ead79d9f1f5ea99b1bbbe1cb9ebef80ca467f0cde63f9139926b16f5c099e96c",
+        "962befe3131a84b5ea3e6a847b3a890b6d4977a2d9e9036c48102f7c966c31f1",
+        "b131a1f440d519d55cce2299f621a317db51672aae1fd36eb2bd90d3c320406d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
