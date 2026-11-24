@@ -61833,6 +61833,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073866": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ACMEM297CD",
+      "originals_sha256": [
+        "716803118aecf8a5e491d297454fb55842a1b18005a876808cb3fb015025701f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
