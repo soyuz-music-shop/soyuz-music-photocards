@@ -76679,6 +76679,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800589576": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT199CDX",
+      "originals_sha256": [
+        "883576ab1453a86e1b887f78347488a6104957e9faefe774117c9cb7d45305a0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
