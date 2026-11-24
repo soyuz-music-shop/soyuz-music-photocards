@@ -58095,14 +58095,19 @@
       ]
     },
     "3296659187": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SECLP238",
       "originals_sha256": [
         "067819910e78d231f57f6dd946cb4eb5cbfdeb2140bce095918f4ee5aa4467e4"
       ],
       "before_count": 1,
-      "task_id": 6111944910
+      "task_id": 6111944910,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
