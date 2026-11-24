@@ -65117,13 +65117,14 @@
       ]
     },
     "3784946091": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDKEND444",
       "originals_sha256": [
         "f5eb534df33f83a4947e7db4c3195613c1d703d6eb0dfd0d0a4b501a1b8364ad"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113347069
     }
   },
   "reason": null,
