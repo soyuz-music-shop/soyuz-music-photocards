@@ -71464,7 +71464,7 @@
       ]
     },
     "5540172523": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JB477018",
       "originals_sha256": [
@@ -71472,7 +71472,12 @@
         "104fb6dba2960bba5418285409627c5ff3f3165a90ad5972c5a9c4775de30786"
       ],
       "before_count": 2,
-      "task_id": 6117869789
+      "task_id": 6117869789,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
