@@ -71363,7 +71363,7 @@
       ]
     },
     "5540172498": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RBR84249TR",
       "originals_sha256": [
@@ -71372,7 +71372,8 @@
         "547fd60e086978767fdb1af02474d2587391927022ade66a68beb717f18dfdcc",
         "950af1e2801b37e6db7ecb9002941a47273c1292eae1584669f59f3eccf7deb6"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117860580
     }
   },
   "reason": null,
