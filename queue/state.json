@@ -78134,6 +78134,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886212649": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DE828418RED",
+      "originals_sha256": [
+        "35be808a831ae63702f77aef44a6a93329c913722acc3752f7669e12c30e13ed"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
