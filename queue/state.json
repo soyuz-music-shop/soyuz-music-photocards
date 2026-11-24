@@ -62391,6 +62391,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073954": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QECLEC2900",
+      "originals_sha256": [
+        "e1a4703839335306d397b804f6b5bebe757a27d2aae2a9dd74326f053a32d2b7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
