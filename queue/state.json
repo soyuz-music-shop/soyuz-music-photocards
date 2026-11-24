@@ -64426,6 +64426,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565060": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CH86",
+      "originals_sha256": [
+        "cda066382a6be55e124d19a2cdcd0f927ff2c120d1d9b13fe0cfcc5ebfffc7a6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
