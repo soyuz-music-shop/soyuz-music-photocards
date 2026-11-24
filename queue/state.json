@@ -79715,14 +79715,19 @@
       ]
     },
     "6921013021": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "W 920",
       "originals_sha256": [
         "464b54608e2ae37be8cd8a495a2bb720c97e3fe200727e3d8d4b732ab0278ac1"
       ],
       "before_count": 1,
-      "task_id": 6118667148
+      "task_id": 6118667148,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
