@@ -60153,14 +60153,19 @@
       ]
     },
     "3562700265": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC 2646",
       "originals_sha256": [
         "531d31b8daa6fb58832ff40c9b85768d8ab844a8e7f335c4b999c0917e90acbc"
       ],
       "before_count": 1,
-      "task_id": 6112286297
+      "task_id": 6112286297,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
