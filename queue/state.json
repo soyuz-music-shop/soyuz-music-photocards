@@ -75563,6 +75563,21 @@
         0.0,
         0.0
       ]
+    },
+    "6720745007": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SM359074UC",
+      "originals_sha256": [
+        "372567473136be4832b2bff154c660442f6d2347116ed1c261de2c9dfdf33c58",
+        "624741d9ef83a97c19b694e3f977d2ce85171d466a5657573c0a4322fcbf335e",
+        "48ac9546cc27381279bb7bca47258cb344de82b00c8516a1b6af09c285c52d9b",
+        "a0d7dde3cbd5336389ad60d40abfedea7c4fb69da042b20bd84008200761fbc8",
+        "0e2173e49e4fb156b80fadb001af7479b07fb264e7911183e5c587bcbbdfd1ca",
+        "836c866df7523b7efd1872e5626105468e88896fd8e9536b5f351340df06522f",
+        "05e004d6847ac81d377bb32a0d5ec75b382a3609b51203db88612f1d4fdd90a5"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
