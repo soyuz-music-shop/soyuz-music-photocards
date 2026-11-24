@@ -62638,14 +62638,19 @@
       ]
     },
     "3576109573": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DISS0108CDD",
       "originals_sha256": [
         "118d129110b61350ca0bc5ccaebb3f298e30af6058fdf84c3ed6733bbb5ee7a9"
       ],
       "before_count": 1,
-      "task_id": 6112790529
+      "task_id": 6112790529,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
