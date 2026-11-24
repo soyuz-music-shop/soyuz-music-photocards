@@ -56492,14 +56492,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3277020222": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SPT007439",
       "originals_sha256": [
         "1bbc23ad967e386634cd8e513032fd6480bea531fbd2910e31c3be693f17c4eb"
       ],
       "before_count": 1,
-      "task_id": 6111724586
+      "task_id": 6111724586,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
