@@ -72932,7 +72932,7 @@
       ]
     },
     "5540172817": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GHD6628",
       "originals_sha256": [
@@ -72940,7 +72940,12 @@
         "0317eae7792c6ccbb1d2c99e67c3368d407a8a17824a152200c08900e4d6d6c2"
       ],
       "before_count": 2,
-      "task_id": 6118007589
+      "task_id": 6118007589,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
