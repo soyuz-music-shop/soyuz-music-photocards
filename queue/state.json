@@ -69579,6 +69579,20 @@
         0.0,
         0.0
       ]
+    },
+    "4385191782": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SC881349RT",
+      "originals_sha256": [
+        "9ba2e80e951100a553b5367399fa10950890b12d0684c55ebb3fa93b2485c22a",
+        "bd2d45ffa8aa692e40ccf9f87a2a6765245625e7c73e899e938dfedfdb2a5fcb",
+        "bd2896d136432f9ea0cba89459bc1a8c6137c3c445fc42e1d9d90249a6c6e4a9",
+        "a985eb7b9d9a6c71118aea8675927b32a912bae11a5288200c796964466932fe",
+        "00e9b2e375fabef042918ffde9ca58eb5812cda2575c63ba92a055e0f2f1ac43",
+        "b0454ca1e5d66a403980894e66df469ff6046e6b56046d1acc39060590c5ccae"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
