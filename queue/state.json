@@ -65167,14 +65167,19 @@
       ]
     },
     "3784946099": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWKM2275",
       "originals_sha256": [
         "cecf8ae7aa6487402a3032b171f94524067e5e650485b1f54f6e33e09d185275"
       ],
       "before_count": 1,
-      "task_id": 6113356149
+      "task_id": 6113356149,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
