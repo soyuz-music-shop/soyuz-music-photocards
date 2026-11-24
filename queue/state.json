@@ -69648,7 +69648,7 @@
       ]
     },
     "4449105257": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WPZR-31082",
       "originals_sha256": [
@@ -69659,7 +69659,12 @@
         "a14493e16ca9ed356734e6485c9d05d5282eb62b6a12afed8ff2d123b339be80"
       ],
       "before_count": 5,
-      "task_id": 6114103575
+      "task_id": 6114103575,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
