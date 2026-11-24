@@ -76401,14 +76401,19 @@
       ]
     },
     "6799323954": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LP950486",
       "originals_sha256": [
         "087059bc9b92a2f9d43675371618235ba163b5500cb027f023877ae556dc7571"
       ],
       "before_count": 1,
-      "task_id": 6118358998
+      "task_id": 6118358998,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
