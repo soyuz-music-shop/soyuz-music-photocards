@@ -69617,13 +69617,14 @@
       ]
     },
     "4385191803": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCV147447RT",
       "originals_sha256": [
         "8d32f69c6915d51552252307b6a51e43e6d9108c1d8ca579abd8bcff0bdad4cf"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114097248
     }
   },
   "reason": null,
