@@ -76386,14 +76386,19 @@
       ]
     },
     "6799320198": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2-535334 / 8122-79557-5",
       "originals_sha256": [
         "389a8bf84483363257e894f8dfdcaf3d1bc207d8b23546a55da44ca230fe5438"
       ],
       "before_count": 1,
-      "task_id": 6118357721
+      "task_id": 6118357721,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
