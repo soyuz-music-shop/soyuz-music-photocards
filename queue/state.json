@@ -76556,6 +76556,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799366152": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MO855427",
+      "originals_sha256": [
+        "8f77ecd0e3432db19f80fa252b7658256c764334f8d535dfc5d9de1ed9f03056"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
