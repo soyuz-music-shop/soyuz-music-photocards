@@ -69341,6 +69341,19 @@
         0.0,
         0.0
       ]
+    },
+    "4385191676": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SC839415TRANSPARENT",
+      "originals_sha256": [
+        "cb2e56eb9dfcb38990ad84a7eda11c509b43f195cbd2414c87ce30128ebf94bf",
+        "4ec0e805ebc880a2c3569789a18981dc932e7431086956bef531a8c7b7781c7a",
+        "141ccac2f168f481b7bbecdc3b09c41e97e6a7d6bd89195467969a2387984882",
+        "14ec6a0753196245b482783d3084817460be0da3d29d35fce2f3c798b0fa938a",
+        "5bc2e1e28d2b5889d4830c5b2b507acd813c9fcd859b8e38ba39f774efe7a5da"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
