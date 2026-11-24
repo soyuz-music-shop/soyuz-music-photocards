@@ -76711,14 +76711,19 @@
       ]
     },
     "6800595820": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NCTBS573123",
       "originals_sha256": [
         "7add08f23c2755007cbdc076e5027ed2ccf4386c49661ed61e1562e0f040e16d"
       ],
       "before_count": 1,
-      "task_id": 6118386603
+      "task_id": 6118386603,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
