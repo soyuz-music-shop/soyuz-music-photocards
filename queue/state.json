@@ -67585,14 +67585,19 @@
       ]
     },
     "4385191213": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XLLP583",
       "originals_sha256": [
         "1f7403567b320693d683b832cf2fad147d1765766f49fb3861f8251187b8557f"
       ],
       "before_count": 1,
-      "task_id": 6113735763
+      "task_id": 6113735763,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
