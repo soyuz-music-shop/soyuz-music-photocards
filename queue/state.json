@@ -72274,6 +72274,19 @@
         0.0,
         0.0
       ]
+    },
+    "5540172653": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GM342516RBM",
+      "originals_sha256": [
+        "52ad1b2d2dc228572fb3daecbef9f2e250a7abf5fccd2c8f8f0856db51d0ae02",
+        "e51342e040fd43e8acb207764a2d8eef3499b49f5188538b190aa405257ff809",
+        "f1eb768883e40c93bbdbf60c0ed47ff0c02474e30b6d29cda82417b9d6e7b73f",
+        "5e20f71790831f42ebbc0f4bae05d5bbcdc3f4682e1c154472980022f609aeb5",
+        "8047cbd49e42bd06be5db733a2b6c6f8e6f96b6030f484002b5eb4fff62bd7b4"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
