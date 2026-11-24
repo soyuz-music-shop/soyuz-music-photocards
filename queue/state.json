@@ -79761,13 +79761,14 @@
       ]
     },
     "6921019602": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JS015028",
       "originals_sha256": [
         "5d19e097d38d2414cece7cb4ecf1ac16323b38d6d95f5bd9b06ce145a95b8c4b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118670034
     }
   },
   "reason": null,
