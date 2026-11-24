@@ -80077,13 +80077,14 @@
       ]
     },
     "6921061862": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MCR827337",
       "originals_sha256": [
         "abc175a0d9f1e57e20a6244cf3b712b83505463956ff920678f8fd1026ab1766"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118703925
     }
   },
   "reason": null,
