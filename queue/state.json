@@ -75652,6 +75652,18 @@
         0.0,
         0.0
       ]
+    },
+    "6720760485": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "XL1414CD",
+      "originals_sha256": [
+        "c01899780db3897bfca225e2d3278039f247ec9213f2ee630432e59d956d5950",
+        "6f242a1f5684c43470e30dd7a0a6795b2668ecde98952f29fe83caa46b8486e0",
+        "b882afcf44de9c621e07e809dfeecff0c1e208a61146ef725987226211bef13e",
+        "17bdf8179211fe46391bf4076b82794e637fef8839c569472f040ce2949db680"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
