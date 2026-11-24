@@ -62548,13 +62548,14 @@
       ]
     },
     "3576109559": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DISS075CDD",
       "originals_sha256": [
         "c3aa87b4651150405fe2c5a602a02f6be4f78938e4de8a535726ce674da25db5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112771323
     }
   },
   "reason": null,
