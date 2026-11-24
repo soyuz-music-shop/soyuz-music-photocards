@@ -79896,13 +79896,14 @@
       ]
     },
     "6921040381": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MA821304",
       "originals_sha256": [
         "30d6431a1985567c65e913b82140b21d83fc74e7aa90cd8be8045b61e8125874"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118680726
     }
   },
   "reason": null,
