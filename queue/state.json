@@ -72616,7 +72616,7 @@
       ]
     },
     "5540172731": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WWSLP82",
       "originals_sha256": [
@@ -72624,7 +72624,12 @@
         "a16d4087e9081e12085a5e8adc1a1bc931cfc0cfb307e48e69e5e7fbff5df9b9"
       ],
       "before_count": 2,
-      "task_id": 6117983501
+      "task_id": 6117983501,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
