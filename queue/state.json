@@ -68854,13 +68854,14 @@
       ]
     },
     "4385191538": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "R1695110SILVER",
       "originals_sha256": [
         "311429b2ff2e8ff7f3a30d2080253f5c9d43932c6c5629d0e577a1c5b154a3a5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113949516
     }
   },
   "reason": null,
