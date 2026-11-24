@@ -71562,7 +71562,7 @@
       ]
     },
     "5540172548": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LC353315",
       "originals_sha256": [
@@ -71570,7 +71570,12 @@
         "9dd6aa732e89be5dec9e45b76365557baf0464d67940b76be368aaedd14c4120"
       ],
       "before_count": 2,
-      "task_id": 6117878778
+      "task_id": 6117878778,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
