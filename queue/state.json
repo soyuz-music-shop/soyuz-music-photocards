@@ -79274,7 +79274,7 @@
       ]
     },
     "6920929620": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "import-vinyl-info",
       "offer_id": "WAP200R",
       "originals_sha256": [
@@ -79284,7 +79284,7 @@
       "task_id": 6118622767,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "6920932328": {
       "status": "verified",
