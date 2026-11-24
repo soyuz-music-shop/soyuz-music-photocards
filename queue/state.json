@@ -69094,13 +69094,14 @@
       ]
     },
     "4385191585": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EM762512TRB",
       "originals_sha256": [
         "c59fd76f0d63db4ecde8cb0bd9e36c5b1fee7ebd065ec75b587252c74350a2b0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113994532
     }
   },
   "reason": null,
