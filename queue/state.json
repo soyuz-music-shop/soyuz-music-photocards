@@ -61475,13 +61475,14 @@
       ]
     },
     "3563073786": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GLAM CD 127",
       "originals_sha256": [
         "8c995767efe1e00413b724c091b795531f5857f5e6f62d371b6029d7d3807a7f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112553867
     }
   },
   "reason": null,
