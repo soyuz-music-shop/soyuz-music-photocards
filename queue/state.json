@@ -71124,7 +71124,7 @@
       ]
     },
     "5540172455": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AIC486910HY",
       "originals_sha256": [
@@ -71138,7 +71138,12 @@
         "31c39b1aa158ed4a12320af677f0a13ea76e57edd20b70b57f062b41dec589a3"
       ],
       "before_count": 8,
-      "task_id": 6117835495
+      "task_id": 6117835495,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
