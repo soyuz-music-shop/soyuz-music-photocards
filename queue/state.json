@@ -77565,7 +77565,7 @@
       ]
     },
     "6800772114": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "VE899683BLUE",
       "originals_sha256": [
@@ -77574,7 +77574,8 @@
         "b15f1bff2080bfbc373b78f3b69832942663095bc849da8068e52681387beda1",
         "92d156dd7fc564e207f5573eef22313c40f8da97c01025fec90d2820f08ce1e0"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118460529
     }
   },
   "reason": null,
