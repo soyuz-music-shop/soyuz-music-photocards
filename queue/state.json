@@ -65557,14 +65557,19 @@
       ]
     },
     "3784946176": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDKEND465",
       "originals_sha256": [
         "e8e91dad9ac2aa764feeb8d281eca7d4b922efcd430654fed399cf45ae1cfb4a"
       ],
       "before_count": 1,
-      "task_id": 6113428550
+      "task_id": 6113428550,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
