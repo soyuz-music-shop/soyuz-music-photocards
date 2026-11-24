@@ -80616,6 +80616,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317634": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WE500712",
+      "originals_sha256": [
+        "6c81233c5ff29a570c837f5fa027b2f21f2dcc16f6557c72c52fdf104add026f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
