@@ -73336,6 +73336,16 @@
         0.0,
         0.0
       ]
+    },
+    "5541364123": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MJ380023",
+      "originals_sha256": [
+        "9461624a86cbe98389bf24fff0c100f8923b31e3eda20951c86e9d6fb8a9d005",
+        "4d284ea489e2d6b4051972d8555f05121ad051e214df441d4c79239d121920dc"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
