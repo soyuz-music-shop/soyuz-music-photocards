@@ -64476,13 +64476,14 @@
       ]
     },
     "3784565072": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAM1",
       "originals_sha256": [
         "cd277ff7ae6688995744178aca4004d8e7ee7d52069636c6f76fea1a5829f473"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113238927
     }
   },
   "reason": null,
