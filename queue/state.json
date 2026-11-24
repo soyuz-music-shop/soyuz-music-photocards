@@ -78571,13 +78571,14 @@
       ]
     },
     "6886306020": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MM589393SR",
       "originals_sha256": [
         "71b54810c79137fa3bf7b667c609844ccbb37b85ce14ec4216e10a465041a3f6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118563558
     }
   },
   "reason": null,
