@@ -73439,7 +73439,7 @@
       ]
     },
     "5541364261": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BHE0753RIM",
       "originals_sha256": [
@@ -73451,7 +73451,12 @@
         "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
       ],
       "before_count": 6,
-      "task_id": 6118067795
+      "task_id": 6118067795,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
