@@ -62681,6 +62681,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109577": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "GLAMCD68",
+      "originals_sha256": [
+        "9dcd0514737045c574f83fda234266bf59f3a817d43f2ab2fbad4881bf1975d3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
