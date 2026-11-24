@@ -80015,6 +80015,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921055767": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MO829775RR",
+      "originals_sha256": [
+        "a3adf72d9c4c6d65761760da3e7d4c58a07378ade117dc6490b717c05b2ebef2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
