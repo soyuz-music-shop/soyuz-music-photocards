@@ -72598,6 +72598,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172730": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AMLK6162",
+      "originals_sha256": [
+        "6c0f68fcaa4ca108339be5f53ed551a726a8479f05a165ea9d6d72f10950f090",
+        "d979a0efcf386e455efd0dd8cf48381e3fb8580888792df19875c97cdb4d3f70"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
