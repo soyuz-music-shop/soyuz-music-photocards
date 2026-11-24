@@ -76319,6 +76319,17 @@
         0.0,
         0.0
       ]
+    },
+    "6799302315": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KM703207",
+      "originals_sha256": [
+        "45febed40cf5296fdc18836c2933ea8f9c655ffe9291658ca39c13659c688025",
+        "3f435dd50726c10a9718630459fed1fa5e040090946d2d1b6a75825fea1d66b7",
+        "84e0d6f3f32aa20d52abb4ed03368493c8f23ee8e11c589e86b9739d10defeca"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
