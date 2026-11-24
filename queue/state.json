@@ -78917,6 +78917,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886367195": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WARCHILD16CD",
+      "originals_sha256": [
+        "7507b80a077b3c2bd0e69da387360add818ff9b357cabd786009fed3008d03bc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
