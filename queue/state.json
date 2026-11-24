@@ -65752,14 +65752,19 @@
       ]
     },
     "3784946242": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "VMD79594",
       "originals_sha256": [
         "5f2cb8db66fed0e30aa77a5c3d2981a3249969a921c56a95b1275579c4a39553"
       ],
       "before_count": 1,
-      "task_id": 6113457256
+      "task_id": 6113457256,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
