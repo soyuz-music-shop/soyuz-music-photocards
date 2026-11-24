@@ -76603,14 +76603,15 @@
       ]
     },
     "6799378178": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CR00207",
       "originals_sha256": [
         "5666fde84b81690a846aa328688f2ae69e135b20aca02caa842cfe3c5beddfb6",
         "de8a1915760d32640e364b6dad18e7f54c71ccaafa0795949f745608bb883c80"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118375338
     }
   },
   "reason": null,
