@@ -59384,14 +59384,19 @@
       ]
     },
     "3318706820": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ICARUS 1479",
       "originals_sha256": [
         "d005938cdec2a7db5d6b7b9d4155e5cb42af5070068206ae447dedf8d89a3557"
       ],
       "before_count": 1,
-      "task_id": 6112153246
+      "task_id": 6112153246,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
