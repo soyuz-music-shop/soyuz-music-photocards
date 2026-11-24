@@ -72798,6 +72798,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172760": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LC353612",
+      "originals_sha256": [
+        "6e9fd077d97f6074611813298d6d502a8bb134491427c5b0092b38a3945df4e7",
+        "5a093da76e2b576ac264afd387e9894f7d3ee4f75c1031fe4c7b230ccad384df",
+        "ee5189cb8f18263f0998eea08a1a0daafeb1d23b89bc6e285be28776b4a2b09e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
