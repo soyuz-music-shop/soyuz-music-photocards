@@ -59227,6 +59227,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706795": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD15",
+      "originals_sha256": [
+        "67cfce322407dc8af41a945b5310d8ddb530a031896f1458d395f3cf497eeac6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
