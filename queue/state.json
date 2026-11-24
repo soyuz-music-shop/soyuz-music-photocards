@@ -62286,6 +62286,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073939": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RPMBX 540",
+      "originals_sha256": [
+        "158ab6301dd0d8b7d1b9204c9cc3f1ffd14a29b0326e8a777de05d693f469c59"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
