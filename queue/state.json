@@ -79023,6 +79023,16 @@
         0.0,
         0.0
       ]
+    },
+    "6920893272": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VR4404",
+      "originals_sha256": [
+        "5b5af59c5c01af1a95bc08df24fa245ab75c389c0efcab24c89ee780f9d4045e",
+        "62623613c04346a2e0b28a6015a655e9ff46ee44f8dd1e386f39fbf701ffa73a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
