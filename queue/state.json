@@ -79804,6 +79804,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921028656": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "KO171520",
+      "originals_sha256": [
+        "d9ad53994949b3fdbb6b9f40f812793eb40e49572832a29ec4f9a7b038891493"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
