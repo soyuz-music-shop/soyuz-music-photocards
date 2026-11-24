@@ -71215,7 +71215,7 @@
       ]
     },
     "5540172477": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LC353810",
       "originals_sha256": [
@@ -71223,7 +71223,12 @@
         "fa722984829a2f1c1a7acc769ad413b537a618c9bf5abe406bac027361b84616"
       ],
       "before_count": 2,
-      "task_id": 6117844973
+      "task_id": 6117844973,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
