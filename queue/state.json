@@ -76787,13 +76787,14 @@
       ]
     },
     "6800612437": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OP291221",
       "originals_sha256": [
         "897528f1c4134406df91149720243b744a9c7e4a09f3d6d3ba4767504224add4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118394153
     }
   },
   "reason": null,
