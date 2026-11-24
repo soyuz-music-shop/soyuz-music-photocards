@@ -67182,6 +67182,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191129": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FACT.50",
+      "originals_sha256": [
+        "d88af4e0163eb669a191aaea6b74d56e3c688e09270f04ff278686dc35ef3a45"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
