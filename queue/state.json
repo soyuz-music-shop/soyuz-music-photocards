@@ -74244,7 +74244,7 @@
       ]
     },
     "6503622654": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FKACD0075678596599",
       "originals_sha256": [
@@ -74252,7 +74252,8 @@
         "43447a88e6681c9a5f46b6f221d2a6eff09edb0745d55b4234ae343a7a116176",
         "27e48b876bb154b84b44945402265d9c422198cd6803b965636a027f0f1a09b3"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118144639
     }
   },
   "reason": null,
