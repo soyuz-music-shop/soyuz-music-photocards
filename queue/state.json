@@ -60793,13 +60793,14 @@
       ]
     },
     "3562824662": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED744X",
       "originals_sha256": [
         "ea678f238322cdd3619e5c028a1901f346c783d8387ff5cd566a1c478fbb49af"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112412085
     }
   },
   "reason": null,
