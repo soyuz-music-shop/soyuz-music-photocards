@@ -76664,7 +76664,7 @@
       ]
     },
     "6799398873": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LVB138881",
       "originals_sha256": [
@@ -76673,7 +76673,12 @@
         "13f95ec732c37396f7929bd1fa0d1a75241679372384019c5ec95510f2373a97"
       ],
       "before_count": 3,
-      "task_id": 6118382139
+      "task_id": 6118382139,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
