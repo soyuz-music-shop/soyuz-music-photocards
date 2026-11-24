@@ -57388,14 +57388,19 @@
       ]
     },
     "3296659000": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV837LPLTD",
       "originals_sha256": [
         "a55a675cafbe366d561547fddcbd99f9d7ec4db6a13ff041497ed8d9ab596fe5"
       ],
       "before_count": 1,
-      "task_id": 6111860461
+      "task_id": 6111860461,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
