@@ -70192,13 +70192,14 @@
       ]
     },
     "4462415532": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RR7545-5",
       "originals_sha256": [
         "ce3c73988f5bf84412aa86f8a6b7ac13481bc15983e320d0dc36d46084de71c3"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117724574
     }
   },
   "reason": null,
