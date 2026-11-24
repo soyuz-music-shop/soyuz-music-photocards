@@ -79565,14 +79565,19 @@
       ]
     },
     "6920987320": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EA933210",
       "originals_sha256": [
         "94da553dcbec06d519a7a95f8fdb2161a0a78a7f9410b593563fcf32dc720040"
       ],
       "before_count": 1,
-      "task_id": 6118653481
+      "task_id": 6118653481,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
