@@ -76052,6 +76052,17 @@
         0.0,
         0.0
       ]
+    },
+    "6799207277": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BO840025",
+      "originals_sha256": [
+        "a22932ea4da50434a6e6f163f33f8825ca916c7eca1a2193f1056c6914d5a77f",
+        "25f084c2b0b032515ed2065793df59cbea95cc6b1cf5db936981e7cd299151ed",
+        "77e566e5d90aa5663772be25b9b09a489ccb0561550ef2b9816f4abca2d1662b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
