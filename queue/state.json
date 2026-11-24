@@ -58648,6 +58648,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541200": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MANN 020",
+      "originals_sha256": [
+        "875948595fdfe4eb3889a51a4815a5b491069f20b77066cddb4c6b7d9bcd4b15"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
