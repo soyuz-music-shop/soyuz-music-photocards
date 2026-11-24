@@ -72566,6 +72566,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172715": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MJ107011SR",
+      "originals_sha256": [
+        "d1b23ea7a61e601ca966836f3f07b353963b95e2ccb5e326ee0bc12ba2012d4d",
+        "87f7911920887913286e2fe51b5755167ad039e93e42d73a9f392206641f4d53"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
