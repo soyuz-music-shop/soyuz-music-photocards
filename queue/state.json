@@ -63028,13 +63028,14 @@
       ]
     },
     "3576109627": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PECLEC22645",
       "originals_sha256": [
         "32ca9e52fdc11e0de13dd9337255e2426c984a9f5b5adbcad8d2c81362dbf7de"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112874992
     }
   },
   "reason": null,
