@@ -65978,13 +65978,14 @@
       ]
     },
     "3784946297": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RWCD38",
       "originals_sha256": [
         "8963333798e4d1ce3c5deca9ecd12cf619e6b16a1ee1b60837f8ac4387de957c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113489983
     }
   },
   "reason": null,
