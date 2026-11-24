@@ -57569,13 +57569,14 @@
       ]
     },
     "3296659037": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBCV 0710",
       "originals_sha256": [
         "df95d2433f9d2f1ee12342be0fa90ee4fbdb8aa9ca0995ca5f3239bf31a9d16a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111880751
     }
   },
   "reason": null,
