@@ -77490,14 +77490,19 @@
       ]
     },
     "6800755484": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XX001421",
       "originals_sha256": [
         "eaf950d6b5283787436b8efc601b149ecd7bcf462f49adfa8cb15dc7f7196a81"
       ],
       "before_count": 1,
-      "task_id": 6118451510
+      "task_id": 6118451510,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
