@@ -58371,13 +58371,14 @@
       ]
     },
     "3296659270": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMLP66618",
       "originals_sha256": [
         "03ace0704abe1bc55914db91031d49f694dc8caef0b3f5c8cab4e66ce0b29d2a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111981523
     }
   },
   "reason": null,
