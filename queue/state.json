@@ -67036,7 +67036,7 @@
       ]
     },
     "4175415642": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TPLP2008CD",
       "originals_sha256": [
@@ -67046,7 +67046,12 @@
         "1430c5b4fca437efef829edce08cf28ca67e611440efef6999c84e58b422ca38"
       ],
       "before_count": 4,
-      "task_id": 6113662433
+      "task_id": 6113662433,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
