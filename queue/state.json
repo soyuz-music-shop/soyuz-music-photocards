@@ -58264,14 +58264,19 @@
       ]
     },
     "3296659227": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SMALP1255",
       "originals_sha256": [
         "63b0f0b667e1526a37a618738c32761c7e310690a56cbfe9310d6857750a8f05"
       ],
       "before_count": 1,
-      "task_id": 6111966215
+      "task_id": 6111966215,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
