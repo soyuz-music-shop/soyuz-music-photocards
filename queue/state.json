@@ -71122,6 +71122,22 @@
         0.0,
         0.0
       ]
+    },
+    "5540172455": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AIC486910HY",
+      "originals_sha256": [
+        "fac51ef5b8a88b983831bf088fb5c9e960694bc5c5679790e87020aae4973a70",
+        "c920ecf63cc3d12694c809dc91e80f975ebc40e0647d92a9bf504386ed5a5335",
+        "357b19ff1f4b23766d89d2f6033fde5b2adaae1e17e9e87902b75ff0ddd03a78",
+        "2675bbe5bc1f79927b0e89223b327c031455d7cbf0b13fc0e0782ce17e956738",
+        "3cb8d22a17e2ee69e278cf6fe5ead1412a28ad953fd3409b9f0f496c0d2e3a9c",
+        "73db987c391643f4adfe85a28760f12bf42d7bce6c5e2b395ba8b623a6e6efe8",
+        "8dad3c7dc55a120c51e94a1b6994ca349783570de22f55deee252cd9f692d27d",
+        "31c39b1aa158ed4a12320af677f0a13ea76e57edd20b70b57f062b41dec589a3"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
