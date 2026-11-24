@@ -60731,6 +60731,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824639": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BREDD895",
+      "originals_sha256": [
+        "d2ec53a3cc40a596e2615d047831f8e6afd65c726a789968dd46062a4ddf1768"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
