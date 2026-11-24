@@ -59018,14 +59018,19 @@
       ]
     },
     "3318706772": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ICARUS 1482",
       "originals_sha256": [
         "9b4864686415f4d7f6950b6f92b5569e87b97286e5c5e1bf906d0fab6c830657"
       ],
       "before_count": 1,
-      "task_id": 6112083178
+      "task_id": 6112083178,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
