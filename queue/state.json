@@ -62518,13 +62518,14 @@
       ]
     },
     "3576109554": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MANTCD1006",
       "originals_sha256": [
         "639b61699a11171aff54020be6b76e87462b7a16e6f707d30dbc00b796aad3d9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112765129
     }
   },
   "reason": null,
