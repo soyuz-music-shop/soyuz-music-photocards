@@ -67429,13 +67429,14 @@
       ]
     },
     "4385191193": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "R1727117",
       "originals_sha256": [
         "5af4630ec48d459f406572f60b9bdd31cc977cd3d72e1baea46c3ea4fb9f3677"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113713712
     }
   },
   "reason": null,
