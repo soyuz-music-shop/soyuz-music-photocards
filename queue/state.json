@@ -57012,6 +57012,15 @@
         0.0,
         0.0
       ]
+    },
+    "3283959766": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OO204221",
+      "originals_sha256": [
+        "2896c7ad1baf2944291fc6682c1bc13fd67c254c24bd27471e925f27e5e52e7f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
