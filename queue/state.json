@@ -72979,6 +72979,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172824": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ON-ULP84",
+      "originals_sha256": [
+        "ddc31c551590a9db1f8efad28a6803c818c8aa0b60fc5312060880477ee7416a",
+        "43b7637588566b28b20879ee421e0dba73c2ed4f83dd51386a10959a510787a3"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
