@@ -61743,6 +61743,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073835": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRPOPBOX201",
+      "originals_sha256": [
+        "0d0d0787be739bcd755bd96157081f85b37e7ef3e9d0b5768614cbf7eaf7e9f3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
