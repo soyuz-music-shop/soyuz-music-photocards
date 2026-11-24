@@ -57714,14 +57714,19 @@
       ]
     },
     "3296659065": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MF522272",
       "originals_sha256": [
         "19074f46d06186ce317436053f51a5104932ab35521595e3a409705f5e6bd08c"
       ],
       "before_count": 1,
-      "task_id": 6111897946
+      "task_id": 6111897946,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
