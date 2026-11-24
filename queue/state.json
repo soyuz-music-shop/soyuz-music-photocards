@@ -69698,6 +69698,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462121849": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JAG301",
+      "originals_sha256": [
+        "aac3d6200aa154a78a8e01e4ff6e8fdc7e81dc6bdcc05e6ba12748ec50ed0a87"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
