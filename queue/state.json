@@ -59212,6 +59212,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706794": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB 4173-2",
+      "originals_sha256": [
+        "b38e953c6830377691c0610c37110911c94a5c37925681c4cd7980db1dc9fc44"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
