@@ -77047,6 +77047,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800669795": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RATM222429",
+      "originals_sha256": [
+        "f1e0058763017702eaee5d0f3c4358ef01135719cfd2bd7d89f13b0cc2646da1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
