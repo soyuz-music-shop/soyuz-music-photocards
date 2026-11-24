@@ -72347,7 +72347,7 @@
       ]
     },
     "5540172667": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TA536592",
       "originals_sha256": [
@@ -72356,7 +72356,12 @@
         "d29e21b95fe001cdba7d0e1c79f70846e29a7129232ce920d3aae549f1a80854"
       ],
       "before_count": 3,
-      "task_id": 6117955810
+      "task_id": 6117955810,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
