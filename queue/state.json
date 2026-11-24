@@ -73220,7 +73220,7 @@
       ]
     },
     "5540173434": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BONF011",
       "originals_sha256": [
@@ -73229,7 +73229,12 @@
         "34fd62bf1fac69ddad4edb24689a125f4d996f7ff7b2f109655de55bd0730d80"
       ],
       "before_count": 3,
-      "task_id": 6118037981
+      "task_id": 6118037981,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
