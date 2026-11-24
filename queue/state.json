@@ -60686,6 +60686,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3562824631": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PCRPOPLP212XCBS",
+      "originals_sha256": [
+        "e5c93e32e1cb74538598b8d2a9a062235bb75106e4f13c69f1e2187934ce91ac"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
