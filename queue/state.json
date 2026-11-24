@@ -69989,13 +69989,14 @@
       ]
     },
     "4462183038": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WI694366",
       "originals_sha256": [
         "9c2595fe065a8fad889c421edac42ef878640992df489faccd61a9b40cef66bd"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114174546
     }
   },
   "reason": null,
