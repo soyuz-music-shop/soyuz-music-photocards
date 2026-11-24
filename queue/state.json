@@ -58775,14 +58775,19 @@
       ]
     },
     "3318541232": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD17",
       "originals_sha256": [
         "1f7cee4ad1ebf9be16cc4efd45a315e0bbf39f2211e1b3445672535224c60f3e"
       ],
       "before_count": 1,
-      "task_id": 6112043916
+      "task_id": 6112043916,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
