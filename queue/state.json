@@ -67553,6 +67553,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191210": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV5725398UC",
+      "originals_sha256": [
+        "5b97635187eff4fc54f42da7a54d6e45a87a9c537b5410b71a9891c4d2d41b20"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
