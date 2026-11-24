@@ -65602,13 +65602,14 @@
       ]
     },
     "3784946181": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTAK8907",
       "originals_sha256": [
         "846858f84a3fbd837160e800416363928e418694914ba4c3249f1ef381b1e43c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113436333
     }
   },
   "reason": null,
