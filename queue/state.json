@@ -57834,6 +57834,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659101": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AF0007",
+      "originals_sha256": [
+        "59f36045113de2f5c0ee050f0928bcaba92a97bfbdd21c41bc470b50cde20b25"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
