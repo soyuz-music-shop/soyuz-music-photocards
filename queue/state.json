@@ -69928,13 +69928,14 @@
       ]
     },
     "4462137161": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "IP568625",
       "originals_sha256": [
         "4ff1e2657cc82f4e0e51a23780fcddd894cbbd8c67112ca5d4e793c593b7f365"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114161207
     }
   },
   "reason": null,
