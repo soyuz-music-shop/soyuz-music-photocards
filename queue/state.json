@@ -73538,14 +73538,15 @@
       ]
     },
     "5578219446": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PTKF3016-1",
       "originals_sha256": [
         "3d34115e70f8a472de41d8598937fcf33a8e7ce8e39b16856a8870f3f8bc4c0a",
         "5908e690a7a19f6392830b3fbc85666de141e8955e1c9665db6bb493265f92d0"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118079151
     }
   },
   "reason": null,
