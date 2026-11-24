@@ -75472,13 +75472,14 @@
       ]
     },
     "6720725042": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "KWLP30-22",
       "originals_sha256": [
         "ef83c6b50d2a456860625763d15fc5dda8157080a461881c0e2c6ee960fd561d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118263164
     }
   },
   "reason": null,
