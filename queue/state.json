@@ -61848,6 +61848,18 @@
         0.0,
         0.0
       ]
+    },
+    "3563073868": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2795",
+      "originals_sha256": [
+        "e5a3a9a42ecdbe26de68f7a2e0fe70b7986f3a6fe144f5e83abaa184bb458a1d",
+        "a9c03fda40f1aa5c7a4f1654e71301523e66872e8eb7a5610ccbc83f97c72a99",
+        "9b40b22b21b312a3fe8348148742d4ff6cc0fa1adf2c9cf0aecca0eb9e2706d6",
+        "8a53c0a54820497c851dfa82e05c8e62f154e1796ad9cd0229e1897b1131a600"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
