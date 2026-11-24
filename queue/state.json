@@ -61595,13 +61595,14 @@
       ]
     },
     "3563073807": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CRSEG149",
       "originals_sha256": [
         "7fdbde8ea4d12c78b28bb7545134a7af80acfac6fa96ffbc82a04b15eadb7e44"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112577312
     }
   },
   "reason": null,
