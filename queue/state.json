@@ -71745,7 +71745,7 @@
       ]
     },
     "5540172582": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ABRP254112",
       "originals_sha256": [
@@ -71753,7 +71753,12 @@
         "30dc5798b4bb5c379f8fa02b625df411a2c5572c502b7b5f1d74ceac845f845a"
       ],
       "before_count": 2,
-      "task_id": 6117896632
+      "task_id": 6117896632,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
