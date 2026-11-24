@@ -77094,14 +77094,19 @@
       ]
     },
     "6800679306": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RA736725",
       "originals_sha256": [
         "dce4bb13677fcf073fca6e48f00ddf3d6e7355d6cc54e65d8e4816eaae4671c0"
       ],
       "before_count": 1,
-      "task_id": 6118416746
+      "task_id": 6118416746,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
