@@ -74282,7 +74282,7 @@
       ]
     },
     "6503626395": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ISO-008-1",
       "originals_sha256": [
@@ -74290,7 +74290,12 @@
         "212f7302e2c346adf218e410b3ed4e94e223b768501debdd3eb50dde03a62ebe"
       ],
       "before_count": 2,
-      "task_id": 6118147701
+      "task_id": 6118147701,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
