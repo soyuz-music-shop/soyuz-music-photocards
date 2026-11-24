@@ -76709,6 +76709,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800595820": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NCTBS573123",
+      "originals_sha256": [
+        "7add08f23c2755007cbdc076e5027ed2ccf4386c49661ed61e1562e0f040e16d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
