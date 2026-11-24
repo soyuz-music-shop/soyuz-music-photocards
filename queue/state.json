@@ -58973,13 +58973,14 @@
       ]
     },
     "3318706767": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AM230425",
       "originals_sha256": [
         "ede692f5eac45955da27715ee5c653909acd1238c195ac634f10221a56fc7108"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112074891
     }
   },
   "reason": null,
