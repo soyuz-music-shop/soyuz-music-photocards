@@ -72683,6 +72683,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172746": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AP100",
+      "originals_sha256": [
+        "6471d886cce249c50d78a9a92d2d5ac18787674984782521382a7266a594f9e8",
+        "673d9bc98f3f1c510a3f90fb08f788fbcb0e8c936e5456c138c1b2079849742c",
+        "b32370175a360900ee5a78050c252f027570c618a460339495914d8431b152ed"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
