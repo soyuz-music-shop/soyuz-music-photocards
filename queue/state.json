@@ -75032,13 +75032,14 @@
       ]
     },
     "6720579554": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GO141522",
       "originals_sha256": [
         "fe8d7628b306205bdbe027aaee12ac3850506fabf0d89155cae58f75427e95a0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118216121
     }
   },
   "reason": null,
