@@ -56350,7 +56350,7 @@
       ]
     },
     "3277020201": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT348DLP",
       "originals_sha256": [
@@ -56358,7 +56358,12 @@
         "75ee7f71ca0f83659ab6376ae7a149d979e83809e7d00e720f8a298cfc36389b"
       ],
       "before_count": 2,
-      "task_id": 6111699581
+      "task_id": 6111699581,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
