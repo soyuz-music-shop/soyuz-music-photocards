@@ -64898,6 +64898,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565217": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGP2141",
+      "originals_sha256": [
+        "6885382c9f4b235f52025f17e70e84cc6e0cba74b6211594d0a1619ae11beb19"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
