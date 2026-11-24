@@ -62968,14 +62968,19 @@
       ]
     },
     "3576109616": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEM22",
       "originals_sha256": [
         "31af3b61db3d3bfac22deeed9d24eb48bb4e24fdfe589acd0c7344596ae69d16"
       ],
       "before_count": 1,
-      "task_id": 6112860543
+      "task_id": 6112860543,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
