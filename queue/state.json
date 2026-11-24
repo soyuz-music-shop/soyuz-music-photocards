@@ -66023,13 +66023,14 @@
       ]
     },
     "3784946313": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "VMD6555",
       "originals_sha256": [
         "ed4724d4b5ec2f9c3bfec9a08a23a7d6266ce41a40cb8e726662a1e8135e5917"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113496779
     }
   },
   "reason": null,
