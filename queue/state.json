@@ -68725,14 +68725,19 @@
       ]
     },
     "4385191522": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA946014PINK",
       "originals_sha256": [
         "cd6bb95fcab2e2c3256c45c66f079d07607bbd6eb43dac2389a8dd0da22fe530"
       ],
       "before_count": 1,
-      "task_id": 6113924628
+      "task_id": 6113924628,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
