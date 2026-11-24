@@ -74671,6 +74671,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720440689": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AW997390",
+      "originals_sha256": [
+        "eb967c7edddf52b3af7e6c294c93c2bd47ffeb951c82f5b29b0d7915c74bc546"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
