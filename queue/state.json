@@ -60338,14 +60338,19 @@
       ]
     },
     "3562824577": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SFELP 089DBM",
       "originals_sha256": [
         "75ef69c5dd110f0c25db426db244b1dfef34c036c66095be69f940bfaa01672b"
       ],
       "before_count": 1,
-      "task_id": 6112319375
+      "task_id": 6112319375,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
