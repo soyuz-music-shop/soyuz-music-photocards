@@ -75735,13 +75735,14 @@
       ]
     },
     "6720776543": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WT019043",
       "originals_sha256": [
         "c188c7faf270e8044ac1d960c1f49fcd518c2c2431b816675105eb1101562dd6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118290235
     }
   },
   "reason": null,
