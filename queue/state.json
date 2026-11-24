@@ -64027,13 +64027,14 @@
       ]
     },
     "3784564952": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "OVLP-13RED",
       "originals_sha256": [
         "01afb9c2f8bf0e23b4dd2ca8fdb28ccc697c5af38194fdeca0aa814c8f97761b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113153893
     }
   },
   "reason": null,
