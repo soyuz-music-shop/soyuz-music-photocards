@@ -71989,6 +71989,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172607": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SV128",
+      "originals_sha256": [
+        "0e264aeb80627f4818a8cbbc2433f9055e890acfb6dc5aece17dcbb60f0a01b0",
+        "38c599dbf568d40af122f8e2758a31c9a4fd8bd040df44e234d2c7081203d46d",
+        "ead31092df8fcf06df7f4ad22f52564c256bf65c3eddb91b049e1c3990ebec6c"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
