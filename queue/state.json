@@ -75045,6 +75045,17 @@
         0.0,
         0.0
       ]
+    },
+    "6720583223": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NBR 54507",
+      "originals_sha256": [
+        "a198b26f313e75b94e3dbbc093339698c87bdffb3688f3b8aaeca4b47733750f",
+        "4ea1ab190e335c902dac97d42e39d7c572806f89ea04099a7fe2cf1cef5e3bf6",
+        "186340b63b71e59d07c219f8ab2904edf25618ea613f238e591db5ae8cecc8f8"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
