@@ -69599,6 +69599,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191786": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GO717696WBC",
+      "originals_sha256": [
+        "81a8aedba2de24ac00c36e06e820f967d1c76c77ddb4d93d748a40c74012e49e",
+        "0f641987a17dbe3a26deb0334f50af945a4792b0c3496a0008c266fd072238f0"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
