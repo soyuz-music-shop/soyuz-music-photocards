@@ -80174,7 +80174,7 @@
       ]
     },
     "6921072018": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PB170022",
       "originals_sha256": [
@@ -80182,7 +80182,12 @@
         "c4367f5317157a9bef2160d07e2a76e4ee6fe3f686111ad0ae5e3aaffca3bb85"
       ],
       "before_count": 2,
-      "task_id": 6118718896
+      "task_id": 6118718896,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
