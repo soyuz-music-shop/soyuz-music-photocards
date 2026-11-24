@@ -69516,7 +69516,7 @@
       ]
     },
     "4385191742": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV148435CRYSTAL-CLEAR",
       "originals_sha256": [
@@ -69524,7 +69524,12 @@
         "3aa9ca0e1dc0d7957575007f2e6dddaecab9e8999b08688af4976068cda54c2c"
       ],
       "before_count": 2,
-      "task_id": 6114074301
+      "task_id": 6114074301,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
