@@ -70600,7 +70600,7 @@
       ]
     },
     "5219746179": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DOARXXX",
       "originals_sha256": [
@@ -70609,7 +70609,8 @@
         "2c0c9cba64b0b82dcd5014b586c9caec28b04feb2486aa400c9626db92b30223",
         "50a86fc30c2b3aed735b59c576e6fe24b21e0fb4cf96fc46d9bfc7d79b45cf80"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117762062
     }
   },
   "reason": null,
