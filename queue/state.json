@@ -77836,14 +77836,19 @@
       ]
     },
     "6886137784": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AG026320TRRR",
       "originals_sha256": [
         "6193bbc7a3dfcabde703c3835d0e944dc1c97d6275d95fd1da12d70aebeca684"
       ],
       "before_count": 1,
-      "task_id": 6118492865
+      "task_id": 6118492865,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
