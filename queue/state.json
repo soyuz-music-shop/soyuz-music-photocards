@@ -65585,6 +65585,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946179": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBGPM294",
+      "originals_sha256": [
+        "ae73a6f69f30fe539e8bc8a4e81feaebb2a31de1bd8233df944dc44ec1c3fd60"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
