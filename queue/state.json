@@ -58035,13 +58035,14 @@
       ]
     },
     "3296659169": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BNM012LP",
       "originals_sha256": [
         "7fac55878d39800569529a1b55b0c64df06db1b8bc2cb6e78e868cfc4fa6c0e5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111937474
     }
   },
   "reason": null,
