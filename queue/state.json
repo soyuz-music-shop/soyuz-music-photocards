@@ -76153,14 +76153,15 @@
       ]
     },
     "6799250428": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CO337834",
       "originals_sha256": [
         "e0e1de48d103fbe03393f26812d5b0498d29ee808fd865d7a98915351428a357",
         "b76c90e053c9ee01c4f1c45cd766c4cb208a2e87485dad53b2d4c8cf17f14a40"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118331792
     }
   },
   "reason": null,
