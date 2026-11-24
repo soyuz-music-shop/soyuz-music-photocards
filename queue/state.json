@@ -71047,7 +71047,7 @@
       ]
     },
     "5297065547": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP3420",
       "originals_sha256": [
@@ -71057,7 +71057,12 @@
         "58ea94c277c5ebb8cbc50f98de503fe641208ead61f2e66435f982b6b12679e1"
       ],
       "before_count": 4,
-      "task_id": 6117825289
+      "task_id": 6117825289,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
