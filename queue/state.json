@@ -64224,7 +64224,7 @@
       ]
     },
     "3784564987": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP30RED",
       "originals_sha256": [
@@ -64237,7 +64237,12 @@
         "feb275931a1b03d09a0f53ae02977bcd669ace6f6839ce5677adac10d6271820"
       ],
       "before_count": 7,
-      "task_id": 6113193105
+      "task_id": 6113193105,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
