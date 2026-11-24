@@ -70673,7 +70673,7 @@
       ]
     },
     "5219746203": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "STUMM279",
       "originals_sha256": [
@@ -70683,7 +70683,12 @@
         "0fd0d52eef41abc91107073eb99434771330f4b35ca0ec650b4ec3a530419b74"
       ],
       "before_count": 4,
-      "task_id": 6117770114
+      "task_id": 6117770114,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
