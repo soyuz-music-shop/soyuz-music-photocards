@@ -80294,6 +80294,15 @@
         0.0,
         0.0
       ]
+    },
+    "6948775811": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BOC009224",
+      "originals_sha256": [
+        "ca38cb3387f29cfa7be53caa796d0134d8e5c76190e9e0646dc2e9395919e3ae"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
