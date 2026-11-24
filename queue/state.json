@@ -63889,6 +63889,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564904": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP2011RED",
+      "originals_sha256": [
+        "2ae0102d4d67b488a79086f1fabda679ca8ef8b24e1263958724cff33da845b2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
