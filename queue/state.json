@@ -77034,13 +77034,14 @@
       ]
     },
     "6800666733": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RATM102621",
       "originals_sha256": [
         "e8fc1628e8831dccad4e082fa13d0e42e9ced9ce58219c086bdbbf7e6afeb3b1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118412933
     }
   },
   "reason": null,
