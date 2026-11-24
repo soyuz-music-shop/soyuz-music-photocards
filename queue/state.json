@@ -73554,7 +73554,7 @@
       ]
     },
     "5578220904": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GM394619",
       "originals_sha256": [
@@ -73562,7 +73562,12 @@
         "7fdb11c0651f0410570b006b6a86dfabb176996c3a4224bf9c402497d96567fc"
       ],
       "before_count": 2,
-      "task_id": 6118080798
+      "task_id": 6118080798,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
