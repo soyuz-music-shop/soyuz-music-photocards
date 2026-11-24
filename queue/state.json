@@ -68495,14 +68495,15 @@
       ]
     },
     "4385191450": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCV190522ORANGE",
       "originals_sha256": [
         "e4ffac7eb857fdd25b28545d6fd0aeee4fc9c3a453379aced4cc890dbb874285",
         "9be12063dd3931845a8d36f4cbdbcc6d420fd30652e9528d525d4327489e4c68"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6113874235
     }
   },
   "reason": null,
