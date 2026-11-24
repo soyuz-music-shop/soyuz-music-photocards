@@ -64323,6 +64323,20 @@
         0.0,
         0.0
       ]
+    },
+    "3784565015": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIKAD46ORANGE",
+      "originals_sha256": [
+        "1ececea3656e20455dd92bfc8944e64d9a991ddf42e0ab15a1c5b5ddda8cb106",
+        "c258213784fe8ec87ac44f008b04259a085b4654a1f96b3d6ce769270ae1b6d4",
+        "8c8a968c9e7a7cbd2413c3baf891a0dcab9b8af91163acfa750a467c82ea2e83",
+        "0ac147d70b217b183a98a57967506cb0449d65f98a53853c1fdbe16c8bd8ae9e",
+        "7a9f44e7f0e72a9577efbfe3cf6ed09ae525afb96604c330b621b99d5f7e0e0d",
+        "32f0e973b65aaa9ec344452d5f353a32a9a5690ed41416506c936816fd0a4cae"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
