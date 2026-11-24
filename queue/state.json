@@ -80107,14 +80107,19 @@
       ]
     },
     "6921065864": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DYN.3790-2",
       "originals_sha256": [
         "286a0422796252babc4c129b7800ca487cd651c4324751b8b2a96dab944e1536"
       ],
       "before_count": 1,
-      "task_id": 6118708786
+      "task_id": 6118708786,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
