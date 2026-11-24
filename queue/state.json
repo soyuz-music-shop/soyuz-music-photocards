@@ -58863,6 +58863,18 @@
         0.0,
         0.0
       ]
+    },
+    "3318541249": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NB 3344-5",
+      "originals_sha256": [
+        "989a2aceea62bb44fd25f388f33bf4df912ce696044ef2ce936540c5c3de159f",
+        "c4add171e326747beea7792d3b2dc2d527a419d845a994c20d2ba15f4cf94b7c",
+        "2fcd5c4875fb85c51b278c4006e5ff214024fe9cc8d43a37139af9606001a4ff",
+        "044ab588d5c712b8be5ab1487fcdbd839924c98fa3cf28d04d5d35781af42e6a"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
