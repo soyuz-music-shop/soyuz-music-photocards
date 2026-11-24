@@ -57373,14 +57373,19 @@
       ]
     },
     "3296658999": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VILELP387",
       "originals_sha256": [
         "96503334c86945bda23f72574d02fb3f2713d308a0ff7576ab018e3d7545150c"
       ],
       "before_count": 1,
-      "task_id": 6111858850
+      "task_id": 6111858850,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
