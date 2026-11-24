@@ -57247,14 +57247,19 @@
       ]
     },
     "3289858438": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMG003-AT",
       "originals_sha256": [
         "7ebcc093659ce58b8f217661e3210e1a581c98c3f1139ada32efdc4fea1a114c"
       ],
       "before_count": 1,
-      "task_id": 6111844354
+      "task_id": 6111844354,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
