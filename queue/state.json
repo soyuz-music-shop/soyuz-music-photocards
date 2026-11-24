@@ -59596,6 +59596,15 @@
         0.0,
         0.0
       ]
+    },
+    "3325378510": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PARA 642LP",
+      "originals_sha256": [
+        "f879fdffbfef36f96d2982fd34564535e352ff383f83ca5aed6f7905340a34e7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
