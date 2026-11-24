@@ -75793,6 +75793,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720789059": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BD239X",
+      "originals_sha256": [
+        "9a06a14b12289a4ebddbca58def774a3155de09520aab4c80515ad6b748858eb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
