@@ -62726,6 +62726,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109590": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MAR223691",
+      "originals_sha256": [
+        "4ba7688804a631224cc36b2fcae9b48eb2464e980817636c5464aaeaa7e8ad12"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
