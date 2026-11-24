@@ -71529,7 +71529,7 @@
       ]
     },
     "5540172545": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ONULP162",
       "originals_sha256": [
@@ -71537,7 +71537,12 @@
         "0389d893c5d4bcdcfbd9c11555e84e488630874282c1e7118c9d6a0ebe9e548a"
       ],
       "before_count": 2,
-      "task_id": 6117875840
+      "task_id": 6117875840,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
