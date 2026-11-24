@@ -78481,13 +78481,14 @@
       ]
     },
     "6886284854": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BM590610RT",
       "originals_sha256": [
         "b4597ad6415d8c41f78971377905161bc03828ef10ba030c57fb13a20a70ed43"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118554606
     }
   },
   "reason": null,
