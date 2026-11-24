@@ -70223,14 +70223,19 @@
       ]
     },
     "4462432015": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "PM235297",
       "originals_sha256": [
         "10f05d601de55aabca7b6a3b903c0d01350c2439e85e660cc6af278a8a759837"
       ],
       "before_count": 1,
-      "task_id": 6117728975
+      "task_id": 6117728975,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
