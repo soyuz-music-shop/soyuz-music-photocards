@@ -73586,7 +73586,7 @@
       ]
     },
     "5578223755": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BONF032",
       "originals_sha256": [
@@ -73594,7 +73594,12 @@
         "070b9bb23968f9fb5db7cbee5634da2df0bb117b4f9faf8a20bf4fe83d319bb6"
       ],
       "before_count": 2,
-      "task_id": 6118083926
+      "task_id": 6118083926,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
