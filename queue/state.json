@@ -66158,14 +66158,19 @@
       ]
     },
     "3784946333": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "VCD79512",
       "originals_sha256": [
         "1de9d469a6185573eb6fc02bdde920829865587b06e17eff984c5e5333f5c191"
       ],
       "before_count": 1,
-      "task_id": 6113516880
+      "task_id": 6113516880,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
