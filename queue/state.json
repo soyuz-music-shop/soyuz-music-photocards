@@ -76354,7 +76354,7 @@
       ]
     },
     "6799313080": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LDR591821",
       "originals_sha256": [
@@ -76362,7 +76362,8 @@
         "9928f19b7481c71e56d088f4f40a0ddd585fa07a622880a8916ba1f90308d924",
         "bf2c53c45a374431db028cd8599afe664489d5128f63ed562af70c61b4a512f7"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118354675
     }
   },
   "reason": null,
