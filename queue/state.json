@@ -68415,6 +68415,18 @@
         0.0,
         0.0
       ]
+    },
+    "4385191437": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SBOO005615",
+      "originals_sha256": [
+        "47c59b0f4ea2b7ba20071ddaf695cd3ffab5a61e8c2ea738a04552f00844b8d8",
+        "45b2f82ea7b1e8a91a9b44e22b985c9c9f95993f98be1aef096bf4a044205227",
+        "0870f610750068993c1e6791d1fdea44e0c129062ae1d19b30cbe079192c7629",
+        "eaec8bc0daa8c1ba751a6646105f72fad28dffeae968f5ff17886050a4fd327d"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
