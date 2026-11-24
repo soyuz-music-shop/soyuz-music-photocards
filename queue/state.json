@@ -74739,7 +74739,7 @@
       ]
     },
     "6720458194": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BHE0124",
       "originals_sha256": [
@@ -74752,7 +74752,12 @@
         "a0d8a1bbbe608b2886a73fea945cc0ee22d61be35b6d497dd1475b3a1b9df404"
       ],
       "before_count": 7,
-      "task_id": 6118190207
+      "task_id": 6118190207,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
