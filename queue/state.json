@@ -80092,14 +80092,19 @@
       ]
     },
     "6921063908": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MCR933632",
       "originals_sha256": [
         "08999cc8c82b19ead0451e50072aa545ac5c65d2c5de7c86140adaab6451815f"
       ],
       "before_count": 1,
-      "task_id": 6118706519
+      "task_id": 6118706519,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
