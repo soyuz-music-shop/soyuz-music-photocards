@@ -60353,13 +60353,14 @@
       ]
     },
     "3562824579": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP007D",
       "originals_sha256": [
         "0b6547eb9805343ba3a1456d4d52cd4ff28e6035f0d7ebfa5acec70063d52193"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112321984
     }
   },
   "reason": null,
