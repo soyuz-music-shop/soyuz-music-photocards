@@ -56438,6 +56438,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020211": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MICR018",
+      "originals_sha256": [
+        "65bfc49571a319c48e365b61fe75ad4a8d7d58d9bbd88748850d3acc431fd4ba"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
