@@ -71347,14 +71347,15 @@
       ]
     },
     "5540172497": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "LC353919",
       "originals_sha256": [
         "9c97ecd0b2929a910f9eb294da9d57bd6400b6ddb9c9bf2c0d097a5063052def",
         "458c5f317fe758898ea209c2457e7146f58fdda6cc162637182addb5cd45a77b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117857837
     }
   },
   "reason": null,
