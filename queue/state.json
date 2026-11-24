@@ -69265,7 +69265,7 @@
       ]
     },
     "4385191646": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SC881363WHITE",
       "originals_sha256": [
@@ -69273,7 +69273,12 @@
         "d1b5f9a32baa0b455d64410bdcb606464b372310d2f404de0d9c3b861818da17"
       ],
       "before_count": 2,
-      "task_id": 6114023590
+      "task_id": 6114023590,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
