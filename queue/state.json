@@ -69838,13 +69838,14 @@
       ]
     },
     "4462125147": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "R2727979",
       "originals_sha256": [
         "97bc42ed306e6d14a3f7cf45bd6083c90426f573e207432f6466cf0c94bf77b6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114143226
     }
   },
   "reason": null,
