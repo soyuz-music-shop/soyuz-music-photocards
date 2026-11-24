@@ -70397,6 +70397,19 @@
         0.0,
         0.0
       ]
+    },
+    "4687960496": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NB58782",
+      "originals_sha256": [
+        "99f0defaa3cc798338b9b155320e2af23a98bf62f1883cca40875568a4ea7e93",
+        "c2ff58e2ebfcba89756bee9b651353121977a60e5bfaff208223c8da1d1650e3",
+        "a0bd02f753db66e48efc8a31c5bc9246136de9edd3a97622b20b9d16d47e4963",
+        "89a10a9ffaa5f9df04a8c94169a33cc39d11741a6995883ed16dbd333dd63d70",
+        "e965187e2e601c3a6ee8f8e1f857d0b2ef9ed2ee4f2cfd5f5e14efb97f1914c5"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
