@@ -75062,6 +75062,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720592734": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "JLH045536",
+      "originals_sha256": [
+        "4b2e7835104de4e596576518879d6a5b00af7df54938155ef14416a7c4214b43"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
