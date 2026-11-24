@@ -67317,14 +67317,19 @@
       ]
     },
     "4385191164": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA843917",
       "originals_sha256": [
         "9548e4ccd5db54869bf5d85aabb70fb1e0bd26643ff7d15a8764c3ff76e3496c"
       ],
       "before_count": 1,
-      "task_id": 6113697441
+      "task_id": 6113697441,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
