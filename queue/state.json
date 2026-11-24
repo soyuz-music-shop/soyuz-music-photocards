@@ -77759,6 +77759,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886117656": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHURCH064",
+      "originals_sha256": [
+        "69a423897d2d523fbed091af63609e76d1487ea30b7b21e24a115287a16c431d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
