@@ -71907,7 +71907,7 @@
       ]
     },
     "5540172601": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VP001CLPCLEAR",
       "originals_sha256": [
@@ -71916,7 +71916,12 @@
         "a48782a9d6d909413b3f0bd8fd1574c0415f4a790e8316030c3809aaed2398dc"
       ],
       "before_count": 3,
-      "task_id": 6117914812
+      "task_id": 6117914812,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
