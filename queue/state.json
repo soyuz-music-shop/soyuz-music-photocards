@@ -63492,7 +63492,7 @@
       ]
     },
     "3701241746": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RP97895704",
       "originals_sha256": [
@@ -63505,7 +63505,12 @@
         "f4bc85807fe2808b1af5696442068ef1924c61cebc2d63d670002615a74f72b1"
       ],
       "before_count": 7,
-      "task_id": 6113026114
+      "task_id": 6113026114,
+      "after_count": 9,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
