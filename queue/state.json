@@ -72600,7 +72600,7 @@
       ]
     },
     "5540172730": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AMLK6162",
       "originals_sha256": [
@@ -72608,7 +72608,12 @@
         "d979a0efcf386e455efd0dd8cf48381e3fb8580888792df19875c97cdb4d3f70"
       ],
       "before_count": 2,
-      "task_id": 6117982254
+      "task_id": 6117982254,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
