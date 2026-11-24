@@ -76603,7 +76603,7 @@
       ]
     },
     "6799378178": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CR00207",
       "originals_sha256": [
@@ -76611,7 +76611,12 @@
         "de8a1915760d32640e364b6dad18e7f54c71ccaafa0795949f745608bb883c80"
       ],
       "before_count": 2,
-      "task_id": 6118375338
+      "task_id": 6118375338,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
