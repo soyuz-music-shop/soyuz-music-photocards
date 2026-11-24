@@ -58865,7 +58865,7 @@
       ]
     },
     "3318541249": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NB 3344-5",
       "originals_sha256": [
@@ -58875,7 +58875,12 @@
         "044ab588d5c712b8be5ab1487fcdbd839924c98fa3cf28d04d5d35781af42e6a"
       ],
       "before_count": 4,
-      "task_id": 6112058086
+      "task_id": 6112058086,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
