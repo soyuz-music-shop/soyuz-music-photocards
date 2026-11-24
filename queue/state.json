@@ -62503,13 +62503,14 @@
       ]
     },
     "3576025040": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED2LP924",
       "originals_sha256": [
         "06c4ceb20999ef1cd0abf2acf974846d751883944c878136d184fa973d2c535d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112761444
     }
   },
   "reason": null,
