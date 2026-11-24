@@ -78841,7 +78841,7 @@
       ]
     },
     "6886355173": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "YT164",
       "originals_sha256": [
@@ -78851,7 +78851,12 @@
         "c010b5211e1d02fbe0965a2e8f96ca42054326be23a98cf3762e390284beb018"
       ],
       "before_count": 4,
-      "task_id": 6118589342
+      "task_id": 6118589342,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
