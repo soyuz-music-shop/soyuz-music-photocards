@@ -71026,6 +71026,19 @@
         0.0,
         0.0
       ]
+    },
+    "5282913933": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MOVLP697RED",
+      "originals_sha256": [
+        "8e7109a5f39ea8d7399692f36e18e6b4793e887d315a72cb0b12f9761c02d58d",
+        "b4fa4580c77c10a47153b496fbe13217f0c4928e223bd116380c5595d5912e36",
+        "41a1ff84069f9fce2a9939626a7651dc3964665337e4331a82714e70269c2cf8",
+        "bd31d264d0652b256a41fcf13739f2a65dcb0558581fcb898901d8eb2d2fd8be",
+        "52b0e381221e84bec54420f5d389adb3f94a266cbcdf31e657288780988e888e"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
