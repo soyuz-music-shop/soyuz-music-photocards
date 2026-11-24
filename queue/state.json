@@ -61063,6 +61063,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073742": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBRED660",
+      "originals_sha256": [
+        "0dc4b8e9edac789d97cc6f3a9a4c94c29ec60f1373f89acd2f2f194709208876"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
