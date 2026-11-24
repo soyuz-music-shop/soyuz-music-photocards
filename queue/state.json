@@ -67332,7 +67332,7 @@
       ]
     },
     "4385191165": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CX590818GBM",
       "originals_sha256": [
@@ -67340,7 +67340,12 @@
         "180ea8a09447e466032da67848839432194ceff8d7d5a9fc2ba1de2d4e6a27db"
       ],
       "before_count": 2,
-      "task_id": 6113699403
+      "task_id": 6113699403,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
