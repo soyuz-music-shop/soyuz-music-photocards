@@ -77204,6 +77204,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800699634": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RU373824",
+      "originals_sha256": [
+        "43797063edbf6defb6d402314f93f6740c5c47349dc8c991694f419c4cb1d140"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
