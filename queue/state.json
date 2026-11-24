@@ -61355,14 +61355,19 @@
       ]
     },
     "3563073773": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDMRED592",
       "originals_sha256": [
         "1927ae8e52ca8300f1a2063e911f48b4957a9a4a7985d37909bf0648e0a4df10"
       ],
       "before_count": 1,
-      "task_id": 6112529705
+      "task_id": 6112529705,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
