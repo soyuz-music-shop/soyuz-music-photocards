@@ -58384,6 +58384,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659271": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV806LP",
+      "originals_sha256": [
+        "e05067bad912c878751680f2bb72ca2ad480e8cc156fec0a732bd7dc7bd92dbe"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
