@@ -69362,7 +69362,7 @@
       ]
     },
     "4385191677": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA972938",
       "originals_sha256": [
@@ -69372,7 +69372,12 @@
         "04aa580b8dcf4e34fdff1bcd43f58c02e161684002f5c8d446f778c5849efbf1"
       ],
       "before_count": 4,
-      "task_id": 6114043000
+      "task_id": 6114043000,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
