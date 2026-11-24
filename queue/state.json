@@ -74259,6 +74259,21 @@
         0.0,
         0.0
       ]
+    },
+    "6503624725": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FKAPINK075678590726",
+      "originals_sha256": [
+        "a1d4f25eba2410b20105c1191831e1843a5fcec6332b54163dd3ab250209aa05",
+        "f51f76476239a4a9fbfff7d632e0b1371b0bda2a563e134a744f0d14e9b858d9",
+        "8f1fceae00a8b8631460dd614fc27e1af27331e51bbd34907fc77c78e6bb256d",
+        "60ac255554f9082f4b5e3e600f3c9b2d5cdc41314b3314eb3497b0e309175e70",
+        "7390908cabc539140798d1843a4979d2eef40f93464a4ca3286129e8de24fc46",
+        "c2e04aa333e84fe3bf2c85793a3e3ae2eb30e0b0ac5cd8eb96a368940b2fbb7f",
+        "182c844fedcf58ff7d3796a9ff135e8795e9bd7bc07c63d90bb64e51620e4b00"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
