@@ -56410,7 +56410,7 @@
       "reason": "Ozon /v4/product/info/attributes connection URLError"
     },
     "3277020206": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "RLP 010900",
       "originals_sha256": [
