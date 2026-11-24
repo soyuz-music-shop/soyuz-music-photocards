@@ -73305,7 +73305,7 @@
       ]
     },
     "5541364069": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "RW458527",
       "originals_sha256": [
@@ -73314,7 +73314,8 @@
         "e4f245db9b745990f4888c3ea460897434a5edc577a0bce1810485a140584b36",
         "bb32f34fe6ecdebc73c45b19c3baaddc3e596e9777e67b466c7f4107eeb23ca5"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118047401
     }
   },
   "reason": null,
