@@ -60203,13 +60203,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824555": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ExM014LPCS",
       "originals_sha256": [
         "d97f3480e42b14c845da27c2228c30cbd208bd98b9b87db1be2595779a83578d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112294773
     }
   },
   "reason": null,
