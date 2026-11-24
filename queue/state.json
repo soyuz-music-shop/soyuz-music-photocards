@@ -76573,13 +76573,14 @@
       ]
     },
     "6799370347": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MO172328",
       "originals_sha256": [
         "d6579fbbd6baa471ba0fa3ee8c3fdb163d158c6a768496a680e74c4811d45d41"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118372488
     }
   },
   "reason": null,
