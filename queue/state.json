@@ -75532,7 +75532,7 @@
       ]
     },
     "6720738778": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "UICY-79989K",
       "originals_sha256": [
@@ -75542,7 +75542,12 @@
         "7ba081d7d1f7a7a071a8c231305f083e8b4e1eb9b894a986d50d567a168c4e58"
       ],
       "before_count": 4,
-      "task_id": 6118270153
+      "task_id": 6118270153,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
