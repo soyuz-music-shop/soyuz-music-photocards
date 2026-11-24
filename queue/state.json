@@ -78391,13 +78391,14 @@
       ]
     },
     "6886271106": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CAI003CD",
       "originals_sha256": [
         "d2d6b6d02419c28cd1aca10503aac4a1f70ca50711fa3981d27aa16470591d9a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118546537
     }
   },
   "reason": null,
