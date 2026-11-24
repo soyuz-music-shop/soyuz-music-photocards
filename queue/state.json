@@ -58614,6 +58614,19 @@
         0.0,
         0.0
       ]
+    },
+    "3318541192": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD22X",
+      "originals_sha256": [
+        "e5d60f460ec2a875bee985734fa7eddc57f44b8ea0d9f1a7103c112e8984ba50",
+        "e6492ce7dddd51953a793af29fddb06fbd9ecf324439a38c568b39fc59829293",
+        "0996f4afdc5ef65471d17462ed026b1a8e8177311a2544d6c6bced5ea58ce009",
+        "bb97e06a0bab559213b29abd646f93c5c2492255fac57b313e797c8922400c1e",
+        "dce11424873a233258311dece9ffb9081f2399c092c5589ca1cd91c82449ad71"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
