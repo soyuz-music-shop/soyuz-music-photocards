@@ -75763,6 +75763,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720783059": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NPR1158JC",
+      "originals_sha256": [
+        "89d3cc72221505723525440a25b696780010984dc0c085a29c3da1b107914892"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
