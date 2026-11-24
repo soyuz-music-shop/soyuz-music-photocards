@@ -76724,6 +76724,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800598540": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NS618745",
+      "originals_sha256": [
+        "a8b3d031deb88c27c13bd2879d8b4e16de492962e15893cda489be0ab202d3e3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
