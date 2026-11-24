@@ -72128,7 +72128,7 @@
       ]
     },
     "5540172637": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PTPS60LPXCLEAR",
       "originals_sha256": [
@@ -72142,7 +72142,12 @@
         "8542a2bb5139e9d6b39bcf4a7a5c8b60c70cb130c836532c6d65f234137e3d0c"
       ],
       "before_count": 8,
-      "task_id": 6117933745
+      "task_id": 6117933745,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
