@@ -79926,14 +79926,19 @@
       ]
     },
     "6921043420": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 49460",
       "originals_sha256": [
         "3d563cb9cd8594de85361be12bd3ffe178480a9588c70cc2fe9d69f79633863e"
       ],
       "before_count": 1,
-      "task_id": 6118683041
+      "task_id": 6118683041,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
