@@ -79009,7 +79009,7 @@
       ]
     },
     "6920891662": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP-DED-037",
       "originals_sha256": [
@@ -79017,7 +79017,12 @@
         "34f321f0a85dd050cb177f858120447e71fc2f5f199c85c93c5dd38259712714"
       ],
       "before_count": 2,
-      "task_id": 6118605814
+      "task_id": 6118605814,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
