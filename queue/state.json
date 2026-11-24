@@ -78859,13 +78859,14 @@
       ]
     },
     "6886357764": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TT106151",
       "originals_sha256": [
         "55de097292e5410720b4d4625663a5b8d5a0c1ab4f45c3e0470f46c2cdace7b6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118591833
     }
   },
   "reason": null,
