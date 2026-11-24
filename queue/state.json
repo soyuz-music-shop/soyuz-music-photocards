@@ -80667,14 +80667,15 @@
       "matched": "vinyl-russian.png"
     },
     "6961317671": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HM594152GS",
       "originals_sha256": [
         "37cd494bbd11363c61c177137596edf45c69733caa03e5921ff7e6536ef94d34",
         "01726843a932f5d5d13a4ebb0c41dad170558fc66faa90a7488760428b536683"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118788368
     }
   },
   "reason": null,
