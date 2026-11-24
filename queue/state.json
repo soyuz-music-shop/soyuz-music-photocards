@@ -68986,7 +68986,7 @@
       ]
     },
     "4385191566": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SP279764",
       "originals_sha256": [
@@ -68994,7 +68994,12 @@
         "2e6a90da22158d7f6076e3c4505e1f9fa9d5c8388dc12c432103a2774112c626"
       ],
       "before_count": 2,
-      "task_id": 6113974104
+      "task_id": 6113974104,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
