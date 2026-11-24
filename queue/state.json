@@ -70543,7 +70543,7 @@
       ]
     },
     "5207746475": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CHR212825",
       "originals_sha256": [
@@ -70552,7 +70552,8 @@
         "f3807c4dac8f81c3b24e03ff3a89a41c24ceb3fd9fd656a7c55f9f35b885a58c",
         "9df5e2dd3049d1ca5892f44e7ab32a4a29951311a1c390bac69e382fe2ba6614"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117756986
     }
   },
   "reason": null,
