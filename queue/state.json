@@ -78511,14 +78511,19 @@
       ]
     },
     "6886290123": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR6622-1",
       "originals_sha256": [
         "05191f92e940038fd235ca00593385ce9a2bd7da2f5076848296f38daea49dc6"
       ],
       "before_count": 1,
-      "task_id": 6118557953
+      "task_id": 6118557953,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
