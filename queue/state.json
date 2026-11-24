@@ -77563,6 +77563,18 @@
         0.0,
         0.0
       ]
+    },
+    "6800772114": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VE899683BLUE",
+      "originals_sha256": [
+        "f3ad4d470af917a71f4083040e358ce83e2493c3b8401f11cba94cf8a59f16e9",
+        "df4c60c157b49f777f25f6a2b033c37d10931d91262bf06794ed394103990639",
+        "b15f1bff2080bfbc373b78f3b69832942663095bc849da8068e52681387beda1",
+        "92d156dd7fc564e207f5573eef22313c40f8da97c01025fec90d2820f08ce1e0"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
