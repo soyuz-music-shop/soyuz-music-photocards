@@ -56565,6 +56565,15 @@
         0.0,
         0.0
       ]
+    },
+    "3282474963": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IF-104CD",
+      "originals_sha256": [
+        "2967f5d1fff88813ffa44bd84458c25112b37d5e1cf0a6339097a2085c791bf1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
