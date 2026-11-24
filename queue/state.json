@@ -67034,6 +67034,18 @@
         0.0,
         0.0
       ]
+    },
+    "4175415642": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TPLP2008CD",
+      "originals_sha256": [
+        "17d5137eb5d41977406aff7324dfbb7e3a23a0501a2eadac9f347434c5bf4c6c",
+        "8b808395ddff6398d4cd1583fbd9725a5ccd0f2b93403a4c8b8b6733f57d6d6d",
+        "bbfe86fe613336c9f2909fad9e3b2f40e813326cd15d9ce9fa2d92735b2dd148",
+        "1430c5b4fca437efef829edce08cf28ca67e611440efef6999c84e58b422ca38"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
