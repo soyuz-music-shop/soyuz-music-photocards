@@ -72450,6 +72450,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172690": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AR147611",
+      "originals_sha256": [
+        "2b1d117964632cf4687d2801671ab07289c1ac6238306f5f7c8dbcac6be4b7b0",
+        "77bc1b606b8f39c6dd08ba629aaab5a20a2788cafac42d5044f8afb7d0288b26",
+        "295109f084197f9e35f5d991dba23883bbe6ae9d9c8f409ff714ee85de3418c7"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
