@@ -65302,14 +65302,19 @@
       ]
     },
     "3784946131": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDTOP1673",
       "originals_sha256": [
         "a27426e54d8abcb9e87ede3625a114ca9ef64aebad8a89d5593b2b568b5ae8f4"
       ],
       "before_count": 1,
-      "task_id": 6113382309
+      "task_id": 6113382309,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
