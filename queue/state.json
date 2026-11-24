@@ -59154,13 +59154,14 @@
       ]
     },
     "3318706789": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HRR 544CD",
       "originals_sha256": [
         "ef11631f80711fec0fdfa7c135ba4db10640731de94e064aee8f20b3fb1ae575"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112108599
     }
   },
   "reason": null,
