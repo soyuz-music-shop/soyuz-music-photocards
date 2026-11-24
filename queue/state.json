@@ -57744,14 +57744,19 @@
       ]
     },
     "3296659073": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV838LPLTD",
       "originals_sha256": [
         "9a2c10c1abe1dc0e77a592824b4ce1f6d5697e3e0d8213b912dfdf31814da26d"
       ],
       "before_count": 1,
-      "task_id": 6111901495
+      "task_id": 6111901495,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
