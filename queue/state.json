@@ -62653,14 +62653,19 @@
       ]
     },
     "3576109574": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDLEMDD101",
       "originals_sha256": [
         "106f9b4d5fa8be782149c4feae697e3769f02cf04a318f305e6ad22c1fa516cf"
       ],
       "before_count": 1,
-      "task_id": 6112793930
+      "task_id": 6112793930,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
