@@ -77444,13 +77444,14 @@
       ]
     },
     "6800742942": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TRS122558",
       "originals_sha256": [
         "8aef061039394ec359ffb35145f1df7d314f62c87e0bf434e11d6f09995b1132"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118446341
     }
   },
   "reason": null,
