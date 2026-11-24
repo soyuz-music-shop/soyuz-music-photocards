@@ -56522,13 +56522,14 @@
       ]
     },
     "3277020229": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ST719512",
       "originals_sha256": [
         "e3c9910d1b472a285e8c717ce702c3a417163c7b75553d356528f00f331882be"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111728388
     }
   },
   "reason": null,
