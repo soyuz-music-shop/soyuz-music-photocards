@@ -64761,14 +64761,19 @@
       ]
     },
     "3784565172": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP131TR",
       "originals_sha256": [
         "414d5c1e9e141901d73045adcb06b18e638e44493e5000036a3904bd7dc9eb19"
       ],
       "before_count": 1,
-      "task_id": 6113290124
+      "task_id": 6113290124,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
