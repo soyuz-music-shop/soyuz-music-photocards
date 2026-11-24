@@ -70708,6 +70708,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219746206": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOARXXVII",
+      "originals_sha256": [
+        "a060d125a77309185f8e8b855a3c22013e4c3bfb00900a86063cd65462708a81",
+        "3c52fec1aa977f56da4fbbdf776b92437e6722388ad57dd35490f9915ca7fb1f",
+        "63ddf55c69ac7789c635cef9497878cab21ae09fe00a77d38e78d85a7cf8525b",
+        "8d27f0e997e6247b85f28eb5f042fcdfe370a54c8ea4be9005d8b387906a0d1f"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
