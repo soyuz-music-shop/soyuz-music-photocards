@@ -75825,14 +75825,15 @@
       ]
     },
     "6721004174": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "JAGCD450",
       "originals_sha256": [
         "66287cabddd50263e9dd53f4eed2b9d2810ce6ee294d1387b01f56f5139a2916",
         "a0cd6aeb3b4785cc07a11bbd6b25a05ed3b4babe71b78da2c1a76e24cabda118"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118299583
     }
   },
   "reason": null,
