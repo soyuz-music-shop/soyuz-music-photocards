@@ -77002,6 +77002,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800660015": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "QU644097",
+      "originals_sha256": [
+        "6415530e5a0e76345efcc865715e41736a0fce5ec518ab5cb49dfaa7ef9d3ac2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
