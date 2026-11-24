@@ -67713,13 +67713,14 @@
       ]
     },
     "4385191254": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SALVO390LPCREAM",
       "originals_sha256": [
         "7d036d893fae38a284ef676b5e4dd86257f1dcef11a6f76b3dea764ab424ea4a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113753527
     }
   },
   "reason": null,
