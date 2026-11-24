@@ -69153,6 +69153,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191611": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV126640TO",
+      "originals_sha256": [
+        "ac672e55324adbbba0a7ef924cdef7423022f2caf313767ae9bd370b66bc26a4"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
