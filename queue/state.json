@@ -56288,14 +56288,15 @@
       ]
     },
     "3277020174": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "FF0030",
       "originals_sha256": [
         "a366de18cfda2763322aa1a0f2636e72a06600afe08c1ac202a6c0e5291ab8fe",
         "0b1314264df635cd4104500596214279fbf223565800ae4944fabd51cc0c4012"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111689094
     }
   },
   "reason": null,
