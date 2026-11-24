@@ -58745,13 +58745,14 @@
       ]
     },
     "3318541228": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PHAZZ 073",
       "originals_sha256": [
         "82698ab86fa1bc00d685921bafbc6408699f9d2445957678b5ef7b760993423b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112038966
     }
   },
   "reason": null,
