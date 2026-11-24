@@ -78586,14 +78586,19 @@
       ]
     },
     "6886308457": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "REAPER140V1",
       "originals_sha256": [
         "370895c63bca897d8c5ab54540c4593ca59f795304ae86a4eacb9c09994c2ee6"
       ],
       "before_count": 1,
-      "task_id": 6118564677
+      "task_id": 6118564677,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
