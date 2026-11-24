@@ -72898,7 +72898,7 @@
       ]
     },
     "5540172812": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RW741810WHITE",
       "originals_sha256": [
@@ -72908,7 +72908,12 @@
         "78d97471c7a7ed7c033602c1a8c5068bb24ee104015b7cd42a3cc77aceb81d69"
       ],
       "before_count": 4,
-      "task_id": 6118004000
+      "task_id": 6118004000,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
