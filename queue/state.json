@@ -80738,6 +80738,11 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Original image count changed since snapshot"
+    },
+    "6961317775": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Offer or product name changed since snapshot"
     }
   },
   "reason": null,
