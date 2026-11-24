@@ -78631,13 +78631,14 @@
       ]
     },
     "6886315569": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MU665818",
       "originals_sha256": [
         "48fb766fe22254bc4737bd72845158f1e5456d2fb41ab605de5a1205ccf7c041"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118568902
     }
   },
   "reason": null,
