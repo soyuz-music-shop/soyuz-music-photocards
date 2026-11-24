@@ -75188,7 +75188,7 @@
       ]
     },
     "6720632665": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR 70171",
       "originals_sha256": [
@@ -75200,7 +75200,12 @@
         "0a8f3a1ad8ce755c523ec76b39264b227770a8f6556c5d311b34211356a1ca5b"
       ],
       "before_count": 6,
-      "task_id": 6118236272
+      "task_id": 6118236272,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
