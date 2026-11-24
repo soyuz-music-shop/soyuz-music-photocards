@@ -74193,6 +74193,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503616497": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DMLP19802887751",
+      "originals_sha256": [
+        "46fe0ed1d2c912ac3243b78dc519e50778f0e961c2cd971c383524c9510660f5",
+        "97d769d3127a9eda789c757bebece54cda52cb6a1fd3353b9fada4fad6b5319e"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
