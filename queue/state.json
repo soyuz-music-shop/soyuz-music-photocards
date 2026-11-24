@@ -71146,7 +71146,7 @@
       ]
     },
     "5540172457": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MIG00263RC",
       "originals_sha256": [
@@ -71155,7 +71155,12 @@
         "6b5eb2b0dd782ddd46efb833e3da2ef33ee45e3917f167c9103b615a058347f0"
       ],
       "before_count": 3,
-      "task_id": 6117837287
+      "task_id": 6117837287,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
