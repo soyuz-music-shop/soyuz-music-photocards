@@ -70877,7 +70877,7 @@
       ]
     },
     "5234542240": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOARXXXIV",
       "originals_sha256": [
@@ -70887,7 +70887,12 @@
         "69ccb2d8d6e928ac34b2c46286df81eccf1c4a8f380c345dc44c64b3f3d914cb"
       ],
       "before_count": 4,
-      "task_id": 6117800026
+      "task_id": 6117800026,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
