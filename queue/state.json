@@ -61323,6 +61323,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073770": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRSEGBOX050",
+      "originals_sha256": [
+        "74a91118c5d882c420039271e046702ece1c9961898a5858a1c78926858c8145"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
