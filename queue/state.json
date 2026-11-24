@@ -62123,14 +62123,19 @@
       ]
     },
     "3563073902": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBRED747",
       "originals_sha256": [
         "6003480a458f532679ca14518efd229acbfa565a0492a6df13fb5fbcecd51fc7"
       ],
       "before_count": 1,
-      "task_id": 6112681541
+      "task_id": 6112681541,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
