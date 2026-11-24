@@ -71279,6 +71279,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172490": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SBM008LP",
+      "originals_sha256": [
+        "39b9c016ddc929b85fc55dad9901c7b880af881af0b6f6c0c77218c16522a4fb",
+        "4701266d0acf9da8758fd70c0001e488eb0545109a2d40b3ccede41a0a2592fe"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
