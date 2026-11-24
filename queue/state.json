@@ -64594,6 +64594,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565089": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "S13",
+      "originals_sha256": [
+        "d16e889af9b42a2c24a5ccbb38a488195971aa299bb202422cbe4d88166c6a27"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
