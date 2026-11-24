@@ -78091,14 +78091,19 @@
       ]
     },
     "6886202996": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DB976062",
       "originals_sha256": [
         "5d27cbd185613fb3623f2e8fb431f1e1286f16fe1adc38704ea694d240c3fe58"
       ],
       "before_count": 1,
-      "task_id": 6118519403
+      "task_id": 6118519403,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
