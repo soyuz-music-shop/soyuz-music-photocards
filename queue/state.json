@@ -59760,6 +59760,17 @@
         0.0,
         0.0
       ]
+    },
+    "3325378555": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PARA502LPLTD",
+      "originals_sha256": [
+        "2e4989b755cbfbce3b2567dfa95f0ce7ccaf051e1d5e23ea6254da6d7bc091ad",
+        "c3c43859d7f70713881e6053358b0aaf8262a057fd447ce3e7a86e707f79179f",
+        "5c7fb710993211a94c7c13473d39766921be31d6b38f773eb04b53ffe81ecb05"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
