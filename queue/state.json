@@ -77864,6 +77864,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886143462": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECM 1591",
+      "originals_sha256": [
+        "ba6fa57f5092a1ef40a6e040e7b7f1004a4fa7fbc41f0e5d2ced557fe1b0b9b0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
