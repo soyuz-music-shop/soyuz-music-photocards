@@ -75825,7 +75825,7 @@
       ]
     },
     "6721004174": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "JAGCD450",
       "originals_sha256": [
@@ -75833,7 +75833,12 @@
         "a0cd6aeb3b4785cc07a11bbd6b25a05ed3b4babe71b78da2c1a76e24cabda118"
       ],
       "before_count": 2,
-      "task_id": 6118299583
+      "task_id": 6118299583,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
