@@ -66686,14 +66686,19 @@
       ]
     },
     "3784946465": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHD1198",
       "originals_sha256": [
         "f056eb86c9e9a08b1212ccc700b0d787a5800d7cb7ab84a923fccbd55f2aa849"
       ],
       "before_count": 1,
-      "task_id": 6113615122
+      "task_id": 6113615122,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
