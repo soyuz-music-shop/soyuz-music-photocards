@@ -78947,6 +78947,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886371811": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX811205",
+      "originals_sha256": [
+        "4c36c4895a9e038ca11b7e934b6b31804da699da1f2f9b808dff6d401ab5cc55"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
