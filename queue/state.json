@@ -61228,6 +61228,20 @@
         0.0,
         0.0
       ]
+    },
+    "3563073763": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PECLEC22699",
+      "originals_sha256": [
+        "147d22cc6e5d19a90c130e686b73323276ff1e917c7ab09bdf65863fbd72d958",
+        "f05c491dc44a2e862c15bd28d1b73568031e47db08fe135f9e50d5076089480e",
+        "d52aaa3d12e012dce9bb0e55e16c96cb8005a1e8bb8661d2e9960352fac33522",
+        "8f1691c47550599af5e572e8103677a07555f31cff16a96055f58fc8662a544d",
+        "dccef26d7899e0bf59a44e51b1aa4cebd2b021b804a28775f71d2be7a7aed182",
+        "0c94269d784c716979104a0408d804d5fcf1907e666cccbff8eb1aa24007e359"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
