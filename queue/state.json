@@ -63088,14 +63088,15 @@
       ]
     },
     "3576109634": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OTCD-6396",
       "originals_sha256": [
         "5ceb97cb85c4d7f51ea3e17fc035926703f25323fd4a7c0d310eea74739d437e",
         "c444d1f64eda2d5b76d4ec4fe703211ef70111b732d8f614153c44ad69b10571"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6112890040
     }
   },
   "reason": null,
