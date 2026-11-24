@@ -72965,14 +72965,15 @@
       ]
     },
     "5540172823": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BB492WHITE",
       "originals_sha256": [
         "7a560211f1995fa3d3a9a4a50a0a7477e48e2e7bad1bc093983bd425fb6a18ff",
         "0e081bbf0316200b3ad4497826afab9fe0be55ca1161583d07647459bb786fe8"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118011346
     }
   },
   "reason": null,
