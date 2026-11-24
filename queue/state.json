@@ -70655,7 +70655,7 @@
       ]
     },
     "5219746199": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WAX9211DRR",
       "originals_sha256": [
@@ -70665,7 +70665,12 @@
         "b908b04d3cc970c4a6fc185671842e034d6d348984ad6f866f3db4ec991c31f7"
       ],
       "before_count": 4,
-      "task_id": 6117767715
+      "task_id": 6117767715,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
