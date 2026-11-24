@@ -61715,13 +61715,14 @@
       ]
     },
     "3563073828": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDLEMD229",
       "originals_sha256": [
         "5b74c2027a8e8998c64ac5fb812c7d71ccb16ee5b43c943659f1760c9a3f123e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112599338
     }
   },
   "reason": null,
