@@ -61653,6 +61653,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073821": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "NRT025",
+      "originals_sha256": [
+        "1a214d461dd25338a9181a395722a47eb3f6980f236be48c9bbb503f51af8b0e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
