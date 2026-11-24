@@ -71842,7 +71842,7 @@
       ]
     },
     "5540172593": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MIG03391TPWBWM",
       "originals_sha256": [
@@ -71851,7 +71851,12 @@
         "8ddf90dc4880018f81873220f27c29171f5cc77ee145ef4ce0582e6457ba50cc"
       ],
       "before_count": 3,
-      "task_id": 6117908431
+      "task_id": 6117908431,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
