@@ -66699,6 +66699,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946470": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD1075",
+      "originals_sha256": [
+        "05bad5d74b44577ba123843b8b6fc5d6098b0edb13f221f25cfc799d3ac55af8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
