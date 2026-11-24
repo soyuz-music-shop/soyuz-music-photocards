@@ -66714,6 +66714,19 @@
         0.0,
         0.0
       ]
+    },
+    "3789075259": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "VMD 79244",
+      "originals_sha256": [
+        "fd96264d1b52ccde48b84c8413fade8e86b5416e61793e082aa08bbe3877f43f",
+        "14094bce9ba958187599153d185540df8631c670ec67558a40d91b6f9ec2c5dc",
+        "ddcde813f08753e457b9b7b7c82e9ba5bcc70a46bcfc2f12a7189397a14b605d",
+        "a5d2222154bf2471dd7bfb8ff9f26902b49f1873633ab3ffbe06f01746384ae2",
+        "2543b767172bc6ed9fffeefa742d5b7af37390cf849f77baac47302ba3c30301"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
