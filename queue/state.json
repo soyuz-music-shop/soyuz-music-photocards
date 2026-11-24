@@ -59474,7 +59474,7 @@
       ]
     },
     "3325378481": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EWR002LTD",
       "originals_sha256": [
@@ -59482,7 +59482,12 @@
         "b136f83421548fed47a6bccca588b6587bccf0e3d31eb17caaeeecc2f472e97d"
       ],
       "before_count": 2,
-      "task_id": 6112169265
+      "task_id": 6112169265,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
