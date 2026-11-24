@@ -67957,7 +67957,7 @@
       ]
     },
     "4385191334": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AH861924SILVER",
       "originals_sha256": [
@@ -67968,7 +67968,8 @@
         "3d5f2190fb9b8628433879bb016eb9260af78758b014c5dc94ad80ece58b7a98",
         "780d2e150429e3e469fa929bb7b71738c57c137fb12bc638e8291ccf2ed4972e"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6113788301
     }
   },
   "reason": null,
