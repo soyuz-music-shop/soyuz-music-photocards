@@ -78736,13 +78736,14 @@
       ]
     },
     "6886335261": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ECM 1216",
       "originals_sha256": [
         "32463254f84a4cce99af82d3974d98ec0e8112e15aa9f72ccd781642075c44e7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118579095
     }
   },
   "reason": null,
