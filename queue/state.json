@@ -73184,6 +73184,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540173080": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GR007",
+      "originals_sha256": [
+        "acc93937fb58cb6d322e1adefb46ce8ee98398da2ca3ca9e8abde49efaee7e4b",
+        "38436620941e010267e93489efbbea4d2ef49d470a2bd08bbbc3c11de3553f3e",
+        "43970aaddfa55fe46e6db6bcb55c8cf657a6acaa0b1bcb36c747abf5446c0b9e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
