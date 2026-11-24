@@ -79025,7 +79025,7 @@
       ]
     },
     "6920893272": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VR4404",
       "originals_sha256": [
@@ -79033,7 +79033,12 @@
         "62623613c04346a2e0b28a6015a655e9ff46ee44f8dd1e386f39fbf701ffa73a"
       ],
       "before_count": 2,
-      "task_id": 6118607155
+      "task_id": 6118607155,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
