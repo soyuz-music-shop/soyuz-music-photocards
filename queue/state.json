@@ -59682,6 +59682,18 @@
         0.0,
         0.0
       ]
+    },
+    "3325378537": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HE000000",
+      "originals_sha256": [
+        "a47a898fcef45499d0199eebd8ef1bf37b54271e0a0402dc984c8ffc50277de8",
+        "64d5c0def2d9d7594c2e80f1da66bdfa2027f8ad88f8069576d82a517393f3cf",
+        "19c1297d9e078f6dc79a1eccd3debec23d0580b57d96b5ed864aafb01b3c3e46",
+        "10f3ed0f449ca38136a71d46ef41f355a30b6247a787a6770bd3d5db5c8bfa98"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
