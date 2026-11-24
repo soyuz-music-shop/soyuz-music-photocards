@@ -58401,14 +58401,19 @@
       ]
     },
     "3296659279": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JRR-BB025",
       "originals_sha256": [
         "ea4483e59c83032d5ff86d0b911f5e1811d10a1c7d03d275f1f83205261fcda3"
       ],
       "before_count": 1,
-      "task_id": 6111985557
+      "task_id": 6111985557,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
