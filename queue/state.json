@@ -64836,14 +64836,19 @@
       ]
     },
     "3784565191": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KENT506",
       "originals_sha256": [
         "cbb5777871e2d194d347e7b5aeca1bd5e72e77b8b9e29d6f4dd8b077262df62f"
       ],
       "before_count": 1,
-      "task_id": 6113300683
+      "task_id": 6113300683,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
