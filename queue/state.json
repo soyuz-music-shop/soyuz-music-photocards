@@ -68433,6 +68433,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191439": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV110387LBM",
+      "originals_sha256": [
+        "e4ecf93577406acfca96134489d55f390830bd09bf72fc831eff52a4eaaf6eba"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
