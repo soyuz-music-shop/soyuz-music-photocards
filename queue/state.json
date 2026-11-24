@@ -70582,7 +70582,7 @@
       ]
     },
     "5219746172": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CSR203LPWHITE",
       "originals_sha256": [
@@ -70591,7 +70591,8 @@
         "7da66a1d39f5d8f1f5f43c60d6aec9dca96d4f55f44acfe210d4bf9c6b3164cd",
         "9db4ac2264fe0b6e9348f72b98cbe63a6f591c8ef115d8c0112d08a4d81f837d"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117760421
     }
   },
   "reason": null,
