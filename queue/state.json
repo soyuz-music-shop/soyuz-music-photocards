@@ -80341,7 +80341,7 @@
       ]
     },
     "6961317374": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SOAD082724",
       "originals_sha256": [
@@ -80349,7 +80349,12 @@
         "58fb5cc84f881ebbad4f0ce078fa05f9b8b3f723718f0463d3d3b15f63be6c9d"
       ],
       "before_count": 2,
-      "task_id": 6118745552
+      "task_id": 6118745552,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
