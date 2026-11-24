@@ -74160,6 +74160,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503613756": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1-26938",
+      "originals_sha256": [
+        "6f1d5ee49a6ea9842ab067a46377066cf440c5e5a30dd44fcfc29da28c2331da",
+        "4107d423c79f137d2061370a1a46c98588723ea4c6faa3378ded5bc909b797cf"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
