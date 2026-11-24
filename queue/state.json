@@ -63357,6 +63357,20 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Ozon gallery not confirmed"
+    },
+    "3628031735": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4610297810037",
+      "originals_sha256": [
+        "35c0d2224178c5ed75858ca46659da1f7b9df6991667e36f71865d6d135af6df",
+        "9fd5b0404def5fdaa010da3c1f110bc947bb0f55f3784ede44776654234f19c5",
+        "2adf34926aae81faf5edc8f6f3c49f2db3423410d83eb37447eb5086d3bda19b",
+        "fa63713a5afac7bc357a9724c51c70794e1784d8dc3726d9f6df85974ba4c389",
+        "ec7303d7cdbd755d3ddf8d5f57f47624a0cae3f6a5f67b53bfa9daf1119f9a9c",
+        "fe217ed627db7e762b936018a2dbfd113ddea579e1545caaf0181401bf73f585"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
