@@ -57296,14 +57296,15 @@
       ]
     },
     "3289858500": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TRNTXP000048",
       "originals_sha256": [
         "511fa37e414beeb2ec019df9bfab658bf21a4297e6768c1504e4720a5d695db1",
         "3d76a51846d1c1992a9855ba06f90114ac1d088d4255061b72caafc0252fc0a3"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111849692
     }
   },
   "reason": null,
