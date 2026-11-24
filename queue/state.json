@@ -71181,6 +71181,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172469": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WISE08LP",
+      "originals_sha256": [
+        "042f4d37ab0385de71074d513d3f26c57a33c71fdee72892af29c5c1afae536e",
+        "5bbfbc9851b96e81eccc2f3e4b2116e68d3e143cde00c3e1d4d9cabde52473f8"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
