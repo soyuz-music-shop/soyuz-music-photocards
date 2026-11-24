@@ -58958,14 +58958,19 @@
       ]
     },
     "3318706765": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ICARUS 1484",
       "originals_sha256": [
         "d1ebe09a8cbe6112a9086d8cdf8517e92b2183c3b16b745cde3f5aaf69b841cb"
       ],
       "before_count": 1,
-      "task_id": 6112072379
+      "task_id": 6112072379,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
