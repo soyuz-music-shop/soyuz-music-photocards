@@ -71478,6 +71478,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172527": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "29MU0048LP",
+      "originals_sha256": [
+        "91f1bcf4f9ac2c37c7aa5efe611380cd9edd4b18e2df13775f8bed96524a1b29",
+        "f5291951feede05369641f481307a1f9962ef7cc3b7aec6162814cf09efac284",
+        "a2285ba298df317b7f91942166a1795f0c7d04da4cc8029b533f92548c68dda4"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
