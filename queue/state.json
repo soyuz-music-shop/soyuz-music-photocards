@@ -77064,14 +77064,19 @@
       ]
     },
     "6800673724": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RATM199323",
       "originals_sha256": [
         "405055a5af34514fbad17eb38a1eb83aafb9e68930023bb991b8724df4a5be5e"
       ],
       "before_count": 1,
-      "task_id": 6118414814
+      "task_id": 6118414814,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
