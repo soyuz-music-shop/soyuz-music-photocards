@@ -71973,6 +71973,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172606": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MIG02181",
+      "originals_sha256": [
+        "c11d3caaae8c1442f1ad35a2138636bf9c5ee7e10e2339bc7388f76d4e4a1326",
+        "b383ca32a1646e749394329a70057c1ba76243d28cf979201039d81727d6b91f"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
