@@ -78904,14 +78904,19 @@
       ]
     },
     "6886364444": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WARCHILD16LP",
       "originals_sha256": [
         "9b0779d36c7783977c94fa4db2f540108a0140aa251b686927662bd3fdb51840"
       ],
       "before_count": 1,
-      "task_id": 6118596457
+      "task_id": 6118596457,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
