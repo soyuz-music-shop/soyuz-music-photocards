@@ -64325,7 +64325,7 @@
       ]
     },
     "3784565015": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIKAD46ORANGE",
       "originals_sha256": [
@@ -64336,7 +64336,8 @@
         "7a9f44e7f0e72a9577efbfe3cf6ed09ae525afb96604c330b621b99d5f7e0e0d",
         "32f0e973b65aaa9ec344452d5f353a32a9a5690ed41416506c936816fd0a4cae"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6113211327
     }
   },
   "reason": null,
