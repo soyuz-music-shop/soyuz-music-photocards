@@ -65255,6 +65255,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946121": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBGPD248",
+      "originals_sha256": [
+        "fb55131af6e8a0e8180a40b1ffcf2734fd36b8f555bb7956d7805382aeccf965"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
