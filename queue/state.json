@@ -78151,13 +78151,14 @@
       ]
     },
     "6886216207": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DD177816",
       "originals_sha256": [
         "954b1ccc3adc303ff9b0dd03c4b21e3259250b12e7aa57308f20712cd551f841"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118525151
     }
   },
   "reason": null,
