@@ -65962,7 +65962,7 @@
       ]
     },
     "3784946295": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCM21085",
       "originals_sha256": [
@@ -65970,7 +65970,12 @@
         "3341f865f14e3461a09eca696d7e3531865fa09b494c5ea259cbe74f8bb6ea84"
       ],
       "before_count": 2,
-      "task_id": 6113487443
+      "task_id": 6113487443,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
