@@ -80385,6 +80385,11 @@
         0.0,
         0.0
       ]
+    },
+    "6961317456": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Original image count changed since snapshot"
     }
   },
   "reason": null,
