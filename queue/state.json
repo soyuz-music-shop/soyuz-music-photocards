@@ -70802,7 +70802,7 @@
       ]
     },
     "5219747123": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BIAS4002",
       "originals_sha256": [
@@ -70811,7 +70811,8 @@
         "2b0c8bdcfbcc63a49764afeb9c3254f97346b08a6e7db3872c8f1abce8a8b3d8",
         "8ad2dd3f052f68895d78c323b2b8388667696bcf5a7f9195ba45353f7b4de7d8"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117788718
     }
   },
   "reason": null,
