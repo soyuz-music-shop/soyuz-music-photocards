@@ -69868,13 +69868,14 @@
       ]
     },
     "4462127696": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "FA603623",
       "originals_sha256": [
         "b77b2894fff8fb1705a71a5fe2e8f71ba3c6eff65a6fb48e4009dff483fdd09b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114149451
     }
   },
   "reason": null,
