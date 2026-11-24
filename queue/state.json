@@ -63935,6 +63935,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564909": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CHD1128RT",
+      "originals_sha256": [
+        "4a3d62a73c5318bb03e0ec19f92222e1655a3f8f57b1632716ae7935066a9381"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
