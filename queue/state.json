@@ -59613,14 +59613,19 @@
       ]
     },
     "3325378518": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AA000000",
       "originals_sha256": [
         "73774ad1e20bef1e7a1ecee6098d17dea82da372d943a4331f845e4e3b44c704"
       ],
       "before_count": 1,
-      "task_id": 6112193438
+      "task_id": 6112193438,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
