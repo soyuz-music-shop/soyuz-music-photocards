@@ -61988,14 +61988,19 @@
       ]
     },
     "3563073878": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WGLAMBOX165",
       "originals_sha256": [
         "718be02868206c0ee72da1638ce8abf1c8bad538e63b416fa850d3d3c30ab59f"
       ],
       "before_count": 1,
-      "task_id": 6112651300
+      "task_id": 6112651300,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
