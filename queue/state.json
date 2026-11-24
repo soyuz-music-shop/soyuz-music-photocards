@@ -63680,6 +63680,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564843": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP056WHITE",
+      "originals_sha256": [
+        "8ece33c5ddc15075101eeb074ce2b6828fe1845e8e078232d9f7916457450db5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
