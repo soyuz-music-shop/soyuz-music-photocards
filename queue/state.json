@@ -62471,7 +62471,7 @@
       ]
     },
     "3576024991": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NRTLP003D",
       "originals_sha256": [
@@ -62480,7 +62480,12 @@
         "4236aaa313f653900f90f759a394b86db160556da6c14b863672e24a76270d22"
       ],
       "before_count": 3,
-      "task_id": 6112754304
+      "task_id": 6112754304,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
