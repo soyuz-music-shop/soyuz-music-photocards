@@ -64669,6 +64669,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565147": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XXQLP2058CLEAR",
+      "originals_sha256": [
+        "82b0176c657162961214ed2aff22b98c952bb0391aa42983bb56c4f229332ff8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
