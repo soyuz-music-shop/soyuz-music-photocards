@@ -72667,6 +72667,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172738": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ROOM011LP",
+      "originals_sha256": [
+        "14255253688efb9f3146f7353451ffa22d7009ba4e34a88b2657c20ebe6a9c8c",
+        "4827bd88c2c7b4b1a42637ede038d2d0b896280e30f181f3d0c31fc6fbd61659"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
