@@ -74162,7 +74162,7 @@
       ]
     },
     "6503613756": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1-26938",
       "originals_sha256": [
@@ -74170,7 +74170,12 @@
         "4107d423c79f137d2061370a1a46c98588723ea4c6faa3378ded5bc909b797cf"
       ],
       "before_count": 2,
-      "task_id": 6118138183
+      "task_id": 6118138183,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
