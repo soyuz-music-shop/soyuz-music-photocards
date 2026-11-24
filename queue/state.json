@@ -69680,6 +69680,18 @@
         0.0,
         0.0
       ]
+    },
+    "4462121844": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SL607097",
+      "originals_sha256": [
+        "94f8a7c0874a1e5b9110626d52d837fd97a053aa321dd4ea10bbeeb0e8b09903",
+        "705c0621b8eedbfeba8230c003b0bdeac7a595c2ed57d8d742e111c3ba35b46b",
+        "57327e960a622bc04e88c4b19999d0e13827fcd49c9d0859a4eecc9b1b08ca4d",
+        "43bd67f6c14bb2ac1379d9035343636a323837d20506a31f9eff94f78d898215"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
