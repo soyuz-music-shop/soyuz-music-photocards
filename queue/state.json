@@ -59802,6 +59802,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3325510982": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PHAZZ 046",
+      "originals_sha256": [
+        "ba80c5462c4fa3feef84b722a06a8bef670cb8cbccbbbfc2aeb07dac4469235b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
