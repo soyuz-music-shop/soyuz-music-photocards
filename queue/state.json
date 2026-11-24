@@ -58322,6 +58322,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659254": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AS611335",
+      "originals_sha256": [
+        "fb5d6d8d94ee7a2a217de6a0c9c6ec0f9a72f4dc122d08f1686fb0b8b6f1643a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
