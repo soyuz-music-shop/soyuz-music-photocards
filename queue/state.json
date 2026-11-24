@@ -59628,7 +59628,7 @@
       ]
     },
     "3325378520": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PFM 80654",
       "originals_sha256": [
@@ -59636,7 +59636,12 @@
         "57e8e13b99c62c0c02ae3d02d17f464ae7be459520d6bef1dfca4987a42ed572"
       ],
       "before_count": 2,
-      "task_id": 6112196202
+      "task_id": 6112196202,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
