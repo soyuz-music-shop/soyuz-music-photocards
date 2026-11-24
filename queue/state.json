@@ -71281,7 +71281,7 @@
       ]
     },
     "5540172490": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SBM008LP",
       "originals_sha256": [
@@ -71289,7 +71289,12 @@
         "4701266d0acf9da8758fd70c0001e488eb0545109a2d40b3ccede41a0a2592fe"
       ],
       "before_count": 2,
-      "task_id": 6117851957
+      "task_id": 6117851957,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
