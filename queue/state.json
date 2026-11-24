@@ -57463,13 +57463,14 @@
       ]
     },
     "3296659010": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PHAZZ 197",
       "originals_sha256": [
         "ec058aad2afb98976a29e93cfc260c42371db1093460d79b4f6e1b14d038f9b6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111869287
     }
   },
   "reason": null,
