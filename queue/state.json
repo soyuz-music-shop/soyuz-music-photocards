@@ -77412,7 +77412,7 @@
       ]
     },
     "6800736619": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBQ 2151 LPE",
       "originals_sha256": [
@@ -77421,7 +77421,12 @@
         "63a6fa9993eba0ffcabe73683903d9cd6baafed3226ef94139e78da678135c8d"
       ],
       "before_count": 3,
-      "task_id": 6118442927
+      "task_id": 6118442927,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
