@@ -70110,14 +70110,19 @@
       ]
     },
     "4462315655": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RR7432-2",
       "originals_sha256": [
         "e980020fdc281dd7f0a8432cf0bf179c1d5c1dc3b678a4832d8ba382e376de3b"
       ],
       "before_count": 1,
-      "task_id": 6117716636
+      "task_id": 6117716636,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
