@@ -74114,14 +74114,15 @@
       ]
     },
     "6503601035": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BSLP081227946586",
       "originals_sha256": [
         "f0677042de135e1a7d634a5c5b6996a19214d80180f92c5afe7c482daf5e8dc1",
         "2b76d23b5c2d1cc6abc93b8a617080c3aece77704a2e45b5124c99f9ab3bf047"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118134282
     }
   },
   "reason": null,
