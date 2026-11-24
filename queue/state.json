@@ -68048,6 +68048,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191349": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SG622010",
+      "originals_sha256": [
+        "2c38909a06ba11f2178372ef7e55080514ec627e70ccefaade48185676b3ed6e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
