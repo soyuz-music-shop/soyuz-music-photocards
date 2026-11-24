@@ -79713,6 +79713,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921013021": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "W 920",
+      "originals_sha256": [
+        "464b54608e2ae37be8cd8a495a2bb720c97e3fe200727e3d8d4b732ab0278ac1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
