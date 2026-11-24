@@ -58429,6 +58429,19 @@
         0.0,
         0.0
       ]
+    },
+    "3297031027": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BOBV088LP",
+      "originals_sha256": [
+        "062c275156bb73b3dbb478bd3845eba95d6ce2786128e6c3074bfa2eac6631aa",
+        "5eee5840f7fd5d3c6efb0e58e7748dede1fb390feff54866ef8c267743d3c784",
+        "9654776bbfe2278690148ab8069a97d083294a45adaa034e82f97393913e5987",
+        "1a9f7f5331e4a2db053725579e6dad65087fb85e9687dbb54e5dd3fb0049180f",
+        "12c9b585587bcebfb1631869c69ea96910984a470da150b4eb942d8c0f27407c"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
