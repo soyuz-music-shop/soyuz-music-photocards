@@ -78014,6 +78014,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886188523": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DB943996CC",
+      "originals_sha256": [
+        "1fa99be62f98b065a009393e4d42831afbe813ce539f5a00680e9ef0cf1618bb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
