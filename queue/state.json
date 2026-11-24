@@ -61640,14 +61640,19 @@
       ]
     },
     "3563073819": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EANTCD1010",
       "originals_sha256": [
         "20ff0761b72e9963d36c9ba7fb0b0f118d00c6a215114bd54de5e25d9b5e5922"
       ],
       "before_count": 1,
-      "task_id": 6112585318
+      "task_id": 6112585318,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
