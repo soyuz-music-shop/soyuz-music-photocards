@@ -67285,6 +67285,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191154": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC357LP",
+      "originals_sha256": [
+        "47e230624f7bb94e0880d6083c9f19fc2fe8be87906e6ca5c0a73d7cd7bef247"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
