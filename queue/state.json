@@ -72533,6 +72533,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172700": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TS658879",
+      "originals_sha256": [
+        "e6481f2d99bef6c9cfb3d8aae2126d2e30f5d32423914cfab0b4c92745e7ffcb",
+        "30153f8a69f519c60b221b3a32b8e15cb74efcb4997ae591ec9b7a0c84360e8c",
+        "31d95ee0019e015395bfc46a7a9257462bed3ebb9cd2e613a9cd4226ce68ed4f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
