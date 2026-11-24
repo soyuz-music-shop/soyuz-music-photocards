@@ -58277,6 +58277,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659244": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AA497243",
+      "originals_sha256": [
+        "d2ea4a654c1f733a740cf843ce062968252475f05d3445f81cf575671c581de7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
