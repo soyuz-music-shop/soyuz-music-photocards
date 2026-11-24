@@ -60681,6 +60681,11 @@
         0.0,
         0.0
       ]
+    },
+    "3562824627": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Ozon /v2/product/pictures/info HTTP 429"
     }
   },
   "reason": null,
