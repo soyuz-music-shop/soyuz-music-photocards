@@ -79322,6 +79322,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920938630": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BO333312MC",
+      "originals_sha256": [
+        "cf4ee2b989757590e0269b17b155d24905d5c2432c6604f32835f1e50bb68dbd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
