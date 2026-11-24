@@ -57371,6 +57371,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296658999": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VILELP387",
+      "originals_sha256": [
+        "96503334c86945bda23f72574d02fb3f2713d308a0ff7576ab018e3d7545150c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
