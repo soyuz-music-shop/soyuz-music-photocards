@@ -78962,6 +78962,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886374324": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX806750PGS",
+      "originals_sha256": [
+        "97fd680864f5b62f65d86e8ab5e50aae4e54e7cb5d763832087ffbd15107b0be"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
