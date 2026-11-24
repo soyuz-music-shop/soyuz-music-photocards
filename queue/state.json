@@ -70282,6 +70282,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462536582": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2727956",
+      "originals_sha256": [
+        "3c029d68a17a97d9aa927fa5105d539d70db7917d3bb788fb7be8c1bd5c73fc5"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
