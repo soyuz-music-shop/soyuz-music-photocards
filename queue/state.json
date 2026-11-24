@@ -65150,6 +65150,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3784946098": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDTOP21610",
+      "originals_sha256": [
+        "eb66859ea39c590b0c0c91a5cca253a7ca9e2a2796e929b6f443944d0284e70d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
