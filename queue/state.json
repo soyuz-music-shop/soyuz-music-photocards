@@ -77472,6 +77472,16 @@
         0.0,
         0.0
       ]
+    },
+    "6800749743": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TM565318",
+      "originals_sha256": [
+        "8edf4e5a7a65c70087c862ed23f866bbdb096c2d3ff0bb147d80a79ea74fdbf1",
+        "558f66b2a20af36eee0513796a3fc82bbf4de5ff31fd0604e12c0c0f260112be"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
