@@ -78391,14 +78391,19 @@
       ]
     },
     "6886271106": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CAI003CD",
       "originals_sha256": [
         "d2d6b6d02419c28cd1aca10503aac4a1f70ca50711fa3981d27aa16470591d9a"
       ],
       "before_count": 1,
-      "task_id": 6118546537
+      "task_id": 6118546537,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
