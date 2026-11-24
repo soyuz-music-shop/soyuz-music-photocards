@@ -75391,14 +75391,19 @@
       ]
     },
     "6720698230": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PIASLL211LP",
       "originals_sha256": [
         "e4a6e3d25095b77f43d70583c87a002ebfac4c31075ba6624b0016204256691f"
       ],
       "before_count": 1,
-      "task_id": 6118256698
+      "task_id": 6118256698,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
