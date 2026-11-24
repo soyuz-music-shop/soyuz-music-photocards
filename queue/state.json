@@ -80357,13 +80357,14 @@
       ]
     },
     "6961317382": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XX314477",
       "originals_sha256": [
         "47d0faf1e5c949c27d3887d422c725c5512875b25583fe5c064883b21aaa414c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118747809
     }
   },
   "reason": null,
