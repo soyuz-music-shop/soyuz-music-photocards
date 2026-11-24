@@ -57883,14 +57883,19 @@
       ]
     },
     "3296659111": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BNM074",
       "originals_sha256": [
         "9e5428df9873b6c4d08b6deb597e2c6354ae4cd948347fc6a19fcf1b48aa5f92"
       ],
       "before_count": 1,
-      "task_id": 6111917532
+      "task_id": 6111917532,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
