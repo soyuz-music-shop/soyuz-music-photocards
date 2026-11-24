@@ -70047,6 +70047,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462238411": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "OO168023",
+      "originals_sha256": [
+        "8238880d5bdb17854e6727419b4d0efcd55ec666071e3bd2b99fbe559ab65108"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
