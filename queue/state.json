@@ -60138,13 +60138,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3556539579": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYD10 310",
       "originals_sha256": [
         "e740e0d454665ca4ffd781ce02862f524914cb6b314c2de2ebf13dcf603df1d1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112283501
     }
   },
   "reason": null,
