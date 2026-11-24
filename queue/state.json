@@ -77457,6 +77457,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800745520": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TW275926",
+      "originals_sha256": [
+        "792e4511c21c07a3609bf4c9e514d4baf7e80cc347a8de1535812f4ca734210a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
