@@ -78466,13 +78466,14 @@
       ]
     },
     "6886282555": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MA822349",
       "originals_sha256": [
         "c2a46221f1515a5cbcddd0d83cdb4f52c04d419c679dfc6bcb62a15d84b3eb57"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118553162
     }
   },
   "reason": null,
