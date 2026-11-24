@@ -68740,7 +68740,7 @@
       ]
     },
     "4385191523": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XL1563LP",
       "originals_sha256": [
@@ -68749,7 +68749,8 @@
         "3b0ae62f0451005689e2dce8e48349414f009a504015896e107d63f9173b42cc",
         "2a7b95deaf6fde681ac28d2b821ffd1cecc8a13050993287d096dcd81aa2b835"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6113928108
     }
   },
   "reason": null,
