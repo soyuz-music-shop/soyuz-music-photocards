@@ -70765,7 +70765,7 @@
       ]
     },
     "5219746249": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PLATE029LPCLEAR",
       "originals_sha256": [
@@ -70775,7 +70775,12 @@
         "4f5992e63628a313444f3b47d519c9feacd891768e3fe64fa0d1edb8f573abee"
       ],
       "before_count": 4,
-      "task_id": 6117781807
+      "task_id": 6117781807,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
