@@ -78496,13 +78496,14 @@
       ]
     },
     "6886287591": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BM590481WHITE",
       "originals_sha256": [
         "e91627912e668a8fce028caf669c4f9ad533d4463885fc16e294d405735c0195"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118556531
     }
   },
   "reason": null,
