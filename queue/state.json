@@ -60808,7 +60808,7 @@
       ]
     },
     "3562824665": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ECLECLP 2501",
       "originals_sha256": [
@@ -60817,7 +60817,12 @@
         "0801bbb411ff1d5713aba2c055610ca7c33e83e8d76363320a8918f5a0a0256b"
       ],
       "before_count": 3,
-      "task_id": 6112415612
+      "task_id": 6112415612,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
