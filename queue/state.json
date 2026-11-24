@@ -74146,7 +74146,7 @@
       ]
     },
     "6503606342": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RR1 2822",
       "originals_sha256": [
@@ -74154,7 +74154,12 @@
         "87af8e978c812c8871bfd0cc12246fa9f98aeb225c9c4d930a4b1828bf56a2d9"
       ],
       "before_count": 2,
-      "task_id": 6118136918
+      "task_id": 6118136918,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
