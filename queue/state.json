@@ -61943,13 +61943,14 @@
       ]
     },
     "3563073875": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC22704",
       "originals_sha256": [
         "1fcd06e7da578dff0bacdf5bbdd53be34cc1f2e916e88d21de76641bfe122431"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112642227
     }
   },
   "reason": null,
