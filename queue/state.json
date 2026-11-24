@@ -59337,6 +59337,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706813": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMBOOK1",
+      "originals_sha256": [
+        "016dc69d9b32db574adcb355644ba0e9cb35dec2bf32c8b3826d49dc2d17f5dd"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
