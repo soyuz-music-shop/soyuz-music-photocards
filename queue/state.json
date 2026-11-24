@@ -63149,14 +63149,19 @@
       ]
     },
     "3576109644": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "ECLEC2003",
       "originals_sha256": [
         "aef859881160199bf60c967eb97531bd63773e98821a416a724ecd39a12dee36"
       ],
       "before_count": 1,
-      "task_id": 6112904643
+      "task_id": 6112904643,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
