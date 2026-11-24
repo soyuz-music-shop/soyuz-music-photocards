@@ -59442,6 +59442,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706830": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMCD666-1",
+      "originals_sha256": [
+        "72e41323acccfdc5b4f3d0f6cc7b49f082f60478d08fe49d65cd45868166f6a0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
