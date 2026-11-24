@@ -56304,14 +56304,19 @@
       ]
     },
     "3277020176": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "UWR00098",
       "originals_sha256": [
         "47f97da7b77c74c3be5ef1f3913977b692e456b7191821636ed3c724a6c9297b"
       ],
       "before_count": 1,
-      "task_id": 6111692238
+      "task_id": 6111692238,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
