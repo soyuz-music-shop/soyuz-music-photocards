@@ -79199,13 +79199,14 @@
       ]
     },
     "6920917666": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "TBK823575WHITE",
       "originals_sha256": [
         "998d80002ade7d83b05a21186860c1f6de77bb48c8d7598edf75c6f211fab352"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118617429
     }
   },
   "reason": null,
