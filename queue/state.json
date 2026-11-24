@@ -66248,13 +66248,14 @@
       ]
     },
     "3784946359": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDHP022",
       "originals_sha256": [
         "f542289e7a08c683acd5bc4d5523e6464b17d92f6f6760aa6ae599cd3833c1b5"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113533380
     }
   },
   "reason": null,
