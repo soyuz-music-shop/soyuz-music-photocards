@@ -65027,13 +65027,14 @@
       ]
     },
     "3784565238": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP118",
       "originals_sha256": [
         "7089df12244255be7cb209fde6ba938523d20c18b38e8ea0db947ff053197b48"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113329322
     }
   },
   "reason": null,
