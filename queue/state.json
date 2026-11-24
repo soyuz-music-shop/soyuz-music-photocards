@@ -56967,6 +56967,15 @@
         0.0,
         0.0
       ]
+    },
+    "3283959695": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PF708426",
+      "originals_sha256": [
+        "0f2ee5cf5b58f8208204d1ba964132eb9bbde034d9149da58d1489c5eb265cc8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
