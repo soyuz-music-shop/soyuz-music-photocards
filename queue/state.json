@@ -76038,7 +76038,7 @@
       ]
     },
     "6799200909": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BL556227",
       "originals_sha256": [
@@ -76046,7 +76046,12 @@
         "54f2dc42de03baca4ea6d06e96505157418669811c5e9d891684e302253778a5"
       ],
       "before_count": 2,
-      "task_id": 6118321030
+      "task_id": 6118321030,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
