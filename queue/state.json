@@ -62046,6 +62046,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073885": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ACMEM241CD",
+      "originals_sha256": [
+        "7f207b49ed8e052b906c29e2f113ae9d028ff3a4cd12d6a6e065c3644c67106b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
