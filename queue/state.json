@@ -69881,6 +69881,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462127707": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TOP594670",
+      "originals_sha256": [
+        "e1075dfab6b300750beeb02a8942411092e13dbea47064d1f56d441e0afa9d27"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
