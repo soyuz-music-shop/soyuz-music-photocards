@@ -79154,13 +79154,14 @@
       ]
     },
     "6920911441": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD 2901",
       "originals_sha256": [
         "da64f6388ebed7843d57fb65842f43caac71f3770ab1c5823025430e938e1e36"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118614572
     }
   },
   "reason": null,
