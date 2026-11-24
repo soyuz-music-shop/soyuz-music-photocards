@@ -64156,6 +64156,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784564978": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SEWA026",
+      "originals_sha256": [
+        "dac0f7317372c0580d22e9017bfbb89f3789454d20672d3d357b94401c865448"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
