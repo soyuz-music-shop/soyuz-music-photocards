@@ -69958,7 +69958,7 @@
       ]
     },
     "4462140138": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BNM-123-2",
       "originals_sha256": [
@@ -69966,7 +69966,12 @@
         "83250670253887c74f47ab9a62d6cd9c379889fd6d424417a580fb5e9eb7f5a9"
       ],
       "before_count": 2,
-      "task_id": 6114167866
+      "task_id": 6114167866,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
