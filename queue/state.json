@@ -58249,13 +58249,14 @@
       ]
     },
     "3296659225": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PF700120",
       "originals_sha256": [
         "267b7968c566f3d3017dc2e16dd1cf238a18c1a34063a88f65b1bc56fcf9c1b4"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111964319
     }
   },
   "reason": null,
