@@ -75718,6 +75718,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720773083": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MOCCD14356",
+      "originals_sha256": [
+        "a671690fec53a319fb9a6e84fceab833d81f5c7595921c51f3bc03930d537f3c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
