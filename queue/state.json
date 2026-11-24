@@ -79287,14 +79287,19 @@
       "reason": "Ozon gallery not confirmed"
     },
     "6920932328": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WARPLP70R",
       "originals_sha256": [
         "6fb4374709fc456efbc513cbd694e38cba83328eeb7956991aa00d1c658f2ecd"
       ],
       "before_count": 1,
-      "task_id": 6118626863
+      "task_id": 6118626863,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
