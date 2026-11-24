@@ -67489,7 +67489,7 @@
       ]
     },
     "4385191204": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BEC5772110",
       "originals_sha256": [
@@ -67500,7 +67500,12 @@
         "a4f2330cce9b0d19441363ae8d5f7c4d556d17b99bd79c5e49f5b17eae3e89d9"
       ],
       "before_count": 5,
-      "task_id": 6113721950
+      "task_id": 6113721950,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
