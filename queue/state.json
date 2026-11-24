@@ -64085,6 +64085,26 @@
         0.0,
         0.0
       ]
+    },
+    "3784564961": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HIQLP2160",
+      "originals_sha256": [
+        "c87ff8223d92242c456da2b453f69999a047f4c49cde067995cc59f9acf6cd08",
+        "46e271d560a062df6fe5f25780c71ac1f88cb0f1a8c2af721d367e5e5c6c28bb",
+        "3eb88f3b6096a5c0b8ffc7416ca6d8f59e12b197951ddc79d3d3850f578b2236",
+        "539abf6e953081fb014aacb5735b7fc2d3a2071de046a163ec3dcd9bfadd108a",
+        "885593bd6467efc245765bff9eee7ee885998855ae6a971a76e90c7b40c67a5f",
+        "8394ef97ae926073b92a00925dcd3e03d2e9ce0384048bf0933b7b8f14b52bd1",
+        "c448685894aebd9047aa1585996f9860dc37d10bb72e717596932edd9d120b56",
+        "2daaf1306354642418f650dbc30360fa75dd3080e6755b4cb0d9e27a799db05f",
+        "313f01bb4c71d5be563b2bd49cf1aedda0c185c05241436ebab4014316503f0d",
+        "746008966184c19859553678e87216973ac09447ed9d5bf20ba45caad765aa0a",
+        "e41c6cf1eda8c804e112411c94df189ded06b1094634e6c9131b860f6204bd66",
+        "e0fea9f4b294fd0c755bbd27353045e73cbfb631f814f68a11bb6fa6f36f98e3"
+      ],
+      "before_count": 12
     }
   },
   "reason": null,
