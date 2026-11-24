@@ -59182,6 +59182,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706791": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "FLOATM6170",
+      "originals_sha256": [
+        "0dc276e7d873a764a0736f110d3843928e0106ebfd86ca5517dd4c7af1f482aa"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
