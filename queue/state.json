@@ -74316,6 +74316,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503641855": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OUTRO-054",
+      "originals_sha256": [
+        "5e8c162872c1c85e39c5e9b8e5a4de24056ff5d1427db8732efb6a9ea633bbfe",
+        "59322776f895bbadd48ac6cf10509b4d79d19474e18dfa5ca24513893d162a5d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
