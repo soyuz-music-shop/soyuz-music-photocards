@@ -78826,14 +78826,19 @@
       ]
     },
     "6886352953": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SR138967BLUE",
       "originals_sha256": [
         "9a783a313e5c6790382033fe07481118e6b5561e441e88a4c2f9d9fcabf6c49d"
       ],
       "before_count": 1,
-      "task_id": 6118587734
+      "task_id": 6118587734,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
