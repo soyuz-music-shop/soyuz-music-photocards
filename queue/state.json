@@ -57185,14 +57185,15 @@
       ]
     },
     "3289717606": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TRNTXP000437",
       "originals_sha256": [
         "372472c54587dd377b3d09321343ae78c24139a7ec9b58b750fa8aea79893e25",
         "1f88337f8c69a998131b0235996906b10af964a94ebc4c3705e8ad020c78d47a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111814147
     }
   },
   "reason": null,
