@@ -73896,7 +73896,7 @@
       ]
     },
     "6228985924": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BBSF003CD",
       "originals_sha256": [
@@ -73904,7 +73904,8 @@
         "bcdbaa7da0f7c8fea55b582e00dd8cc217985da60361b71eba52d176714d0875",
         "f076351d4ab7426317811e4a01de2fb4431b097df72e4804fc097078edb37c4e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118113528
     }
   },
   "reason": null,
