@@ -73423,7 +73423,7 @@
       ]
     },
     "5541364231": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GM729320",
       "originals_sha256": [
@@ -73431,7 +73431,12 @@
         "6539e393b567009802b93d6b65f95434efa8f6dc7837898134918be25ff23b38"
       ],
       "before_count": 2,
-      "task_id": 6118064582
+      "task_id": 6118064582,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
