@@ -78601,13 +78601,14 @@
       ]
     },
     "6886310619": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MB831105SILVER",
       "originals_sha256": [
         "2ca817f0cd17c18722faf2043035da06bfe64adf13a7e1cb9cf6ab32a4501e0d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118565832
     }
   },
   "reason": null,
