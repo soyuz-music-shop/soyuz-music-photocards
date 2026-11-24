@@ -70671,6 +70671,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219746203": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "STUMM279",
+      "originals_sha256": [
+        "5feac2d5c3b65947e7a4011f3d890bfd8fb0406e7db3909d1385522fc29a376c",
+        "a69779851f42605dceb0925e7b0b9ee2206aba065637a84516e006cacfa88dd7",
+        "d1ce9fff2789601832e5f576fbdb9b0f59b6826bc9108025e2d64be25cd912d0",
+        "0fd0d52eef41abc91107073eb99434771330f4b35ca0ec650b4ec3a530419b74"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
