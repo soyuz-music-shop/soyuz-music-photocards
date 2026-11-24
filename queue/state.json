@@ -60840,14 +60840,19 @@
       ]
     },
     "3562824667": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ECLECLP2889",
       "originals_sha256": [
         "b716b65d6bc2ae31c119392b0c3a2976122a8e6670a80ad61832c59f9ba7dd84"
       ],
       "before_count": 1,
-      "task_id": 6112422210
+      "task_id": 6112422210,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
