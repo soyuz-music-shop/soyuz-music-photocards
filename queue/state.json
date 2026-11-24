@@ -73273,14 +73273,15 @@
       ]
     },
     "5541364030": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "XX732023",
       "originals_sha256": [
         "2b95a5e5dc50e2b6701ea2525942e0e23ee8cdccb1ecdf38c66f69dbe7449848",
         "0c80036e590aedf57383611492c1ec293ddc98aa620512a9ba70498e6a15aed1"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118043256
     }
   },
   "reason": null,
