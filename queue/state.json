@@ -77776,14 +77776,19 @@
       ]
     },
     "6886122561": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AP-01CD",
       "originals_sha256": [
         "24420c0712b13b8d8039c55cfc144c85d210640a56229b73409c2182bf2ddb01"
       ],
       "before_count": 1,
-      "task_id": 6118486530
+      "task_id": 6118486530,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
