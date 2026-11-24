@@ -69343,7 +69343,7 @@
       ]
     },
     "4385191676": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SC839415TRANSPARENT",
       "originals_sha256": [
@@ -69353,7 +69353,8 @@
         "14ec6a0753196245b482783d3084817460be0da3d29d35fce2f3c798b0fa938a",
         "5bc2e1e28d2b5889d4830c5b2b507acd813c9fcd859b8e38ba39f774efe7a5da"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6114039836
     }
   },
   "reason": null,
