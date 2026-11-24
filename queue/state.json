@@ -65780,6 +65780,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946252": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "VMD279266",
+      "originals_sha256": [
+        "afecde72156d04d965af066216d5b9fe9e62d93cd35bd293e38fc610c68ce4eb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
