@@ -62153,14 +62153,19 @@
       ]
     },
     "3563073909": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TBR1CD",
       "originals_sha256": [
         "b69c672dbbcdd30326f6f20a01ec1958146674d4ee945569122749fb6829c183"
       ],
       "before_count": 1,
-      "task_id": 6112687892
+      "task_id": 6112687892,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
