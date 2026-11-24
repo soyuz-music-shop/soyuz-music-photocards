@@ -57538,13 +57538,14 @@
       ]
     },
     "3296659028": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AF0011V",
       "originals_sha256": [
         "b8913fa05cb07d0a87c870733f2554132060888d70f5d9399f0fd214f6620e44"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111877263
     }
   },
   "reason": null,
