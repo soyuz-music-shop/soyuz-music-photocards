@@ -77520,14 +77520,19 @@
       ]
     },
     "6800761688": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XL LP 318",
       "originals_sha256": [
         "d54dea9bbc3284d5dcc5696edab903fb290c7f4e6c0f46b11bcdad46eb551824"
       ],
       "before_count": 1,
-      "task_id": 6118455033
+      "task_id": 6118455033,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
