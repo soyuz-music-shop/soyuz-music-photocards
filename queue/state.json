@@ -73352,6 +73352,19 @@
         0.0,
         0.0
       ]
+    },
+    "5541364126": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BHE0753RIC",
+      "originals_sha256": [
+        "398df02e6118c0334f7b9ed608c79a4c4c71078d5189d0a63608c6bc1e6b5d72",
+        "89c35d358c1941b27d3b71dffe8d8fb0e3d4e7c61ca611a52023c689eb011121",
+        "dbf432d0090b955e5bc079967e5f76d10879a8b281b2f51d07a623da6b369be4",
+        "c8b22af2756d5abd8dd6e521ae66683cfdd1df52f6cc5166b028fee91b62b8d0",
+        "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
