@@ -72981,7 +72981,7 @@
       ]
     },
     "5540172824": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ON-ULP84",
       "originals_sha256": [
@@ -72989,7 +72989,12 @@
         "43b7637588566b28b20879ee421e0dba73c2ed4f83dd51386a10959a510787a3"
       ],
       "before_count": 2,
-      "task_id": 6118014002
+      "task_id": 6118014002,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
