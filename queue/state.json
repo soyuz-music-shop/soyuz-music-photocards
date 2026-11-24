@@ -76306,13 +76306,14 @@
       ]
     },
     "6799297072": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "JA896210",
       "originals_sha256": [
         "5c2f00b12293d868ff1103338f6d9067f059dec864a6ddf45ecedf3fd35d4071"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118349810
     }
   },
   "reason": null,
