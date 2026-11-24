@@ -61803,6 +61803,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073860": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HNEBOX118",
+      "originals_sha256": [
+        "838199a2be1911409477ad637d0f59ad6c67ecbbc93680c0728243af43a7347f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
