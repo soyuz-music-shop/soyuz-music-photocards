@@ -77896,14 +77896,19 @@
       ]
     },
     "6886151017": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WARPCD496",
       "originals_sha256": [
         "3df0bc44629df96ddc7eca01ce7fee8e8b9f82635f119ceb8b55bb401e81a649"
       ],
       "before_count": 1,
-      "task_id": 6118499425
+      "task_id": 6118499425,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
