@@ -73287,6 +73287,16 @@
         0.0,
         0.0
       ]
+    },
+    "5541364040": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CLN2102CD",
+      "originals_sha256": [
+        "9e58f8f02367bf7de44df4cfef2ce66289b4055c1d59551784f94b857196c819",
+        "0ff5569adaad66803165849ca4c92f8d76553a770348cd6e1220412a6312d341"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
