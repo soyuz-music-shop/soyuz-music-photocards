@@ -62048,13 +62048,14 @@
       ]
     },
     "3563073885": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ACMEM241CD",
       "originals_sha256": [
         "7f207b49ed8e052b906c29e2f113ae9d028ff3a4cd12d6a6e065c3644c67106b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112662146
     }
   },
   "reason": null,
