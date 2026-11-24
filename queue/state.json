@@ -59702,13 +59702,14 @@
       ]
     },
     "3325378540": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PARA 562LP",
       "originals_sha256": [
         "f85e06a6485bbe12e8ef23bbf015b181be4ee71c2c0e9655ff62c8fd91c641f9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112207367
     }
   },
   "reason": null,
