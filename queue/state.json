@@ -77633,14 +77633,19 @@
       ]
     },
     "6800786428": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 726093",
       "originals_sha256": [
         "3203532362a8e29badfa6bd3dfb824bbbf7449628b626513d760abdcf9671bf6"
       ],
       "before_count": 1,
-      "task_id": 6118468547
+      "task_id": 6118468547,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
