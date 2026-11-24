@@ -69200,6 +69200,16 @@
         0.0,
         0.0
       ]
+    },
+    "4385191618": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OLE-872-LP",
+      "originals_sha256": [
+        "0cdae2c0b104192d0af2107071d04d008cf2df34a969c48dbeb97317d81b11e0",
+        "dcb71eaa586ea4b4751449291c671002a3d193cd71941b1b4890cde772c8a329"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
