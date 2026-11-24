@@ -58234,14 +58234,19 @@
       ]
     },
     "3296659222": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV807LP",
       "originals_sha256": [
         "22f67a4eb5aee7772b9554990b44191affe3383f1f7fea43e8a3a23ae86fb545"
       ],
       "before_count": 1,
-      "task_id": 6111961878
+      "task_id": 6111961878,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
