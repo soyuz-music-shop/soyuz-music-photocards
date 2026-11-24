@@ -79819,6 +79819,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921030865": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LP832621",
+      "originals_sha256": [
+        "b2fa86fe8f52cd1316b116c291f5d333a412faf9bfcb9b13c8506ded98efd3eb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
