@@ -61443,6 +61443,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073782": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PECLEC 22672",
+      "originals_sha256": [
+        "c49fb5c6dee832caa1078fc6662fc56fb775a04745e44804576992cdccbe155d"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
