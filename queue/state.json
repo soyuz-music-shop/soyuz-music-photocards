@@ -57987,6 +57987,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659147": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AR-113LP",
+      "originals_sha256": [
+        "18865ce4e0745c84e38edf473e0bd9553a0d7d3fdad755a04b0fd312f14f3ee9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
