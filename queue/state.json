@@ -76321,7 +76321,7 @@
       ]
     },
     "6799302315": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "KM703207",
       "originals_sha256": [
@@ -76330,7 +76330,12 @@
         "84e0d6f3f32aa20d52abb4ed03368493c8f23ee8e11c589e86b9739d10defeca"
       ],
       "before_count": 3,
-      "task_id": 6118351559
+      "task_id": 6118351559,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
