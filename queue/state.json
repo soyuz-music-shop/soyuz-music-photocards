@@ -64042,14 +64042,19 @@
       ]
     },
     "3784564953": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP155",
       "originals_sha256": [
         "a223d1659b901fd136c29cf342144dbcde13289faa71ceed01c4e5e192f1a5c2"
       ],
       "before_count": 1,
-      "task_id": 6113156950
+      "task_id": 6113156950,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
