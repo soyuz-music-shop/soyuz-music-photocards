@@ -57506,6 +57506,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659016": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RADLP1",
+      "originals_sha256": [
+        "31ec4d6361cce9e183654f9d48eb8d73c840723bd8b651f36937c8e757c7eef3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
