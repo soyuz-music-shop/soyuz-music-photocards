@@ -79608,6 +79608,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920996889": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BBQLP 111",
+      "originals_sha256": [
+        "62e13fc9c2c1249ee07fded4fa9183c61ebbc6ba5e1fe962897a41d7ff392a91"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
