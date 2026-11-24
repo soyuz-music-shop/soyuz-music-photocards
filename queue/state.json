@@ -68367,6 +68367,18 @@
         0.0,
         0.0
       ]
+    },
+    "4385191425": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1727958GREEN",
+      "originals_sha256": [
+        "7617c7dafddb8456ab0bcd599f7f9c85b1005cda5ab2c4d2cda82f751b8a725d",
+        "c0aab60fb6f82f4603458a198faeff879c23afd113b1d3f3951d8babdb3d9f65",
+        "66414664f1c12007f929d8d03a7315f667183a703939250ed651ce9c4e7cc1ed",
+        "aedf05ec17e1dc06f4df22381d3712f7984ec6af48de6996fa5007283d208e83"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
