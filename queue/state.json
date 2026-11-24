@@ -79429,13 +79429,14 @@
       ]
     },
     "6920956071": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "IF-111LP",
       "originals_sha256": [
         "a3549f4ac042bb638a9340020dce06c3a1323609ae9eef263c83b62e9349360f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118641381
     }
   },
   "reason": null,
