@@ -80296,14 +80296,19 @@
       ]
     },
     "6948775811": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BOC009224",
       "originals_sha256": [
         "ca38cb3387f29cfa7be53caa796d0134d8e5c76190e9e0646dc2e9395919e3ae"
       ],
       "before_count": 1,
-      "task_id": 6118736586
+      "task_id": 6118736586,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
