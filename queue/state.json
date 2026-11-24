@@ -60763,14 +60763,19 @@
       ]
     },
     "3562824649": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PECLECLP 2672BT",
       "originals_sha256": [
         "9f370f33dc4a3646b433c9747c3fc8a6603d9c45cff7b2938334f75f483f0650"
       ],
       "before_count": 1,
-      "task_id": 6112404725
+      "task_id": 6112404725,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
