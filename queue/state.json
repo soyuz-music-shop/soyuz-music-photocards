@@ -76429,6 +76429,18 @@
         0.0,
         0.0
       ]
+    },
+    "6799331995": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MF717389CLEAR",
+      "originals_sha256": [
+        "422170d70df0713cdc621f13959d1f20207ba245ce0d852e2c154a976d45c79d",
+        "bca0fcc823cdd76b9f80ac3547ea13fa677c18a4dfd07eac109e8caab694ab60",
+        "76dfb49405589e7c00d2a72861b35dee86f47b2136bba8d826e9ff386317193e",
+        "ab5ad0ad5238767270a8864145ff697a1cb7f29a99ca7410fc2f62afaa334858"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
