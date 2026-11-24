@@ -56468,6 +56468,17 @@
         0.0,
         0.0
       ]
+    },
+    "3277020214": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX000055",
+      "originals_sha256": [
+        "31b7c857196cbc42fb58a1015d63f14197268a731e4dd8d88bd971946f8bd4f2",
+        "8f851e4fc1146ddf49e2bd05fb4b79516bf9cfc9019739e29953c626b829f69c",
+        "995ed21827fa5a66e754d32910cac29cdf97c223da798be54a5c1d652453679f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
