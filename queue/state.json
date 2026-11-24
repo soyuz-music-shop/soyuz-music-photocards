@@ -60513,14 +60513,19 @@
       ]
     },
     "3562824601": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QNTNLP 005PURPLE",
       "originals_sha256": [
         "2ba39dddddb3522407d3ce03c75380f1413f24ec02acf7204e5632d397c18835"
       ],
       "before_count": 1,
-      "task_id": 6112351718
+      "task_id": 6112351718,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
