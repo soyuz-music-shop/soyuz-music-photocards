@@ -74779,14 +74779,19 @@
       ]
     },
     "6720469980": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NBR 72442",
       "originals_sha256": [
         "06f32e3f2d9b049b600394b66a48694dcfb1cbe1302d86c7e6edf5af7917deab"
       ],
       "before_count": 1,
-      "task_id": 6118193505
+      "task_id": 6118193505,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
