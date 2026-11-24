@@ -63697,7 +63697,7 @@
       ]
     },
     "3784564849": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP2154",
       "originals_sha256": [
@@ -63705,7 +63705,12 @@
         "0727ca90725b39e04ba660c38f624107353d7747a24a984d2d110ac499423757"
       ],
       "before_count": 2,
-      "task_id": 6113088759
+      "task_id": 6113088759,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
