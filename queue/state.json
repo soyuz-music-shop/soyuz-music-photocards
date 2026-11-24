@@ -78031,14 +78031,19 @@
       ]
     },
     "6886191262": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DBSB30",
       "originals_sha256": [
         "84ceabf24df82b08614953f1573863818c70a9850308b24142eff4751bac5c01"
       ],
       "before_count": 1,
-      "task_id": 6118513141
+      "task_id": 6118513141,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
