@@ -61005,14 +61005,19 @@
       ]
     },
     "3562824695": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QATOMLP1055",
       "originals_sha256": [
         "ffe889d7ad0b9ab449c9996c3a28445124089f1b56725b8c6d645436c521b413"
       ],
       "before_count": 1,
-      "task_id": 6112458805
+      "task_id": 6112458805,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
