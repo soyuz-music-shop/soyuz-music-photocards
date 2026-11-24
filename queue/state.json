@@ -60603,14 +60603,19 @@
       ]
     },
     "3562824613": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QAHOYLP405ORANGE",
       "originals_sha256": [
         "60346b3d604453bb769a4c9647c82e861958f5b53ef03c93baf70baf73f7bb0a"
       ],
       "before_count": 1,
-      "task_id": 6112369800
+      "task_id": 6112369800,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
