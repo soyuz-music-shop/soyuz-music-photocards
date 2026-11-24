@@ -68635,13 +68635,14 @@
       ]
     },
     "4385191499": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RCV173715PINK",
       "originals_sha256": [
         "362d2330f9b4e921a1dde4374d8ce3ec3a1293039fa76bbdcd32e7d2c99a9536"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113902476
     }
   },
   "reason": null,
