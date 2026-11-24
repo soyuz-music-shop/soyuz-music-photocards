@@ -56625,6 +56625,15 @@
         0.0,
         0.0
       ]
+    },
+    "3282475076": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RPM10143202",
+      "originals_sha256": [
+        "994fa558fc09e127f36357c137a6e06eef4f7ed06f3e49920856fdafabedf024"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
