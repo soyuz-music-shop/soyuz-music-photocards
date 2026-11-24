@@ -59649,13 +59649,14 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3325378525": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "EWR038LTD",
       "originals_sha256": [
         "671561a75cf34416c7d1a03441dfbb25067589f161bc778930b392ff6e112769"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112199035
     }
   },
   "reason": null,
