@@ -78631,14 +78631,19 @@
       ]
     },
     "6886315569": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MU665818",
       "originals_sha256": [
         "48fb766fe22254bc4737bd72845158f1e5456d2fb41ab605de5a1205ccf7c041"
       ],
       "before_count": 1,
-      "task_id": 6118568902
+      "task_id": 6118568902,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
