@@ -71513,14 +71513,15 @@
       ]
     },
     "5540172541": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SBM018LP",
       "originals_sha256": [
         "aee6f2a9cb796cb9fcf73033caa4648066c0112003a2e141dd3c48152a3ce9ed",
         "94d67e3d0187e7618ffb6e41a9519a1c24b9b74219e3a2147136f9c81f41dd97"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117874366
     }
   },
   "reason": null,
