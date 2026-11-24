@@ -57493,13 +57493,14 @@
       ]
     },
     "3296659013": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV839LPLTD",
       "originals_sha256": [
         "276ca02d71b6d3408be1c15b1c6c128a4d00417d0e42fda357d846d6895606db"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111872463
     }
   },
   "reason": null,
