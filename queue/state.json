@@ -72222,7 +72222,7 @@
       ]
     },
     "5540172646": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OJO25012VIOLET",
       "originals_sha256": [
@@ -72232,7 +72232,12 @@
         "1c25c2448f1cba0429f52448e437feeeb1d022dc129ad322e7087f19589e20e8"
       ],
       "before_count": 4,
-      "task_id": 6117943114
+      "task_id": 6117943114,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
