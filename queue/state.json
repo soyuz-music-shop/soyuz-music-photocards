@@ -75839,6 +75839,15 @@
         0.0,
         0.0
       ]
+    },
+    "6721006954": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "IOMCD735",
+      "originals_sha256": [
+        "1e3ee0d07ab29c72eb5cd8a361a4c6af3010d1a90c8e92b2d5aba232348ad70f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
