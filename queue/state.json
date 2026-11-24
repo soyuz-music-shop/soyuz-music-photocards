@@ -66397,6 +66397,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946396": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD760",
+      "originals_sha256": [
+        "99d5605e0ae8d47f13512e1020934abf036529f2aa18d9a48c36966337462975"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
