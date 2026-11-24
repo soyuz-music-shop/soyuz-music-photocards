@@ -69139,14 +69139,15 @@
       ]
     },
     "4385191608": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CAD2919",
       "originals_sha256": [
         "3d520842d69f020e814eb38602465ecfaab4f72c8facfcebd5f3f9d9bbb310ef",
         "3d3f94102fa5159b47b8664d4c850a5f794ba80d628430016b39a7a767ab9eff"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6114003088
     }
   },
   "reason": null,
