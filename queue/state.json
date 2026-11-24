@@ -72882,7 +72882,7 @@
       ]
     },
     "5540172810": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BB493LTDBLUE",
       "originals_sha256": [
@@ -72890,7 +72890,12 @@
         "69ef744d152f17c0df4e19c1076f6b2e9c912f209860a58502e38739d8732a4c"
       ],
       "before_count": 2,
-      "task_id": 6118002141
+      "task_id": 6118002141,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
