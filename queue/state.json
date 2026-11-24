@@ -59016,6 +59016,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706772": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ICARUS 1482",
+      "originals_sha256": [
+        "9b4864686415f4d7f6950b6f92b5569e87b97286e5c5e1bf906d0fab6c830657"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
