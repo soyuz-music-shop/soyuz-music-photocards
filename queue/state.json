@@ -57245,6 +57245,15 @@
         0.0,
         0.0
       ]
+    },
+    "3289858438": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMG003-AT",
+      "originals_sha256": [
+        "7ebcc093659ce58b8f217661e3210e1a581c98c3f1139ada32efdc4fea1a114c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
