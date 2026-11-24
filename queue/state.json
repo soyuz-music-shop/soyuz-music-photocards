@@ -56701,6 +56701,15 @@
         0.0,
         0.0
       ]
+    },
+    "3282475258": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "SC161076",
+      "originals_sha256": [
+        "60f066a8d6c3af5aa8024a0abe21dd7982acadf5eaa8e186399e104a7e889a78"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
