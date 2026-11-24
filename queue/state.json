@@ -72238,6 +72238,20 @@
         0.0,
         0.0
       ]
+    },
+    "5540172650": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "IF-108LPWHITE",
+      "originals_sha256": [
+        "b40ef92e35e5f548f3ae29cecc1bd733cc526be029126440b3ae7329947f0acd",
+        "f8a377ed9a0d71d8c131e8b713f43d2b784d49ecdb03953cf7fc1b9536e221ac",
+        "a117c74ea3f5bdf15085e5f346d3798f26edae69a1c73ac804b593364c39ec88",
+        "a43e390782a224dd2de84bf52c5c7c17b123e1b6713b71980f5c7aac7de447d5",
+        "92895969a4a396f1e148dba9fde2d45608f4690eab72505b75d95eda91e93951",
+        "8622c4a7684b8abcf5a9fa8fbaf2b604c6a73bb6263c5b3b55bd3417d0b49ae0"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
