@@ -78106,14 +78106,19 @@
       ]
     },
     "6886206495": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DB397355",
       "originals_sha256": [
         "95daef6e0a713fca4868bc8ac9875bd975d4567a04b031f7ac946daa8267eef1"
       ],
       "before_count": 1,
-      "task_id": 6118520746
+      "task_id": 6118520746,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
