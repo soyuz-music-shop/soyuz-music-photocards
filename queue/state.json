@@ -57356,6 +57356,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296658996": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SOM 517LP",
+      "originals_sha256": [
+        "db977affc52f0c9f372bcb20fa90c981987dd464be64abcc0dc4540c9528e516"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
