@@ -57699,7 +57699,7 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3296659060": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "import-vinyl-info",
       "offer_id": "AA436044",
       "originals_sha256": [
