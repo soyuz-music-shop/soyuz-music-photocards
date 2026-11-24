@@ -70207,7 +70207,7 @@
       ]
     },
     "4462432011": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DP871921",
       "originals_sha256": [
@@ -70215,7 +70215,12 @@
         "49b504b4646a404ff6970b59cc4c33f919e8e4678166089048ac6f8307fa0a06"
       ],
       "before_count": 2,
-      "task_id": 6117726445
+      "task_id": 6117726445,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
