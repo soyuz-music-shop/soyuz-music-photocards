@@ -66338,13 +66338,14 @@
       ]
     },
     "3784946375": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDWIKM116",
       "originals_sha256": [
         "bdacbcf51791ef22af68f23e336031bbc4f8f86f735e516f414d27440b062cf7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113550263
     }
   },
   "reason": null,
