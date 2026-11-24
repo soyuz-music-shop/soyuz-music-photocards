@@ -64881,7 +64881,7 @@
       ]
     },
     "3784565213": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WIKAD132RED",
       "originals_sha256": [
@@ -64891,7 +64891,8 @@
         "035f1e650fe65c2324ce9523226e76f3ea9b60954d4e5ee13962ae8c8443ea55",
         "caa6ae483657421a882d35f8cdeffc076126f488d125d2306954830ba8121687"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6113307484
     }
   },
   "reason": null,
