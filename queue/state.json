@@ -72632,7 +72632,7 @@
       ]
     },
     "5540172732": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LP718122",
       "originals_sha256": [
@@ -72640,7 +72640,12 @@
         "37af34b7790e6a61ada8c24e8e9d41da5c6b057c1b1e8b1532b102bba471248c"
       ],
       "before_count": 2,
-      "task_id": 6117984657
+      "task_id": 6117984657,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
