@@ -73391,7 +73391,7 @@
       ]
     },
     "5541364173": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MT121820",
       "originals_sha256": [
@@ -73399,7 +73399,12 @@
         "4f7e0f1a6aef30bd3f4a91f5f75ddc7dd187ec275357942fd8deea2ec7d2388b"
       ],
       "before_count": 2,
-      "task_id": 6118059931
+      "task_id": 6118059931,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
