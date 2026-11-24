@@ -72295,7 +72295,7 @@
       ]
     },
     "5540172654": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TR567",
       "originals_sha256": [
@@ -72304,7 +72304,12 @@
         "29bc8cbd09b5a099c0501daa06298fcf06fc527289e4b86f9fbc77ebd122d66c"
       ],
       "before_count": 3,
-      "task_id": 6117950332
+      "task_id": 6117950332,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
