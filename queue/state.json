@@ -67199,7 +67199,7 @@
       ]
     },
     "4385191133": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV183793CLEAR",
       "originals_sha256": [
@@ -67208,7 +67208,12 @@
         "731c6b5327db8b3f39c083582e294f11534841fd326af572aeca455c9e54ab1e"
       ],
       "before_count": 3,
-      "task_id": 6113682650
+      "task_id": 6113682650,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
