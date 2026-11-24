@@ -78794,6 +78794,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886347339": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RO375977RED",
+      "originals_sha256": [
+        "0f898c2e881826dcc31f213cab47cf2c3a57633fbba3e9ae76d3af9cb2a1f7fe"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
