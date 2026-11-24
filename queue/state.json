@@ -60653,13 +60653,14 @@
       ]
     },
     "3562824618": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED907RED",
       "originals_sha256": [
         "e589124246ebed4a261677f6df332f99ac8f4b5f4abf391406ee4ce705e5137d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112379828
     }
   },
   "reason": null,
