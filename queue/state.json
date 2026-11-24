@@ -79954,6 +79954,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921046495": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM590511",
+      "originals_sha256": [
+        "5a98b766f3ed15cc82cb5c738c26b65cc38b75aaf94a16678602884493d469a9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
