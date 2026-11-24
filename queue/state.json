@@ -77565,7 +77565,7 @@
       ]
     },
     "6800772114": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "VE899683BLUE",
       "originals_sha256": [
@@ -77575,7 +77575,12 @@
         "92d156dd7fc564e207f5573eef22313c40f8da97c01025fec90d2820f08ce1e0"
       ],
       "before_count": 4,
-      "task_id": 6118460529
+      "task_id": 6118460529,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
