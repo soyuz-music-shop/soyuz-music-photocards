@@ -75530,6 +75530,18 @@
         0.0,
         0.0
       ]
+    },
+    "6720738778": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UICY-79989K",
+      "originals_sha256": [
+        "6293f20a2998b9d4493e2e8f4a27edcfa17f2686b0b6bd3230ab14465fb2b9d9",
+        "e41a6055d733b11e2d9f2e07ac0ab60e167231d4ab46fa5a5e33696ec263a417",
+        "8b11e9f1e777d6afdc89b1dbfcbfb055385c9588d79ca3586ff0ec62b107a762",
+        "7ba081d7d1f7a7a071a8c231305f083e8b4e1eb9b894a986d50d567a168c4e58"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
