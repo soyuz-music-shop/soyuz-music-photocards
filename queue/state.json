@@ -65527,14 +65527,19 @@
       ]
     },
     "3784946170": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKD101",
       "originals_sha256": [
         "1ab3ef3f9bd3262d3703827a03ff98ae0407982bf748877acac2a457b62d76c2"
       ],
       "before_count": 1,
-      "task_id": 6113424505
+      "task_id": 6113424505,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
