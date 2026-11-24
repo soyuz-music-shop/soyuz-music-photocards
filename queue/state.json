@@ -65210,6 +65210,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946105": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBGPD153",
+      "originals_sha256": [
+        "f1bee730abe0b00d029d86f96c72991126218fd675e8973eddb67a8f5541f5e7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
