@@ -78526,14 +78526,19 @@
       ]
     },
     "6886297361": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MM589478ABBWBAWM",
       "originals_sha256": [
         "96b02c22038a053d1387516f65e06c1a11c44950a544182eb0ebaa3e12da7b50"
       ],
       "before_count": 1,
-      "task_id": 6118559474
+      "task_id": 6118559474,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
