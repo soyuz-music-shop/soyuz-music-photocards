@@ -72328,6 +72328,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172665": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NOISE122DLP",
+      "originals_sha256": [
+        "181b6b6f50b77f96e687833d9f1953e45efb7b074d1860546ed599ed83e1825d",
+        "aad37e2f1c23ff51169fcc7ea993eb8fc7a62b810c9c31f61137c3139d76fefc",
+        "3568a7581cdae0c3d1a35940f07f529dc6d07feed2947ce43abb7eeb3fd52e6d"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
