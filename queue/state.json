@@ -73338,7 +73338,7 @@
       ]
     },
     "5541364123": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MJ380023",
       "originals_sha256": [
@@ -73346,7 +73346,12 @@
         "4d284ea489e2d6b4051972d8555f05121ad051e214df441d4c79239d121920dc"
       ],
       "before_count": 2,
-      "task_id": 6118051601
+      "task_id": 6118051601,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
