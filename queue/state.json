@@ -75502,13 +75502,14 @@
       ]
     },
     "6720732494": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "UICY-79987K",
       "originals_sha256": [
         "333bb3089b07ebdeedb74d0a2b9dcdbf21f041cbfc83479789e142c8be33620e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118267047
     }
   },
   "reason": null,
