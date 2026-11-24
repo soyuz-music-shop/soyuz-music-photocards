@@ -73067,7 +73067,7 @@
       ]
     },
     "5540172931": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XX080918SBM",
       "originals_sha256": [
@@ -73075,7 +73075,8 @@
         "0954ed7b8550ff80ce250b97a71375cd8587a9ad71a7e59fa6888744a539eefe",
         "e35175ff95794b6d38a44a49dfa017ffc09f0f9ad735deea8a5b81c2a7592f2b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118022354
     }
   },
   "reason": null,
