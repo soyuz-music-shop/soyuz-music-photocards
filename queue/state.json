@@ -59109,14 +59109,19 @@
       ]
     },
     "3318706782": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD01",
       "originals_sha256": [
         "8cae27663d716de0d347e0077c457838ca08b1df6a1c3c7375f5c9515f558c1d"
       ],
       "before_count": 1,
-      "task_id": 6112100908
+      "task_id": 6112100908,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
