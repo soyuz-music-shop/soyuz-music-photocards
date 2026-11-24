@@ -58743,6 +58743,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541228": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PHAZZ 073",
+      "originals_sha256": [
+        "82698ab86fa1bc00d685921bafbc6408699f9d2445957678b5ef7b760993423b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
