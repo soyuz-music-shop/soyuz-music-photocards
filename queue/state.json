@@ -72552,7 +72552,7 @@
       ]
     },
     "5540172707": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBR74531",
       "originals_sha256": [
@@ -72560,7 +72560,12 @@
         "5097fdcf58cf1aa74785731394d497aa920705fdbdf4d6553346649376cdb61d"
       ],
       "before_count": 2,
-      "task_id": 6117976926
+      "task_id": 6117976926,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
