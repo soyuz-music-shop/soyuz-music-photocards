@@ -61578,6 +61578,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073805": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CR4POPBX291",
+      "originals_sha256": [
+        "afedae8f5daf2966f26adf445fe3fda1d9225a99fe9ba3da6a6cdc961e4c1633"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
