@@ -65675,6 +65675,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946205": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDCHD1483",
+      "originals_sha256": [
+        "5dbe229d15d0ccc6029e7407a2390ba3d349811aa461da8ccaa37f2cf55b0434"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
