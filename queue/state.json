@@ -62486,6 +62486,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576025004": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NRTLP004D",
+      "originals_sha256": [
+        "ad63657ea9ee04449e7cdf08d8adebbdbe4b27a549383c1b28d60021bf2a4cb2"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
