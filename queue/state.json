@@ -74972,14 +74972,19 @@
       ]
     },
     "6720547419": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DD915345",
       "originals_sha256": [
         "8931dd79cc52ed28a5775e58753529c45ac3d308403959862079dbd13ca09c3e"
       ],
       "before_count": 1,
-      "task_id": 6118211012
+      "task_id": 6118211012,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
