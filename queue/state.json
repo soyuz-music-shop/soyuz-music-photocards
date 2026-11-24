@@ -78779,6 +78779,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886343629": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PLACOLP01X",
+      "originals_sha256": [
+        "44f5dce85324677bb689ed8d5f1783d3065339d4f2bb500c78098f79732d4438"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
