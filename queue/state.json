@@ -68539,6 +68539,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191463": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WIGLP570",
+      "originals_sha256": [
+        "0048b3e86655741a177b107d79018d9f48281b5b46258cd5ed69a4c48fd9d8f6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
