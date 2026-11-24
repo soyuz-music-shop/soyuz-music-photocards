@@ -71958,7 +71958,7 @@
       ]
     },
     "5540172605": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WCV080",
       "originals_sha256": [
@@ -71966,7 +71966,8 @@
         "20ec37a5e039e11d90d2b3094c299cb2eaf6196ebdced3b557889874dd5decb6",
         "7ac6f9050f6d47dc03e86377798e65515e518cf9e49fac3216be8c4b4daef25a"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117919646
     }
   },
   "reason": null,
