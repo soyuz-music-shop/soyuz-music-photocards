@@ -57403,13 +57403,14 @@
       ]
     },
     "3296659001": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MANNLP22",
       "originals_sha256": [
         "2e3dc0b7b9544f785f9a898d75b44a513ada7744df89a139be5fcd893292c43c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111862354
     }
   },
   "reason": null,
