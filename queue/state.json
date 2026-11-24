@@ -76649,14 +76649,19 @@
       ]
     },
     "6799394472": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PSSLP575798",
       "originals_sha256": [
         "464f63cebb3067f6a8cdfdcd8653a5c798e63e39151421bcb12650654d6d830b"
       ],
       "before_count": 1,
-      "task_id": 6118380403
+      "task_id": 6118380403,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
