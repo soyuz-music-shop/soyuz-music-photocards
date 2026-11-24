@@ -66008,13 +66008,14 @@
       ]
     },
     "3784946312": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDBGPM290",
       "originals_sha256": [
         "b4135d872a825553ee0de53a04fddc2c803b5dc4cab56979a12f6aeca140c01a"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113494523
     }
   },
   "reason": null,
