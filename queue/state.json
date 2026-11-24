@@ -61700,14 +61700,19 @@
       ]
     },
     "3563073826": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AHOY DPX 602",
       "originals_sha256": [
         "4911aa4bcac1a0256069a2d948da275f85341e6e3724c2183787b2f8678686f9"
       ],
       "before_count": 1,
-      "task_id": 6112596620
+      "task_id": 6112596620,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
