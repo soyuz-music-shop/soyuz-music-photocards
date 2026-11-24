@@ -60870,13 +60870,14 @@
       ]
     },
     "3562824669": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBWF 004LP",
       "originals_sha256": [
         "e4f2c310e71ab1a8c9067d58e1d0a68f33e44ba18d9cb7cb0fe0504228dc84c7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112428508
     }
   },
   "reason": null,
