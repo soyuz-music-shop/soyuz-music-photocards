@@ -72882,14 +72882,15 @@
       ]
     },
     "5540172810": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BB493LTDBLUE",
       "originals_sha256": [
         "9e74abc7f6fcf56c899fdc8501f47b66ded2b6af7274b8082df6b7c35b286e83",
         "69ef744d152f17c0df4e19c1076f6b2e9c912f209860a58502e38739d8732a4c"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118002141
     }
   },
   "reason": null,
