@@ -77804,6 +77804,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886129773": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0822LP",
+      "originals_sha256": [
+        "3e936691e7f8128557a69da8a966a0d292d29427b52821aa6e3238fe3dea0024"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
