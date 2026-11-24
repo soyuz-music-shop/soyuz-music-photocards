@@ -78359,6 +78359,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886265893": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TMR-1062",
+      "originals_sha256": [
+        "dba0760cbec8fc189959d0a951d72a7f1655cb80a90367995b9846815b7c0847"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
