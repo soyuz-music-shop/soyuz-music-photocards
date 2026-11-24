@@ -77312,13 +77312,14 @@
       ]
     },
     "6800721188": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PURELP11X",
       "originals_sha256": [
         "8e53bb57887cd6365b3fddc2ee3ae4b7a935b2c771bba6c9e70ac2f28e42bb7f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118432449
     }
   },
   "reason": null,
