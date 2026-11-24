@@ -75856,7 +75856,7 @@
       ]
     },
     "6721009766": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "NBRLP 73311",
       "originals_sha256": [
@@ -75864,7 +75864,12 @@
         "2d03e3bd33447a03262e3403b3a53fcd976f5f8eef1ea564e1d6e50596bbf446"
       ],
       "before_count": 2,
-      "task_id": 6118302911
+      "task_id": 6118302911,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
