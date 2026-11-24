@@ -71761,14 +71761,15 @@
       ]
     },
     "5540172585": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "GRON134WHITE",
       "originals_sha256": [
         "642d9f2a4d65dc764169982afac46d3a9755faf4bce57ea6451f91293f3ec750",
         "1adccb547470ce8b5a196ce5ab9ce9829f6470132162aad233dd48cf0c417855"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117900320
     }
   },
   "reason": null,
