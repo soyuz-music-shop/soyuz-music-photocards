@@ -74144,6 +74144,16 @@
         0.0,
         0.0
       ]
+    },
+    "6503606342": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR1 2822",
+      "originals_sha256": [
+        "b52d8873279dcf84332c679303b392d8196110ffcc32287d8dc06080ec4493ce",
+        "87af8e978c812c8871bfd0cc12246fa9f98aeb225c9c4d930a4b1828bf56a2d9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
