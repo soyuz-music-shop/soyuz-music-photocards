@@ -60556,6 +60556,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824607": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECLECLP 2908",
+      "originals_sha256": [
+        "91fdbd6f1de7ca6e5a83cb94eb12cffad125b7f8fe7884ab11de57784fbdeded"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
