@@ -73218,6 +73218,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540173434": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BONF011",
+      "originals_sha256": [
+        "506d03ed388dc15b904eac02594a3e1e5bcaa621c009850e597298012bfe5c48",
+        "bab0f6ea6a5ad93b34f74f713e9528a7bf30bd219729e02c9b1eb185705ce092",
+        "34fd62bf1fac69ddad4edb24689a125f4d996f7ff7b2f109655de55bd0730d80"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
