@@ -64375,14 +64375,19 @@
       ]
     },
     "3784565043": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP053WHITE",
       "originals_sha256": [
         "37e64911d3d72587110f8ece22561365903336d0f3250cfb3898398f529f2b5d"
       ],
       "before_count": 1,
-      "task_id": 6113221377
+      "task_id": 6113221377,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
