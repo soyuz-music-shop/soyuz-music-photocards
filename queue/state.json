@@ -63664,7 +63664,7 @@
       ]
     },
     "3762174577": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DISS077CDD",
       "originals_sha256": [
@@ -63673,7 +63673,8 @@
         "1386a30e7fe2f75ddd3a9513701de4d3626e7a2320e163f134045e95c8a112ef",
         "e8b500a90bb41e5a976b7571823a7eed022b2d3d0aab8ee41f9d4e55a952582a"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6113082394
     }
   },
   "reason": null,
