@@ -77004,14 +77004,19 @@
       ]
     },
     "6800660015": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QU644097",
       "originals_sha256": [
         "6415530e5a0e76345efcc865715e41736a0fce5ec518ab5cb49dfaa7ef9d3ac2"
       ],
       "before_count": 1,
-      "task_id": 6118410456
+      "task_id": 6118410456,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
