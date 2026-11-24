@@ -71743,6 +71743,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172582": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ABRP254112",
+      "originals_sha256": [
+        "9a50d9a0995ef5db4b2445e0203171412a80564a7736339a9a3af3183732f064",
+        "30dc5798b4bb5c379f8fa02b625df411a2c5572c502b7b5f1d74ceac845f845a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
