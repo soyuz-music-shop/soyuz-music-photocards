@@ -64205,6 +64205,17 @@
         0.0,
         0.0
       ]
+    },
+    "3784564986": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GNP2299",
+      "originals_sha256": [
+        "fe29930c1577a1e1c746b6e4f69b4c7eab0af6d111f79d6b9891dc9c67023f31",
+        "8d0e86f32a9b98b460e62791b9a893808b179eb0236dbf89794c630735edfd67",
+        "922cd903457147e5c3103a9cb42d9cc27e62122be3fa14356394b418f8e3752f"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
