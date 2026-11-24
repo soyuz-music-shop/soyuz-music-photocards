@@ -79259,14 +79259,19 @@
       ]
     },
     "6920926802": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "warplp123r",
       "originals_sha256": [
         "a582b06379e26e5101cdae29ccd5dd8ce465d3c6d025ffd0049ac07ce8d6fcfe"
       ],
       "before_count": 1,
-      "task_id": 6118621813
+      "task_id": 6118621813,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
