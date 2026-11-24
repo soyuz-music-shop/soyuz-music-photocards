@@ -79638,6 +79638,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921000824": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBQCD 2108",
+      "originals_sha256": [
+        "3a0daead546a6220111b9b46f56efe7d31a133ea71f6a9a24d0133d647d8df3b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
