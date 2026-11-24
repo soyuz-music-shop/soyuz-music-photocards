@@ -66474,14 +66474,19 @@
       ]
     },
     "3784946405": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDBGPM281",
       "originals_sha256": [
         "73d8450d942277050f7748c39d680d109d3bdae90701cfde0696bf2cc397a46b"
       ],
       "before_count": 1,
-      "task_id": 6113575354
+      "task_id": 6113575354,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
