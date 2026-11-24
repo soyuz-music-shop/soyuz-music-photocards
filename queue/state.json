@@ -61033,6 +61033,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824697": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRED874",
+      "originals_sha256": [
+        "39eb8d1efbe290cc617753ebb1707df46ee9328268a9e867f81a41e28eb7811c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
