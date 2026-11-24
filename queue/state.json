@@ -59214,13 +59214,14 @@
       ]
     },
     "3318706794": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "NB 4173-2",
       "originals_sha256": [
         "b38e953c6830377691c0610c37110911c94a5c37925681c4cd7980db1dc9fc44"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112119866
     }
   },
   "reason": null,
