@@ -60451,6 +60451,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824592": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AHOYLP428",
+      "originals_sha256": [
+        "7fce31aae5602af4f0beb52111f9af7ea3eee54d278f0aa651c819423e93fe11"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
