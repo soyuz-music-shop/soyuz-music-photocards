@@ -60898,6 +60898,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824675": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LEMLP230",
+      "originals_sha256": [
+        "20368b157db03c15cef38ef1ccb697e2cc477125392da76ccbcba76fece73e23"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
