@@ -69896,6 +69896,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462133738": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WH744425",
+      "originals_sha256": [
+        "a99fb3e531a933a8d43fa9e72b8c370b64941d3698a902a4f6313f57a42c8518"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
