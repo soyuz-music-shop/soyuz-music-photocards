@@ -61265,13 +61265,14 @@
       ]
     },
     "3563073766": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ROBIN12CDD",
       "originals_sha256": [
         "07ec2c19a67f64bf05c7dc0467262e40d5af9c499be645912ccbfadab4b89652"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112511677
     }
   },
   "reason": null,
