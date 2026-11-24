@@ -78211,14 +78211,19 @@
       ]
     },
     "6886230050": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "244511 LP",
       "originals_sha256": [
         "0cd72b7e5fff06f5cad32c92be6b66adf32bf25716cb3d849e9381a1e7c91b1f"
       ],
       "before_count": 1,
-      "task_id": 6118530287
+      "task_id": 6118530287,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
