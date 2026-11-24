@@ -75376,14 +75376,19 @@
       ]
     },
     "6720692842": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PIASLL212LP",
       "originals_sha256": [
         "2bc6ef9d2a0198b9a341fa1bdbf814c87a9d3d4aac9bb2fc66be2dcff50f1bf1"
       ],
       "before_count": 1,
-      "task_id": 6118255295
+      "task_id": 6118255295,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
