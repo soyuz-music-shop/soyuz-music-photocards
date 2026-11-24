@@ -75346,14 +75346,19 @@
       ]
     },
     "6720681010": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT196CDX",
       "originals_sha256": [
         "0470174bea11ae07c2a96d6446cce59d59c7fdfb56ccc59c9a8acc92eca8d643"
       ],
       "before_count": 1,
-      "task_id": 6118251411
+      "task_id": 6118251411,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
