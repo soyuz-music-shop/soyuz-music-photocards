@@ -58125,14 +58125,19 @@
       ]
     },
     "3296659196": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BOBV553LP",
       "originals_sha256": [
         "37ba8f939aa7d62ef800f77d1bc1ec5af1bf496591539dca423f1aaa607dd942"
       ],
       "before_count": 1,
-      "task_id": 6111948434
+      "task_id": 6111948434,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
