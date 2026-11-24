@@ -58450,7 +58450,7 @@
       ]
     },
     "3297031028": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CLLP64394",
       "originals_sha256": [
@@ -58458,7 +58458,12 @@
         "902a52f412af08f4f1dfa92c31832d01c31d4475aaad8551902534d6de032ada"
       ],
       "before_count": 2,
-      "task_id": 6111992357
+      "task_id": 6111992357,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
