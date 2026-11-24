@@ -57662,7 +57662,7 @@
       ]
     },
     "3296659054": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BBCV 0712",
       "originals_sha256": [
@@ -57671,7 +57671,12 @@
         "609beb27590f1365424fce779a5cb6f44a57edd8d36ecdcc560e4e9de07c8d15"
       ],
       "before_count": 3,
-      "task_id": 6111892404
+      "task_id": 6111892404,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
