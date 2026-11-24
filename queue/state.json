@@ -71942,7 +71942,7 @@
       ]
     },
     "5540172604": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SP1707OR",
       "originals_sha256": [
@@ -71950,7 +71950,12 @@
         "c14a89d6ebb7b514fd8d510f97ee4950bdb1ea29b01085199236c49f49a5be74"
       ],
       "before_count": 2,
-      "task_id": 6117918042
+      "task_id": 6117918042,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
