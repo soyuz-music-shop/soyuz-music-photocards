@@ -57431,6 +57431,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659004": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DSR 308 LP",
+      "originals_sha256": [
+        "3c4c9b0e520bb4e773617c435fab71d8b476b974bf9217fef9a53949ebb0581b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
