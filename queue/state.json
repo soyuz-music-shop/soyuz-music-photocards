@@ -60975,13 +60975,14 @@
       ]
     },
     "3562824687": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BRED875",
       "originals_sha256": [
         "8680c5e10108620980e417a47866e7a7aaf8c7d2f8fc474d14aed86cb2c78428"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112450933
     }
   },
   "reason": null,
