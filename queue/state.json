@@ -73135,7 +73135,7 @@
       ]
     },
     "5540173060": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BTR065GREEN",
       "originals_sha256": [
@@ -73143,7 +73143,8 @@
         "a41dfbbd735dd926d0922f4216e242842043671ed51cdadac24467a038755999",
         "67f9ecdeaffb145a256757909b573264da0344378786e3a3e847a1d07d91e978"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118029480
     }
   },
   "reason": null,
