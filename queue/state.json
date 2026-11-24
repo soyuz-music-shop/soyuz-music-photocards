@@ -73273,7 +73273,7 @@
       ]
     },
     "5541364030": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "XX732023",
       "originals_sha256": [
@@ -73281,7 +73281,12 @@
         "0c80036e590aedf57383611492c1ec293ddc98aa620512a9ba70498e6a15aed1"
       ],
       "before_count": 2,
-      "task_id": 6118043256
+      "task_id": 6118043256,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
