@@ -58450,14 +58450,15 @@
       ]
     },
     "3297031028": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CLLP64394",
       "originals_sha256": [
         "1153a30f5ccdd916bdaa9c63679efc179463d483c3ed6544b7a3b432fb9e3bfa",
         "902a52f412af08f4f1dfa92c31832d01c31d4475aaad8551902534d6de032ada"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111992357
     }
   },
   "reason": null,
