@@ -74195,7 +74195,7 @@
       ]
     },
     "6503616497": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DMLP19802887751",
       "originals_sha256": [
@@ -74203,7 +74203,12 @@
         "97d769d3127a9eda789c757bebece54cda52cb6a1fd3353b9fada4fad6b5319e"
       ],
       "before_count": 2,
-      "task_id": 6118140845
+      "task_id": 6118140845,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
