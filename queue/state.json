@@ -67568,6 +67568,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191211": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MO134957YB",
+      "originals_sha256": [
+        "07da97b8221551e23858278b53fe79cd70e6fbdf5e43a8ae7200da2dc4bae60b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
