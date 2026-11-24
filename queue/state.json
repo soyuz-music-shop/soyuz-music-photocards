@@ -60840,13 +60840,14 @@
       ]
     },
     "3562824667": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ECLECLP2889",
       "originals_sha256": [
         "b716b65d6bc2ae31c119392b0c3a2976122a8e6670a80ad61832c59f9ba7dd84"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112422210
     }
   },
   "reason": null,
