@@ -56273,14 +56273,19 @@
       ]
     },
     "3277020162": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DIV548914",
       "originals_sha256": [
         "e25313d1b82f1a039299bc9009f3b8e234b4ae4ab12eb3bb1f3aece9fe6abe05"
       ],
       "before_count": 1,
-      "task_id": 6111686050
+      "task_id": 6111686050,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
