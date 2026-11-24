@@ -58943,14 +58943,19 @@
       ]
     },
     "3318643403": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OLOGYLPBOOK1",
       "originals_sha256": [
         "3ad3534939037dc3ec311143b88bc9f293ea044ef1013bfa4e51f94561ef3d19"
       ],
       "before_count": 1,
-      "task_id": 6112070142
+      "task_id": 6112070142,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
