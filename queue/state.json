@@ -72630,6 +72630,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172732": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LP718122",
+      "originals_sha256": [
+        "ca5d82e13b3f1e8ebed4b3889b43caf532d7e42a76a2aacbbebb1fbe8e072eab",
+        "37af34b7790e6a61ada8c24e8e9d41da5c6b057c1b1e8b1532b102bba471248c"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
