@@ -57123,14 +57123,15 @@
       ]
     },
     "3289551227": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QU717470",
       "originals_sha256": [
         "c0cc9a072cbb35966f2d2248f12ee0ba3276c10f608a094b375f1c7dcfc212af",
         "db94a65237a5bf72b4b25332f9d524c4f8d6365efdf44791c60232e736879b9a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6111806693
     }
   },
   "reason": null,
