@@ -57078,14 +57078,19 @@
       ]
     },
     "3289510948": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "QU000000",
       "originals_sha256": [
         "c7381245bdab1271cd61909034d6ce0ebf4091ef4bdcdf289e3d71bdfee00243"
       ],
       "before_count": 1,
-      "task_id": 6111801315
+      "task_id": 6111801315,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
