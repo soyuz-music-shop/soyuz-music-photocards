@@ -71958,7 +71958,7 @@
       ]
     },
     "5540172605": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WCV080",
       "originals_sha256": [
@@ -71967,7 +71967,12 @@
         "7ac6f9050f6d47dc03e86377798e65515e518cf9e49fac3216be8c4b4daef25a"
       ],
       "before_count": 3,
-      "task_id": 6117919646
+      "task_id": 6117919646,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
