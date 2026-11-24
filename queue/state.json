@@ -61913,13 +61913,14 @@
       ]
     },
     "3563073873": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDM PSYCHO 36",
       "originals_sha256": [
         "966f4f4db09b7d04f4f143b73b86083c44553222cb02d9cbd166311d7f61ed00"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112637078
     }
   },
   "reason": null,
