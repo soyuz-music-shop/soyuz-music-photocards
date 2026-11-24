@@ -78509,6 +78509,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886290123": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RR6622-1",
+      "originals_sha256": [
+        "05191f92e940038fd235ca00593385ce9a2bd7da2f5076848296f38daea49dc6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
