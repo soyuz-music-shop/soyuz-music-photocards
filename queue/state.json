@@ -65915,6 +65915,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946285": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWIKD344",
+      "originals_sha256": [
+        "37ad14e8e954497f2d9c5080d67321bab48569fcb32069d09c9e03840c096fee"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
