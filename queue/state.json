@@ -58414,6 +58414,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296811107": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HRR 550",
+      "originals_sha256": [
+        "15d6cf7294b2b04f334b3cc8a2a6ba264fb9303bc7cefbd487ad8f59e7f52eac"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
