@@ -76416,13 +76416,14 @@
       ]
     },
     "6799328174": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MC048722",
       "originals_sha256": [
         "90044234e26e84c1c399a423333ecdab2fcd7949beae580c44bd81db46be514c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118360303
     }
   },
   "reason": null,
