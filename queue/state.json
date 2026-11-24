@@ -58569,6 +58569,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541180": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMARCHIVE2",
+      "originals_sha256": [
+        "809dff778bc087c343a6564e98dc25ec5decd0f5e80d462f85f298e162c1103f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
