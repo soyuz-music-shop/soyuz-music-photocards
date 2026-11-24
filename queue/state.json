@@ -76230,14 +76230,19 @@
       ]
     },
     "6799275185": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "EX621329",
       "originals_sha256": [
         "f4bbf3893af40e6a4f619a14b92d0fb786f3d268c715f9207b41148d3ea47bd9"
       ],
       "before_count": 1,
-      "task_id": 6118340466
+      "task_id": 6118340466,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
