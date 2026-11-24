@@ -64990,7 +64990,7 @@
       ]
     },
     "3784565228": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SX2133",
       "originals_sha256": [
@@ -65003,7 +65003,8 @@
         "c8faf804ed52e130cd73d5a45ceb3fda8360d89b6cabf6f926992cb4822ac69c",
         "aeedffbea41e3d95e7f6554d1068da16c92d1363a6b9b4b5a1ce71e03574742d"
       ],
-      "before_count": 8
+      "before_count": 8,
+      "task_id": 6113324667
     }
   },
   "reason": null,
