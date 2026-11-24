@@ -76022,14 +76022,15 @@
       ]
     },
     "6799195224": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AP032536",
       "originals_sha256": [
         "ea59dab1ce6f9abb99fd9e62b3f413b1c25538d3c86f03a4b0803217b22b9883",
         "c33c2bf0de97ee3e4f1686aeb3865435c935ca1c56e360b653384b6eace66519"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118319523
     }
   },
   "reason": null,
