@@ -78346,14 +78346,19 @@
       ]
     },
     "6886263237": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAROL019LP",
       "originals_sha256": [
         "4d460022c120787c4843942242905dbf063da7bf06d0f604793d34be5ea0f086"
       ],
       "before_count": 1,
-      "task_id": 6118542081
+      "task_id": 6118542081,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
