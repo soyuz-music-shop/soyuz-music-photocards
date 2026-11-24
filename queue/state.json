@@ -63577,7 +63577,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "3740366094": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-russian",
       "offer_id": "4601250366067",
       "originals_sha256": [
@@ -63588,7 +63588,8 @@
         "4a16d77bbc540707780f11fc5810f203df5eff50b191de44fc52cb3b8b5aaf0c",
         "b59a54249a308a84043cc290b6d856d4c5b412ae9cb9d6e6bdb88eea314c27ea"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6113056589
     }
   },
   "reason": null,
