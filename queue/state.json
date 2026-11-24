@@ -71412,7 +71412,7 @@
       ]
     },
     "5540172505": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT899LPRWBS",
       "originals_sha256": [
@@ -71423,7 +71423,8 @@
         "5217ac5cbe2c14f3d80b40ddc3e80c288859d5ba1fd59e88c75f0362d18fa0d1",
         "a8edf9504b3beb36824659920c83b3814d9c8ddb7ea7f9d13f1ce56bd1c556ab"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6117865350
     }
   },
   "reason": null,
