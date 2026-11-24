@@ -79836,13 +79836,14 @@
       ]
     },
     "6921033141": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "MA822417PT",
       "originals_sha256": [
         "c3194dc7622326484bcd112ff847c5582354acbea0a2540c15e308f7d9a92a36"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118676289
     }
   },
   "reason": null,
