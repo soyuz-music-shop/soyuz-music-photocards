@@ -70177,13 +70177,14 @@
       ]
     },
     "4462415506": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PF709423",
       "originals_sha256": [
         "cc6f2ce575caafc8a0dc42df859fa43c3831521ae4a07ff114b8266e1b6502d3"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6117722743
     }
   },
   "reason": null,
