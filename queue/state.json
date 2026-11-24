@@ -58700,14 +58700,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3318541218": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BROLLYCD3",
       "originals_sha256": [
         "02acd3a347a003a93d0ce26018cb381d5a1e40b5944ba3411d6fc7d6ec021a7d"
       ],
       "before_count": 1,
-      "task_id": 6112031973
+      "task_id": 6112031973,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
