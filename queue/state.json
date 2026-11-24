@@ -67073,7 +67073,7 @@
       ]
     },
     "4175869946": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBLP1532",
       "originals_sha256": [
@@ -67083,7 +67083,8 @@
         "e133ef3cb6105dafb8556958b5289069005e0a7e14f7767e51573d948cf3e411",
         "9aeb9ff21d528d55a6fa5a8ab04dea4c017fda8deb97a677bbb359939b557e1b"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6113667386
     }
   },
   "reason": null,
