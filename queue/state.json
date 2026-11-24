@@ -56366,7 +56366,7 @@
       ]
     },
     "3277020202": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BMGCAT553DLP",
       "originals_sha256": [
@@ -56382,7 +56382,12 @@
         "2dfc8706fb2fce05043895ed5a07dbb88440253c3d94c724607a232fe88d3012"
       ],
       "before_count": 10,
-      "task_id": 6111702904
+      "task_id": 6111702904,
+      "after_count": 12,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
