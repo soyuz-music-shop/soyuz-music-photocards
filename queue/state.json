@@ -60065,7 +60065,7 @@
       ]
     },
     "3540390625": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2432BLUE",
       "originals_sha256": [
@@ -60073,7 +60073,12 @@
         "d6e0b07a4e5a68a2a9b2b7a67fdef7264919a46fb56e0ad62773fcf190c41c27"
       ],
       "before_count": 2,
-      "task_id": 6112269481
+      "task_id": 6112269481,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
