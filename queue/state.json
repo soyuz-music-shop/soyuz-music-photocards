@@ -73665,7 +73665,7 @@
       ]
     },
     "5578228988": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TB053214",
       "originals_sha256": [
@@ -73674,7 +73674,8 @@
         "d14ebd6ef109890e96fa902ffa9605fa10e6e4101712b530e133bf802747e386",
         "10bfbf40f5906ab45e7757b96829d46ecd26904f03d93b230482ce49d2f34a0d"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118091477
     }
   },
   "reason": null,
