@@ -63276,6 +63276,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109666": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EREACD21017",
+      "originals_sha256": [
+        "b224f7adb3dec4b2a170e81ad6d99fa1f742f3e41b6e7c37f2b3629a1b223b83"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
