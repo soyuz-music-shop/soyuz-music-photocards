@@ -63490,6 +63490,21 @@
         0.0,
         0.0
       ]
+    },
+    "3701241746": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RP97895704",
+      "originals_sha256": [
+        "a42971dd91693204b9484c7b58fa5f08775d2c0178413f4224063bfb137c65d9",
+        "aacbf1d5efe349c954c7d0464d80ea5b3863dffb2f068c343e938c187ab46c89",
+        "9696287a254fb5981a2d85b3644dd1da22697842061f83d25e5b81e3c8207f05",
+        "fd9e65b84f1cb3ae40f0a9d6295499a609f1268f752d5a7296bc77f71b14774c",
+        "65f13dbf1fed0969143da112745c27973827dcef80cab7146443f457f4ad8a37",
+        "ad453c342089d9bc4a4f66a13a7f3e6af5da89c4ea928543d2e39793680e7f8c",
+        "f4bc85807fe2808b1af5696442068ef1924c61cebc2d63d670002615a74f72b1"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
