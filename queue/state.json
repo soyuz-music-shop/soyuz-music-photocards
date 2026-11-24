@@ -65132,14 +65132,19 @@
       ]
     },
     "3784946093": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIKD126",
       "originals_sha256": [
         "294547ef626f9e6d46b770af10b3356d281b1391b79101011c73d7f1a6c6705d"
       ],
       "before_count": 1,
-      "task_id": 6113350006
+      "task_id": 6113350006,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
