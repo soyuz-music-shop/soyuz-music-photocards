@@ -77716,14 +77716,19 @@
       ]
     },
     "6886108215": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ABRP254211",
       "originals_sha256": [
         "9ebd63711ae776bcbe41012896f8a06af006435900e2bb75422ed669a4ca866b"
       ],
       "before_count": 1,
-      "task_id": 6118478462
+      "task_id": 6118478462,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
