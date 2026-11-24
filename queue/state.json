@@ -71265,7 +71265,7 @@
       ]
     },
     "5540172485": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ISO-010-LP-RE",
       "originals_sha256": [
@@ -71273,7 +71273,12 @@
         "224c322171ad504cdf967b5b63850511983f5dcb5a7e223109c9d186ca308608"
       ],
       "before_count": 2,
-      "task_id": 6117850587
+      "task_id": 6117850587,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
