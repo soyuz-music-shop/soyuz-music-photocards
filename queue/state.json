@@ -63982,14 +63982,19 @@
       ]
     },
     "3784564939": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP079YELLOW",
       "originals_sha256": [
         "ec4490d61fb3bd3170410f3a8785f868fa2c99dd36b263d6fecad457e15cb72d"
       ],
       "before_count": 1,
-      "task_id": 6113145110
+      "task_id": 6113145110,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
