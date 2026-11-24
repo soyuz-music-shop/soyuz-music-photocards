@@ -76336,6 +76336,16 @@
         0.0,
         0.0
       ]
+    },
+    "6799309974": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "LDR591791",
+      "originals_sha256": [
+        "1d58c798188aef38c4c6dcb247712928b0f39b0045672e69a2494c1876f4a5ce",
+        "12173dea9a01cb6257298a68d0d773cae18da676df641d63ac2d21cd11c5aa7b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
