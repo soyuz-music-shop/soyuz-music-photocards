@@ -74829,6 +74829,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720485006": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WM175",
+      "originals_sha256": [
+        "28c469f00616d583bae2d8799fd9e3e0d569306d2ff356ffe73ca9eb855e0b1e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
