@@ -69715,13 +69715,14 @@
       ]
     },
     "4462121945": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OO204528",
       "originals_sha256": [
         "cb28663c3d48b5339158117c7bb836a7a92978f937e98cac6983a8a1f6a0c0bd"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114119044
     }
   },
   "reason": null,
