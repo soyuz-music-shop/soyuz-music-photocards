@@ -72345,6 +72345,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172667": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TA536592",
+      "originals_sha256": [
+        "9df1468baabcfe3d3a35e182e4d5fc78fa46c38c03f7ccd575f4837c41cea2bc",
+        "784872c7fe228b7ec17e740d202abff34cfb39e319c002c8ed0c08d6fab35d21",
+        "d29e21b95fe001cdba7d0e1c79f70846e29a7129232ce920d3aae549f1a80854"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
