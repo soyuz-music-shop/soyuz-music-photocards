@@ -62666,6 +62666,15 @@
         0.0,
         0.0
       ]
+    },
+    "3576109575": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2227",
+      "originals_sha256": [
+        "fb3d653eea7a6efa43f18f7195a285dc6f22832d64b8b932de429f3d8517d457"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
