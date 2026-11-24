@@ -80648,14 +80648,19 @@
       ]
     },
     "6961317654": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MO829799BLUE",
       "originals_sha256": [
         "5d201470e769b7f03fa939d110899ab3e1dd7aac7ea3ef0fe12fc1917ecc769a"
       ],
       "before_count": 1,
-      "task_id": 6118784464
+      "task_id": 6118784464,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
