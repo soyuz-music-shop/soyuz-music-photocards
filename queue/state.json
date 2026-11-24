@@ -76071,7 +76071,7 @@
       ]
     },
     "6799214320": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BS987921",
       "originals_sha256": [
@@ -76080,7 +76080,12 @@
         "f7a0db963e703210083bf3cf8274dd6ff5c38c72ba79be19e30a5f96cd6ae21a"
       ],
       "before_count": 3,
-      "task_id": 6118324142
+      "task_id": 6118324142,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
