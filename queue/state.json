@@ -71611,6 +71611,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172567": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CO556652CP",
+      "originals_sha256": [
+        "57fb988f951913ba185874df993c18cbd1eac77c3f581321428703b03780a508",
+        "f9c7b67d4c151e7746a034d3d86fdaf6070640c9a961224715b9a7f2be88e32f",
+        "84bdace694db61c80c0047bc7b4d7d5baf35b24868f421c8ef69073bb84ef4ef",
+        "d3f4eaad9a93f19e6265e82f8b6697a1d584378804cefa2cd4eec8062318dce0"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
