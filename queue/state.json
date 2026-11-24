@@ -80236,14 +80236,19 @@
       ]
     },
     "6948775561": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BS 2628",
       "originals_sha256": [
         "cd7619915c66746a41d73ffd001872deefe2cfed8be663a12a54de75756825e8"
       ],
       "before_count": 1,
-      "task_id": 6118728209
+      "task_id": 6118728209,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
