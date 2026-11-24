@@ -65182,14 +65182,19 @@
       ]
     },
     "3784946100": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDCHM128",
       "originals_sha256": [
         "a04058e58738d83574c990bbfc6a40128ce7359207834d705d6aad8c5f437941"
       ],
       "before_count": 1,
-      "task_id": 6113358857
+      "task_id": 6113358857,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
