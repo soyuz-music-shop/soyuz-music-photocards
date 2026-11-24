@@ -72719,14 +72719,15 @@
       ]
     },
     "5540172751": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AKT11LPCLEAR",
       "originals_sha256": [
         "34c66ee666cf717d06565f9f99db75f7a854a38d4fcc942cec7ba2effbb8b4a1",
         "349c5a3d4106970e381597ad59cde11c039c721632055392651932f8eef8e14f"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6117990205
     }
   },
   "reason": null,
