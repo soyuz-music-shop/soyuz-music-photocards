@@ -72109,6 +72109,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172625": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "COSMRO014",
+      "originals_sha256": [
+        "8661c1c5b34584a8fa1395b438864c0f4209d4169229c787ddbd2557f19bf9f0",
+        "3baaff5829c5f07c792862dd27317528fb97e2f4066137935dca61e3f8522165",
+        "5844bb125460cc901872c4af6113ac7445c8a2b584e182892a8e123d4db0aa12"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
