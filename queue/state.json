@@ -76912,6 +76912,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800638906": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PO918924",
+      "originals_sha256": [
+        "3d88ced8b90c38afe166a167f51dded8ccc4072b8ef8f40b8b5a46453e20c042"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
