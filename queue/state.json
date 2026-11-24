@@ -75314,7 +75314,7 @@
       ]
     },
     "6720669552": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT378DCD",
       "originals_sha256": [
@@ -75322,7 +75322,8 @@
         "ee383f6a117693905575f92bd6bce2fbd7f7765319a88861cba030057fe020a9",
         "b756c66ccd103d9b1dc295cd14952b9fd49bd1c5cf969da498c2445e916d1892"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118247957
     }
   },
   "reason": null,
