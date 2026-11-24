@@ -63248,13 +63248,14 @@
       ]
     },
     "3576109657": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HNE3CD215",
       "originals_sha256": [
         "75b150f168bb600476d67b132ae1e8dc0b4120a4528bef20f6f0079627f12eaa"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112958156
     }
   },
   "reason": null,
