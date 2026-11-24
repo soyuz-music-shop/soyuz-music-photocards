@@ -73067,7 +73067,7 @@
       ]
     },
     "5540172931": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XX080918SBM",
       "originals_sha256": [
@@ -73076,7 +73076,12 @@
         "e35175ff95794b6d38a44a49dfa017ffc09f0f9ad735deea8a5b81c2a7592f2b"
       ],
       "before_count": 3,
-      "task_id": 6118022354
+      "task_id": 6118022354,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
