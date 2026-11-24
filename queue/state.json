@@ -67634,7 +67634,7 @@
       ]
     },
     "4385191228": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DE819362",
       "originals_sha256": [
@@ -67642,7 +67642,12 @@
         "28a12cd6f464e7e71333c55e6603981233da386792d212d9eb1d18ba8140befa"
       ],
       "before_count": 2,
-      "task_id": 6113742883
+      "task_id": 6113742883,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
