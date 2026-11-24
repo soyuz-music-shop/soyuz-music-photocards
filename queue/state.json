@@ -59382,6 +59382,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706820": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ICARUS 1479",
+      "originals_sha256": [
+        "d005938cdec2a7db5d6b7b9d4155e5cb42af5070068206ae447dedf8d89a3557"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
