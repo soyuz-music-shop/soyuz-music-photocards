@@ -68385,6 +68385,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191433": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "4AD0154LP",
+      "originals_sha256": [
+        "2ec589617385f46fd0f84de04e86b13b807139ce8c9d55f11f5c185319880634"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
