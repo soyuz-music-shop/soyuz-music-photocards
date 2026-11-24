@@ -67442,6 +67442,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191197": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "R1516251GE",
+      "originals_sha256": [
+        "6207c113a18c55be7774d7caca4ae65b764abe65517801f8eeffba790bb099cc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
