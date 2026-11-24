@@ -59899,13 +59899,14 @@
       ]
     },
     "3325511041": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "WL102CD",
       "originals_sha256": [
         "1afd77547af86c0fd663ace73f706cf99b3c72b6e186193a2f48406755feb30b"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112243638
     }
   },
   "reason": null,
