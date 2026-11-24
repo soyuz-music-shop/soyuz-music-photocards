@@ -76371,13 +76371,14 @@
       ]
     },
     "6799317117": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "LZ263828",
       "originals_sha256": [
         "cc35a01077e8a04f011a313252932ff3f14931cf7d4c5652931073d75ffac9a7"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118356314
     }
   },
   "reason": null,
