@@ -76104,6 +76104,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799231326": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ICARUS 215",
+      "originals_sha256": [
+        "b1d3a0233f1ef09494db4e045bda6c0697024684e73b2893edbd1ff732d92d72"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
