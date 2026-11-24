@@ -76974,13 +76974,14 @@
       ]
     },
     "6800653524": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "QU638768",
       "originals_sha256": [
         "d79ee79f33819f00f0c2fe3ebcfd44511210b0a020431110c19e4b2362e8277c"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118408722
     }
   },
   "reason": null,
