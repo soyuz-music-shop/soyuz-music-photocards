@@ -75221,6 +75221,21 @@
         0.0,
         0.0
       ]
+    },
+    "6720644023": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MSP593328",
+      "originals_sha256": [
+        "ff92903a557cc1c9d5a9ffa3a710fe72bd8707c26de4e7c10bd26b603ae9f8db",
+        "6aef143a4205aab68989a675e467128ea1fdec03481a460d4768ccd685da6f3c",
+        "d1e787afd3d98532b91fd39001a31de56757dfc834cdb755fd469f9c1306c882",
+        "275f1b062ddc16331f80caebe834b451ac4368996075a387b0ef1913e3a36dee",
+        "9de633941534514fe3f955aa708d73d249ef22e665387c0e07d347ca24a2ad59",
+        "9ea8b9273dfe61400c9c84ac1aa1c69170e36086931dcdbec987efa0ff52b698",
+        "1273b16766f94ace10f7d58aa15ef00200222be0092a5c0156a3d6703c6ce611"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
