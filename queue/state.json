@@ -79969,6 +79969,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921047898": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PIASR1700PSJ",
+      "originals_sha256": [
+        "d3ae9c940de101934935dfec11e4e3484f80e0e61af920e64587636c27ed174f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
