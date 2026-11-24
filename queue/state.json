@@ -60990,14 +60990,19 @@
       ]
     },
     "3562824691": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SFELP1121DLG",
       "originals_sha256": [
         "0964416d410ce7e0a30a50ea8fba563a346be0746e830a96165cb8724800239e"
       ],
       "before_count": 1,
-      "task_id": 6112454800
+      "task_id": 6112454800,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
