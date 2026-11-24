@@ -60118,13 +60118,14 @@
       ]
     },
     "3556539537": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYD10 317",
       "originals_sha256": [
         "b63cc85786204a1168a4d20cc6ee8994eda83b158c0f67065de5fabdf433a5cf"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112280166
     }
   },
   "reason": null,
