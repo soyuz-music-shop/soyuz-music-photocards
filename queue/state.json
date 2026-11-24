@@ -73619,7 +73619,7 @@
       ]
     },
     "5578225844": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "19802876741OSCLEAR",
       "originals_sha256": [
@@ -73640,7 +73640,12 @@
         "6bcfff37ba3e19c6ccf2f988e3a03bd7c4f0ea8a6a56f41d2db886139d2f7928"
       ],
       "before_count": 15,
-      "task_id": 6118087747
+      "task_id": 6118087747,
+      "after_count": 17,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
