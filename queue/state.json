@@ -80309,6 +80309,15 @@
         0.0,
         0.0
       ]
+    },
+    "6948775824": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LZ954109",
+      "originals_sha256": [
+        "c88a1993657cf72921e949d72f74461aab6a44c1ac1a2fa4811bcc873eff4fa6"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
