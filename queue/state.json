@@ -72669,7 +72669,7 @@
       ]
     },
     "5540172738": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ROOM011LP",
       "originals_sha256": [
@@ -72677,7 +72677,12 @@
         "4827bd88c2c7b4b1a42637ede038d2d0b896280e30f181f3d0c31fc6fbd61659"
       ],
       "before_count": 2,
-      "task_id": 6117987157
+      "task_id": 6117987157,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
