@@ -77429,13 +77429,14 @@
       ]
     },
     "6800739639": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TRS232629",
       "originals_sha256": [
         "2fd59577877f1e847720d6d97c46b8d2f23aa1a12fa64d0e129681dca95576c9"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118444717
     }
   },
   "reason": null,
