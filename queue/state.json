@@ -79212,6 +79212,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920919965": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BL985821",
+      "originals_sha256": [
+        "a374c15d72105f2b18445f0f816d771aea84bcb498d349bbcade387cc77a1e4e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
