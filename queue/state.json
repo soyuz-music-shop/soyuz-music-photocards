@@ -70653,6 +70653,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219746199": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WAX9211DRR",
+      "originals_sha256": [
+        "7f161f147f2202e7710181ef46c3710cf4df019a66d7ccd004ffe9f654d13105",
+        "d2fb68395b323e4ea78c864f9eff8afc2fac0576c332e91c11a2592f116ca733",
+        "a50e1260cbc00fc8581f81a40a28cc657af884a2fbfb685a4f020257db352fdc",
+        "b908b04d3cc970c4a6fc185671842e034d6d348984ad6f866f3db4ec991c31f7"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
