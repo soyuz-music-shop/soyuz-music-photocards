@@ -77819,6 +77819,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886133702": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OMN 24156",
+      "originals_sha256": [
+        "44354891514460e8dd18eedbff30fa58c005a7b9ba8cb855f2168222f6e06f80"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
