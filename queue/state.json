@@ -61898,14 +61898,19 @@
       ]
     },
     "3563073872": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NRT013",
       "originals_sha256": [
         "ed9bbdfab8890639f0cd7bd7fdc5ed467a12492b1a4df0b2b0bbab17a2fe8641"
       ],
       "before_count": 1,
-      "task_id": 6112634473
+      "task_id": 6112634473,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
