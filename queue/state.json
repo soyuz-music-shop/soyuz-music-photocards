@@ -73538,7 +73538,7 @@
       ]
     },
     "5578219446": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "PTKF3016-1",
       "originals_sha256": [
@@ -73546,7 +73546,12 @@
         "5908e690a7a19f6392830b3fbc85666de141e8955e1c9665db6bb493265f92d0"
       ],
       "before_count": 2,
-      "task_id": 6118079151
+      "task_id": 6118079151,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
