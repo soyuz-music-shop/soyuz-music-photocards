@@ -62333,14 +62333,19 @@
       ]
     },
     "3563073948": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "QECLEC 2688",
       "originals_sha256": [
         "7c9d64c3e1bb39905cfa8edf91d5ce3f148fd503acc97ffcabd492dc94c12ed8"
       ],
       "before_count": 1,
-      "task_id": 6112723449
+      "task_id": 6112723449,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
