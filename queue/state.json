@@ -58678,6 +58678,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541210": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MMCD22",
+      "originals_sha256": [
+        "a87ff69931191789f0fc7a0265d3b49c764a3ff112d942a6f0ede971f198cb86"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
