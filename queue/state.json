@@ -58369,6 +58369,15 @@
         0.0,
         0.0
       ]
+    },
+    "3296659270": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMLP66618",
+      "originals_sha256": [
+        "03ace0704abe1bc55914db91031d49f694dc8caef0b3f5c8cab4e66ce0b29d2a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
