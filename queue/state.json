@@ -74334,7 +74334,7 @@
       ]
     },
     "6503644350": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "B0023316-01",
       "originals_sha256": [
@@ -74342,7 +74342,8 @@
         "d8e3536036dd4c952e4ce8f96821a41930ba6ae84d19fa33df78d83e93409ece",
         "8c044c7e96456885a2186660887b575404b6f6009846cf24d48c66adbcaabbc2"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118151399
     }
   },
   "reason": null,
