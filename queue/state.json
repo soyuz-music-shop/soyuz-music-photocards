@@ -71991,7 +71991,7 @@
       ]
     },
     "5540172607": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SV128",
       "originals_sha256": [
@@ -72000,7 +72000,12 @@
         "ead31092df8fcf06df7f4ad22f52564c256bf65c3eddb91b049e1c3990ebec6c"
       ],
       "before_count": 3,
-      "task_id": 6117922672
+      "task_id": 6117922672,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
