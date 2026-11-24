@@ -61520,13 +61520,14 @@
       ]
     },
     "3563073796": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC2800",
       "originals_sha256": [
         "8db230802887cb11afbada126dff68f8df379091f39b69b627d1e8a16236b34f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112561773
     }
   },
   "reason": null,
