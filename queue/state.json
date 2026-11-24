@@ -57774,7 +57774,7 @@
       ]
     },
     "3296659088": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HRR 544",
       "originals_sha256": [
@@ -57782,7 +57782,8 @@
         "2e8b02651a4291f53941c4fe4e2c738673566e826eebe90c0a19b7c1021d445b",
         "74b355aadaf97acbfd46c38f0b9305c770730e1bd71ddf95108ff7a7b448ee8b"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6111904568
     }
   },
   "reason": null,
