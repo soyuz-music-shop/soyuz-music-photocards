@@ -61866,6 +61866,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073869": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "TBIRD 0039 CD",
+      "originals_sha256": [
+        "31a79b2447c54c58abf64257959b483f0938b3ab701cd5317d29889ff4ff50ef"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
