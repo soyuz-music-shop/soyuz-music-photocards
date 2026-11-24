@@ -61415,13 +61415,14 @@
       ]
     },
     "3563073778": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ECLEC 2702",
       "originals_sha256": [
         "bb5fa0011bcf40375f88a29f38726a86976922de037b78e884a99b784c61140d"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112543441
     }
   },
   "reason": null,
