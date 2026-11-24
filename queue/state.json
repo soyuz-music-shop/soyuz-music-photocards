@@ -78419,6 +78419,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886275306": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC 332",
+      "originals_sha256": [
+        "66ce8f1c51c10ea7caeb48a9a5b11d2088b2294c3ef3626320b54ef29698a17c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
