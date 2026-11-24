@@ -80633,14 +80633,19 @@
       ]
     },
     "6961317636": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ECM 1155",
       "originals_sha256": [
         "c95693948540ab1dcd2d08fd442d9932e17f40f52b8a27c9781284d3ef94a63f"
       ],
       "before_count": 1,
-      "task_id": 6118782804
+      "task_id": 6118782804,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
