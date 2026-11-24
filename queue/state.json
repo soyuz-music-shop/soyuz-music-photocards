@@ -63952,13 +63952,14 @@
       ]
     },
     "3784564915": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2057LBM",
       "originals_sha256": [
         "56a6dfcd95a0ff2de0023c252a3dc4a6d0fac33ce9672a671a2832ebc3d7e8f1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113137427
     }
   },
   "reason": null,
