@@ -58848,6 +58848,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541247": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RADCD1",
+      "originals_sha256": [
+        "dba40a1a535f0ab6542fd7055b00ad6a286527a38e09dae53d0c63880fb5d817"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
