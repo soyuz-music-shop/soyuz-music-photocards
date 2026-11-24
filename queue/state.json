@@ -69326,6 +69326,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191674": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PSB854179",
+      "originals_sha256": [
+        "8873a1832f63de5dc114ed6ee8a5ec418a7423286a87fc644649f563da93fc1e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
