@@ -63595,7 +63595,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3749015929": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4680017661430",
       "originals_sha256": [
@@ -63605,7 +63605,12 @@
         "875babe965d4cac6cb5ecef25da91814e8d7c4afef125e3d82364ddc20787cc7"
       ],
       "before_count": 4,
-      "task_id": 6113069116
+      "task_id": 6113069116,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
