@@ -75242,6 +75242,19 @@
         0.0,
         0.0
       ]
+    },
+    "6720650419": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BLCKND011R-3",
+      "originals_sha256": [
+        "649cd07edec8fbe007103f2644407a0d09c1b0601902a75240823573d7c713df",
+        "0e729a0b919fc0fefbab5e5db384cb69b0e01511fe5212a63ce840aca8c05481",
+        "7e45b53970fe8d64338ff7b579663d59ce126870e63e4e323406349277bf54ec",
+        "6e92f9e5e539f107f544fb2dcf1e7c49ba4f5a2ad89a9a13eed1f82d09a653b3",
+        "770d8967f74c09ce4e6725afbbd3ad880fc6c8000836c15f43eb0bcfcd9614df"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
