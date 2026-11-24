@@ -78994,13 +78994,14 @@
       ]
     },
     "6902762332": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "DB976055",
       "originals_sha256": [
         "0c3f1b65506bb47b10df1a38fd1177e62a23d34a52d98670873c95a000f59435"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118604619
     }
   },
   "reason": null,
