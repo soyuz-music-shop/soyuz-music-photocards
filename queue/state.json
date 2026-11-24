@@ -59078,7 +59078,7 @@
       ]
     },
     "3318706780": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "HE739636",
       "originals_sha256": [
@@ -59086,7 +59086,12 @@
         "c992c94372f0ec8f1f366eb6145dd8a458ba997ff8a265130e39c4923ee6596a"
       ],
       "before_count": 2,
-      "task_id": 6112095657
+      "task_id": 6112095657,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
