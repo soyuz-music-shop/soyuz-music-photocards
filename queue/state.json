@@ -63577,7 +63577,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3740366094": {
-      "status": "needs_review_gallery_pending",
+      "status": "needs_review_interrupted",
       "variant": "cd-russian",
       "offer_id": "4601250366067",
       "originals_sha256": [
@@ -63592,7 +63592,7 @@
       "task_id": 6113056589,
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
-      "reason": "Ozon gallery not confirmed"
+      "reason": "Uncertain or interrupted mutation, never automatically resend"
     }
   },
   "reason": null,
