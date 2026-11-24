@@ -56348,6 +56348,16 @@
         0.0,
         0.0
       ]
+    },
+    "3277020201": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BMGCAT348DLP",
+      "originals_sha256": [
+        "9e89c10a9ca532a55f5d91b65030350c33a3f081ece577c53672d49e5316aeb8",
+        "75ee7f71ca0f83659ab6376ae7a149d979e83809e7d00e720f8a298cfc36389b"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
