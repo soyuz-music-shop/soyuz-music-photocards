@@ -72150,7 +72150,7 @@
       ]
     },
     "5540172638": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HOS8102WHITE",
       "originals_sha256": [
@@ -72158,7 +72158,8 @@
         "b886960b8831d1ed14ad62795d841bbed69bc80fad07ac836c0ea30b9c622a1a",
         "b4dd45f55703f23a68d8eacb16e82b713ee550077c8faa0b19c7c7ad627567f1"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117935168
     }
   },
   "reason": null,
