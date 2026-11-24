@@ -58616,7 +58616,7 @@
       ]
     },
     "3318541192": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MMCD22X",
       "originals_sha256": [
@@ -58627,7 +58627,12 @@
         "dce11424873a233258311dece9ffb9081f2399c092c5589ca1cd91c82449ad71"
       ],
       "before_count": 5,
-      "task_id": 6112017092
+      "task_id": 6112017092,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
