@@ -67272,14 +67272,19 @@
       ]
     },
     "4385191152": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SBOO666512",
       "originals_sha256": [
         "9ea06330e8c33ed1c53e0c926801dbf974f8869410c8f4a0b348b04d1b09403f"
       ],
       "before_count": 1,
-      "task_id": 6113690965
+      "task_id": 6113690965,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
