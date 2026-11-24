@@ -58788,6 +58788,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541238": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "HRR 547 CD",
+      "originals_sha256": [
+        "19de9e538232d731b3592cf323480d55a927a2d5fdbe7d7a1d6b1ada36d254bc"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
