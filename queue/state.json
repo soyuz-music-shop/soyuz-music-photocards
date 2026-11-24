@@ -76849,14 +76849,15 @@
       ]
     },
     "6800626449": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "OO184525",
       "originals_sha256": [
         "c6b772df5b9c9eccba67af1d5c6537429148c2e5fca387c711f98d1416befe43",
         "83e612c184704e8f65536c3711e2959351b9cb51b1d8e899bd7eca60c6ca4ced"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118400055
     }
   },
   "reason": null,
