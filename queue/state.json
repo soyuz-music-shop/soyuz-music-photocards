@@ -80221,13 +80221,14 @@
       ]
     },
     "6921081731": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TON761622",
       "originals_sha256": [
         "287e610fb2db5928a4f1a0f8495f078f059fd8bfa66ede21b4665e2ba5c241db"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118726128
     }
   },
   "reason": null,
