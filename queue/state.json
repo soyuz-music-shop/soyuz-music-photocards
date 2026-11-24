@@ -60323,13 +60323,14 @@
       ]
     },
     "3562824575": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "PECLECLP 2668",
       "originals_sha256": [
         "b6865b4ab6eb110494d76dfc4b34de924c0ab429ad11fac8ecf98223660f17b8"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112315281
     }
   },
   "reason": null,
