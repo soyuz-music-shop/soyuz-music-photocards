@@ -59033,14 +59033,19 @@
       ]
     },
     "3318706776": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMCD666-20",
       "originals_sha256": [
         "9e070d900d88a5bdd7dcffb410a544b6408858d48dd119f59a9bee1d65adead6"
       ],
       "before_count": 1,
-      "task_id": 6112087737
+      "task_id": 6112087737,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
