@@ -71311,6 +71311,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172492": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KSCOPE1305TURQUOISE",
+      "originals_sha256": [
+        "038844fde7704e99706c1c0304ba8162ccf64c8eb9dde2e99a368d66124b1074",
+        "46dddc8c9d6b1badfce10a2bc6a10c3a70496bdf2ddc9ce5bb62cdb752cb5960",
+        "51b833e8548c857435e5676ce0b8e258b7ce3963de4d8663e4ca0646bc14d486",
+        "b7115b716bd746095732dadad7793c14c4039960156639e64890cd38e7b51a19"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
