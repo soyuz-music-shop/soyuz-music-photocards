@@ -73894,6 +73894,17 @@
         0.0,
         0.0
       ]
+    },
+    "6228985924": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BBSF003CD",
+      "originals_sha256": [
+        "f3f379fd14cde06cf1bb495ef2d46668d33657f0613e1137f45c3efc3bb4e243",
+        "bcdbaa7da0f7c8fea55b582e00dd8cc217985da60361b71eba52d176714d0875",
+        "f076351d4ab7426317811e4a01de2fb4431b097df72e4804fc097078edb37c4e"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
