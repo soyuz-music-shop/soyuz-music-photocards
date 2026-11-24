@@ -73186,7 +73186,7 @@
       ]
     },
     "5540173080": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "GR007",
       "originals_sha256": [
@@ -73194,7 +73194,8 @@
         "38436620941e010267e93489efbbea4d2ef49d470a2bd08bbbc3c11de3553f3e",
         "43970aaddfa55fe46e6db6bcb55c8cf657a6acaa0b1bcb36c747abf5446c0b9e"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6118034894
     }
   },
   "reason": null,
