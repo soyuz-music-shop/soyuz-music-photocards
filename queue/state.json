@@ -74628,13 +74628,14 @@
       ]
     },
     "6720424224": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "AC076322",
       "originals_sha256": [
         "655b081ca3015c8755591e56e1699480dab43613c8587ce1985a2c465d0b3254"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118176679
     }
   },
   "reason": null,
