@@ -71560,6 +71560,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172548": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "LC353315",
+      "originals_sha256": [
+        "837f35559d91ee21b36b6a573688b0b7e4c0c7ab5f0d00afc1ca5d2e81133a4e",
+        "9dd6aa732e89be5dec9e45b76365557baf0464d67940b76be368aaedd14c4120"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
