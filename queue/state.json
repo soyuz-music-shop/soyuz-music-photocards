@@ -80481,6 +80481,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317560": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECM 1114",
+      "originals_sha256": [
+        "d916ed844402ca8da0ae92db4934a4074a786834d7b38dba78231c32b6b17a2e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
