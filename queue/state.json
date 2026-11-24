@@ -61400,13 +61400,14 @@
       ]
     },
     "3563073777": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "GLAMBOX171",
       "originals_sha256": [
         "b24dc3a94076fd16d4d01a6fd93fc24b16166679382bcf17842c4e62b5674184"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112540718
     }
   },
   "reason": null,
