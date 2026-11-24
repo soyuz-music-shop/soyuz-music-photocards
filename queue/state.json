@@ -64245,14 +64245,19 @@
       ]
     },
     "3784564988": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GNP2301",
       "originals_sha256": [
         "8ecca2baf122e588eb7d11aa5ca4ecbb0b565aed6733a264e81fa2329c3dbfdd"
       ],
       "before_count": 1,
-      "task_id": 6113196030
+      "task_id": 6113196030,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
