@@ -69806,6 +69806,15 @@
         0.0,
         0.0
       ]
+    },
+    "4462124350": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "WI694373",
+      "originals_sha256": [
+        "d7471a4e869c67aed736a277abbda558a59abc9366a84ae0dacdf3dfe81d61db"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
