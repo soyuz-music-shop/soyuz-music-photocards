@@ -65100,6 +65100,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946086": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RWCD11",
+      "originals_sha256": [
+        "52248a45836958fbadb997c8527c7283bd3580956a82321b7b619fd20034dcaf"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
