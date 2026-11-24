@@ -66534,14 +66534,19 @@
       ]
     },
     "3784946431": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDKEND470",
       "originals_sha256": [
         "ef4b1965165a01eddb41384bfeca28bf283ece2911101ff1d64d0d215192e059"
       ],
       "before_count": 1,
-      "task_id": 6113586317
+      "task_id": 6113586317,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
