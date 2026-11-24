@@ -74385,14 +74385,15 @@
       ]
     },
     "6503763068": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "Goo 020",
       "originals_sha256": [
         "498ab82356020933894e17bf82995aa1adaa2dcd3fe8afb67949c404ac0afb59",
         "eeb1bcee11f8adb9802d3004416e9e5d3f9c0647bccf675cb1a8e635ad4a6fbb"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118155286
     }
   },
   "reason": null,
