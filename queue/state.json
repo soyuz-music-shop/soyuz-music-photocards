@@ -75389,6 +75389,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720698230": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PIASLL211LP",
+      "originals_sha256": [
+        "e4a6e3d25095b77f43d70583c87a002ebfac4c31075ba6624b0016204256691f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
