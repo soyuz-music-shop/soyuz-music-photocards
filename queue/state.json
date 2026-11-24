@@ -63359,7 +63359,7 @@
       "reason": "Ozon gallery not confirmed"
     },
     "3628031735": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-russian",
       "offer_id": "4610297810037",
       "originals_sha256": [
@@ -63371,7 +63371,12 @@
         "fe217ed627db7e762b936018a2dbfd113ddea579e1545caaf0181401bf73f585"
       ],
       "before_count": 6,
-      "task_id": 6112996084
+      "task_id": 6112996084,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
