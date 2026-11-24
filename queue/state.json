@@ -74296,6 +74296,20 @@
         0.0,
         0.0
       ]
+    },
+    "6503627940": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "RCV1 33250",
+      "originals_sha256": [
+        "c3e384eced5deae22ee2c2fb673179cee14ba10d7beffe2d41b8af5008e168b3",
+        "38421a0110e246e4191b581d6c2f147acb18a1bdf48aaa8edc0bd93f432b9e45",
+        "38322dce993eb841d1da95e9a285e908877f9604a9808f4e66e8a246926de598",
+        "1e636773d1742a0dca978a6ddab43ebed883e2b4d107cec045cfe37d10cbde6f",
+        "f965b22b017095299bc3b16e76c582faf8bd6ec4aefe850a47bffca00c19f67b",
+        "aa3f776f2e078d2176a192b3c8ec22b07546d28bfcfd5ba2665b713da81ccb85"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
