@@ -69883,13 +69883,14 @@
       ]
     },
     "4462127707": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TOP594670",
       "originals_sha256": [
         "e1075dfab6b300750beeb02a8942411092e13dbea47064d1f56d441e0afa9d27"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6114152367
     }
   },
   "reason": null,
