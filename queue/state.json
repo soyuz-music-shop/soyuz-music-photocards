@@ -61623,6 +61623,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073811": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CRPOPD191",
+      "originals_sha256": [
+        "d79fc85269a9daaf293c0713a390483f918a9a3d5753be577f6d1948030f362b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
