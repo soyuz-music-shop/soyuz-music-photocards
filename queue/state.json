@@ -65165,6 +65165,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946099": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDWKM2275",
+      "originals_sha256": [
+        "cecf8ae7aa6487402a3032b171f94524067e5e650485b1f54f6e33e09d185275"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
