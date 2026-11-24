@@ -69808,14 +69808,19 @@
       ]
     },
     "4462124350": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WI694373",
       "originals_sha256": [
         "d7471a4e869c67aed736a277abbda558a59abc9366a84ae0dacdf3dfe81d61db"
       ],
       "before_count": 1,
-      "task_id": 6114137697
+      "task_id": 6114137697,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
