@@ -75404,6 +75404,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720703855": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "TPR-013",
+      "originals_sha256": [
+        "dedfd06a37df45d218f2186061cd48d0901f08ca534221588812d42c3598ca6a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
