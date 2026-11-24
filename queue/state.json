@@ -64684,6 +64684,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784565159": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BGPD1117",
+      "originals_sha256": [
+        "5a2005886a8ae94048e08d53d2baa64b8d87877cd6330c3959bbfcdf49bb1825"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
