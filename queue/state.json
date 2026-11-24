@@ -74722,6 +74722,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720453882": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM610424RBS",
+      "originals_sha256": [
+        "7f933b8347318341209f5e8d86cc37d140700a6241ba504debce30ec3f8b8a2a"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
