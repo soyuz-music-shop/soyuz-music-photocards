@@ -70079,14 +70079,19 @@
       ]
     },
     "4462263135": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SL741020",
       "originals_sha256": [
         "1cdee948599cb103ba84e5fe42ab1e62ddd4bf19d44acfa77d5b927d6c0f801c"
       ],
       "before_count": 1,
-      "task_id": 6117713395
+      "task_id": 6117713395,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
