@@ -79302,7 +79302,7 @@
       ]
     },
     "6920935507": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT556TCD",
       "originals_sha256": [
@@ -79316,7 +79316,12 @@
         "ac3fee820cd1d7c3f45e7b9c09b4345833a1e8daa48de6906591b3e785960bc3"
       ],
       "before_count": 8,
-      "task_id": 6118629397
+      "task_id": 6118629397,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
