@@ -71727,6 +71727,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172580": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "REPOVIN004BAGM",
+      "originals_sha256": [
+        "faacea69028de68ca3351892cbca52327912d6fab64e4372a727efed6d0b60fd",
+        "5b39bca6a36edb2dcda772b294163074cc7861325ffa3f7294962be42defdc09"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
