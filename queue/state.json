@@ -73619,7 +73619,7 @@
       ]
     },
     "5578225844": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "19802876741OSCLEAR",
       "originals_sha256": [
@@ -73639,7 +73639,8 @@
         "90e1770c22d889906fc441dd4953525e525de9ef519ce8045f3e2382172b6101",
         "6bcfff37ba3e19c6ccf2f988e3a03bd7c4f0ea8a6a56f41d2db886139d2f7928"
       ],
-      "before_count": 15
+      "before_count": 15,
+      "task_id": 6118087747
     }
   },
   "reason": null,
