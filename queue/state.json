@@ -72111,7 +72111,7 @@
       ]
     },
     "5540172625": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "COSMRO014",
       "originals_sha256": [
@@ -72119,7 +72119,8 @@
         "3baaff5829c5f07c792862dd27317528fb97e2f4066137935dca61e3f8522165",
         "5844bb125460cc901872c4af6113ac7445c8a2b584e182892a8e123d4db0aa12"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6117932246
     }
   },
   "reason": null,
