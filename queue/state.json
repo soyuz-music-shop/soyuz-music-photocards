@@ -70064,14 +70064,19 @@
       ]
     },
     "4462249564": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TC914778",
       "originals_sha256": [
         "8b65d9f4ebd3c7aa5df5d12fe7aceb07bf75904a002d9de525e3dcc3570897b0"
       ],
       "before_count": 1,
-      "task_id": 6117711678
+      "task_id": 6117711678,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
