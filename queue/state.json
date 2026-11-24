@@ -76771,7 +76771,7 @@
       ]
     },
     "6800608992": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "COUNT118",
       "originals_sha256": [
@@ -76779,7 +76779,12 @@
         "d93ba9ad205b86adf631265a54b928e20522e32c7627a6a380b1dca59a42b367"
       ],
       "before_count": 2,
-      "task_id": 6118392750
+      "task_id": 6118392750,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
