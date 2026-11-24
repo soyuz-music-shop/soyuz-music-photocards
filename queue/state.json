@@ -71183,7 +71183,7 @@
       ]
     },
     "5540172469": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WISE08LP",
       "originals_sha256": [
@@ -71191,7 +71191,12 @@
         "5bbfbc9851b96e81eccc2f3e4b2116e68d3e143cde00c3e1d4d9cabde52473f8"
       ],
       "before_count": 2,
-      "task_id": 6117841009
+      "task_id": 6117841009,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
