@@ -70004,14 +70004,19 @@
       ]
     },
     "4462234410": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TRS229633",
       "originals_sha256": [
         "2050de6190f333fc6f5a759c4e6979af3b7b313305c353452636abac0a972f45"
       ],
       "before_count": 1,
-      "task_id": 6114177603
+      "task_id": 6114177603,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
