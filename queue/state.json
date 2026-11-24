@@ -67570,14 +67570,19 @@
       ]
     },
     "4385191211": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MO134957YB",
       "originals_sha256": [
         "07da97b8221551e23858278b53fe79cd70e6fbdf5e43a8ae7200da2dc4bae60b"
       ],
       "before_count": 1,
-      "task_id": 6113733705
+      "task_id": 6113733705,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
