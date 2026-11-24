@@ -65857,14 +65857,19 @@
       ]
     },
     "3784946275": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDHP023",
       "originals_sha256": [
         "309acd2a34a3010d1a910f6c6741494f4407a8dcad32d544f974160d78dc3310"
       ],
       "before_count": 1,
-      "task_id": 6113472827
+      "task_id": 6113472827,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
