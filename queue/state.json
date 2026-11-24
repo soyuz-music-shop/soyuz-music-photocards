@@ -78299,6 +78299,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886252109": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KONG001LP",
+      "originals_sha256": [
+        "d99f5ed6108d19810e0ea7d7eb935f88ec2d239ef8d4f3cb7dfb59d0bb346763"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
