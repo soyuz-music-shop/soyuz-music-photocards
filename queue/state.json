@@ -75169,7 +75169,7 @@
       ]
     },
     "6720622733": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LLH550439PBGM",
       "originals_sha256": [
@@ -75180,7 +75180,12 @@
         "fe10bbeb23dba1bcc9c66b49f80d1274b14c4abb10e02409f426ce16a8d1c039"
       ],
       "before_count": 5,
-      "task_id": 6118233999
+      "task_id": 6118233999,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
