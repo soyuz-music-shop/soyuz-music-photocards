@@ -64701,14 +64701,19 @@
       ]
     },
     "3784565160": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOWN1CLEAR",
       "originals_sha256": [
         "54c398348cede103c6d93206bd56703a5f1f054143567d648c3ee4bca5a5be54"
       ],
       "before_count": 1,
-      "task_id": 6113278930
+      "task_id": 6113278930,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
