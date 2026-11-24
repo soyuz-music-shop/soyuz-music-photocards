@@ -76338,7 +76338,7 @@
       ]
     },
     "6799309974": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LDR591791",
       "originals_sha256": [
@@ -76346,7 +76346,12 @@
         "12173dea9a01cb6257298a68d0d773cae18da676df641d63ac2d21cd11c5aa7b"
       ],
       "before_count": 2,
-      "task_id": 6118353151
+      "task_id": 6118353151,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
