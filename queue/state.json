@@ -73011,6 +73011,18 @@
         0.0,
         0.0
       ]
+    },
+    "5540172839": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "KR272104BT",
+      "originals_sha256": [
+        "953afb4d79d4bb96b82a2f47ea6609c4e8826dcc6626235494eeeaabdf1a2e59",
+        "7bc34e0a82ee174c2eca58e9b934a61fabce363039d856ad7a584d2fff482226",
+        "8b49af3e7870e7ef04d313a4d001b65967b8ab4ac1235922675b3d440522c34e",
+        "1993a7e6ef26f4fe2b8d26d6109d8db8169fc785b420c6fc416b08202b7eb543"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
