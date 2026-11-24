@@ -78616,14 +78616,19 @@
       ]
     },
     "6886313315": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DOC450",
       "originals_sha256": [
         "13d3c9f73692e5c487663b67654203047ba303063868834a7ec588ca978a6d24"
       ],
       "before_count": 1,
-      "task_id": 6118567483
+      "task_id": 6118567483,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
