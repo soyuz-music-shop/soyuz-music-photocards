@@ -56288,7 +56288,7 @@
       ]
     },
     "3277020174": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "FF0030",
       "originals_sha256": [
@@ -56296,7 +56296,12 @@
         "0b1314264df635cd4104500596214279fbf223565800ae4944fabd51cc0c4012"
       ],
       "before_count": 2,
-      "task_id": 6111689094
+      "task_id": 6111689094,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
