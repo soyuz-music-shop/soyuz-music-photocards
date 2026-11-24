@@ -68402,13 +68402,14 @@
       ]
     },
     "4385191434": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DB77828",
       "originals_sha256": [
         "c3963d597a01c557b104d4803f943d464762288d4a9ed1d3cf63c10536310e27"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113857420
     }
   },
   "reason": null,
