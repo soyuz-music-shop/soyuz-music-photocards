@@ -78704,6 +78704,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886329642": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BS028V",
+      "originals_sha256": [
+        "b37076b3900968475c8424ce121de62b1087ffcc5e8de2bfa06b1eb7ff6be5c8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
