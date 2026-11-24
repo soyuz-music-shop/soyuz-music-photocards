@@ -76182,6 +76182,16 @@
         0.0,
         0.0
       ]
+    },
+    "6799261907": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "EF454267",
+      "originals_sha256": [
+        "346a0922dd782a6798acf17a4bb912d71701a2ffd8304730d1bb63492b55e22a",
+        "e51a607c7be647f795d5f5dccf9c68b3f1d1c12d87307dc37c514487d1d7ff43"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
