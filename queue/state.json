@@ -67413,14 +67413,15 @@
       ]
     },
     "4385191190": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AG454250TM",
       "originals_sha256": [
         "994c8aa9a002f39f943b29a6e039a4023dc459e3a67e23acb8ec5404959acfbc",
         "9547379c49c01f26d1cecd374e23801d35d457439ffc3583369496e3ffb98f3a"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6113711530
     }
   },
   "reason": null,
