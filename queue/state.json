@@ -56890,7 +56890,7 @@
       ]
     },
     "3282704145": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "JP164213",
       "originals_sha256": [
@@ -56904,7 +56904,12 @@
         "52963fc9c61a2d153ea28e475f680c7c8fac93d23e5c51e7abb1b3235a1271d8"
       ],
       "before_count": 8,
-      "task_id": 6111779854
+      "task_id": 6111779854,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
