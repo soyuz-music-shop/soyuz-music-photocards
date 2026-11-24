@@ -79851,14 +79851,19 @@
       ]
     },
     "6921035433": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MA822509BP",
       "originals_sha256": [
         "1ad1c75b72b091c2baa56ce91837732bee08255f7c195ad4ad965f1a8bcfa56e"
       ],
       "before_count": 1,
-      "task_id": 6118677324
+      "task_id": 6118677324,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
