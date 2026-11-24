@@ -59664,7 +59664,7 @@
       ]
     },
     "3325378534": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "HE000000ltd",
       "originals_sha256": [
@@ -59675,7 +59675,8 @@
         "73f4d27477b6dfcfdd6d0eb1ea22b50082ce4a4638df239a5ab2a57a31e90d00",
         "28f7307292da70062d5cf6d3ccdb5478e96b365de67bf98e3e6c217391de90f8"
       ],
-      "before_count": 6
+      "before_count": 6,
+      "task_id": 6112202051
     }
   },
   "reason": null,
