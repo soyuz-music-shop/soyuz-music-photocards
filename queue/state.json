@@ -56505,6 +56505,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020223": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "846NX69012",
+      "originals_sha256": [
+        "5f27b1518ca8a353f7e9edead3e5ad1726e3f50d8ffdcf5cc1bf06f040fa32b1"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
