@@ -71028,7 +71028,7 @@
       ]
     },
     "5282913933": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP697RED",
       "originals_sha256": [
@@ -71039,7 +71039,12 @@
         "52b0e381221e84bec54420f5d389adb3f94a266cbcdf31e657288780988e888e"
       ],
       "before_count": 5,
-      "task_id": 6117822906
+      "task_id": 6117822906,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
