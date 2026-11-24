@@ -79382,6 +79382,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920949099": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "CX584169BIG",
+      "originals_sha256": [
+        "0700d72cef6ad55a49fbe13a664454f4f645ef774bab7764c0196768ddcafa04"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
