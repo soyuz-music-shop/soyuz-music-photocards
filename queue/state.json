@@ -56582,13 +56582,14 @@
       ]
     },
     "3282474974": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BF163414",
       "originals_sha256": [
         "30ab23bc602b1bb632e3d58a4074310d1bf1115b9aee7d0d384b63bc2aaa48ef"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111739072
     }
   },
   "reason": null,
