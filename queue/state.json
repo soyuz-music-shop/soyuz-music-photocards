@@ -69761,14 +69761,19 @@
       ]
     },
     "4462121952": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "AH622524",
       "originals_sha256": [
         "ad3c2933c569aad9f3a7a3ec17ee62f05b62f9533a7fe7cf763190e255fcc48b"
       ],
       "before_count": 1,
-      "task_id": 6114128014
+      "task_id": 6114128014,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
