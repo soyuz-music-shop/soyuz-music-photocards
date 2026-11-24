@@ -74608,7 +74608,7 @@
       ]
     },
     "6640168125": {
-      "status": "imported",
+      "status": "verified",
       "variant": "vinyl-russian",
       "offer_id": "2000095761839",
       "originals_sha256": [
@@ -74620,7 +74620,12 @@
         "d6b0928734a38e68120e3af8f7d9469e2201b6dd705e1c8195aadcc5a318950a"
       ],
       "before_count": 6,
-      "task_id": 6118175141
+      "task_id": 6118175141,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
