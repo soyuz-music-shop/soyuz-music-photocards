@@ -74707,6 +74707,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720449993": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BM610417GTSGACS",
+      "originals_sha256": [
+        "b0e672a43b54f317dbee7646db7cea09d50ab39c000970463c8f1163ba479872"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
