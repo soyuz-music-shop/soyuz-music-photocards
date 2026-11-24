@@ -56388,6 +56388,15 @@
         0.0,
         0.0
       ]
+    },
+    "3277020204": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "OO125114",
+      "originals_sha256": [
+        "eeb91fadfddd58e9a470599fdc93ac4144758583f7bc5653f1cbe157a45564b9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
