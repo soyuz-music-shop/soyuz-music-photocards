@@ -68369,7 +68369,7 @@
       ]
     },
     "4385191425": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1727958GREEN",
       "originals_sha256": [
@@ -68379,7 +68379,12 @@
         "aedf05ec17e1dc06f4df22381d3712f7984ec6af48de6996fa5007283d208e83"
       ],
       "before_count": 4,
-      "task_id": 6113851910
+      "task_id": 6113851910,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
