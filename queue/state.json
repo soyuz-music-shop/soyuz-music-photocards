@@ -72847,6 +72847,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172775": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BB500CLEAR",
+      "originals_sha256": [
+        "9de94131acb5892d61334690c6051f90b915a28f053b948aa24c1fc31a515d51",
+        "ee18b4d205c54e1264adbd3b3fcdc74284ecd48860e3fb552ababfecca102011"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
