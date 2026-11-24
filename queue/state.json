@@ -80511,6 +80511,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317581": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "XX350819",
+      "originals_sha256": [
+        "3e74dd62c95bc55ab4b36fbde37084baa775298b14657283ca5f88fb16c514ee"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
