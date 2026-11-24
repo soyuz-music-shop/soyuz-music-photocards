@@ -59427,6 +59427,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318706829": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AF0018JC",
+      "originals_sha256": [
+        "3994e1672d64fe3c346fa85e2a835128fe7696268b5f8ef2ce2cf703d00d8d5c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
