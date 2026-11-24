@@ -64960,14 +64960,19 @@
       ]
     },
     "3784565224": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CHD1635",
       "originals_sha256": [
         "2c663452d8095556c1328feebf29292156668f3a04592c90c4a296ddfde8845f"
       ],
       "before_count": 1,
-      "task_id": 6113319079
+      "task_id": 6113319079,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
