@@ -68823,7 +68823,7 @@
       ]
     },
     "4385191536": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "KO740917WHITE",
       "originals_sha256": [
@@ -68831,7 +68831,12 @@
         "b7e08e46017ffbb94a8e45b7beea81995edbac54c8da14da256cbd1224eb7383"
       ],
       "before_count": 2,
-      "task_id": 6113943608
+      "task_id": 6113943608,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
