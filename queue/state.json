@@ -60653,14 +60653,19 @@
       ]
     },
     "3562824618": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BRED907RED",
       "originals_sha256": [
         "e589124246ebed4a261677f6df332f99ac8f4b5f4abf391406ee4ce705e5137d"
       ],
       "before_count": 1,
-      "task_id": 6112379828
+      "task_id": 6112379828,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
