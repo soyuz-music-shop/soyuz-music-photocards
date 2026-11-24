@@ -59717,14 +59717,19 @@
       ]
     },
     "3325378546": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "ANGEL005LP",
       "originals_sha256": [
         "cad45f31339316bc53da2032c7efcd55c2148f4bde121f7431a8c7ba8b798bd3"
       ],
       "before_count": 1,
-      "task_id": 6112210089
+      "task_id": 6112210089,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
