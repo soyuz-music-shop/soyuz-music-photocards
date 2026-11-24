@@ -75130,6 +75130,21 @@
         0.0,
         0.0
       ]
+    },
+    "6720612332": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDSTUMM506",
+      "originals_sha256": [
+        "607e042fcf4c130455eeceeead97a7ee9923d92c07269fe95956897db95892e4",
+        "adb8d035ca6130f20adaa203dc3adb132f3a830286d04abca33a7ab1493b685c",
+        "ad2481bdaa47c8a977bed204b52cfdfe4a0bfaefd860b2a767017d07003f8f49",
+        "6645ead1765201a7b8b40fc788574108f7d302bb1a31610bd26c634dabf5b80e",
+        "34eae0973c490b8b9ae987d0e6514bb7c58b2dbf93bb65423f1e125c1e223900",
+        "ad7f99d3d69b768364115c1fb69afb223f0633628e438e515ba1dbd64e5e82a8",
+        "47fc05357b77fd951957b127fd8f761e3a57f18b39dcb749500e14baf1639cd3"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
