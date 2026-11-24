@@ -70893,6 +70893,19 @@
         0.0,
         0.0
       ]
+    },
+    "5234993796": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOARXXXI",
+      "originals_sha256": [
+        "c6397b881cbf18fb385f4016373cb67e6b1ae1d6a95cec857753fc291eb4d12e",
+        "6e46b6c8d7e2e598da9effe7bd97cf1b07720cedcc52a8abbcbaf0121e5ba27b",
+        "9ff3890f58e2d3b21f46f2c21769bf5a8ecb6e54275851d435646d329da44ac1",
+        "f5cdee7c8ac64be16616510d7674e44754999e6961b08fb6f3f539084db42a4c",
+        "e84f037ddbb5bfe7100c219978cd1e8172ca3f57717205983dd87e16346415a8"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
