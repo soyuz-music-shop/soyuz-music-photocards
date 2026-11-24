@@ -75991,7 +75991,7 @@
       ]
     },
     "6799182178": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "TAPP100527",
       "originals_sha256": [
@@ -75999,7 +75999,12 @@
         "43c8e0a91c85d5334281a611322be636230e27b80323a22ec66f21a13717f09e"
       ],
       "before_count": 2,
-      "task_id": 6118315995
+      "task_id": 6118315995,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
