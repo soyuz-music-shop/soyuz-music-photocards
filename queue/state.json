@@ -75206,6 +75206,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720638241": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MM855958BT",
+      "originals_sha256": [
+        "08ffac3cfa010e9bf5d89c8fcb36f40b44a0413544ba944d63ea98a5e97f79a0"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
