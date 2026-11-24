@@ -71924,7 +71924,7 @@
       ]
     },
     "5540172603": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SC875782BLUE",
       "originals_sha256": [
@@ -71933,7 +71933,8 @@
         "7152224ac7311c6b1ffc1e90bde88cfad7c1e9f6dd3747a061e94894dd4042b3",
         "8efdeb2bea6b114cf8b055c2f2832229cfea0bb21aae3fb08414ce75f1f1f98a"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117916476
     }
   },
   "reason": null,
