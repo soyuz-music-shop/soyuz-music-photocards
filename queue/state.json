@@ -75515,6 +75515,15 @@
         0.0,
         0.0
       ]
+    },
+    "6720734975": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UICY-79990K",
+      "originals_sha256": [
+        "e5ac5b126e2dc386635389c1f5fb77f145e262eb73946dd5daad41fd4ff051b9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
