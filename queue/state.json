@@ -60221,6 +60221,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3562824559": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "BRED849GOLD",
+      "originals_sha256": [
+        "3af8087598b79794ace3baca7a9df2c824d2dd3e03304a365e259b8d8d98c980"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
