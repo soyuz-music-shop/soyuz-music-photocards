@@ -70818,6 +70818,19 @@
         0.0,
         0.0
       ]
+    },
+    "5219747160": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOARXXIX",
+      "originals_sha256": [
+        "c8788710c1e29f8c358c72db7bcb6b820669ee9611f3f3194c2f520b1483ec17",
+        "c53d1888a0d101a109be6e68fe531772896e58d36ec2ec31b465d55e5af59101",
+        "d38515d9b0e4b66c819c3932312283ea3baa800b964e0dc6884f1b6775b0a109",
+        "f9bc716ae993b056201b60268296d1beb0df4af4d83d17736593033a5c95ca32",
+        "c04687cb17dfab15c16e812c8a007f5e032eb2dfa2b8a78082710221db843ff2"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
