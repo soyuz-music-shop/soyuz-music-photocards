@@ -67786,6 +67786,21 @@
         0.0,
         0.0
       ]
+    },
+    "4385191262": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SC881295LBT",
+      "originals_sha256": [
+        "87b898ba67da89171bcadf096feeebe96dc6bfa34f61f3150c7a38218202bf46",
+        "a37969657cc35ce443acc98e62d919dd3fce4c98bb2cbe8015a6a35fa28b057d",
+        "d4cfb266db29d0c404edbfc474aadc50a5171e9fba932ec0d0988e1ae7fdd8af",
+        "2b31bdc56dbd2f179301f1048ee87dfc86cda1b9370224b1b4c7aa3cc89ebef4",
+        "b55615fcd882ec8422c306fbe04833711abde18d35c84d5dea8f5e2eddeadbb0",
+        "8320c369a2fa91cc7469f314e9091ba36c5f948ba6e2c0ad70b2ae1767e02f40",
+        "7f9bb7f5be7b06dc4b29eac47730ee6515cb391be89db8282957a35f57fdb699"
+      ],
+      "before_count": 7
     }
   },
   "reason": null,
