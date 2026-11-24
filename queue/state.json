@@ -76088,7 +76088,7 @@
       ]
     },
     "6799223672": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BM626340CC",
       "originals_sha256": [
@@ -76097,7 +76097,8 @@
         "2f65596e1dac3a95b45a31595568568cb0c4ef9d8b0d133cf3bcfc119457fbe1",
         "78744ec8030b568fedf65970b9b7a863755a22f02ad28abc5f92b5f74666f9fe"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6118325875
     }
   },
   "reason": null,
