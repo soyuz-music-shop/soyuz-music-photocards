@@ -63190,7 +63190,7 @@
       "reason": "Uncertain or interrupted mutation, never automatically resend"
     },
     "3576109651": {
-      "status": "submitted",
+      "status": "imported",
       "variant": "cd-import",
       "offer_id": "ECLEC2423",
       "originals_sha256": [
