@@ -77062,6 +77062,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800673724": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "RATM199323",
+      "originals_sha256": [
+        "405055a5af34514fbad17eb38a1eb83aafb9e68930023bb991b8724df4a5be5e"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
