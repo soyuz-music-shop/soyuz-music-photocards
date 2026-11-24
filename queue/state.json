@@ -74227,7 +74227,7 @@
       ]
     },
     "6503620981": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DMCDV19802841092",
       "originals_sha256": [
@@ -74236,7 +74236,12 @@
         "2300c2a5461d5e6c8768ac5d5ebaf7e43a453339e1a9805bd57049dba27cf89d"
       ],
       "before_count": 3,
-      "task_id": 6118143351
+      "task_id": 6118143351,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
