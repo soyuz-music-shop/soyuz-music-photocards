@@ -69413,7 +69413,7 @@
       ]
     },
     "4385191714": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV145767SILVER",
       "originals_sha256": [
@@ -69422,7 +69422,12 @@
         "2839ebda799105bee8ed92773819e5e27ede25a24a3ff89d60c82ab41f89c1e2"
       ],
       "before_count": 3,
-      "task_id": 6114052204
+      "task_id": 6114052204,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
