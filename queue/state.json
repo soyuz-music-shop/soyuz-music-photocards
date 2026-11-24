@@ -59914,14 +59914,19 @@
       ]
     },
     "3326026300": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AMB706481",
       "originals_sha256": [
         "7485c868adb9ffeec9d16cd7baa09aac0c27620a0cca21f5b894c70d06ddcb9c"
       ],
       "before_count": 1,
-      "task_id": 6112246303
+      "task_id": 6112246303,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
