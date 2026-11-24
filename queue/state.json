@@ -79075,13 +79075,14 @@
       ]
     },
     "6920900361": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "AP-01",
       "originals_sha256": [
         "c50d6e2f72e039e2335ca96a7725ca84eea7ab5b6af0221fd0a23cfad9de5e09"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118610323
     }
   },
   "reason": null,
