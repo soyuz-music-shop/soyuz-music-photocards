@@ -76741,14 +76741,19 @@
       ]
     },
     "6800601452": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "NI178572",
       "originals_sha256": [
         "9ba886a7c8ed927636c16e6ca59e3b768bc885775de4f9fe73ff5b058d1a1d3f"
       ],
       "before_count": 1,
-      "task_id": 6118389807
+      "task_id": 6118389807,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
