@@ -73305,7 +73305,7 @@
       ]
     },
     "5541364069": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "RW458527",
       "originals_sha256": [
@@ -73315,7 +73315,12 @@
         "bb32f34fe6ecdebc73c45b19c3baaddc3e596e9777e67b466c7f4107eeb23ca5"
       ],
       "before_count": 4,
-      "task_id": 6118047401
+      "task_id": 6118047401,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
