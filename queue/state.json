@@ -76527,14 +76527,15 @@
       ]
     },
     "6799358100": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NPR1066VINYL",
       "originals_sha256": [
         "c8cc2c81caa92ae6fcc067845b6fa312f319941ad8d46ae2e2de16a12a097187",
         "c4b7560231424c7ebf31b3c7a3ad9d9e65b1cf0d6a7a60ae9da7b026474f1c63"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118368564
     }
   },
   "reason": null,
