@@ -72817,7 +72817,7 @@
       ]
     },
     "5540172764": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "LPGRON195",
       "originals_sha256": [
@@ -72825,7 +72825,12 @@
         "ce2d80c56419a5655ab6ce195edaf095744beeaedcd86eb3a2b2e66ac90589bc"
       ],
       "before_count": 2,
-      "task_id": 6117997160
+      "task_id": 6117997160,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
