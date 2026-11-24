@@ -64303,6 +64303,20 @@
         0.0,
         0.0
       ]
+    },
+    "3784565013": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "NED6",
+      "originals_sha256": [
+        "a1fdb5fbfc9fc6426c51d59782bef776eb8e51414f63b8bcbc119ac2ff969d70",
+        "fc12650eac7e914dd00b7215b27ad3702779c408966a0d00647b33c1bc7ac56b",
+        "df3cfb029f998a31ac9c06c8a964b7d395b2b461047784a1a1e8ce6471673181",
+        "608a3ba274bede0bbcf7e7d0a8a0982a890c3fb73c5e7081676366a8d59b25ff",
+        "7c408aebcedfd8b3ac0f81bf6c80cd06eb05370698836970c957fd3412553d74",
+        "a787043de968bb04b64135e6106be535c47ec722ca2db03f66f195df38d29a2c"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
