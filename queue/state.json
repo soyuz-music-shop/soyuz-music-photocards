@@ -70635,6 +70635,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219746198": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ROTOR0077",
+      "originals_sha256": [
+        "7bdb0f85360b0a1257f54b10902075dadd95c336901e0a3dd6c1b84f3d5f1110",
+        "cbb220a1db011d4523b858cd25ac80fd3663d0b2da7625d51f9ddcc3f7cc08d8",
+        "779b6a40de40948a29191f35e64656af096b91b1b576dc97a8bed9bfea314618",
+        "b7a2badb4e1b239cfd7e80415a4099d66fc9391611d83f28f157372674f77509"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
