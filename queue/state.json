@@ -69958,14 +69958,15 @@
       ]
     },
     "4462140138": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BNM-123-2",
       "originals_sha256": [
         "4e70003b61179a89dbf8bcb591e3ccf39e232464615656f674a7beaa0d792375",
         "83250670253887c74f47ab9a62d6cd9c379889fd6d424417a580fb5e9eb7f5a9"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6114167866
     }
   },
   "reason": null,
