@@ -76619,13 +76619,14 @@
       ]
     },
     "6799383895": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BMGCAT198CDX",
       "originals_sha256": [
         "ff54b838955854f03ac1e73817e9575b1569b98861905a29217a7c4574ae6701"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118376898
     }
   },
   "reason": null,
