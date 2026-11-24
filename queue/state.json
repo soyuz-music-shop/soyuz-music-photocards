@@ -74809,7 +74809,7 @@
       ]
     },
     "6720479656": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "TC358961WHITE",
       "originals_sha256": [
@@ -74823,7 +74823,12 @@
         "a63be8d359435a1dc24e3e58f99b188a2b1ee8d40466e15de299ece70feff93a"
       ],
       "before_count": 8,
-      "task_id": 6118196728
+      "task_id": 6118196728,
+      "after_count": 10,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
