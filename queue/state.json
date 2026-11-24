@@ -71199,7 +71199,7 @@
       ]
     },
     "5540172470": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RRS251PT",
       "originals_sha256": [
@@ -71207,7 +71207,12 @@
         "89d707b38dea85b74d11c54c584046b58d6e416049c9cf71ed8964f3cb54af0c"
       ],
       "before_count": 2,
-      "task_id": 6117842757
+      "task_id": 6117842757,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
