@@ -70763,6 +70763,18 @@
         0.0,
         0.0
       ]
+    },
+    "5219746249": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PLATE029LPCLEAR",
+      "originals_sha256": [
+        "0c7a87dac4740812dd9249b7be1388be7a8f16878797638cbc64949102728680",
+        "964d326c14ca4dbc4ed21615ea972b5d1ff5a9af98fa5fecf2376d43c2fb201f",
+        "00b6917ed2d8dae827193f1220183e8097b778abe2729ad2ad427197e3a1484d",
+        "4f5992e63628a313444f3b47d519c9feacd891768e3fe64fa0d1edb8f573abee"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
