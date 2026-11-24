@@ -66053,14 +66053,19 @@
       ]
     },
     "3784946322": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDWIK18",
       "originals_sha256": [
         "7da581aac1e66461c65b969123fd8b9e4ecbe144dcfc064a624edbbf691ae61b"
       ],
       "before_count": 1,
-      "task_id": 6113500694
+      "task_id": 6113500694,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
