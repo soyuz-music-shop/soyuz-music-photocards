@@ -79610,13 +79610,14 @@
       ]
     },
     "6920996889": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "BBQLP 111",
       "originals_sha256": [
         "62e13fc9c2c1249ee07fded4fa9183c61ebbc6ba5e1fe962897a41d7ff392a91"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118658019
     }
   },
   "reason": null,
