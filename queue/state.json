@@ -78076,13 +78076,14 @@
       ]
     },
     "6886200131": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DB397522",
       "originals_sha256": [
         "fbfb1f5c86e3ad7e4aa2cfe5818c04b2bc62afa32416cc329799914b0afd6afe"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118518152
     }
   },
   "reason": null,
