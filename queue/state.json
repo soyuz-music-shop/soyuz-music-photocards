@@ -76384,6 +76384,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799320198": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "R2-535334 / 8122-79557-5",
+      "originals_sha256": [
+        "389a8bf84483363257e894f8dfdcaf3d1bc207d8b23546a55da44ca230fe5438"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
