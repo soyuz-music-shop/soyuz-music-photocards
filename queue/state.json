@@ -66502,6 +66502,15 @@
         0.0,
         0.0
       ]
+    },
+    "3784946419": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDDAM1",
+      "originals_sha256": [
+        "5abb8c5f13d4f23d2f5f1889496c765ca04c3b4bc52de0affae1729569fdccc9"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
