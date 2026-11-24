@@ -74318,7 +74318,7 @@
       ]
     },
     "6503641855": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "OUTRO-054",
       "originals_sha256": [
@@ -74326,7 +74326,12 @@
         "59322776f895bbadd48ac6cf10509b4d79d19474e18dfa5ca24513893d162a5d"
       ],
       "before_count": 2,
-      "task_id": 6118150356
+      "task_id": 6118150356,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
