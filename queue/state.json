@@ -59912,6 +59912,15 @@
         0.0,
         0.0
       ]
+    },
+    "3326026300": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "AMB706481",
+      "originals_sha256": [
+        "7485c868adb9ffeec9d16cd7baa09aac0c27620a0cca21f5b894c70d06ddcb9c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
