@@ -76213,6 +76213,15 @@
         0.0,
         0.0
       ]
+    },
+    "6799271341": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EN852277",
+      "originals_sha256": [
+        "b4f19b281193d2b3bf8798e0e7d9e29c179546f53a01536a7508a04275908f3c"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
