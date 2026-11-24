@@ -73391,14 +73391,15 @@
       ]
     },
     "5541364173": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MT121820",
       "originals_sha256": [
         "02dc62ed62fa21b05def11eea26f72f892fecbe9f2156e5f7de56b8a7466de27",
         "4f7e0f1a6aef30bd3f4a91f5f75ddc7dd187ec275357942fd8deea2ec7d2388b"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118059931
     }
   },
   "reason": null,
