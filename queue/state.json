@@ -71793,7 +71793,7 @@
       ]
     },
     "5540172587": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RKX068TCY",
       "originals_sha256": [
@@ -71802,7 +71802,12 @@
         "60bd6df0b5eb21a527210a36426e59067992b78ae01c75c12a912fad7cfd58cf"
       ],
       "before_count": 3,
-      "task_id": 6117903585
+      "task_id": 6117903585,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
