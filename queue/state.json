@@ -63419,7 +63419,7 @@
       ]
     },
     "3648727579": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RTRADLP680",
       "originals_sha256": [
@@ -63430,7 +63430,12 @@
         "76d7c0c1cc3eed0a01e08b66d104323558af477ce7fdf7300baac149382fb45e"
       ],
       "before_count": 5,
-      "task_id": 6113012951
+      "task_id": 6113012951,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
