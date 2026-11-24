@@ -77911,13 +77911,14 @@
       ]
     },
     "6886154339": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "WARPLP257",
       "originals_sha256": [
         "7a87d11003b3665a2dd14b4706b12de11c807997aa400c5d8fa76278146e1a9f"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118500780
     }
   },
   "reason": null,
