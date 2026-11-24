@@ -60183,14 +60183,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3562824553": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AHOYLP 410",
       "originals_sha256": [
         "d3d2305ac4ae0cc6802e5e77f27eaf0367d31b3686003eb7578bc57cb923a2e6"
       ],
       "before_count": 1,
-      "task_id": 6112291042
+      "task_id": 6112291042,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
