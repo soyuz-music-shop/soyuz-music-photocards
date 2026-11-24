@@ -68773,14 +68773,19 @@
       ]
     },
     "4385191530": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CO546623CLEAR",
       "originals_sha256": [
         "5c049aff37b961c309a77025413ede1e1ca6a8530c25ca8e1d84ead0257f76b9"
       ],
       "before_count": 1,
-      "task_id": 6113935271
+      "task_id": 6113935271,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
