@@ -58728,6 +58728,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541226": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UMBCDBOX1",
+      "originals_sha256": [
+        "4bea225e91381ccefa3f863745449cfc3f4c1aecab13ada372de6c2d1386194b"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
