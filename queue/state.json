@@ -58758,6 +58758,15 @@
         0.0,
         0.0
       ]
+    },
+    "3318541229": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "AF0007DP",
+      "originals_sha256": [
+        "e63b56fe374e957458a37f762682fcb7bd24fdd8ad58e9ea5101f4fdb54f12ec"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
