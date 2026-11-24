@@ -74365,6 +74365,18 @@
         0.0,
         0.0
       ]
+    },
+    "6503685795": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "GOOLP-023",
+      "originals_sha256": [
+        "7ea597ffe2309cc97d472586ed8b76e42dfa34e7c7f99d61a86b85ebac3409ec",
+        "26e4a0cf0c0351b1a3dda9384d90939153ac2bdc7111ced2831b5fed7f9ca080",
+        "ab3471fee1baa7a4cc22bf31b849c5fbb6727fe07ae6d0ba5e5552736a258de5",
+        "994fd9991c4bcbe34da8e92344e0f1830d0647b623039f263761f61abea199ab"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
