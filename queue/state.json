@@ -58019,7 +58019,7 @@
       ]
     },
     "3296659154": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AA426298",
       "originals_sha256": [
@@ -58027,7 +58027,12 @@
         "6c2bd83aa54ed113402bbcb1b2eeb7816a19ee9f2ef1dbdc999f5aa9cd826fc2"
       ],
       "before_count": 2,
-      "task_id": 6111935490
+      "task_id": 6111935490,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
