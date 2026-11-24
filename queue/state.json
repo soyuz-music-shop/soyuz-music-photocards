@@ -70783,7 +70783,7 @@
       ]
     },
     "5219746788": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DAIS187CWBS",
       "originals_sha256": [
@@ -70793,7 +70793,8 @@
         "187059e39e7ba40b8e17a75a71618d2f0709cf163da480a32079f0525b9307c8",
         "2964e31533977bcb3069b6e3636021c94a452aef8b45c28988af25dee107408a"
       ],
-      "before_count": 5
+      "before_count": 5,
+      "task_id": 6117786103
     }
   },
   "reason": null,
