@@ -67872,7 +67872,7 @@
       ]
     },
     "4385191306": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EPC25739",
       "originals_sha256": [
@@ -67881,7 +67881,12 @@
         "065de86eaa4f5f2dfe09fb2ea76e343c1bd46eaef96a1aa5f5ec4ed2e16ef779"
       ],
       "before_count": 3,
-      "task_id": 6113776452
+      "task_id": 6113776452,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
