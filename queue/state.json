@@ -56640,6 +56640,16 @@
         0.0,
         0.0
       ]
+    },
+    "3282475086": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "UWR00100CD",
+      "originals_sha256": [
+        "8250f632629640f0cd3cb71d883993741c349712c4f2ef148364ba892ba85f8a",
+        "a0e92e2a94469c39adf4d07535b50e2ea16e1a256f483728c62f30cfbfc2731d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
