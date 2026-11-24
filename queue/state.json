@@ -64821,14 +64821,19 @@
       ]
     },
     "3784565190": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HIQLP045WHITE",
       "originals_sha256": [
         "ba9c1e10e6e59eae0cb95f5c3fbb368b05d83966aa1d6aac1eaf53ee033eeeaf"
       ],
       "before_count": 1,
-      "task_id": 6113298331
+      "task_id": 6113298331,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
