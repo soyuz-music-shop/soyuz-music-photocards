@@ -72183,6 +72183,19 @@
         0.0,
         0.0
       ]
+    },
+    "5540172642": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "HE211597GOLD",
+      "originals_sha256": [
+        "ef898a6e70214f230918dccba9f1671b750de45fd2f8c87f964c3e282c76722f",
+        "11347d117e9634f8522de93cad4e20422820fd17d6b4d495c88d2cef095e79b8",
+        "396a9a6ac83a4003bbc72c514011ff5d20f7917f11dbd2d56d54b36dc4b3f607",
+        "02d543b26a0c1a419e2ce0b6f296501b748dd810212bd6679eef28076ea9baf7",
+        "6d8ac1395530577eb4c971953cce0e6c969a42585867882972258610096a1fda"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
