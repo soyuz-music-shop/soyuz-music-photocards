@@ -79776,14 +79776,19 @@
       ]
     },
     "6921021804": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "CAI003LP",
       "originals_sha256": [
         "00a5aa0c92741b6a8cb75fd6a6671d85e58566876fa61e584f5cf8ce34f81d77"
       ],
       "before_count": 1,
-      "task_id": 6118671781
+      "task_id": 6118671781,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
