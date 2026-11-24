@@ -77266,14 +77266,19 @@
       ]
     },
     "6800711979": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "EES-035",
       "originals_sha256": [
         "cf54b64710610843a9a52c8ecf5fe0ec35f1a434d4a0f0ba73961f34a76d4b2c"
       ],
       "before_count": 1,
-      "task_id": 6118428231
+      "task_id": 6118428231,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
