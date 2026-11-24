@@ -63593,6 +63593,18 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Uncertain or interrupted mutation, never automatically resend"
+    },
+    "3749015929": {
+      "status": "locked",
+      "variant": "cd-russian",
+      "offer_id": "4680017661430",
+      "originals_sha256": [
+        "297309f58004728ce656c08a8413f4c5557fce4884883de9182d28b15c699f1e",
+        "70b30c68f54c31e071b7f11b1ada0bae0d56b7fd88344ff480333cedb589d5eb",
+        "5cc22b01a6289f281b6847d66b1f1dc0b5c76c53eb5133c444d7cedd6b09cd9f",
+        "875babe965d4cac6cb5ecef25da91814e8d7c4afef125e3d82364ddc20787cc7"
+      ],
+      "before_count": 4
     }
   },
   "reason": null,
