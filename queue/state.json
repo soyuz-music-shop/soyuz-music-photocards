@@ -71857,6 +71857,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172597": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ACRSLP1606",
+      "originals_sha256": [
+        "7b556b0ecdb6a5df831179c789d26fa7dce32eae25930efec09c155d238dd8b7",
+        "bf2ceda929992c7bb84db6d96bc8a0d2b767fd8bedfb71c481937716d6035741"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
