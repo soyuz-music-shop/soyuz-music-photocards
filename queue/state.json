@@ -68480,14 +68480,19 @@
       ]
     },
     "4385191446": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "DL511706",
       "originals_sha256": [
         "f3b5850ab3f47e134d440e369acbc7375d2cd0e1b0eb0fba29acf095cae389d8"
       ],
       "before_count": 1,
-      "task_id": 6113871322
+      "task_id": 6113871322,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
