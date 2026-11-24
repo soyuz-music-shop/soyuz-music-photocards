@@ -76260,14 +76260,19 @@
       ]
     },
     "6799283442": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R1 725904",
       "originals_sha256": [
         "32bc62e4dfa51e6bf189e1f79a141b1f64c9bf5fa004f2c33d7eb4b83748af95"
       ],
       "before_count": 1,
-      "task_id": 6118343984
+      "task_id": 6118343984,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
