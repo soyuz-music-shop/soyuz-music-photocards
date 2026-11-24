@@ -79730,14 +79730,19 @@
       ]
     },
     "6921015085": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XX819059CBS",
       "originals_sha256": [
         "2c31ffcfcd6d49babf2851cc10e1536af8db0d8ee3eaf4f35addefb83e2f02fe"
       ],
       "before_count": 1,
-      "task_id": 6118668087
+      "task_id": 6118668087,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
