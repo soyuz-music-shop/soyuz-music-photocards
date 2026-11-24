@@ -56954,13 +56954,14 @@
       ]
     },
     "3283959672": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "BNM-01-2",
       "originals_sha256": [
         "d59c7d41aeb94367a51a3a17cd4ea16d5bfa44beb9306d19c75557fe95c9f944"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6111786367
     }
   },
   "reason": null,
