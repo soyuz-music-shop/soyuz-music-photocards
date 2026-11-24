@@ -79300,6 +79300,22 @@
         0.0,
         0.0
       ]
+    },
+    "6920935507": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BMGCAT556TCD",
+      "originals_sha256": [
+        "7b86c2faaf447ec37b411d2729d7844a7332f199406f43123d7d6d0088d93dc2",
+        "4ac09a628ee28379270dc1a685b8a8477b639752c864052bfd9f29753f171f79",
+        "a1ad2eab6cf166668b4273b8c15052fe2704a41258b1c6f0ec1ced568d7fbd3e",
+        "da17b93e9ece2f681b5397dfc131f1d14cfd1d993390494bb9454cc6dd77a826",
+        "5c98869dd8f9a85a111529ae84985771a8c22081c8ab91e45c76e33430b9abb5",
+        "1d0e750f66accc38e300134edf38df58ab770cfd68f4b5524c702d8f1bfb4de1",
+        "2075e506fc6948d07c745644c8559bb31078cbcd44c69358e13e4691d1880f6d",
+        "ac3fee820cd1d7c3f45e7b9c09b4345833a1e8daa48de6906591b3e785960bc3"
+      ],
+      "before_count": 8
     }
   },
   "reason": null,
