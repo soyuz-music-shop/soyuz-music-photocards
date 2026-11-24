@@ -58556,14 +58556,19 @@
       ]
     },
     "3318541179": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "UMB CD1",
       "originals_sha256": [
         "8ee980529b86c2b862f9682ad3c8654f72afaeba5b35fff90ad48143e6d4c991"
       ],
       "before_count": 1,
-      "task_id": 6112007510
+      "task_id": 6112007510,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
