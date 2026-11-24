@@ -61868,13 +61868,14 @@
       ]
     },
     "3563073869": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "TBIRD 0039 CD",
       "originals_sha256": [
         "31a79b2447c54c58abf64257959b483f0938b3ab701cd5317d29889ff4ff50ef"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112629740
     }
   },
   "reason": null,
