@@ -66733,6 +66733,17 @@
         0.0,
         0.0
       ]
+    },
+    "3812308622": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ROCKACT166CD",
+      "originals_sha256": [
+        "853c590f4ef51a2d791f203d5628c559c53ee917722b9f411860ee71759f0c23",
+        "adfa6df2544c3641be21ab7c4b662a9d67de6a849307ce42ae3965d45efbbc05",
+        "c5b03cfb8dc2bb7c3ad7a434f9ca5cb45267aebd9a5783e0f857c8c16688f55a"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
