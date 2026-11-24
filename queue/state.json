@@ -80370,6 +80370,15 @@
         0.0,
         0.0
       ]
+    },
+    "6961317408": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "MO829683",
+      "originals_sha256": [
+        "8c7ff94fd422fe9c1b640f59c59449552ff64c8ba3e0eef26856db882dee51f3"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
