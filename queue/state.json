@@ -62078,14 +62078,19 @@
       ]
     },
     "3563073892": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "WROBIN3CD",
       "originals_sha256": [
         "cecb6c014e6d5eb8b727eee4a5987b9a25e98b7fb6f0218853c6ccead7c3ebde"
       ],
       "before_count": 1,
-      "task_id": 6112668388
+      "task_id": 6112668388,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
