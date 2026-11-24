@@ -76929,13 +76929,14 @@
       ]
     },
     "6800643215": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "PUSC20",
       "originals_sha256": [
         "8a1d15e103555d560aa0eb2440ff75280afe6d1697f12a2fb1cb074b24d09f85"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118405650
     }
   },
   "reason": null,
