@@ -62878,14 +62878,19 @@
       ]
     },
     "3576109606": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "CDMRED32",
       "originals_sha256": [
         "3a472e908dcb7148e8aa00ccc4a4ececd6b06660c1a7e8ca567cd8698479b8b7"
       ],
       "before_count": 1,
-      "task_id": 6112842528
+      "task_id": 6112842528,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
