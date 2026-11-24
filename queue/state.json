@@ -69581,7 +69581,7 @@
       ]
     },
     "4385191782": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "SC881349RT",
       "originals_sha256": [
@@ -69593,7 +69593,12 @@
         "b0454ca1e5d66a403980894e66df469ff6046e6b56046d1acc39060590c5ccae"
       ],
       "before_count": 6,
-      "task_id": 6114090289
+      "task_id": 6114090289,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
