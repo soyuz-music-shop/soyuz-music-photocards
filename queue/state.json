@@ -76558,14 +76558,19 @@
       ]
     },
     "6799366152": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MO855427",
       "originals_sha256": [
         "8f77ecd0e3432db19f80fa252b7658256c764334f8d535dfc5d9de1ed9f03056"
       ],
       "before_count": 1,
-      "task_id": 6118371202
+      "task_id": 6118371202,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
