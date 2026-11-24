@@ -62121,6 +62121,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073902": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "CDBRED747",
+      "originals_sha256": [
+        "6003480a458f532679ca14518efd229acbfa565a0492a6df13fb5fbcecd51fc7"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
