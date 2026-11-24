@@ -79999,6 +79999,16 @@
         0.0,
         0.0
       ]
+    },
+    "6921051291": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MD804313",
+      "originals_sha256": [
+        "a8e95ea14f4e0a1622c5878e3ff748df8999089bd67979d0f3f01890022f5b6c",
+        "4c5e91cd3b542322f5588b463d9a5a02526afe7a329d3cb55b99e8f2e7926339"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
