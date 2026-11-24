@@ -72436,7 +72436,7 @@
       ]
     },
     "5540172675": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "HRR966",
       "originals_sha256": [
@@ -72444,7 +72444,12 @@
         "b95ca41782cefba7ccc3e5c09cd997425d33c6c2cb6d4c1ff53162a1e3e1a946"
       ],
       "before_count": 2,
-      "task_id": 6117964825
+      "task_id": 6117964825,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
