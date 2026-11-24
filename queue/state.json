@@ -76290,7 +76290,7 @@
       ]
     },
     "6799292402": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "R2 73276",
       "originals_sha256": [
@@ -76298,7 +76298,12 @@
         "c8dd4b15b6c28e0c96a9b9cab0558441bcd4721e4bec2a2dbce0bd0ddf0c2e5c"
       ],
       "before_count": 2,
-      "task_id": 6118348227
+      "task_id": 6118348227,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
