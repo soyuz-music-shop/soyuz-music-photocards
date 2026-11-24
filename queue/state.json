@@ -71905,6 +71905,17 @@
         0.0,
         0.0
       ]
+    },
+    "5540172601": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "VP001CLPCLEAR",
+      "originals_sha256": [
+        "82c3e791d0ea0ec9aa69d4e27de5dfd160718c43eae3a15cfc762325772a2716",
+        "52bf71d06ded694e86d7b3dd9ddb2b4febfc84c0b80dfa5fdb7a5ed845973083",
+        "a48782a9d6d909413b3f0bd8fd1574c0415f4a790e8316030c3809aaed2398dc"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
