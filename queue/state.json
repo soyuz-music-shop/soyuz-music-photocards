@@ -59779,14 +59779,19 @@
       ]
     },
     "3325378556": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AS000000",
       "originals_sha256": [
         "3920d124992a6a0e57a62a69010175f091a271bed97ca3403b28ea1cd2106f6d"
       ],
       "before_count": 1,
-      "task_id": 6112222174
+      "task_id": 6112222174,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
