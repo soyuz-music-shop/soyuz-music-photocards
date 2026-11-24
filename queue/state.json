@@ -72685,7 +72685,7 @@
       ]
     },
     "5540172746": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AP100",
       "originals_sha256": [
@@ -72694,7 +72694,12 @@
         "b32370175a360900ee5a78050c252f027570c618a460339495914d8431b152ed"
       ],
       "before_count": 3,
-      "task_id": 6117988240
+      "task_id": 6117988240,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
