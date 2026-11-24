@@ -67538,7 +67538,7 @@
       ]
     },
     "4385191208": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CR656025GREEN",
       "originals_sha256": [
@@ -67546,7 +67546,8 @@
         "85c392714386e0df79efd29535056f384ace78dffa60e86e3b610bd76a080fbf",
         "1799f6e785cbaff065b0c4a5020da9458897c4114256f06ea6e74af126b30baf"
       ],
-      "before_count": 3
+      "before_count": 3,
+      "task_id": 6113728832
     }
   },
   "reason": null,
