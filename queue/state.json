@@ -79789,6 +79789,15 @@
         0.0,
         0.0
       ]
+    },
+    "6921026400": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DOC254LP-C3",
+      "originals_sha256": [
+        "610ef9395c63c9f19e51334a7028f608f7ea699ab8651a023652c287778d1291"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
