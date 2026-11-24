@@ -78554,6 +78554,15 @@
         0.0,
         0.0
       ]
+    },
+    "6886302925": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "MM589515CCPPM",
+      "originals_sha256": [
+        "becd3858f9691e0c8bc8c45c2bc17edb19a3401b796814a4c974c5de399c5808"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
