@@ -69682,7 +69682,7 @@
       ]
     },
     "4462121844": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "SL607097",
       "originals_sha256": [
@@ -69692,7 +69692,12 @@
         "43bd67f6c14bb2ac1379d9035343636a323837d20506a31f9eff94f78d898215"
       ],
       "before_count": 4,
-      "task_id": 6114110916
+      "task_id": 6114110916,
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
