@@ -65227,13 +65227,14 @@
       ]
     },
     "3784946114": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CDTOP1660",
       "originals_sha256": [
         "8677926c6ec12daf835fd655c663a7263f9f43ec22d0dcaaa11a7677d2e9d280"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113368448
     }
   },
   "reason": null,
