@@ -59537,14 +59537,19 @@
       ]
     },
     "3325378493": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AF0052V",
       "originals_sha256": [
         "10ec900ebef4c4d28ba03c4aafb710ba866c4c750e9ef00ca9702add24afcd26"
       ],
       "before_count": 1,
-      "task_id": 6112180072
+      "task_id": 6112180072,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
