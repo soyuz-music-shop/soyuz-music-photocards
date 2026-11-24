@@ -61280,14 +61280,19 @@
       ]
     },
     "3563073767": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "GLAM CD 75",
       "originals_sha256": [
         "cf697994d4bbbca63b616377c9a81613237dee8fe3ebb2a36045e00d0737ecc1"
       ],
       "before_count": 1,
-      "task_id": 6112514892
+      "task_id": 6112514892,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
