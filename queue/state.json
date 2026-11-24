@@ -75586,14 +75586,19 @@
       ]
     },
     "6720748979": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP212",
       "originals_sha256": [
         "9893b2ceb1026e23c455d2464a40d7e4a2cddbb85cd1de34ce01b27ac0ae7453"
       ],
       "before_count": 1,
-      "task_id": 6118276064
+      "task_id": 6118276064,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
