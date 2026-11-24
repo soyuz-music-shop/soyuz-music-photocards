@@ -64260,14 +64260,19 @@
       ]
     },
     "3784565000": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "XXQLP2089",
       "originals_sha256": [
         "7da4f56a1be89d6a2abb355fb03ddb72615838a54cd94bab19fa04703c26e817"
       ],
       "before_count": 1,
-      "task_id": 6113198957
+      "task_id": 6113198957,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
