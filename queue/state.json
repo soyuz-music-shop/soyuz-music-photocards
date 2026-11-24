@@ -63203,13 +63203,14 @@
       "reason": "Ozon gallery not confirmed"
     },
     "3576109652": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "ATOMCD51039",
       "originals_sha256": [
         "a3b507c50ba7a32fefcffae385d2f1960bf573d63efd9a12192e3b9cad6ce7dc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112944242
     }
   },
   "reason": null,
