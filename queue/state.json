@@ -60050,14 +60050,19 @@
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
     },
     "3540291068": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "MOVLP2430",
       "originals_sha256": [
         "bfb0da21491a9bd3a58f2359789009f7a5a5bf37f2bf61d9984fd990292df108"
       ],
       "before_count": 1,
-      "task_id": 6112267074
+      "task_id": 6112267074,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
