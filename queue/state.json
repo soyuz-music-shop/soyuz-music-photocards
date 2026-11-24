@@ -61610,13 +61610,14 @@
       ]
     },
     "3563073809": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "CRSEG138T",
       "originals_sha256": [
         "255d387cae01de9765b660643e5cd050ae7907b8ecbcff5abc1777e4edb3702e"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112580291
     }
   },
   "reason": null,
