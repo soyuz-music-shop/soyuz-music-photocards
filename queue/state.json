@@ -61153,6 +61153,15 @@
         0.0,
         0.0
       ]
+    },
+    "3563073752": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC 2581",
+      "originals_sha256": [
+        "277a01e7fed08b23c9edd86dd7462706f3629c056d2d8998f9fc86368ced8537"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
