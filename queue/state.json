@@ -67508,14 +67508,19 @@
       ]
     },
     "4385191205": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "R148379",
       "originals_sha256": [
         "93220daf5afc3069aef323f46d9625732ed7186b863a3edb5005c7e66e50f2d3"
       ],
       "before_count": 1,
-      "task_id": 6113724068
+      "task_id": 6113724068,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
