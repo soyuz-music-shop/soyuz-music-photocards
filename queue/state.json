@@ -61003,6 +61003,15 @@
         0.0,
         0.0
       ]
+    },
+    "3562824695": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "QATOMLP1055",
+      "originals_sha256": [
+        "ffe889d7ad0b9ab449c9996c3a28445124089f1b56725b8c6d645436c521b413"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
