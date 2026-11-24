@@ -59259,13 +59259,14 @@
       ]
     },
     "3318706797": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "MSIG 0029/30",
       "originals_sha256": [
         "4193a555dfa98422ec3732dcdd418b13a48aedc064c725d3549a8206f7a196c0"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112128777
     }
   },
   "reason": null,
