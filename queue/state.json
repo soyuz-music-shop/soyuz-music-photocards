@@ -73437,6 +73437,20 @@
         0.0,
         0.0
       ]
+    },
+    "5541364261": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "BHE0753RIM",
+      "originals_sha256": [
+        "a90241d03c91753028225ab06d29246ea3529be092066a1d3448cc39b11417f9",
+        "10441a320bf321f200c863658f3a90f215307fe7cf81148a3a026e3e49d43533",
+        "fbc4c7936fe1fd5dcdff20f12f710544e3c995ebe062493c475a02be78ed8e1a",
+        "bd1044e9dbe0b237807ea04b3b8e201fed9700730351e65b18dea5196c7ade16",
+        "9746f62a173ab271f6a1dbdae0b5bb8ef5489457bae02c6c6a32d94a4487c163",
+        "1c832b0eef1db1469f27384fccf621e569105cf86139b7bbf4aa312f6b184909"
+      ],
+      "before_count": 6
     }
   },
   "reason": null,
