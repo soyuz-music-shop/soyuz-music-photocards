@@ -69790,6 +69790,16 @@
         0.0,
         0.0
       ]
+    },
+    "4462124345": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "EPC5108402",
+      "originals_sha256": [
+        "cac25dba6800f6986a53097af42c2a2c36ac31baa9204ec7fba2bb628b028e00",
+        "b47158b5a5c877e4ad0b7a278dac98f095a1d97b6cc7bd159af3b5e75d5c169a"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
