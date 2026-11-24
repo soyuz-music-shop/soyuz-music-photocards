@@ -60806,6 +60806,17 @@
         0.0,
         0.0
       ]
+    },
+    "3562824665": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "ECLECLP 2501",
+      "originals_sha256": [
+        "1ec0e1ae640230d47a15915244d53f415d8bccc22875b66c34b027e03d5a6d1c",
+        "3568e5c41d332b1264b4336e873739b628a7c9dc5027be68b865e2e70145b245",
+        "0801bbb411ff1d5713aba2c055610ca7c33e83e8d76363320a8918f5a0a0256b"
+      ],
+      "before_count": 3
     }
   },
   "reason": null,
