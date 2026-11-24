@@ -78001,14 +78001,19 @@
       ]
     },
     "6886186335": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "DB976123",
       "originals_sha256": [
         "f531424e157a33030852f70f14bf38e6b69f7bc199af9b6e114075e9bd2478b1"
       ],
       "before_count": 1,
-      "task_id": 6118509990
+      "task_id": 6118509990,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
