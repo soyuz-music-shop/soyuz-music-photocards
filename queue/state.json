@@ -80766,6 +80766,11 @@
     "6976506862": {
       "status": "skipped_existing_template",
       "matched": "cd-import.png"
+    },
+    "6977559447": {
+      "status": "skipped_preflight",
+      "error_type": "RuntimeError",
+      "reason": "Offer or product name changed since snapshot"
     }
   },
   "reason": null,
