@@ -71613,7 +71613,7 @@
       ]
     },
     "5540172567": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "CO556652CP",
       "originals_sha256": [
@@ -71622,7 +71622,8 @@
         "84bdace694db61c80c0047bc7b4d7d5baf35b24868f421c8ef69073bb84ef4ef",
         "d3f4eaad9a93f19e6265e82f8b6697a1d584378804cefa2cd4eec8062318dce0"
       ],
-      "before_count": 4
+      "before_count": 4,
+      "task_id": 6117883327
     }
   },
   "reason": null,
