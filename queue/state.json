@@ -72614,6 +72614,16 @@
         0.0,
         0.0
       ]
+    },
+    "5540172731": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WWSLP82",
+      "originals_sha256": [
+        "96e50db77f976a929713cfd4e6a541fb3f23923b4f749fe6045582da960d1811",
+        "a16d4087e9081e12085a5e8adc1a1bc931cfc0cfb307e48e69e5e7fbff5df9b9"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
