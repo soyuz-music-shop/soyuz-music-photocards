@@ -58898,13 +58898,14 @@
       ]
     },
     "3318541252": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "HRR 548CD2",
       "originals_sha256": [
         "62897c58b398fa76505c361fcf8bb3d6533233795002baa83b8a504d0e7113a6"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112063114
     }
   },
   "reason": null,
