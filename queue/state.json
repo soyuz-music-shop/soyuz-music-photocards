@@ -69943,14 +69943,19 @@
       ]
     },
     "4462140136": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "MAGIKMUZIKCD12",
       "originals_sha256": [
         "ead7d2bdeb21e5ae59541aee403e378bc1ebe5f8b4a5809eabb72ccb9eff0ebb"
       ],
       "before_count": 1,
-      "task_id": 6114163995
+      "task_id": 6114163995,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
