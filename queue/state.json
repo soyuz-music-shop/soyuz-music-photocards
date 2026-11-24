@@ -80405,6 +80405,16 @@
         0.0,
         0.0
       ]
+    },
+    "6961317508": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "PA953690",
+      "originals_sha256": [
+        "a22c62f55da7d4934ff0fa4e38e2e0be401e2e087b70cf913f5e841972e11912",
+        "ce264b98f345daa01f0dbad2981912fcbe2fd34049c70c134460832d33342730"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
