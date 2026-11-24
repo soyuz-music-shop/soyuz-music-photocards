@@ -79272,6 +79272,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920929620": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "WAP200R",
+      "originals_sha256": [
+        "5a47e3a4b754ae7512c249eaf2aa039ac34661a3615576e2455faab8b3cd4a53"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
