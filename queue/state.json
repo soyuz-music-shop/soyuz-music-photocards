@@ -77310,6 +77310,15 @@
         0.0,
         0.0
       ]
+    },
+    "6800721188": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "PURELP11X",
+      "originals_sha256": [
+        "8e53bb57887cd6365b3fddc2ee3ae4b7a935b2c771bba6c9e70ac2f28e42bb7f"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
