@@ -75314,7 +75314,7 @@
       ]
     },
     "6720669552": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "BMGCAT378DCD",
       "originals_sha256": [
@@ -75323,7 +75323,12 @@
         "b756c66ccd103d9b1dc295cd14952b9fd49bd1c5cf969da498c2445e916d1892"
       ],
       "before_count": 3,
-      "task_id": 6118247957
+      "task_id": 6118247957,
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
