@@ -60543,13 +60543,14 @@
       ]
     },
     "3562824605": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "DISS0192LPXBS",
       "originals_sha256": [
         "c8be414f7acb1592eb539227b441e15cb362ee8bc94ea4baa2e0af617506bb00"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112357823
     }
   },
   "reason": null,
