@@ -60748,13 +60748,14 @@
       ]
     },
     "3562824647": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "ECLECLP 2879",
       "originals_sha256": [
         "d85fe2e5f4da81d660cf35df7c3ed738f4d93ba2c21b978ae6d9b47d8140d492"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6112401160
     }
   },
   "reason": null,
