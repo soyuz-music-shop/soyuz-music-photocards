@@ -73029,6 +73029,19 @@
         0.0,
         0.0
       ]
+    },
+    "5540172916": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "FS949104",
+      "originals_sha256": [
+        "e5d583d93a711737fdfde1fe2063a3e12ca8f6b7d261132c471b216258d164bd",
+        "3031765f08844894de071973788c4cac3499a001fc23095c59476caa46c118da",
+        "1c3ead0034b2694ffd045ac53eaef6ef5df44e8c147a0342e3f4b87565ef6cb2",
+        "ddfd462b181c33e2a7dce0e8abeec681c6474f275597f115cb73194f3712e536",
+        "11d7e8576befde83d8e02d5df113aba23d848fe5da0e77e924bde81942abc32b"
+      ],
+      "before_count": 5
     }
   },
   "reason": null,
