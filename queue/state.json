@@ -79487,6 +79487,15 @@
         0.0,
         0.0
       ]
+    },
+    "6920971636": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "DE832263",
+      "originals_sha256": [
+        "8d8df2d79d8590d36a66878ea9489ae0bcf1512f70594baa13f2d496c62eef12"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
