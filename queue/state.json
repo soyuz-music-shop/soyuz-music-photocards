@@ -76007,13 +76007,14 @@
       ]
     },
     "6799188538": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "cd-import",
       "offer_id": "COL 472330 2",
       "originals_sha256": [
         "6c3a0cdae89cf34fac62f2e291ebd3bf72c5fec3a802470cccd6de2eb74ad1bc"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118318178
     }
   },
   "reason": null,
