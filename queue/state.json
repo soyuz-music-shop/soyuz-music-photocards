@@ -64930,14 +64930,19 @@
       ]
     },
     "3784565222": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "WIK3100",
       "originals_sha256": [
         "0d7afc3eec02b56fa18b704f8a09a6425033e75cf3fc7f61c73ec4bc7593403c"
       ],
       "before_count": 1,
-      "task_id": 6113314035
+      "task_id": 6113314035,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
