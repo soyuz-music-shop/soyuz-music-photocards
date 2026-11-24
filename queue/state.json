@@ -56490,6 +56490,15 @@
       "status": "skipped_preflight",
       "error_type": "RuntimeError",
       "reason": "Ozon /v2/product/pictures/info HTTP 429"
+    },
+    "3277020222": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "SPT007439",
+      "originals_sha256": [
+        "1bbc23ad967e386634cd8e513032fd6480bea531fbd2910e31c3be693f17c4eb"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
