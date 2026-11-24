@@ -74130,14 +74130,15 @@
       ]
     },
     "6503603990": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "RR1 2695",
       "originals_sha256": [
         "a554be9b916fd26f52c3349f7e3b3f62d4a12f02c3c864ccd8e1b7e5563885cc",
         "e59d2e800572e8003c86807a34a8ea4990d2c8f525744518bb247507fe7a4a87"
       ],
-      "before_count": 2
+      "before_count": 2,
+      "task_id": 6118135803
     }
   },
   "reason": null,
