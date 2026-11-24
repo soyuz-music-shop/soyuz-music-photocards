@@ -64012,13 +64012,14 @@
       ]
     },
     "3784564944": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "SEWA014",
       "originals_sha256": [
         "8ef7cbc6a53dbff4dd8042660920123b324fa108d4cd7186c899b7f9d9920ce1"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6113151007
     }
   },
   "reason": null,
