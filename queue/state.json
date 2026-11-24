@@ -60825,14 +60825,19 @@
       ]
     },
     "3562824666": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "BRED2LP915",
       "originals_sha256": [
         "d59fec626f52761eec692a1c09267166a30b26b2b277c31fd1b685c653093dfb"
       ],
       "before_count": 1,
-      "task_id": 6112418718
+      "task_id": 6112418718,
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
