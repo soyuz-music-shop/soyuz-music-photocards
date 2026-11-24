@@ -72074,7 +72074,7 @@
       ]
     },
     "5540172622": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "AE852424",
       "originals_sha256": [
@@ -72085,7 +72085,12 @@
         "2c1b7d5cd47b77ec07a2b17b9771c22796ee338484ea040c8f5962f0b230e21f"
       ],
       "before_count": 5,
-      "task_id": 6117929718
+      "task_id": 6117929718,
+      "after_count": 7,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
