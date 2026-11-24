@@ -69601,7 +69601,7 @@
       ]
     },
     "4385191786": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "GO717696WBC",
       "originals_sha256": [
@@ -69609,7 +69609,12 @@
         "0f641987a17dbe3a26deb0334f50af945a4792b0c3496a0008c266fd072238f0"
       ],
       "before_count": 2,
-      "task_id": 6114094087
+      "task_id": 6114094087,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
