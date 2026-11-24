@@ -77109,7 +77109,7 @@
       ]
     },
     "6800682836": {
-      "status": "imported",
+      "status": "verified",
       "variant": "import-vinyl-info",
       "offer_id": "RCV1 726080",
       "originals_sha256": [
@@ -77121,7 +77121,12 @@
         "68a6c04754e1cc1103d2d56a8535851bf0e94928b558d7c24739f1aecf43b829"
       ],
       "before_count": 6,
-      "task_id": 6118417799
+      "task_id": 6118417799,
+      "after_count": 8,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
