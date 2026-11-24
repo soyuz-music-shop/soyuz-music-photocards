@@ -70094,7 +70094,7 @@
       ]
     },
     "4462315650": {
-      "status": "imported",
+      "status": "verified",
       "variant": "cd-import",
       "offer_id": "LZ815302",
       "originals_sha256": [
@@ -70102,7 +70102,12 @@
         "28930423905a33743dbd33b30473ec5b68af59691c1a854efe4698df23cf1c4d"
       ],
       "before_count": 2,
-      "task_id": 6117715224
+      "task_id": 6117715224,
+      "after_count": 4,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     }
   },
   "reason": null,
