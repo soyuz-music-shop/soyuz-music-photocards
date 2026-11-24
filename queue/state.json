@@ -76756,13 +76756,14 @@
       ]
     },
     "6800604795": {
-      "status": "locked",
+      "status": "submitted",
       "variant": "import-vinyl-info",
       "offer_id": "NB827640",
       "originals_sha256": [
         "6d96d963500acfeec58a72508a1552b93e715e81cb55bdaae3ad631a004be095"
       ],
-      "before_count": 1
+      "before_count": 1,
+      "task_id": 6118391212
     }
   },
   "reason": null,
