@@ -59504,6 +59504,16 @@
         0.0,
         0.0
       ]
+    },
+    "3325378484": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "P.I.U.#205",
+      "originals_sha256": [
+        "bb8080a8079db7b52acab1d954c53079eaba607a6edd384dc0c99330f0488975",
+        "f7541bbac35fcbec0f1694693d22d18b6e256fc75a206a4d01bb5f5d810bd98d"
+      ],
+      "before_count": 2
     }
   },
   "reason": null,
