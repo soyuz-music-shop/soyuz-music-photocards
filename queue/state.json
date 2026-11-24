@@ -63188,6 +63188,15 @@
       "previous_status": "needs_review_gallery_pending",
       "error_type": "RuntimeError",
       "reason": "Uncertain or interrupted mutation, never automatically resend"
+    },
+    "3576109651": {
+      "status": "locked",
+      "variant": "cd-import",
+      "offer_id": "ECLEC2423",
+      "originals_sha256": [
+        "a7b3b94a73d0bda9cf2a6309b0b473c0c385a073808c9a02209b342ce2e60e66"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
