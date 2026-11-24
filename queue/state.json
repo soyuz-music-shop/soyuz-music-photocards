@@ -68478,6 +68478,15 @@
         0.0,
         0.0
       ]
+    },
+    "4385191446": {
+      "status": "locked",
+      "variant": "import-vinyl-info",
+      "offer_id": "DL511706",
+      "originals_sha256": [
+        "f3b5850ab3f47e134d440e369acbc7375d2cd0e1b0eb0fba29acf095cae389d8"
+      ],
+      "before_count": 1
     }
   },
   "reason": null,
