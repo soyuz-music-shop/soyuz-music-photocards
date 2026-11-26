@@ -1634,7 +1634,7 @@
       "status": "present"
     },
     "70663282": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "cd-russian.png",
         "packaging.png"
@@ -1643,7 +1643,8 @@
         "ec0ec671d570c4d9435665ac30e60f6368397c283fe514c529924e5a47945cf7",
         "07452a30393cec0b1678d80a84c7fe69756ad963c4463f9e410dc8ce6c2657f1",
         "69ef9bd3df1afcec841136672ad033946891988a77355ca3e9903388e98d9a99"
-      ]
+      ],
+      "task_id": 6135629581
     },
     "70665222": {
       "status": "present"
