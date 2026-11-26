@@ -6979,7 +6979,7 @@
       ]
     },
     "2985838735": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
