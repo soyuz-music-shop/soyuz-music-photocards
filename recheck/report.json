@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1681,
-    "audit_review": 31,
+    "present": 1728,
+    "audit_review": 32,
     "missing": 16
   },
   "remaining_or_review": [
@@ -558,6 +558,15 @@
       "variant": "import-vinyl-info",
       "images_before": 6,
       "name": "Pet Shop Boys. Smash (The Singles 1985-2020) (6LP Box Set/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 1224709400,
+      "offer_id": "BLCKND018-1U",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Metallica. Death Magnetic (2LP Gatefold, Limited Edition, Reissue, Silver Vinyl/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
