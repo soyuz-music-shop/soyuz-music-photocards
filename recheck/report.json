@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 371,
-    "audit_review": 11,
+    "present": 418,
+    "audit_review": 12,
     "missing": 2
   },
   "remaining_or_review": [
@@ -136,6 +136,15 @@
       "variant": "cd-russian",
       "images_before": 5,
       "name": "Emmure. Look At Yourself (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 39349689,
+      "offer_id": "DAD 3621",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Dead Can Dance. Into The Labyrinth (2LP/винил)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
