@@ -11445,7 +11445,7 @@
       "status": "present"
     },
     "6961317456": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
