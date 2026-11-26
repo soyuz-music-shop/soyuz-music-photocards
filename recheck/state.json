@@ -1665,7 +1665,7 @@
       "status": "present"
     },
     "70937016": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "cd-import.png",
         "packaging.png"
