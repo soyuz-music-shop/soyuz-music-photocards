@@ -3,9 +3,10 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2335,
+    "present": 2381,
     "audit_review": 38,
-    "missing": 27
+    "missing": 28,
+    "manual_protected": 1
   },
   "remaining_or_review": [
     {
@@ -790,6 +791,33 @@
       "name": "Chris Rea. The Best Of Chris Rea - New Light Through Old Windows (1CD/Reissue/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 3130010641,
+      "offer_id": "YT171",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Kamasi Washington. Harmony Of Difference (LP/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "e2bd960271075c8a2aff6e6e6ecc139add5edebba89110b58b71fc407c5bb339"
+      ]
+    },
+    {
+      "id": 3130011287,
+      "offer_id": "STEPLP 233",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "The 4 Skins. From Chaos To 1984 (The 4 Skins Live) (LP Red/Reissue/Виниловая пластинка)",
+      "status": "manual_protected",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ]
     }
   ]
 }
