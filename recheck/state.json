@@ -8941,7 +8941,7 @@
       "status": "present"
     },
     "3784946096": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "cd-import.png",
         "packaging.png"
