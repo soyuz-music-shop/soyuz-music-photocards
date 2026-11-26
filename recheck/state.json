@@ -5080,7 +5080,7 @@
       "status": "present"
     },
     "1054360433": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "cd-russian.png",
         "packaging.png"
