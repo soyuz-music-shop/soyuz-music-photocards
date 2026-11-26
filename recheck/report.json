@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1398,
+    "present": 1445,
     "audit_review": 28,
-    "missing": 14
+    "missing": 15
   },
   "remaining_or_review": [
     {
@@ -499,6 +499,22 @@
       "name": "Nick Cave And The Bad Seeds. Nocturama (2LP Black/Виниловая пластинка/Reissue)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 863508401,
+      "offer_id": "1062828STU",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Scooter. Our Happy Hardcore (2CD Digi Limited Edition/+ремиксы,редкие треки и B-sides)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "9a052e940fc955222272415de05b3037409955dbcaf7258a30c558c0f044c3e4",
+        "bc225599c311e1b1c42971463577f79d010f2cb1a5693b734ef0466269a01045"
+      ]
     }
   ]
 }
