@@ -5080,7 +5080,7 @@
       "status": "present"
     },
     "1054360433": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "cd-russian.png",
         "packaging.png"
@@ -5091,7 +5091,16 @@
         "462f67d26faeb98b5d1a881d8dc574885912c4bfd457edcd057fdac8059e69d6",
         "5fdbac21a3511b1d0cb3cfca61216f8c6c03294fb57c48a9f0a2948924be0676"
       ],
-      "task_id": 6135657091
+      "task_id": 6135657091,
+      "added": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "after_count": 6,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     },
     "1054423582": {
       "status": "present"
