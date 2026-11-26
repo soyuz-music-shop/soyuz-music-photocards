@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1728,
-    "audit_review": 32,
-    "missing": 16
+    "present": 1774,
+    "audit_review": 33,
+    "missing": 17
   },
   "remaining_or_review": [
     {
@@ -567,6 +567,32 @@
       "variant": "import-vinyl-info",
       "images_before": 5,
       "name": "Metallica. Death Magnetic (2LP Gatefold, Limited Edition, Reissue, Silver Vinyl/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 1253564434,
+      "offer_id": "4610297805804",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "TUNGSTEN. The Grand Inferno (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "1ce219acdc5a8ec9df8d2fe079dfbee02c66485108e60e916925299acff98a70",
+        "9f9f5132e1ec63a61d3d1977b10942d2d569c25c47314a52288f802df65b1827",
+        "00f4df9c9cc4654acb5a10382b7857e4c7943f8e940bfe4914fef0a498b52aec"
+      ]
+    },
+    {
+      "id": 1255255212,
+      "offer_id": "WIGLP521X",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Villagers. That Golden Time (LP, Limited Edition, Gold Vinyl/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
