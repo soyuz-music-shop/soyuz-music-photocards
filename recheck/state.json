@@ -11707,7 +11707,7 @@
       ]
     },
     "6961317749": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "cd-import.png",
         "packaging.png"
