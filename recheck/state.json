@@ -11522,7 +11522,7 @@
       "status": "present"
     },
     "6961317670": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "packaging.png"
       ],
@@ -11530,7 +11530,14 @@
         "8e559315a9ef1936609434a73a17c90b7ae956eaa9a349e023bf0bc9ed143f4d",
         "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
       ],
-      "task_id": 6135714105
+      "task_id": 6135714105,
+      "added": [
+        "packaging.png"
+      ],
+      "after_count": 3,
+      "photo_distances": [
+        0.0
+      ]
     },
     "6961317671": {
       "status": "audit_review",
