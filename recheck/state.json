@@ -8168,14 +8168,15 @@
       "status": "present"
     },
     "3318541211": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "cd-import.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "83a37ad3c3d43bee8e252d486dca519a6b8eefae51220ccc18719d01a5cadf3c"
-      ]
+      ],
+      "task_id": 6135690258
     },
     "3318541225": {
       "status": "present"
