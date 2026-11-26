@@ -7039,7 +7039,7 @@
       ]
     },
     "2985838823": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
@@ -7047,7 +7047,16 @@
       "originals_sha256": [
         "4eb03e24c50cf7592d5bba84d17b1c409b99b98b0efb6a4c82d48925827e1405"
       ],
-      "task_id": 6135678676
+      "task_id": 6135678676,
+      "added": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     },
     "3005087205": {
       "status": "missing",
