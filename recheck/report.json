@@ -3,7 +3,36 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 96
+    "present": 141,
+    "audit_review": 3
   },
-  "remaining_or_review": []
+  "remaining_or_review": [
+    {
+      "id": 27600519,
+      "offer_id": "4610027695996",
+      "variant": "cd-russian",
+      "images_before": 6,
+      "name": "Alice Cooper. The Sound of A (CD EP/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 28314795,
+      "offer_id": "4610027691981",
+      "variant": "cd-russian",
+      "images_before": 6,
+      "name": "Unkle. The Road Pt.1 (CD Digi Sleeve/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 28318924,
+      "offer_id": "4610027691004",
+      "variant": "cd-russian",
+      "images_before": 5,
+      "name": "Algiers. The Underside Of Power (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    }
+  ]
 }
