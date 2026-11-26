@@ -1180,6 +1180,151 @@
     },
     "38166427": {
       "status": "present"
+    },
+    "38169258": {
+      "status": "present"
+    },
+    "38169389": {
+      "status": "present"
+    },
+    "38172114": {
+      "status": "present"
+    },
+    "38176311": {
+      "status": "present"
+    },
+    "38177572": {
+      "status": "present"
+    },
+    "38558188": {
+      "status": "present"
+    },
+    "38641850": {
+      "status": "present"
+    },
+    "38660320": {
+      "status": "present"
+    },
+    "39177842": {
+      "status": "present"
+    },
+    "39185019": {
+      "status": "present"
+    },
+    "39233558": {
+      "status": "present"
+    },
+    "39235524": {
+      "status": "present"
+    },
+    "39259264": {
+      "status": "present"
+    },
+    "39326771": {
+      "status": "present"
+    },
+    "39327255": {
+      "status": "present"
+    },
+    "39349689": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "39350161": {
+      "status": "present"
+    },
+    "39350856": {
+      "status": "present"
+    },
+    "39351207": {
+      "status": "present"
+    },
+    "39351578": {
+      "status": "present"
+    },
+    "39379126": {
+      "status": "present"
+    },
+    "39379462": {
+      "status": "present"
+    },
+    "39381108": {
+      "status": "present"
+    },
+    "39477471": {
+      "status": "present"
+    },
+    "39478105": {
+      "status": "present"
+    },
+    "39490746": {
+      "status": "present"
+    },
+    "39491150": {
+      "status": "present"
+    },
+    "39650441": {
+      "status": "present"
+    },
+    "40550728": {
+      "status": "present"
+    },
+    "41186050": {
+      "status": "present"
+    },
+    "41187222": {
+      "status": "present"
+    },
+    "41187572": {
+      "status": "present"
+    },
+    "41743864": {
+      "status": "present"
+    },
+    "42668286": {
+      "status": "present"
+    },
+    "42673936": {
+      "status": "present"
+    },
+    "42676811": {
+      "status": "present"
+    },
+    "42677427": {
+      "status": "present"
+    },
+    "42688200": {
+      "status": "present"
+    },
+    "43384350": {
+      "status": "present"
+    },
+    "43385031": {
+      "status": "present"
+    },
+    "43385186": {
+      "status": "present"
+    },
+    "43803506": {
+      "status": "present"
+    },
+    "43804011": {
+      "status": "present"
+    },
+    "43804215": {
+      "status": "present"
+    },
+    "43804609": {
+      "status": "present"
+    },
+    "44059852": {
+      "status": "present"
+    },
+    "44060113": {
+      "status": "present"
+    },
+    "44060526": {
+      "status": "present"
     }
   },
   "reason": null
