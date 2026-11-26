@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 603,
-    "audit_review": 16,
+    "present": 648,
+    "audit_review": 19,
     "missing": 5
   },
   "remaining_or_review": [
@@ -232,6 +232,33 @@
       "variant": "import-vinyl-info",
       "images_before": 4,
       "name": "Einsturzende Neubauten. Alles In Allem (LP/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 158621777,
+      "offer_id": "XXQLP2060",
+      "variant": "import-vinyl-info",
+      "images_before": 7,
+      "name": "Jon Savage. Jon Savage's 1965-1968 The High Sixties On 45 (2LP Orange/Винил/Gatefold/Compilation)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 161340507,
+      "offer_id": "REWIGCD162",
+      "variant": "cd-import",
+      "images_before": 12,
+      "name": "My Bloody Valentine. EPs 1988-1991 and Rare Tracks (2CD DigiSleeve/Компакт-диск/диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 165010804,
+      "offer_id": "CAI001LP",
+      "variant": "import-vinyl-info",
+      "images_before": 9,
+      "name": "Jungle. Loving In Stereo (LP Black/Винил)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
