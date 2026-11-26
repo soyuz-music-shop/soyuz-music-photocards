@@ -11544,14 +11544,15 @@
       "reason": "Ambiguous existing template; manual review"
     },
     "6961317673": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "packaging.png"
       ],
       "originals_sha256": [
         "cf09da6bb7e62d010822228c42296ea6a30f46f4aedec9725d10a3406bbb3163",
         "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
+      ],
+      "task_id": 6135716002
     },
     "6961317674": {
       "status": "missing",
