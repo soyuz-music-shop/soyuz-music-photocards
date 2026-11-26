@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1774,
-    "audit_review": 33,
+    "present": 1821,
+    "audit_review": 34,
     "missing": 17
   },
   "remaining_or_review": [
@@ -593,6 +593,15 @@
       "variant": "import-vinyl-info",
       "images_before": 5,
       "name": "Villagers. That Golden Time (LP, Limited Edition, Gold Vinyl/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 1495131951,
+      "offer_id": "CLD58638614",
+      "variant": "import-vinyl-info",
+      "images_before": 8,
+      "name": "Celine Dion. Falling Into You (2LP Black/Виниловая пластинка/Reissue)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
