@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2381,
+    "present": 2428,
     "audit_review": 38,
-    "missing": 28,
+    "missing": 29,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -817,6 +817,21 @@
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
+      ]
+    },
+    {
+      "id": 3277020215,
+      "offer_id": "BF163407",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Bryan Ferry. Avonmore (LP Ltd Red/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b6353e4d59ea29e958d050a3356ad5d6d9a472d82f1486cc42c18320c6b2b9f5"
       ]
     }
   ]
