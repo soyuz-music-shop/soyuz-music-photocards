@@ -7956,14 +7956,15 @@
       "status": "present"
     },
     "3277020215": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "b6353e4d59ea29e958d050a3356ad5d6d9a472d82f1486cc42c18320c6b2b9f5"
-      ]
+      ],
+      "task_id": 6135688234
     },
     "3277020222": {
       "status": "present"
