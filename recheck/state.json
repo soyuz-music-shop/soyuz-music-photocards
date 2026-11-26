@@ -1093,7 +1093,7 @@
       "status": "present"
     },
     "36781519": {
-      "status": "submitted",
+      "status": "needs_review_task",
       "missing": [
         "cd-russian.png",
         "packaging.png"
@@ -1103,7 +1103,8 @@
         "d6e842342ce0ab3fea1b271434db3953cd182d1bb16c8138c4332ee1e22fe57b",
         "83f9276549a0052913e8624767a39b1d854dc35e2f5ed98d2228fb6726453664"
       ],
-      "task_id": 6135623523
+      "task_id": 6135623523,
+      "reason": "Import task unconfirmed"
     },
     "36949176": {
       "status": "missing",
