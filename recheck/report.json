@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1965,
-    "audit_review": 34,
+    "present": 2012,
+    "audit_review": 35,
     "missing": 17
   },
   "remaining_or_review": [
@@ -602,6 +602,15 @@
       "variant": "import-vinyl-info",
       "images_before": 8,
       "name": "Celine Dion. Falling Into You (2LP Black/Виниловая пластинка/Reissue)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 2247121625,
+      "offer_id": "PF51842816",
+      "variant": "import-vinyl-info",
+      "images_before": 12,
+      "name": "Pink Floyd. The Wall (2LP Black/Винил/Gatefold/Издание 2025 года)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
