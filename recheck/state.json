@@ -2335,7 +2335,7 @@
       "status": "present"
     },
     "294257834": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "cd-import.png",
         "packaging.png"
@@ -2344,7 +2344,8 @@
         "4d98af2a5959d9f0ec4a1face7738e0743f5b9c2771bc6da7c87e1ca20c45595",
         "08df596cd28a77cb2102bdf2aeda6a209444e812f7afc2a4717af9ea8e1192dc",
         "0ec0e9aeb34e1dfd4869b33ae6688cf8f1339ee6dec8450e246f585d9b4a529f"
-      ]
+      ],
+      "task_id": 6135640802
     },
     "295516190": {
       "status": "present"
