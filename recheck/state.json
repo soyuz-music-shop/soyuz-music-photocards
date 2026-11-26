@@ -1107,7 +1107,7 @@
       "reason": "Import task unconfirmed"
     },
     "36949176": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "cd-russian.png",
         "packaging.png"
@@ -1115,7 +1115,16 @@
       "originals_sha256": [
         "5a348e61b92766e6d14d3af8f17566efb34d86cffc1312f554579e593fa81869"
       ],
-      "task_id": 6135625098
+      "task_id": 6135625098,
+      "added": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     },
     "37052620": {
       "status": "present"
