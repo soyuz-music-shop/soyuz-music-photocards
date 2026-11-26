@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 3134,
-    "audit_review": 40,
+    "present": 3180,
+    "audit_review": 42,
     "missing": 41,
     "manual_protected": 1
   },
@@ -1042,6 +1042,24 @@
       "variant": "cd-import",
       "images_before": 7,
       "name": "BTS. Arirang (Rooted In Korea) (CD/Бокс-сет)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6720622733,
+      "offer_id": "LLH550439PBGM",
+      "variant": "import-vinyl-info",
+      "images_before": 7,
+      "name": "Lianne La Havas. Is Your Love Big Enough? (LP Pink Blue Galaxy Marble/Виниловая пластинка/Ltd)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6720757267,
+      "offer_id": "MOVLP2523",
+      "variant": "import-vinyl-info",
+      "images_before": 10,
+      "name": "Ten Years After. Naturally Live (2LP Crystal Clear/Виниловая пластинка/Ltd/Gatefold)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
