@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 3419,
-    "audit_review": 43,
+    "present": 3466,
+    "audit_review": 44,
     "missing": 41,
     "manual_protected": 1
   },
@@ -1069,6 +1069,15 @@
       "variant": "cd-import",
       "images_before": 4,
       "name": "Charli XCX. Brat (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6921067529,
+      "offer_id": "NO144450",
+      "variant": "cd-import",
+      "images_before": 10,
+      "name": "New Order. (The Best & The Rest Of) NewOrder (4CD/Deluxe Edition/Reissue/Бокс-сет)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
