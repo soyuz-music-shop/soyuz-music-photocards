@@ -10896,6 +10896,151 @@
     },
     "6921000824": {
       "status": "present"
+    },
+    "6921002762": {
+      "status": "present"
+    },
+    "6921008978": {
+      "status": "present"
+    },
+    "6921010950": {
+      "status": "present"
+    },
+    "6921010971": {
+      "status": "present"
+    },
+    "6921013021": {
+      "status": "present"
+    },
+    "6921015085": {
+      "status": "present"
+    },
+    "6921016842": {
+      "status": "present"
+    },
+    "6921019602": {
+      "status": "present"
+    },
+    "6921021804": {
+      "status": "present"
+    },
+    "6921026400": {
+      "status": "present"
+    },
+    "6921028656": {
+      "status": "present"
+    },
+    "6921030865": {
+      "status": "present"
+    },
+    "6921033141": {
+      "status": "present"
+    },
+    "6921035433": {
+      "status": "present"
+    },
+    "6921036791": {
+      "status": "present"
+    },
+    "6921038690": {
+      "status": "present"
+    },
+    "6921040381": {
+      "status": "present"
+    },
+    "6921041891": {
+      "status": "present"
+    },
+    "6921043420": {
+      "status": "present"
+    },
+    "6921045078": {
+      "status": "present"
+    },
+    "6921046495": {
+      "status": "present"
+    },
+    "6921047898": {
+      "status": "present"
+    },
+    "6921049671": {
+      "status": "present"
+    },
+    "6921051291": {
+      "status": "present"
+    },
+    "6921055767": {
+      "status": "present"
+    },
+    "6921057195": {
+      "status": "present"
+    },
+    "6921058488": {
+      "status": "present"
+    },
+    "6921060169": {
+      "status": "present"
+    },
+    "6921061862": {
+      "status": "present"
+    },
+    "6921063908": {
+      "status": "present"
+    },
+    "6921065864": {
+      "status": "present"
+    },
+    "6921067529": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "6921068872": {
+      "status": "present"
+    },
+    "6921070294": {
+      "status": "present"
+    },
+    "6921072018": {
+      "status": "present"
+    },
+    "6921074455": {
+      "status": "present"
+    },
+    "6921078351": {
+      "status": "present"
+    },
+    "6921081731": {
+      "status": "present"
+    },
+    "6948775561": {
+      "status": "present"
+    },
+    "6948775763": {
+      "status": "present"
+    },
+    "6948775765": {
+      "status": "present"
+    },
+    "6948775767": {
+      "status": "present"
+    },
+    "6948775811": {
+      "status": "present"
+    },
+    "6948775824": {
+      "status": "present"
+    },
+    "6948775874": {
+      "status": "present"
+    },
+    "6961317374": {
+      "status": "present"
+    },
+    "6961317382": {
+      "status": "present"
+    },
+    "6961317408": {
+      "status": "present"
     }
   },
   "reason": null
