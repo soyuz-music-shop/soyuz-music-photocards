@@ -8260,14 +8260,15 @@
       "status": "present"
     },
     "3325378521": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "0e6ebf1b7f901021f22d294972d7a326c11da1034d2973ed984291da615fa01e"
-      ]
+      ],
+      "task_id": 6135692320
     },
     "3325378534": {
       "status": "present"
