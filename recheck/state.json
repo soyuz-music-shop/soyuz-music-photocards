@@ -3351,7 +3351,7 @@
       "status": "present"
     },
     "444018237": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
@@ -3360,7 +3360,8 @@
         "59248e39fe99ccf5aabe91486225ead49873bc57dca3586dbd896227b4bf9cc0",
         "b689b9ad697716f17f91f0213ee47f223e25968f9691e6e6ae7985299d30ba6b",
         "30767d592efd2c11054b52b569ca4482aceca27918146f09cd12044fc5d78439"
-      ]
+      ],
+      "task_id": 6135645555
     },
     "444024695": {
       "status": "missing",
