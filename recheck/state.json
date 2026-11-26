@@ -1665,7 +1665,7 @@
       "status": "present"
     },
     "70937016": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "cd-import.png",
         "packaging.png"
