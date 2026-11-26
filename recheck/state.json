@@ -11643,7 +11643,7 @@
       ]
     },
     "6961317724": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
