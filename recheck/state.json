@@ -11728,7 +11728,7 @@
       ]
     },
     "6961317775": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
