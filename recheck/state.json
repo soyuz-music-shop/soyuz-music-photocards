@@ -8260,7 +8260,7 @@
       "status": "present"
     },
     "3325378521": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
