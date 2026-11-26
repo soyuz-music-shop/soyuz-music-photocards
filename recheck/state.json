@@ -10029,6 +10029,152 @@
     },
     "6720612332": {
       "status": "present"
+    },
+    "6720616655": {
+      "status": "present"
+    },
+    "6720622733": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "6720632665": {
+      "status": "present"
+    },
+    "6720638241": {
+      "status": "present"
+    },
+    "6720644023": {
+      "status": "present"
+    },
+    "6720650419": {
+      "status": "present"
+    },
+    "6720655773": {
+      "status": "present"
+    },
+    "6720660958": {
+      "status": "present"
+    },
+    "6720665000": {
+      "status": "present"
+    },
+    "6720669552": {
+      "status": "present"
+    },
+    "6720676372": {
+      "status": "present"
+    },
+    "6720681010": {
+      "status": "present"
+    },
+    "6720686756": {
+      "status": "present"
+    },
+    "6720692842": {
+      "status": "present"
+    },
+    "6720698230": {
+      "status": "present"
+    },
+    "6720703855": {
+      "status": "present"
+    },
+    "6720712799": {
+      "status": "present"
+    },
+    "6720717604": {
+      "status": "present"
+    },
+    "6720720826": {
+      "status": "present"
+    },
+    "6720725042": {
+      "status": "present"
+    },
+    "6720729314": {
+      "status": "present"
+    },
+    "6720732494": {
+      "status": "present"
+    },
+    "6720734975": {
+      "status": "present"
+    },
+    "6720738778": {
+      "status": "present"
+    },
+    "6720741696": {
+      "status": "present"
+    },
+    "6720745007": {
+      "status": "present"
+    },
+    "6720748979": {
+      "status": "present"
+    },
+    "6720751755": {
+      "status": "present"
+    },
+    "6720754515": {
+      "status": "present"
+    },
+    "6720757267": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "6720760485": {
+      "status": "present"
+    },
+    "6720763840": {
+      "status": "present"
+    },
+    "6720766964": {
+      "status": "present"
+    },
+    "6720769776": {
+      "status": "present"
+    },
+    "6720773083": {
+      "status": "present"
+    },
+    "6720776543": {
+      "status": "present"
+    },
+    "6720780256": {
+      "status": "present"
+    },
+    "6720783059": {
+      "status": "present"
+    },
+    "6720786520": {
+      "status": "present"
+    },
+    "6720789059": {
+      "status": "present"
+    },
+    "6720792996": {
+      "status": "present"
+    },
+    "6721004174": {
+      "status": "present"
+    },
+    "6721006954": {
+      "status": "present"
+    },
+    "6721009766": {
+      "status": "present"
+    },
+    "6721012707": {
+      "status": "present"
+    },
+    "6776166651": {
+      "status": "present"
+    },
+    "6776171170": {
+      "status": "present"
+    },
+    "6776174885": {
+      "status": "present"
     }
   },
   "reason": null
