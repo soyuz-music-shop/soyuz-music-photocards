@@ -2335,7 +2335,7 @@
       "status": "present"
     },
     "294257834": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "cd-import.png",
         "packaging.png"
@@ -2345,7 +2345,16 @@
         "08df596cd28a77cb2102bdf2aeda6a209444e812f7afc2a4717af9ea8e1192dc",
         "0ec0e9aeb34e1dfd4869b33ae6688cf8f1339ee6dec8450e246f585d9b4a529f"
       ],
-      "task_id": 6135640802
+      "task_id": 6135640802,
+      "added": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "after_count": 5,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     },
     "295516190": {
       "status": "present"
