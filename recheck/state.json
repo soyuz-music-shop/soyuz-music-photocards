@@ -8309,7 +8309,7 @@
       ]
     },
     "3325378562": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
