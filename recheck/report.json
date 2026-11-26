@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1207,
-    "audit_review": 27,
+    "present": 1254,
+    "audit_review": 28,
     "missing": 14
   },
   "remaining_or_review": [
@@ -488,6 +488,15 @@
       "variant": "cd-import",
       "images_before": 5,
       "name": "Rammstein. Rammstein (CD Digipak/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 623924017,
+      "offer_id": "LPSEEDS12",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Nick Cave And The Bad Seeds. Nocturama (2LP Black/Виниловая пластинка/Reissue)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
