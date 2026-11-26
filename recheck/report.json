@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2475,
+    "present": 2514,
     "audit_review": 38,
-    "missing": 30,
+    "missing": 39,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -847,6 +847,153 @@
       ],
       "originals_sha256": [
         "83a37ad3c3d43bee8e252d486dca519a6b8eefae51220ccc18719d01a5cadf3c"
+      ]
+    },
+    {
+      "id": 3325378521,
+      "offer_id": "ANGEL006LPLTD",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Judas Priest. Holidays In Houston (The Texas Broadcast 1983) (LP Ltd/Coloured Vinyl/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "0e6ebf1b7f901021f22d294972d7a326c11da1034d2973ed984291da615fa01e"
+      ]
+    },
+    {
+      "id": 3325378557,
+      "offer_id": "ANGEL001LPLTD",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Slayer. Monsters Of Rock 1994 - The Classic Buenos Aires Broadcast (2LP Ltd/Clear Vinyl/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "108a4529746a963c5089c45e5060df1a8a74da8fe285c8fb5b624a55a45fdbc6"
+      ]
+    },
+    {
+      "id": 3325378562,
+      "offer_id": "BOBV293LP",
+      "variant": "import-vinyl-info",
+      "images_before": 6,
+      "name": "Burzum. Fallen (LP Black/Виниловая пластинка/Gatefold)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f09fc15e6419b356892c057bab19573bdad36b3b24dbf11cbdad4904a4f8a8d7",
+        "8e1d46dd61ab87d6b2c1a485ae3369507f421a288e93495eb42a93b1fb2264c7",
+        "b2e3442a693d8dac891049b6417ac822c87ab6879398444026d344260ad029de",
+        "09389d5a155bfb115eb7883eb29c18462ee68c0589834c163c91b31146ead04a",
+        "a052f6e7999cfd9b714483acbbc79a0a5930f1f46fb4517b4e96c4495861a4e8",
+        "9c165d778829d3d4cf80a32838bcd921c6bba58a7246aae3317c0d898a65bf2a"
+      ]
+    },
+    {
+      "id": 3533191255,
+      "offer_id": "2000095757948",
+      "variant": "vinyl-russian",
+      "images_before": 8,
+      "name": "Ляпис Трубецкой. Любови капец (LP Green/Виниловая пластинка/180 г)",
+      "status": "missing",
+      "missing": [
+        "vinyl-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "87f2a49fa9d9a51633cb2c666f2ddea80e44b8961d7b77ffe127571f62a22a4b",
+        "46bed25760f38749a6d57e94152e8aa1f280dd960c7cdc261eda937be179422f",
+        "95ee047997fea879de1f69985500ad0eb515fc5d1177116fb038772df4e2a5f1",
+        "d2cffa4f72446f292d563dab5b2cb6c0dd4e07188e89797bbdbcbad237c01ce0",
+        "cd365a21372cdcb01eafddc21b0c95c6be768bbe662784fabfaac1b93b58689c",
+        "a992b05488f738460b8e0912697ea1d4cf88a3082c6af6edc507d5675f7364f5",
+        "e02459d86b492f184faa8c58213307f04e5dbf261cf06c2e5f64080219b44019",
+        "1f4f4c5ed1af5661e766fe4b1408f8fed6bde015c598675e17db606595d65719"
+      ]
+    },
+    {
+      "id": 3556539525,
+      "offer_id": "PBREDD757BLUE",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Dinosaur Jr. Where You Been (2LP Blue/Reissue/Repress/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "0f8c8a5c29aa270c3ccf72e82fb133a4a79bb9ec4d0063bb2cf7619674cc7aba"
+      ]
+    },
+    {
+      "id": 3556539538,
+      "offer_id": "PBREDD759PURPLE",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Dinosaur Jr. Hand It Over (2LP Purple/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f13dedf8fb821401e69a32ed1f7903443e6f2724ee4932fbcf5e0595e5f11ee0"
+      ]
+    },
+    {
+      "id": 3562824552,
+      "offer_id": "PECLECLP2667",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Renaissance. A Song for all Seasons (LP/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "842fccc9a344ef0d54675f87ba32bf0bb78c0d0d9fdae924ff0f5f83187c48da"
+      ]
+    },
+    {
+      "id": 3562824561,
+      "offer_id": "PECLECLP 2720",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Barclay James Harvest. Barclay James Harvest And Other Short Stories (LP/Record Store Day/Reissue/Gatefold/Виниловая пла",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "d70fe901e52f545c7f883c19e6031733d94aad61eabb95fd463a73c051164eeb"
+      ]
+    },
+    {
+      "id": 3562824572,
+      "offer_id": "BREDD781BM",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "The Fall. Room To Live (2LP Ltd/Brown Marbled Vinyl/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "7090657f64e1c31b7749e0d185bc947a26e39b06ba37dd612f5c364753c1e93b"
       ]
     }
   ]
