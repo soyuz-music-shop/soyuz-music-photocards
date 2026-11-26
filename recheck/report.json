@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 882,
-    "audit_review": 20,
+    "present": 929,
+    "audit_review": 21,
     "missing": 10
   },
   "remaining_or_review": [
@@ -357,6 +357,15 @@
       "variant": "import-vinyl-info",
       "images_before": 5,
       "name": "Nina Simone. Pastel Blues (LP Black/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 383775273,
+      "offer_id": "BTLS0094638242017",
+      "variant": "import-vinyl-info",
+      "images_before": 6,
+      "name": "Beatles. With the Beatles (LP Black/Винил)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
