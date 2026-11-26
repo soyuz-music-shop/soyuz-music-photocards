@@ -11783,7 +11783,7 @@
       "status": "present"
     },
     "6977559447": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
