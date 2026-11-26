@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 648,
+    "present": 693,
     "audit_review": 19,
-    "missing": 5
+    "missing": 8
   },
   "remaining_or_review": [
     {
@@ -261,6 +261,62 @@
       "name": "Jungle. Loving In Stereo (LP Black/Винил)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 199294279,
+      "offer_id": "4620107930244",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Ляпис Трубецкой. Манифест (LP)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "911a01cc30bd8dadd0f3f7494432d384b0902fc7aaebb7dc889cd6f249174607",
+        "1140f3ff4c214a10198c8c0776e4f355b295bacb05db6259913d9e0664c1c421",
+        "2ba8930de35ecd83ce46a7c87dbdf9c7274db5ab65eff7ab3783950dab1bbaf3",
+        "dc7fc613bbe0b99a9a6074431a9417618997f07653499410fc8868e229ac3fc9",
+        "6cb41231e5b8eab1a912e94290d439499e78d985255f60270d62414a255e93a4"
+      ]
+    },
+    {
+      "id": 199309515,
+      "offer_id": "4620107931814",
+      "variant": "import-vinyl-info",
+      "images_before": 6,
+      "name": "Ляпис Трубецкой. Матрёшка (LP/Виниловая пластинка/180 г)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "bd54d7ad57d7b29a45c2d86e53f1dd13ed050d282c2efa48453fcdcbc3d183bf",
+        "0f33a349d419ac0644c6f1c910096aa266d6c4de276d10eae0b8c4f5b46f16d8",
+        "6dc2d0459ae156b42ebc2ba611f02ae506e84cad322040aff911ec11e7eca8e7",
+        "a74bd587c3e02aeae24d5f01c0e9d7e9b4f230781222b8e7d4f8506693d3ad66",
+        "e44c0c620f1593b982a2daa418a40c31fcfa52d49c91850d5bc412545241bce3",
+        "51953cd3df67ea33d3365f453f26e6010749d4f179b656b584d57786ed4384f0"
+      ]
+    },
+    {
+      "id": 291125660,
+      "offer_id": "RTRADLP166",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "The Libertines. The Libertines (LP Black/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "572c3e0c87485c25c20f59abbbe2abd10b6f51cfdeac0ab6f02a1ba885f5fc14",
+        "f34bd52a65293ed8e3de9fe1d593d7dbbee1fad2175557414466755823acc347",
+        "2402107aee15e48cf9da2e44e8f2c2f77e3601023e070c2c91a194d905eeb920"
+      ]
     }
   ]
 }
