@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "audit",
+  "phase": "audit_complete",
   "items": {
     "20811913": {
       "status": "present"
@@ -11041,6 +11041,237 @@
     },
     "6961317408": {
       "status": "present"
+    },
+    "6961317456": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "e1ac6ad8b31470dca39a65bfc3ab3b70f2050748632c848773be5043474977f2",
+        "6609fdf65bac284bd22ae8ee0607da4c4e2fff1d60d9639e39a3a607d9e46c09",
+        "8852f9063332042280fa6b8873bfe16424530f73d6f9a49a6aebe5c8a594ffe9",
+        "b27f9e786298838d5d279c0ec04dbc1381a61f5f31d5d74a5e6091990954a0b7"
+      ]
+    },
+    "6961317507": {
+      "status": "present"
+    },
+    "6961317508": {
+      "status": "present"
+    },
+    "6961317516": {
+      "status": "present"
+    },
+    "6961317538": {
+      "status": "present"
+    },
+    "6961317539": {
+      "status": "present"
+    },
+    "6961317540": {
+      "status": "present"
+    },
+    "6961317560": {
+      "status": "present"
+    },
+    "6961317561": {
+      "status": "present"
+    },
+    "6961317581": {
+      "status": "present"
+    },
+    "6961317586": {
+      "status": "present"
+    },
+    "6961317590": {
+      "status": "present"
+    },
+    "6961317616": {
+      "status": "present"
+    },
+    "6961317619": {
+      "status": "present"
+    },
+    "6961317627": {
+      "status": "present"
+    },
+    "6961317629": {
+      "status": "present"
+    },
+    "6961317634": {
+      "status": "present"
+    },
+    "6961317636": {
+      "status": "present"
+    },
+    "6961317654": {
+      "status": "present"
+    },
+    "6961317670": {
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "8e559315a9ef1936609434a73a17c90b7ae956eaa9a349e023bf0bc9ed143f4d",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    "6961317671": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "6961317673": {
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "cf09da6bb7e62d010822228c42296ea6a30f46f4aedec9725d10a3406bbb3163",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    "6961317674": {
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "19d5473ff39714e70dd846137e2a9a037fcffcf8b87487b90cf81f4fdd86d6b3",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    "6961317677": {
+      "status": "present"
+    },
+    "6961317693": {
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b1721ef6537d7fc6be877155550c82c7a9e68cbcebbad0a1a441d4e293f6300f",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    "6961317701": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5256d662d6f9bb1b8e2679a8897d6db169b9c1335b151b4cdbfee39b009f3cc0",
+        "2e2b63363467ca3f1fcd539a2daeb17ff283ec773e3a4bc5f883af5f200c8811"
+      ]
+    },
+    "6961317720": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "4f1f1560165d70ac384b5cf13a5df621eb410f47ad5bb9cc7359e64df7ba447c",
+        "6e0beb7d86b5288e357a22433d5b504529a84dbfcea59eaccb24e350e81e074d"
+      ]
+    },
+    "6961317724": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "2cbb0c4eaa055d028c63027e8e433b083c6f7c8f4cda10215d379ea6049dbf79",
+        "3e79249a5448de5d728a9e368174849a25cad2cae83a26b0626cf7885727cb3d",
+        "7b115ffdb29a4f777be2afb3a046f776ea96cd638ecb8b545011bea1c2a5c2c9"
+      ]
+    },
+    "6961317744": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "7542fc916cac6ad5fb491676876db4c61c257b567e2f519a1955771a6de0a79b",
+        "e3495fa7775c20a6a425ecd80d38e3bd0634358287a3775ac651f12dd6d7778a"
+      ]
+    },
+    "6961317745": {
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "9f522aee1002969625c05ff73b00d511ec15a6aa2f55a59e29a016c28f4ef043",
+        "a5d7ec023738e4a4c5d9fcd41c25cf4e08d07474cf9365c86144e67e556a0f84"
+      ]
+    },
+    "6961317749": {
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f4f7e07b43d105fc2256b4be80ada02f6b665692b73830504f3970ef831f5ae1",
+        "b08e1c3efa5c0ef8eaa450db9605e936696b925b776c558b1a8bf857bb936d18"
+      ]
+    },
+    "6961317775": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "8478a645cd71a0e972106a15bdc835ab3ad318311c1c70e3ba2b7134f81ababd",
+        "a75ae4b28a08f1f2d67831f52fda1dca1ef5664117c9b2565983269aabf91757"
+      ]
+    },
+    "6961317776": {
+      "status": "present"
+    },
+    "6961317777": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "c54821077e60f15ab23bb4a2a8cc68c00b2923cfd67f7e8e2dde07395978b976",
+        "fb84c8cfb6f0e0c7f9734d4c4be2b7c6ea2183e2e91cfa1d5d60cbcc98c4cb31"
+      ]
+    },
+    "6961317832": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "6961317843": {
+      "status": "present"
+    },
+    "6976506862": {
+      "status": "present"
+    },
+    "6977559447": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "2b9f6711bd03396254dd6b530bb4303ab6bba9b5d78a75a25ea56d7d7ce75f12",
+        "dd252703caac0c547c4cb6a7bcab649aa9ebad66d0c098ce5b0896dcca8c6e71",
+        "a597dd93af72b5c7cbc1ff09ff1a3fcf66925fc7ffe7fea56a2c717fd1ee66ca",
+        "3f700748f6c9bdba9f4b5e2d6ccfa6c8ef48deeaaad27533e48bf49c201217a9",
+        "0cc6618684e464f8a8b9a488e4a2619ea9900e59bfdd6bc08febfac34338c1b1",
+        "df5b9676eca5fcc45090c954dc92b55cb23520c7f3a8e3a9412af7021b00d6e5"
+      ]
     }
   },
   "reason": null
