@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1445,
-    "audit_review": 28,
+    "present": 1492,
+    "audit_review": 29,
     "missing": 15
   },
   "remaining_or_review": [
@@ -515,6 +515,15 @@
         "9a052e940fc955222272415de05b3037409955dbcaf7258a30c558c0f044c3e4",
         "bc225599c311e1b1c42971463577f79d010f2cb1a5693b734ef0466269a01045"
       ]
+    },
+    {
+      "id": 914971947,
+      "offer_id": "CP54050428",
+      "variant": "cd-import",
+      "images_before": 6,
+      "name": "Coldplay. A Rush of Blood to the Head (CD Jewel Case/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
