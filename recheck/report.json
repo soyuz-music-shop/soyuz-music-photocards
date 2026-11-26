@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1540,
+    "present": 1587,
     "audit_review": 29,
-    "missing": 15
+    "missing": 16
   },
   "remaining_or_review": [
     {
@@ -524,6 +524,24 @@
       "name": "Coldplay. A Rush of Blood to the Head (CD Jewel Case/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 1054360433,
+      "offer_id": "4610297800762",
+      "variant": "cd-russian",
+      "images_before": 4,
+      "name": "BAT. Under The Crooked Claw (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5b7c1c0923ba4b5b46c91a185c03179bd15477557abd126f295ec3e7d2dbf045",
+        "d69f474ca4c80a8ff2e131dfb48bda0c717495ffcf4fab6df094ad1cc95434b3",
+        "462f67d26faeb98b5d1a881d8dc574885912c4bfd457edcd057fdac8059e69d6",
+        "5fdbac21a3511b1d0cb3cfca61216f8c6c03294fb57c48a9f0a2948924be0676"
+      ]
     }
   ]
 }
