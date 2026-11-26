@@ -5682,7 +5682,7 @@
       "status": "present"
     },
     "1253564434": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "cd-russian.png",
         "packaging.png"
