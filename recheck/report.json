@@ -3,8 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 327,
-    "audit_review": 9
+    "present": 371,
+    "audit_review": 11,
+    "missing": 2
   },
   "remaining_or_review": [
     {
@@ -85,6 +86,56 @@
       "variant": "cd-russian",
       "images_before": 5,
       "name": "Editors. In Dream (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 36008560,
+      "offer_id": "4680017663915",
+      "variant": "cd-russian",
+      "images_before": 6,
+      "name": "Skunk Anansie. Anarchytecture (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 36781519,
+      "offer_id": "4607141681103",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "АукцЫон. Мечты",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "bfa52bdcbdf4009ccaad54db3df0c560aa2a9530d943fb200f71817633b49d2b",
+        "d6e842342ce0ab3fea1b271434db3953cd182d1bb16c8138c4332ee1e22fe57b",
+        "83f9276549a0052913e8624767a39b1d854dc35e2f5ed98d2228fb6726453664"
+      ]
+    },
+    {
+      "id": 36949176,
+      "offer_id": "4607141680076",
+      "variant": "cd-russian",
+      "images_before": 1,
+      "name": "Леонид Фёдоров. Лиловый день(limited edition)",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5a348e61b92766e6d14d3af8f17566efb34d86cffc1312f554579e593fa81869"
+      ]
+    },
+    {
+      "id": 37418739,
+      "offer_id": "4650075217627",
+      "variant": "cd-russian",
+      "images_before": 5,
+      "name": "Emmure. Look At Yourself (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
