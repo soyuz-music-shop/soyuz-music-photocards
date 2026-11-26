@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1066,
-    "audit_review": 24,
+    "present": 1113,
+    "audit_review": 25,
     "missing": 14
   },
   "remaining_or_review": [
@@ -461,6 +461,15 @@
       "variant": "cd-import",
       "images_before": 6,
       "name": "Sandra. The Very Best Of Sandra (2CD Jewel Case/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 474704812,
+      "offer_id": "NB 6241-0",
+      "variant": "cd-import",
+      "images_before": 4,
+      "name": "Behemoth. Opvs Contra Natvram (CD DigiBook/Limited Edition/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
