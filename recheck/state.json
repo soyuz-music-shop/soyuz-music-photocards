@@ -11562,7 +11562,7 @@
       ]
     },
     "6961317674": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "packaging.png"
       ],
