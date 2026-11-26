@@ -8355,7 +8355,7 @@
       "status": "present"
     },
     "3533191255": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "vinyl-russian.png",
         "packaging.png"
