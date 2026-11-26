@@ -3373,7 +3373,7 @@
       ]
     },
     "444024695": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
