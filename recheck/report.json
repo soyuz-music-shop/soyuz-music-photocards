@@ -1,11 +1,13 @@
 {
-  "phase": "audit_complete",
+  "phase": "apply",
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
     "present": 3488,
     "audit_review": 46,
-    "missing": 55,
+    "needs_review_task": 1,
+    "verified": 23,
+    "missing": 31,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -105,7 +107,7 @@
       "variant": "cd-russian",
       "images_before": 3,
       "name": "АукцЫон. Мечты",
-      "status": "missing",
+      "status": "needs_review_task",
       "missing": [
         "cd-russian.png",
         "packaging.png"
@@ -114,22 +116,9 @@
         "bfa52bdcbdf4009ccaad54db3df0c560aa2a9530d943fb200f71817633b49d2b",
         "d6e842342ce0ab3fea1b271434db3953cd182d1bb16c8138c4332ee1e22fe57b",
         "83f9276549a0052913e8624767a39b1d854dc35e2f5ed98d2228fb6726453664"
-      ]
-    },
-    {
-      "id": 36949176,
-      "offer_id": "4607141680076",
-      "variant": "cd-russian",
-      "images_before": 1,
-      "name": "Леонид Фёдоров. Лиловый день(limited edition)",
-      "status": "missing",
-      "missing": [
-        "cd-russian.png",
-        "packaging.png"
       ],
-      "originals_sha256": [
-        "5a348e61b92766e6d14d3af8f17566efb34d86cffc1312f554579e593fa81869"
-      ]
+      "task_id": 6135623523,
+      "reason": "Import task unconfirmed"
     },
     {
       "id": 37418739,
@@ -168,23 +157,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 56479129,
-      "offer_id": "4610093805350",
-      "variant": "cd-russian",
-      "images_before": 3,
-      "name": "MOONSPELL. Hermitage (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-russian.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "6d662264d6ad534b2d1f17d27ea9ea3fe68156abd81b26c37d4d23b5622964d3",
-        "9185c6a62a9a2282016c0841d9af63ebb1792dfb8c11bf3cf318923333d00396",
-        "bd1345e0897463715ca2c5236518936ee7776676edd0e9993975d1872f0ca3f2"
-      ]
-    },
-    {
       "id": 66442786,
       "offer_id": "MANNLP016",
       "variant": "import-vinyl-info",
@@ -192,40 +164,6 @@
       "name": "Manfred Mann's Earth Band . Masque (LP Black/Винил/reissue)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 70663282,
-      "offer_id": "4650062365270s",
-      "variant": "cd-russian",
-      "images_before": 3,
-      "name": "Сурганова и оркестр. Возлюбленная Шопена (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-russian.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "ec0ec671d570c4d9435665ac30e60f6368397c283fe514c529924e5a47945cf7",
-        "07452a30393cec0b1678d80a84c7fe69756ad963c4463f9e410dc8ce6c2657f1",
-        "69ef9bd3df1afcec841136672ad033946891988a77355ca3e9903388e98d9a99"
-      ]
-    },
-    {
-      "id": 70937016,
-      "offer_id": "CDTOP 1527",
-      "variant": "cd-import",
-      "images_before": 3,
-      "name": "Bellissima! More 1960s She-Pop From Italy (CD JewelCase/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "ec0749f966e8832e5be590a15c7a2b570241d2810ed0ac65a1b640fc6cdbbc35",
-        "87d7069d182d984f15b3836176d90156bb85a20cc42a8234c7d77c7bb9b9e41a",
-        "7b65bf080352ffa22d9afe5fa22ebd303917ca56c29d83a7fecd8932a90cfb06"
-      ]
     },
     {
       "id": 86774794,
@@ -264,95 +202,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 199294279,
-      "offer_id": "4620107930244",
-      "variant": "import-vinyl-info",
-      "images_before": 5,
-      "name": "Ляпис Трубецкой. Манифест (LP)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "911a01cc30bd8dadd0f3f7494432d384b0902fc7aaebb7dc889cd6f249174607",
-        "1140f3ff4c214a10198c8c0776e4f355b295bacb05db6259913d9e0664c1c421",
-        "2ba8930de35ecd83ce46a7c87dbdf9c7274db5ab65eff7ab3783950dab1bbaf3",
-        "dc7fc613bbe0b99a9a6074431a9417618997f07653499410fc8868e229ac3fc9",
-        "6cb41231e5b8eab1a912e94290d439499e78d985255f60270d62414a255e93a4"
-      ]
-    },
-    {
-      "id": 199309515,
-      "offer_id": "4620107931814",
-      "variant": "import-vinyl-info",
-      "images_before": 6,
-      "name": "Ляпис Трубецкой. Матрёшка (LP/Виниловая пластинка/180 г)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "bd54d7ad57d7b29a45c2d86e53f1dd13ed050d282c2efa48453fcdcbc3d183bf",
-        "0f33a349d419ac0644c6f1c910096aa266d6c4de276d10eae0b8c4f5b46f16d8",
-        "6dc2d0459ae156b42ebc2ba611f02ae506e84cad322040aff911ec11e7eca8e7",
-        "a74bd587c3e02aeae24d5f01c0e9d7e9b4f230781222b8e7d4f8506693d3ad66",
-        "e44c0c620f1593b982a2daa418a40c31fcfa52d49c91850d5bc412545241bce3",
-        "51953cd3df67ea33d3365f453f26e6010749d4f179b656b584d57786ed4384f0"
-      ]
-    },
-    {
-      "id": 291125660,
-      "offer_id": "RTRADLP166",
-      "variant": "import-vinyl-info",
-      "images_before": 3,
-      "name": "The Libertines. The Libertines (LP Black/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "572c3e0c87485c25c20f59abbbe2abd10b6f51cfdeac0ab6f02a1ba885f5fc14",
-        "f34bd52a65293ed8e3de9fe1d593d7dbbee1fad2175557414466755823acc347",
-        "2402107aee15e48cf9da2e44e8f2c2f77e3601023e070c2c91a194d905eeb920"
-      ]
-    },
-    {
-      "id": 294257834,
-      "offer_id": "CDCHD 1241",
-      "variant": "cd-import",
-      "images_before": 3,
-      "name": "Brenda Holloway. The Early Years Rare Recordings 1962-1963 (CD JewelCase/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "4d98af2a5959d9f0ec4a1face7738e0743f5b9c2771bc6da7c87e1ca20c45595",
-        "08df596cd28a77cb2102bdf2aeda6a209444e812f7afc2a4717af9ea8e1192dc",
-        "0ec0e9aeb34e1dfd4869b33ae6688cf8f1339ee6dec8450e246f585d9b4a529f"
-      ]
-    },
-    {
-      "id": 300414792,
-      "offer_id": "MOVLP494",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Miles Davis. Someday My Prince Will Come (LP Black/Винил)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "ad6df8e5ce742db5986430e39162f6903fd45d6330e3ed3b904a8844244cd9f5",
-        "68c074e0641d0745520b5c4540786568a6bc5d627c041ccc3001f58b0500064f"
-      ]
-    },
-    {
       "id": 304122636,
       "offer_id": "MOVLP543",
       "variant": "import-vinyl-info",
@@ -387,74 +236,6 @@
       "name": "Cinderella. Long Cold Winter (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 444018237,
-      "offer_id": "LG602438804399",
-      "variant": "import-vinyl-info",
-      "images_before": 3,
-      "name": "Lady Gaga. Dawn Of Chromatica (LP Cristal Clear/Винил)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "59248e39fe99ccf5aabe91486225ead49873bc57dca3586dbd896227b4bf9cc0",
-        "b689b9ad697716f17f91f0213ee47f223e25968f9691e6e6ae7985299d30ba6b",
-        "30767d592efd2c11054b52b569ca4482aceca27918146f09cd12044fc5d78439"
-      ]
-    },
-    {
-      "id": 444024695,
-      "offer_id": "B0034620-01",
-      "variant": "import-vinyl-info",
-      "images_before": 4,
-      "name": "Norah Jones. Come Away With Me (LP Black/Винил/Gatefold/20th Anniversary Edition)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "ea58643c19fd5e9002ee42aee45bcada772e01fbf9ce2e143f09cde46b5213d4",
-        "9a879419d7a97b5367d94ca1cdf5a6e0a27326eb44dea86255e9cbc5a01baae0",
-        "e5e7394e1acd890193647b19ba7d86adee752f76325834a75b95bc134cbe9b28",
-        "4d338819e67663e4ab9be5e8e77cbb0c5febed078df6baf1a8165ca9b4ecb0bc"
-      ]
-    },
-    {
-      "id": 444039880,
-      "offer_id": "OFSPRN602507484088",
-      "variant": "import-vinyl-info",
-      "images_before": 3,
-      "name": "The Offspring. Conspiracy Of One (LP Black/Винил/20th Anniversary Edition)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "01b1ae4444af4c3627c3f925de9108ced0d65ffbde153d8b319ad7050d29e0a5",
-        "50ec7091cc50368b4f07ae135066990cb575265af4a46ae2b3630c28bc1813c4",
-        "b83fec0dfbcf4d947316f7907bcba2332be8cfc78db713c81ea6f64781a61fa4"
-      ]
-    },
-    {
-      "id": 444045718,
-      "offer_id": "B0016395-01",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Amy Winehouse. Lioness: Hidden Treasures (2LP Black/Винил/Gatefold)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "06232a3bbfe409131b57ba2d0e94f88b2c11e6632ce585decfb67d688d53dbfd",
-        "522e0866408fefc4c50795a32655c3aa21480c33543ba3915474b81b4ffc3b71"
-      ]
     },
     {
       "id": 445766561,
@@ -502,22 +283,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 863508401,
-      "offer_id": "1062828STU",
-      "variant": "cd-import",
-      "images_before": 2,
-      "name": "Scooter. Our Happy Hardcore (2CD Digi Limited Edition/+ремиксы,редкие треки и B-sides)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "9a052e940fc955222272415de05b3037409955dbcaf7258a30c558c0f044c3e4",
-        "bc225599c311e1b1c42971463577f79d010f2cb1a5693b734ef0466269a01045"
-      ]
-    },
-    {
       "id": 914971947,
       "offer_id": "CP54050428",
       "variant": "cd-import",
@@ -525,24 +290,6 @@
       "name": "Coldplay. A Rush of Blood to the Head (CD Jewel Case/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 1054360433,
-      "offer_id": "4610297800762",
-      "variant": "cd-russian",
-      "images_before": 4,
-      "name": "BAT. Under The Crooked Claw (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-russian.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "5b7c1c0923ba4b5b46c91a185c03179bd15477557abd126f295ec3e7d2dbf045",
-        "d69f474ca4c80a8ff2e131dfb48bda0c717495ffcf4fab6df094ad1cc95434b3",
-        "462f67d26faeb98b5d1a881d8dc574885912c4bfd457edcd057fdac8059e69d6",
-        "5fdbac21a3511b1d0cb3cfca61216f8c6c03294fb57c48a9f0a2948924be0676"
-      ]
     },
     {
       "id": 1094916244,
@@ -570,23 +317,6 @@
       "name": "Metallica. Death Magnetic (2LP Gatefold, Limited Edition, Reissue, Silver Vinyl/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 1253564434,
-      "offer_id": "4610297805804",
-      "variant": "cd-russian",
-      "images_before": 3,
-      "name": "TUNGSTEN. The Grand Inferno (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-russian.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "1ce219acdc5a8ec9df8d2fe079dfbee02c66485108e60e916925299acff98a70",
-        "9f9f5132e1ec63a61d3d1977b10942d2d569c25c47314a52288f802df65b1827",
-        "00f4df9c9cc4654acb5a10382b7857e4c7943f8e940bfe4914fef0a498b52aec"
-      ]
     },
     {
       "id": 1255255212,
@@ -623,111 +353,6 @@
       "name": "YUNGBLUD. Idols (LP/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 2985838558,
-      "offer_id": "MOVLP365",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Hooverphonic. A New Stereophonic Sound Spectacular (LP Ltd Yellow/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "399f63ffef5b2ef3964a9f93e0c6f49c47704b2336c52c3c5634ebda392a78f1"
-      ]
-    },
-    {
-      "id": 2985838587,
-      "offer_id": "KR411891",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Kraftwerk. Autobahn (50th Anniversary Edition) (LP Ltd/Picture Disc/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "08ed7458a7882903e8f2621c70992bcbc9d0cf69a9e4001c9705cf612bae001d"
-      ]
-    },
-    {
-      "id": 2985838598,
-      "offer_id": "MOVLP3764",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Miles Davis. Star People (LP Ltd/Orange White Marble Vinyl/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "b9ea99c1b72623a59aedcf43c9350bf141b2ee866a9a3afbeb6ec927597d440d"
-      ]
-    },
-    {
-      "id": 2985838690,
-      "offer_id": "MOVLP1613",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Hooverphonic. The Magnificent Tree (LP Ltd/Translucent Blue Vinyl/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "36de0b80302dd2f2abb2f3f3da24e8949124ad2d233f55a5b4a634f6ccc2e3b4"
-      ]
-    },
-    {
-      "id": 2985838735,
-      "offer_id": "MOVLP2195",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "The Meters. The Meters (LP/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "1bf95f0de9300e62aef9bf4daaff52133362f93d9ebca5c5027d15d5bec0a9a9"
-      ]
-    },
-    {
-      "id": 2985838779,
-      "offer_id": "BLV8846",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Lara Fabian. Je Suis La (LP Ltd Red/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "35fc81bcbc3c5f947e2de149a56d165cb0d39123fc6be8a67fea00b2dfa31ade"
-      ]
-    },
-    {
-      "id": 2985838821,
-      "offer_id": "BMGCAT516CDLP",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Garbage. Version 2.0 (2LP Ltd/Transparent Blue Blue Vinyl/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "8a7b64b111d6e534d7fb698a38f08a0575a66eb81d4c5cd1dccfb43c1d075842"
-      ]
     },
     {
       "id": 2985838823,
