@@ -1471,6 +1471,178 @@
     },
     "55577441": {
       "status": "present"
+    },
+    "55578171": {
+      "status": "present"
+    },
+    "55579174": {
+      "status": "present"
+    },
+    "55584052": {
+      "status": "present"
+    },
+    "55584771": {
+      "status": "present"
+    },
+    "55592538": {
+      "status": "present"
+    },
+    "55595405": {
+      "status": "present"
+    },
+    "55595492": {
+      "status": "present"
+    },
+    "55603964": {
+      "status": "present"
+    },
+    "55604082": {
+      "status": "present"
+    },
+    "55606997": {
+      "status": "present"
+    },
+    "55607146": {
+      "status": "present"
+    },
+    "55612817": {
+      "status": "present"
+    },
+    "55617647": {
+      "status": "present"
+    },
+    "55618958": {
+      "status": "present"
+    },
+    "56029127": {
+      "status": "present"
+    },
+    "56029934": {
+      "status": "present"
+    },
+    "56030800": {
+      "status": "present"
+    },
+    "56479129": {
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "6d662264d6ad534b2d1f17d27ea9ea3fe68156abd81b26c37d4d23b5622964d3",
+        "9185c6a62a9a2282016c0841d9af63ebb1792dfb8c11bf3cf318923333d00396",
+        "bd1345e0897463715ca2c5236518936ee7776676edd0e9993975d1872f0ca3f2"
+      ]
+    },
+    "56823516": {
+      "status": "present"
+    },
+    "57590181": {
+      "status": "present"
+    },
+    "57591081": {
+      "status": "present"
+    },
+    "58715999": {
+      "status": "present"
+    },
+    "58738120": {
+      "status": "present"
+    },
+    "58739825": {
+      "status": "present"
+    },
+    "59333316": {
+      "status": "present"
+    },
+    "63128265": {
+      "status": "present"
+    },
+    "64837046": {
+      "status": "present"
+    },
+    "65154164": {
+      "status": "present"
+    },
+    "65549353": {
+      "status": "present"
+    },
+    "65609149": {
+      "status": "present"
+    },
+    "65801622": {
+      "status": "present"
+    },
+    "65802176": {
+      "status": "present"
+    },
+    "65802400": {
+      "status": "present"
+    },
+    "66441790": {
+      "status": "present"
+    },
+    "66442786": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "66455539": {
+      "status": "present"
+    },
+    "68415821": {
+      "status": "present"
+    },
+    "68538470": {
+      "status": "present"
+    },
+    "69816114": {
+      "status": "present"
+    },
+    "70034990": {
+      "status": "present"
+    },
+    "70035902": {
+      "status": "present"
+    },
+    "70483025": {
+      "status": "present"
+    },
+    "70662837": {
+      "status": "present"
+    },
+    "70663282": {
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ec0ec671d570c4d9435665ac30e60f6368397c283fe514c529924e5a47945cf7",
+        "07452a30393cec0b1678d80a84c7fe69756ad963c4463f9e410dc8ce6c2657f1",
+        "69ef9bd3df1afcec841136672ad033946891988a77355ca3e9903388e98d9a99"
+      ]
+    },
+    "70665222": {
+      "status": "present"
+    },
+    "70858895": {
+      "status": "present"
+    },
+    "70868467": {
+      "status": "present"
+    },
+    "70937016": {
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ec0749f966e8832e5be590a15c7a2b570241d2810ed0ac65a1b640fc6cdbbc35",
+        "87d7069d182d984f15b3836176d90156bb85a20cc42a8234c7d77c7bb9b9e41a",
+        "7b65bf080352ffa22d9afe5fa22ebd303917ca56c29d83a7fecd8932a90cfb06"
+      ]
     }
   },
   "reason": null
