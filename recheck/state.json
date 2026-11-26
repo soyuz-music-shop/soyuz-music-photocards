@@ -8463,7 +8463,7 @@
       "status": "present"
     },
     "3562824561": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
