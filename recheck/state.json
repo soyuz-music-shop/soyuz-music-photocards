@@ -11544,7 +11544,7 @@
       "reason": "Ambiguous existing template; manual review"
     },
     "6961317673": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "packaging.png"
       ],
