@@ -7019,14 +7019,15 @@
       ]
     },
     "2985838821": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "8a7b64b111d6e534d7fb698a38f08a0575a66eb81d4c5cd1dccfb43c1d075842"
-      ]
+      ],
+      "task_id": 6135674073
     },
     "2985838823": {
       "status": "missing",
