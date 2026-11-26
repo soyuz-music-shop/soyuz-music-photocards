@@ -8289,14 +8289,15 @@
       "status": "present"
     },
     "3325378557": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "108a4529746a963c5089c45e5060df1a8a74da8fe285c8fb5b624a55a45fdbc6"
-      ]
+      ],
+      "task_id": 6135694052
     },
     "3325378562": {
       "status": "missing",
