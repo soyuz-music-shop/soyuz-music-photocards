@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2107,
+    "present": 2145,
     "audit_review": 36,
-    "missing": 17
+    "missing": 27
   },
   "remaining_or_review": [
     {
@@ -622,6 +622,156 @@
       "name": "YUNGBLUD. Idols (LP/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 2985838558,
+      "offer_id": "MOVLP365",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Hooverphonic. A New Stereophonic Sound Spectacular (LP Ltd Yellow/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "399f63ffef5b2ef3964a9f93e0c6f49c47704b2336c52c3c5634ebda392a78f1"
+      ]
+    },
+    {
+      "id": 2985838587,
+      "offer_id": "KR411891",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Kraftwerk. Autobahn (50th Anniversary Edition) (LP Ltd/Picture Disc/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "08ed7458a7882903e8f2621c70992bcbc9d0cf69a9e4001c9705cf612bae001d"
+      ]
+    },
+    {
+      "id": 2985838598,
+      "offer_id": "MOVLP3764",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Miles Davis. Star People (LP Ltd/Orange White Marble Vinyl/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b9ea99c1b72623a59aedcf43c9350bf141b2ee866a9a3afbeb6ec927597d440d"
+      ]
+    },
+    {
+      "id": 2985838690,
+      "offer_id": "MOVLP1613",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Hooverphonic. The Magnificent Tree (LP Ltd/Translucent Blue Vinyl/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "36de0b80302dd2f2abb2f3f3da24e8949124ad2d233f55a5b4a634f6ccc2e3b4"
+      ]
+    },
+    {
+      "id": 2985838735,
+      "offer_id": "MOVLP2195",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "The Meters. The Meters (LP/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "1bf95f0de9300e62aef9bf4daaff52133362f93d9ebca5c5027d15d5bec0a9a9"
+      ]
+    },
+    {
+      "id": 2985838779,
+      "offer_id": "BLV8846",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Lara Fabian. Je Suis La (LP Ltd Red/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "35fc81bcbc3c5f947e2de149a56d165cb0d39123fc6be8a67fea00b2dfa31ade"
+      ]
+    },
+    {
+      "id": 2985838821,
+      "offer_id": "BMGCAT516CDLP",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Garbage. Version 2.0 (2LP Ltd/Transparent Blue Blue Vinyl/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "8a7b64b111d6e534d7fb698a38f08a0575a66eb81d4c5cd1dccfb43c1d075842"
+      ]
+    },
+    {
+      "id": 2985838823,
+      "offer_id": "MOVLP3414",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Janis Joplin. Janis (2LP Ltd/Magenta Translucent Vinyl/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "4eb03e24c50cf7592d5bba84d17b1c409b99b98b0efb6a4c82d48925827e1405"
+      ]
+    },
+    {
+      "id": 3005087205,
+      "offer_id": "MOVLP1361",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Tedeschi Trucks Band. Revelator (2LP Ltd Red/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b7498c0660320392da7cdd141108e8135e9e5460e05c837612e2d4376392410c"
+      ]
+    },
+    {
+      "id": 3005087230,
+      "offer_id": "ZA194475",
+      "variant": "import-vinyl-info",
+      "images_before": 1,
+      "name": "Zaz. Isa (2LP/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "1d5cafb4c0acb6a04d9db6869001152bd653dd7e67f592152941b2db82156c01"
+      ]
     }
   ]
 }
