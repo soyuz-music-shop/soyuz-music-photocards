@@ -6899,7 +6899,7 @@
       "status": "present"
     },
     "2985838558": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
