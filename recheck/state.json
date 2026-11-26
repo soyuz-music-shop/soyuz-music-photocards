@@ -1643,6 +1643,151 @@
         "87d7069d182d984f15b3836176d90156bb85a20cc42a8234c7d77c7bb9b9e41a",
         "7b65bf080352ffa22d9afe5fa22ebd303917ca56c29d83a7fecd8932a90cfb06"
       ]
+    },
+    "71296171": {
+      "status": "present"
+    },
+    "71296435": {
+      "status": "present"
+    },
+    "71489247": {
+      "status": "present"
+    },
+    "71555011": {
+      "status": "present"
+    },
+    "71556099": {
+      "status": "present"
+    },
+    "71560607": {
+      "status": "present"
+    },
+    "71634562": {
+      "status": "present"
+    },
+    "71716379": {
+      "status": "present"
+    },
+    "71721365": {
+      "status": "present"
+    },
+    "71721666": {
+      "status": "present"
+    },
+    "71826867": {
+      "status": "present"
+    },
+    "71838006": {
+      "status": "present"
+    },
+    "71865838": {
+      "status": "present"
+    },
+    "73770716": {
+      "status": "present"
+    },
+    "73771547": {
+      "status": "present"
+    },
+    "74548685": {
+      "status": "present"
+    },
+    "74570234": {
+      "status": "present"
+    },
+    "75516202": {
+      "status": "present"
+    },
+    "77831370": {
+      "status": "present"
+    },
+    "78029365": {
+      "status": "present"
+    },
+    "79077995": {
+      "status": "present"
+    },
+    "80081586": {
+      "status": "present"
+    },
+    "80085265": {
+      "status": "present"
+    },
+    "80088073": {
+      "status": "present"
+    },
+    "81394483": {
+      "status": "present"
+    },
+    "81406667": {
+      "status": "present"
+    },
+    "81407890": {
+      "status": "present"
+    },
+    "81408608": {
+      "status": "present"
+    },
+    "82953716": {
+      "status": "present"
+    },
+    "82972099": {
+      "status": "present"
+    },
+    "83231090": {
+      "status": "present"
+    },
+    "83950670": {
+      "status": "present"
+    },
+    "84081493": {
+      "status": "present"
+    },
+    "85456920": {
+      "status": "present"
+    },
+    "85460854": {
+      "status": "present"
+    },
+    "86774794": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "86923499": {
+      "status": "present"
+    },
+    "87316929": {
+      "status": "present"
+    },
+    "87431533": {
+      "status": "present"
+    },
+    "87431831": {
+      "status": "present"
+    },
+    "87966838": {
+      "status": "present"
+    },
+    "87969175": {
+      "status": "present"
+    },
+    "88030950": {
+      "status": "present"
+    },
+    "88033510": {
+      "status": "present"
+    },
+    "88035024": {
+      "status": "present"
+    },
+    "88039491": {
+      "status": "present"
+    },
+    "88040491": {
+      "status": "present"
+    },
+    "88044688": {
+      "status": "present"
     }
   },
   "reason": null
