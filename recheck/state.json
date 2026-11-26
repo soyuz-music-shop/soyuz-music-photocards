@@ -1018,6 +1018,168 @@
     },
     "35706264": {
       "status": "present"
+    },
+    "35706300": {
+      "status": "present"
+    },
+    "35706330": {
+      "status": "present"
+    },
+    "35721539": {
+      "status": "present"
+    },
+    "35725154": {
+      "status": "present"
+    },
+    "35725676": {
+      "status": "present"
+    },
+    "35776832": {
+      "status": "present"
+    },
+    "35779322": {
+      "status": "present"
+    },
+    "35791557": {
+      "status": "present"
+    },
+    "36005189": {
+      "status": "present"
+    },
+    "36005415": {
+      "status": "present"
+    },
+    "36005492": {
+      "status": "present"
+    },
+    "36006034": {
+      "status": "present"
+    },
+    "36006042": {
+      "status": "present"
+    },
+    "36006378": {
+      "status": "present"
+    },
+    "36006963": {
+      "status": "present"
+    },
+    "36008370": {
+      "status": "present"
+    },
+    "36008382": {
+      "status": "present"
+    },
+    "36008401": {
+      "status": "present"
+    },
+    "36008560": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "36170177": {
+      "status": "present"
+    },
+    "36208130": {
+      "status": "present"
+    },
+    "36754839": {
+      "status": "present"
+    },
+    "36757841": {
+      "status": "present"
+    },
+    "36768139": {
+      "status": "present"
+    },
+    "36781519": {
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "bfa52bdcbdf4009ccaad54db3df0c560aa2a9530d943fb200f71817633b49d2b",
+        "d6e842342ce0ab3fea1b271434db3953cd182d1bb16c8138c4332ee1e22fe57b",
+        "83f9276549a0052913e8624767a39b1d854dc35e2f5ed98d2228fb6726453664"
+      ]
+    },
+    "36949176": {
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5a348e61b92766e6d14d3af8f17566efb34d86cffc1312f554579e593fa81869"
+      ]
+    },
+    "37052620": {
+      "status": "present"
+    },
+    "37331683": {
+      "status": "present"
+    },
+    "37340404": {
+      "status": "present"
+    },
+    "37418739": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "37419170": {
+      "status": "present"
+    },
+    "37852027": {
+      "status": "present"
+    },
+    "37953550": {
+      "status": "present"
+    },
+    "38026483": {
+      "status": "present"
+    },
+    "38027175": {
+      "status": "present"
+    },
+    "38028070": {
+      "status": "present"
+    },
+    "38028481": {
+      "status": "present"
+    },
+    "38030373": {
+      "status": "present"
+    },
+    "38033010": {
+      "status": "present"
+    },
+    "38033884": {
+      "status": "present"
+    },
+    "38116987": {
+      "status": "present"
+    },
+    "38118111": {
+      "status": "present"
+    },
+    "38143611": {
+      "status": "present"
+    },
+    "38151108": {
+      "status": "present"
+    },
+    "38151934": {
+      "status": "present"
+    },
+    "38154940": {
+      "status": "present"
+    },
+    "38165246": {
+      "status": "present"
+    },
+    "38166427": {
+      "status": "present"
     }
   },
   "reason": null
