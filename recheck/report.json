@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2944,
-    "audit_review": 38,
+    "present": 2991,
+    "audit_review": 39,
     "missing": 41,
     "manual_protected": 1
   },
@@ -1026,6 +1026,15 @@
       "originals_sha256": [
         "0628e0e48880f02acc454329d265756ec5f49c9b60ee03018b377666ef1b21a4"
       ]
+    },
+    {
+      "id": 5540172729,
+      "offer_id": "BB391",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Faust. The Faust Tapes (LP/Reissue/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
