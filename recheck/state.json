@@ -2079,6 +2079,182 @@
     },
     "185518516": {
       "status": "present"
+    },
+    "186618288": {
+      "status": "present"
+    },
+    "193043954": {
+      "status": "present"
+    },
+    "193059320": {
+      "status": "present"
+    },
+    "193582198": {
+      "status": "present"
+    },
+    "193594549": {
+      "status": "present"
+    },
+    "199289499": {
+      "status": "present"
+    },
+    "199290478": {
+      "status": "present"
+    },
+    "199294279": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "911a01cc30bd8dadd0f3f7494432d384b0902fc7aaebb7dc889cd6f249174607",
+        "1140f3ff4c214a10198c8c0776e4f355b295bacb05db6259913d9e0664c1c421",
+        "2ba8930de35ecd83ce46a7c87dbdf9c7274db5ab65eff7ab3783950dab1bbaf3",
+        "dc7fc613bbe0b99a9a6074431a9417618997f07653499410fc8868e229ac3fc9",
+        "6cb41231e5b8eab1a912e94290d439499e78d985255f60270d62414a255e93a4"
+      ]
+    },
+    "199308810": {
+      "status": "present"
+    },
+    "199309125": {
+      "status": "present"
+    },
+    "199309515": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "bd54d7ad57d7b29a45c2d86e53f1dd13ed050d282c2efa48453fcdcbc3d183bf",
+        "0f33a349d419ac0644c6f1c910096aa266d6c4de276d10eae0b8c4f5b46f16d8",
+        "6dc2d0459ae156b42ebc2ba611f02ae506e84cad322040aff911ec11e7eca8e7",
+        "a74bd587c3e02aeae24d5f01c0e9d7e9b4f230781222b8e7d4f8506693d3ad66",
+        "e44c0c620f1593b982a2daa418a40c31fcfa52d49c91850d5bc412545241bce3",
+        "51953cd3df67ea33d3365f453f26e6010749d4f179b656b584d57786ed4384f0"
+      ]
+    },
+    "202926333": {
+      "status": "present"
+    },
+    "203298770": {
+      "status": "present"
+    },
+    "203317649": {
+      "status": "present"
+    },
+    "212251832": {
+      "status": "present"
+    },
+    "213442182": {
+      "status": "present"
+    },
+    "214506410": {
+      "status": "present"
+    },
+    "215037127": {
+      "status": "present"
+    },
+    "216071493": {
+      "status": "present"
+    },
+    "221854681": {
+      "status": "present"
+    },
+    "221861970": {
+      "status": "present"
+    },
+    "223721907": {
+      "status": "present"
+    },
+    "224655337": {
+      "status": "present"
+    },
+    "225319096": {
+      "status": "present"
+    },
+    "226471392": {
+      "status": "present"
+    },
+    "232227460": {
+      "status": "present"
+    },
+    "232243348": {
+      "status": "present"
+    },
+    "232253046": {
+      "status": "present"
+    },
+    "232262865": {
+      "status": "present"
+    },
+    "232370016": {
+      "status": "present"
+    },
+    "232938070": {
+      "status": "present"
+    },
+    "232972511": {
+      "status": "present"
+    },
+    "240016633": {
+      "status": "present"
+    },
+    "240619003": {
+      "status": "present"
+    },
+    "245429021": {
+      "status": "present"
+    },
+    "252300927": {
+      "status": "present"
+    },
+    "253615829": {
+      "status": "present"
+    },
+    "253770284": {
+      "status": "present"
+    },
+    "254395141": {
+      "status": "present"
+    },
+    "258500196": {
+      "status": "present"
+    },
+    "258529063": {
+      "status": "present"
+    },
+    "262291716": {
+      "status": "present"
+    },
+    "276218855": {
+      "status": "present"
+    },
+    "284009235": {
+      "status": "present"
+    },
+    "287616453": {
+      "status": "present"
+    },
+    "290309408": {
+      "status": "present"
+    },
+    "291125660": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "572c3e0c87485c25c20f59abbbe2abd10b6f51cfdeac0ab6f02a1ba885f5fc14",
+        "f34bd52a65293ed8e3de9fe1d593d7dbbee1fad2175557414466755823acc347",
+        "2402107aee15e48cf9da2e44e8f2c2f77e3601023e070c2c91a194d905eeb920"
+      ]
+    },
+    "291768949": {
+      "status": "present"
     }
   },
   "reason": null
