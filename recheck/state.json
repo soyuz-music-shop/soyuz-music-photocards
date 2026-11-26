@@ -8524,7 +8524,7 @@
       "status": "present"
     },
     "3562824590": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
