@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2060,
-    "audit_review": 35,
+    "present": 2107,
+    "audit_review": 36,
     "missing": 17
   },
   "remaining_or_review": [
@@ -611,6 +611,15 @@
       "variant": "import-vinyl-info",
       "images_before": 12,
       "name": "Pink Floyd. The Wall (2LP Black/Винил/Gatefold/Издание 2025 года)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 2973331794,
+      "offer_id": "YG012976",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "YUNGBLUD. Idols (LP/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
