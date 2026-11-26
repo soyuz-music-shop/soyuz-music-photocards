@@ -7059,7 +7059,7 @@
       ]
     },
     "3005087205": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
