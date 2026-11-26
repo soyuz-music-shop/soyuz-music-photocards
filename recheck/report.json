@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 232,
-    "audit_review": 8
+    "present": 279,
+    "audit_review": 9
   },
   "remaining_or_review": [
     {
@@ -76,6 +76,15 @@
       "variant": "cd-russian",
       "images_before": 6,
       "name": "Wolf Hoffmann. Headbangers Symphony (CD диск/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 33508240,
+      "offer_id": "4680017661829",
+      "variant": "cd-russian",
+      "images_before": 5,
+      "name": "Editors. In Dream (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
