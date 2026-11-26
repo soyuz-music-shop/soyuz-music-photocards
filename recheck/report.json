@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 929,
-    "audit_review": 21,
+    "present": 975,
+    "audit_review": 23,
     "missing": 10
   },
   "remaining_or_review": [
@@ -366,6 +366,24 @@
       "variant": "import-vinyl-info",
       "images_before": 6,
       "name": "Beatles. With the Beatles (LP Black/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 395488500,
+      "offer_id": "MSE0190295024314",
+      "variant": "import-vinyl-info",
+      "images_before": 7,
+      "name": "Muse. Origin Of Symmetry: XX Anniversary RemiXX (2LP Black/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 396591224,
+      "offer_id": "CNDR0042283461222",
+      "variant": "cd-import",
+      "images_before": 4,
+      "name": "Cinderella. Long Cold Winter (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
