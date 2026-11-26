@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1161,
-    "audit_review": 25,
+    "present": 1207,
+    "audit_review": 27,
     "missing": 14
   },
   "remaining_or_review": [
@@ -470,6 +470,24 @@
       "variant": "cd-import",
       "images_before": 4,
       "name": "Behemoth. Opvs Contra Natvram (CD DigiBook/Limited Edition/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 549088503,
+      "offer_id": "PSB95821746",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Pet Shop Boys. Behaviour (LP Reissue/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 563874315,
+      "offer_id": "RMST77493973",
+      "variant": "cd-import",
+      "images_before": 5,
+      "name": "Rammstein. Rammstein (CD Digipak/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
