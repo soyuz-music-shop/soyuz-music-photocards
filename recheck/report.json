@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2288,
-    "audit_review": 37,
+    "present": 2335,
+    "audit_review": 38,
     "missing": 27
   },
   "remaining_or_review": [
@@ -779,6 +779,15 @@
       "variant": "import-vinyl-info",
       "images_before": 3,
       "name": "FKA Twigs. EP1 (LP/\"/Reissue/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 3033137832,
+      "offer_id": "CR657503",
+      "variant": "cd-import",
+      "images_before": 1,
+      "name": "Chris Rea. The Best Of Chris Rea - New Light Through Old Windows (1CD/Reissue/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
