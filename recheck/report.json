@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2241,
-    "audit_review": 36,
+    "present": 2288,
+    "audit_review": 37,
     "missing": 27
   },
   "remaining_or_review": [
@@ -772,6 +772,15 @@
       "originals_sha256": [
         "1d5cafb4c0acb6a04d9db6869001152bd653dd7e67f592152941b2db82156c01"
       ]
+    },
+    {
+      "id": 3013420813,
+      "offer_id": "YT116",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "FKA Twigs. EP1 (LP/\"/Reissue/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
