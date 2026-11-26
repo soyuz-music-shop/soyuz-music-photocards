@@ -7619,6 +7619,157 @@
     },
     "3137360261": {
       "status": "present"
+    },
+    "3137360265": {
+      "status": "present"
+    },
+    "3175579149": {
+      "status": "present"
+    },
+    "3175615181": {
+      "status": "present"
+    },
+    "3175647277": {
+      "status": "present"
+    },
+    "3197215812": {
+      "status": "present"
+    },
+    "3197227408": {
+      "status": "present"
+    },
+    "3197237892": {
+      "status": "present"
+    },
+    "3221094243": {
+      "status": "present"
+    },
+    "3222504384": {
+      "status": "present"
+    },
+    "3234943161": {
+      "status": "present"
+    },
+    "3277020156": {
+      "status": "present"
+    },
+    "3277020174": {
+      "status": "present"
+    },
+    "3277020176": {
+      "status": "present"
+    },
+    "3277020187": {
+      "status": "present"
+    },
+    "3277020189": {
+      "status": "present"
+    },
+    "3277020201": {
+      "status": "present"
+    },
+    "3277020204": {
+      "status": "present"
+    },
+    "3277020206": {
+      "status": "present"
+    },
+    "3277020210": {
+      "status": "present"
+    },
+    "3277020212": {
+      "status": "present"
+    },
+    "3277020214": {
+      "status": "present"
+    },
+    "3277020215": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b6353e4d59ea29e958d050a3356ad5d6d9a472d82f1486cc42c18320c6b2b9f5"
+      ]
+    },
+    "3277020222": {
+      "status": "present"
+    },
+    "3282474962": {
+      "status": "present"
+    },
+    "3282474963": {
+      "status": "present"
+    },
+    "3282475032": {
+      "status": "present"
+    },
+    "3282475076": {
+      "status": "present"
+    },
+    "3282475258": {
+      "status": "present"
+    },
+    "3282704061": {
+      "status": "present"
+    },
+    "3282704064": {
+      "status": "present"
+    },
+    "3282704068": {
+      "status": "present"
+    },
+    "3282704096": {
+      "status": "present"
+    },
+    "3282704113": {
+      "status": "present"
+    },
+    "3282704114": {
+      "status": "present"
+    },
+    "3282704140": {
+      "status": "present"
+    },
+    "3282704187": {
+      "status": "present"
+    },
+    "3289510941": {
+      "status": "present"
+    },
+    "3289510959": {
+      "status": "present"
+    },
+    "3289551284": {
+      "status": "present"
+    },
+    "3289717580": {
+      "status": "present"
+    },
+    "3289717668": {
+      "status": "present"
+    },
+    "3289858479": {
+      "status": "present"
+    },
+    "3296658987": {
+      "status": "present"
+    },
+    "3296658994": {
+      "status": "present"
+    },
+    "3296659001": {
+      "status": "present"
+    },
+    "3296659004": {
+      "status": "present"
+    },
+    "3296659006": {
+      "status": "present"
+    },
+    "3296659010": {
+      "status": "present"
     }
   },
   "reason": null
