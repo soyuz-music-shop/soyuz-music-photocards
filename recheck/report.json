@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 464,
-    "audit_review": 14,
-    "missing": 2
+    "present": 508,
+    "audit_review": 15,
+    "missing": 5
   },
   "remaining_or_review": [
     {
@@ -165,6 +165,66 @@
       "name": "The Residents. Meet The Residents (2CD DigiSleeve/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 56479129,
+      "offer_id": "4610093805350",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "MOONSPELL. Hermitage (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "6d662264d6ad534b2d1f17d27ea9ea3fe68156abd81b26c37d4d23b5622964d3",
+        "9185c6a62a9a2282016c0841d9af63ebb1792dfb8c11bf3cf318923333d00396",
+        "bd1345e0897463715ca2c5236518936ee7776676edd0e9993975d1872f0ca3f2"
+      ]
+    },
+    {
+      "id": 66442786,
+      "offer_id": "MANNLP016",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Manfred Mann's Earth Band . Masque (LP Black/Винил/reissue)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 70663282,
+      "offer_id": "4650062365270s",
+      "variant": "cd-russian",
+      "images_before": 3,
+      "name": "Сурганова и оркестр. Возлюбленная Шопена (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ec0ec671d570c4d9435665ac30e60f6368397c283fe514c529924e5a47945cf7",
+        "07452a30393cec0b1678d80a84c7fe69756ad963c4463f9e410dc8ce6c2657f1",
+        "69ef9bd3df1afcec841136672ad033946891988a77355ca3e9903388e98d9a99"
+      ]
+    },
+    {
+      "id": 70937016,
+      "offer_id": "CDTOP 1527",
+      "variant": "cd-import",
+      "images_before": 3,
+      "name": "Bellissima! More 1960s She-Pop From Italy (CD JewelCase/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ec0749f966e8832e5be590a15c7a2b570241d2810ed0ac65a1b640fc6cdbbc35",
+        "87d7069d182d984f15b3836176d90156bb85a20cc42a8234c7d77c7bb9b9e41a",
+        "7b65bf080352ffa22d9afe5fa22ebd303917ca56c29d83a7fecd8932a90cfb06"
+      ]
     }
   ]
 }
