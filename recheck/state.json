@@ -7921,6 +7921,225 @@
     },
     "3318706779": {
       "status": "present"
+    },
+    "3318706783": {
+      "status": "present"
+    },
+    "3318706794": {
+      "status": "present"
+    },
+    "3318706805": {
+      "status": "present"
+    },
+    "3318706813": {
+      "status": "present"
+    },
+    "3318706814": {
+      "status": "present"
+    },
+    "3318706823": {
+      "status": "present"
+    },
+    "3318706830": {
+      "status": "present"
+    },
+    "3318706832": {
+      "status": "present"
+    },
+    "3325378481": {
+      "status": "present"
+    },
+    "3325378482": {
+      "status": "present"
+    },
+    "3325378490": {
+      "status": "present"
+    },
+    "3325378497": {
+      "status": "present"
+    },
+    "3325378505": {
+      "status": "present"
+    },
+    "3325378510": {
+      "status": "present"
+    },
+    "3325378520": {
+      "status": "present"
+    },
+    "3325378521": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "0e6ebf1b7f901021f22d294972d7a326c11da1034d2973ed984291da615fa01e"
+      ]
+    },
+    "3325378534": {
+      "status": "present"
+    },
+    "3325378537": {
+      "status": "present"
+    },
+    "3325378555": {
+      "status": "present"
+    },
+    "3325378557": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "108a4529746a963c5089c45e5060df1a8a74da8fe285c8fb5b624a55a45fdbc6"
+      ]
+    },
+    "3325378562": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f09fc15e6419b356892c057bab19573bdad36b3b24dbf11cbdad4904a4f8a8d7",
+        "8e1d46dd61ab87d6b2c1a485ae3369507f421a288e93495eb42a93b1fb2264c7",
+        "b2e3442a693d8dac891049b6417ac822c87ab6879398444026d344260ad029de",
+        "09389d5a155bfb115eb7883eb29c18462ee68c0589834c163c91b31146ead04a",
+        "a052f6e7999cfd9b714483acbbc79a0a5930f1f46fb4517b4e96c4495861a4e8",
+        "9c165d778829d3d4cf80a32838bcd921c6bba58a7246aae3317c0d898a65bf2a"
+      ]
+    },
+    "3325510984": {
+      "status": "present"
+    },
+    "3325511040": {
+      "status": "present"
+    },
+    "3359096337": {
+      "status": "present"
+    },
+    "3415641073": {
+      "status": "present"
+    },
+    "3415772933": {
+      "status": "present"
+    },
+    "3532870512": {
+      "status": "present"
+    },
+    "3533136110": {
+      "status": "present"
+    },
+    "3533191255": {
+      "status": "missing",
+      "missing": [
+        "vinyl-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "87f2a49fa9d9a51633cb2c666f2ddea80e44b8961d7b77ffe127571f62a22a4b",
+        "46bed25760f38749a6d57e94152e8aa1f280dd960c7cdc261eda937be179422f",
+        "95ee047997fea879de1f69985500ad0eb515fc5d1177116fb038772df4e2a5f1",
+        "d2cffa4f72446f292d563dab5b2cb6c0dd4e07188e89797bbdbcbad237c01ce0",
+        "cd365a21372cdcb01eafddc21b0c95c6be768bbe662784fabfaac1b93b58689c",
+        "a992b05488f738460b8e0912697ea1d4cf88a3082c6af6edc507d5675f7364f5",
+        "e02459d86b492f184faa8c58213307f04e5dbf261cf06c2e5f64080219b44019",
+        "1f4f4c5ed1af5661e766fe4b1408f8fed6bde015c598675e17db606595d65719"
+      ]
+    },
+    "3540390625": {
+      "status": "present"
+    },
+    "3556539525": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "0f8c8a5c29aa270c3ccf72e82fb133a4a79bb9ec4d0063bb2cf7619674cc7aba"
+      ]
+    },
+    "3556539529": {
+      "status": "present"
+    },
+    "3556539537": {
+      "status": "present"
+    },
+    "3556539538": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f13dedf8fb821401e69a32ed1f7903443e6f2724ee4932fbcf5e0595e5f11ee0"
+      ]
+    },
+    "3556539579": {
+      "status": "present"
+    },
+    "3562700265": {
+      "status": "present"
+    },
+    "3562824552": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "842fccc9a344ef0d54675f87ba32bf0bb78c0d0d9fdae924ff0f5f83187c48da"
+      ]
+    },
+    "3562824553": {
+      "status": "present"
+    },
+    "3562824555": {
+      "status": "present"
+    },
+    "3562824561": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "d70fe901e52f545c7f883c19e6031733d94aad61eabb95fd463a73c051164eeb"
+      ]
+    },
+    "3562824563": {
+      "status": "present"
+    },
+    "3562824572": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "7090657f64e1c31b7749e0d185bc947a26e39b06ba37dd612f5c364753c1e93b"
+      ]
+    },
+    "3562824573": {
+      "status": "present"
+    },
+    "3562824577": {
+      "status": "present"
+    },
+    "3562824579": {
+      "status": "present"
+    },
+    "3562824585": {
+      "status": "present"
+    },
+    "3562824588": {
+      "status": "present"
+    },
+    "3562824589": {
+      "status": "present"
     }
   },
   "reason": null
