@@ -11622,7 +11622,7 @@
       ]
     },
     "6961317720": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
@@ -11630,7 +11630,8 @@
       "originals_sha256": [
         "4f1f1560165d70ac384b5cf13a5df621eb410f47ad5bb9cc7359e64df7ba447c",
         "6e0beb7d86b5288e357a22433d5b504529a84dbfcea59eaccb24e350e81e074d"
-      ]
+      ],
+      "task_id": 6135723246
     },
     "6961317724": {
       "status": "missing",
