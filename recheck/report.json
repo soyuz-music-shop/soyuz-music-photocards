@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 3180,
-    "audit_review": 42,
+    "present": 3227,
+    "audit_review": 43,
     "missing": 41,
     "manual_protected": 1
   },
@@ -1060,6 +1060,15 @@
       "variant": "import-vinyl-info",
       "images_before": 10,
       "name": "Ten Years After. Naturally Live (2LP Crystal Clear/Виниловая пластинка/Ltd/Gatefold)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6799243213,
+      "offer_id": "CX611698",
+      "variant": "cd-import",
+      "images_before": 4,
+      "name": "Charli XCX. Brat (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
