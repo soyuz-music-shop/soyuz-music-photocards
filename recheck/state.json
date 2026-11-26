@@ -11522,7 +11522,7 @@
       "status": "present"
     },
     "6961317670": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "packaging.png"
       ],
