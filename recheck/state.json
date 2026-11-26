@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "apply",
+  "phase": "completed",
   "items": {
     "20811913": {
       "status": "present"
