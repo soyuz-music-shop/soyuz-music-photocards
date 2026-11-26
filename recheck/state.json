@@ -11583,14 +11583,15 @@
       "status": "present"
     },
     "6961317693": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "packaging.png"
       ],
       "originals_sha256": [
         "b1721ef6537d7fc6be877155550c82c7a9e68cbcebbad0a1a441d4e293f6300f",
         "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
+      ],
+      "task_id": 6135719783
     },
     "6961317701": {
       "status": "missing",
