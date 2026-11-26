@@ -8437,7 +8437,7 @@
       "status": "present"
     },
     "3562824552": {
-      "status": "imported",
+      "status": "verified",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
@@ -8445,7 +8445,16 @@
       "originals_sha256": [
         "842fccc9a344ef0d54675f87ba32bf0bb78c0d0d9fdae924ff0f5f83187c48da"
       ],
-      "task_id": 6135703315
+      "task_id": 6135703315,
+      "added": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "after_count": 3,
+      "photo_distances": [
+        0.0,
+        0.0
+      ]
     },
     "3562824553": {
       "status": "present"
