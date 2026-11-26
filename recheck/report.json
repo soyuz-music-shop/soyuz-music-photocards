@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 418,
-    "audit_review": 12,
+    "present": 464,
+    "audit_review": 14,
     "missing": 2
   },
   "remaining_or_review": [
@@ -145,6 +145,24 @@
       "variant": "import-vinyl-info",
       "images_before": 5,
       "name": "Dead Can Dance. Into The Labyrinth (2LP/винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 50205295,
+      "offer_id": "ECLEC2425",
+      "variant": "cd-import",
+      "images_before": 4,
+      "name": "Vangelis. Direct (CD DigiPak/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 50217244,
+      "offer_id": "NRT002",
+      "variant": "cd-import",
+      "images_before": 5,
+      "name": "The Residents. Meet The Residents (2CD DigiSleeve/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
