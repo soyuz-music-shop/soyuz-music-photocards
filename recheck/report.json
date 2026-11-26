@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2991,
-    "audit_review": 39,
+    "present": 3038,
+    "audit_review": 40,
     "missing": 41,
     "manual_protected": 1
   },
@@ -1033,6 +1033,15 @@
       "variant": "import-vinyl-info",
       "images_before": 4,
       "name": "Faust. The Faust Tapes (LP/Reissue/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 5541364126,
+      "offer_id": "BHE0753RIC",
+      "variant": "cd-import",
+      "images_before": 7,
+      "name": "BTS. Arirang (Rooted In Korea) (CD/Бокс-сет)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
