@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 693,
-    "audit_review": 19,
-    "missing": 8
+    "present": 738,
+    "audit_review": 20,
+    "missing": 10
   },
   "remaining_or_review": [
     {
@@ -317,6 +317,48 @@
         "f34bd52a65293ed8e3de9fe1d593d7dbbee1fad2175557414466755823acc347",
         "2402107aee15e48cf9da2e44e8f2c2f77e3601023e070c2c91a194d905eeb920"
       ]
+    },
+    {
+      "id": 294257834,
+      "offer_id": "CDCHD 1241",
+      "variant": "cd-import",
+      "images_before": 3,
+      "name": "Brenda Holloway. The Early Years Rare Recordings 1962-1963 (CD JewelCase/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "4d98af2a5959d9f0ec4a1face7738e0743f5b9c2771bc6da7c87e1ca20c45595",
+        "08df596cd28a77cb2102bdf2aeda6a209444e812f7afc2a4717af9ea8e1192dc",
+        "0ec0e9aeb34e1dfd4869b33ae6688cf8f1339ee6dec8450e246f585d9b4a529f"
+      ]
+    },
+    {
+      "id": 300414792,
+      "offer_id": "MOVLP494",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Miles Davis. Someday My Prince Will Come (LP Black/Винил)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ad6df8e5ce742db5986430e39162f6903fd45d6330e3ed3b904a8844244cd9f5",
+        "68c074e0641d0745520b5c4540786568a6bc5d627c041ccc3001f58b0500064f"
+      ]
+    },
+    {
+      "id": 304122636,
+      "offer_id": "MOVLP543",
+      "variant": "import-vinyl-info",
+      "images_before": 5,
+      "name": "Nina Simone. Pastel Blues (LP Black/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
