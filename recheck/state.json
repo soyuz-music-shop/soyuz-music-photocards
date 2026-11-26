@@ -8385,14 +8385,15 @@
       "status": "present"
     },
     "3556539525": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "0f8c8a5c29aa270c3ccf72e82fb133a4a79bb9ec4d0063bb2cf7619674cc7aba"
-      ]
+      ],
+      "task_id": 6135699878
     },
     "3556539529": {
       "status": "present"
