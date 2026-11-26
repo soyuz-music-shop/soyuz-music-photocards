@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2428,
+    "present": 2475,
     "audit_review": 38,
-    "missing": 29,
+    "missing": 30,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -832,6 +832,21 @@
       ],
       "originals_sha256": [
         "b6353e4d59ea29e958d050a3356ad5d6d9a472d82f1486cc42c18320c6b2b9f5"
+      ]
+    },
+    {
+      "id": 3318541211,
+      "offer_id": "Phazz 071",
+      "variant": "cd-import",
+      "images_before": 1,
+      "name": "De-Phazz. Audio Elastique (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "83a37ad3c3d43bee8e252d486dca519a6b8eefae51220ccc18719d01a5cadf3c"
       ]
     }
   ]
