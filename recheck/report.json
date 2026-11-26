@@ -1,11 +1,11 @@
 {
-  "phase": "audit",
+  "phase": "audit_complete",
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 3466,
-    "audit_review": 44,
-    "missing": 41,
+    "present": 3488,
+    "audit_review": 46,
+    "missing": 55,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -1080,6 +1080,251 @@
       "name": "New Order. (The Best & The Rest Of) NewOrder (4CD/Deluxe Edition/Reissue/Бокс-сет)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6961317456,
+      "offer_id": "RSE0395-1",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Mos Def. The Ecstatic (2LP Ltd/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "e1ac6ad8b31470dca39a65bfc3ab3b70f2050748632c848773be5043474977f2",
+        "6609fdf65bac284bd22ae8ee0607da4c4e2fff1d60d9639e39a3a607d9e46c09",
+        "8852f9063332042280fa6b8873bfe16424530f73d6f9a49a6aebe5c8a594ffe9",
+        "b27f9e786298838d5d279c0ec04dbc1381a61f5f31d5d74a5e6091990954a0b7"
+      ]
+    },
+    {
+      "id": 6961317670,
+      "offer_id": "WIGLP184",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "The Kills. Midnight Boom (LP Black/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "8e559315a9ef1936609434a73a17c90b7ae956eaa9a349e023bf0bc9ed143f4d",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    {
+      "id": 6961317671,
+      "offer_id": "HM594152GS",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Hannah Montana. Hannah Montana (Songs From And Inspired By The Hit Tv Series) (LP/Green Splatter Vinyl/Reissue/Виниловая",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6961317673,
+      "offer_id": "OLE 194-1",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Yo La Tengo. Genius + Love (2LP Black/Reissue/Repress/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "cf09da6bb7e62d010822228c42296ea6a30f46f4aedec9725d10a3406bbb3163",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    {
+      "id": 6961317674,
+      "offer_id": "4AD0878LP",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Pixies. Complete B Sides (2LP Black/Reissue/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "19d5473ff39714e70dd846137e2a9a037fcffcf8b87487b90cf81f4fdd86d6b3",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    {
+      "id": 6961317693,
+      "offer_id": "WIGLP249",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "The Kills. Blood Pressures (LP Black/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "b1721ef6537d7fc6be877155550c82c7a9e68cbcebbad0a1a441d4e293f6300f",
+        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
+      ]
+    },
+    {
+      "id": 6961317701,
+      "offer_id": "R1 728499",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Van Halen. 5150 (2LP Black/Виниловая пластинка/Ltd/Reissue)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5256d662d6f9bb1b8e2679a8897d6db169b9c1335b151b4cdbfee39b009f3cc0",
+        "2e2b63363467ca3f1fcd539a2daeb17ff283ec773e3a4bc5f883af5f200c8811"
+      ]
+    },
+    {
+      "id": 6961317720,
+      "offer_id": "D004904601",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Simon Franglen. Avatar: Fire and Ash (LP Black/Виниловая пластинка/Original Motion Picture Soundtrack)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "4f1f1560165d70ac384b5cf13a5df621eb410f47ad5bb9cc7359e64df7ba447c",
+        "6e0beb7d86b5288e357a22433d5b504529a84dbfcea59eaccb24e350e81e074d"
+      ]
+    },
+    {
+      "id": 6961317724,
+      "offer_id": "XX821748CBS",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "Nimrods. The Soundtrack (2LP Black/Виниловая пластинка)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "2cbb0c4eaa055d028c63027e8e433b083c6f7c8f4cda10215d379ea6049dbf79",
+        "3e79249a5448de5d728a9e368174849a25cad2cae83a26b0626cf7885727cb3d",
+        "7b115ffdb29a4f777be2afb3a046f776ea96cd638ecb8b545011bea1c2a5c2c9"
+      ]
+    },
+    {
+      "id": 6961317744,
+      "offer_id": "PLACOLP01C",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Placebo. Placebo Re:Created (2LP Black/Виниловая пластинка/Ltd 12\"/7\"/45 RPM)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "7542fc916cac6ad5fb491676876db4c61c257b567e2f519a1955771a6de0a79b",
+        "e3495fa7775c20a6a425ecd80d38e3bd0634358287a3775ac651f12dd6d7778a"
+      ]
+    },
+    {
+      "id": 6961317745,
+      "offer_id": "PA230225",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Pantera. Far Beyond Driven (CD/Компакт-диск/Reissue/Repress)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "9f522aee1002969625c05ff73b00d511ec15a6aa2f55a59e29a016c28f4ef043",
+        "a5d7ec023738e4a4c5d9fcd41c25cf4e08d07474cf9365c86144e67e556a0f84"
+      ]
+    },
+    {
+      "id": 6961317749,
+      "offer_id": "XX314460",
+      "variant": "cd-import",
+      "images_before": 2,
+      "name": "Guardians Of The Galaxy Awesome Mix Vol. 1 (CD/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "f4f7e07b43d105fc2256b4be80ada02f6b665692b73830504f3970ef831f5ae1",
+        "b08e1c3efa5c0ef8eaa450db9605e936696b925b776c558b1a8bf857bb936d18"
+      ]
+    },
+    {
+      "id": 6961317775,
+      "offer_id": "TINAXLP 1",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Tina Turner. Private Dancer (LP Black/Виниловая пластинка/Reissue)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "8478a645cd71a0e972106a15bdc835ab3ad318311c1c70e3ba2b7134f81ababd",
+        "a75ae4b28a08f1f2d67831f52fda1dca1ef5664117c9b2565983269aabf91757"
+      ]
+    },
+    {
+      "id": 6961317777,
+      "offer_id": "PF191852YELLOW",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Peter Frampton. Carry The Light (LP Yellow/Виниловая пластинка/Ltd)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "c54821077e60f15ab23bb4a2a8cc68c00b2923cfd67f7e8e2dde07395978b976",
+        "fb84c8cfb6f0e0c7f9734d4c4be2b7c6ea2183e2e91cfa1d5d60cbcc98c4cb31"
+      ]
+    },
+    {
+      "id": 6961317832,
+      "offer_id": "MA822783TR",
+      "variant": "import-vinyl-info",
+      "images_before": 7,
+      "name": "Madonna. Confessions II (LP Translucent Red/Виниловая пластинка/Ltd)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 6977559447,
+      "offer_id": "TPRBLACK-013",
+      "variant": "import-vinyl-info",
+      "images_before": 6,
+      "name": "Orgone. Chimera (LP Black/Виниловая пластинка/Gatefold)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "2b9f6711bd03396254dd6b530bb4303ab6bba9b5d78a75a25ea56d7d7ce75f12",
+        "dd252703caac0c547c4cb6a7bcab649aa9ebad66d0c098ce5b0896dcca8c6e71",
+        "a597dd93af72b5c7cbc1ff09ff1a3fcf66925fc7ffe7fea56a2c717fd1ee66ca",
+        "3f700748f6c9bdba9f4b5e2d6ccfa6c8ef48deeaaad27533e48bf49c201217a9",
+        "0cc6618684e464f8a8b9a488e4a2619ea9900e59bfdd6bc08febfac34338c1b1",
+        "df5b9676eca5fcc45090c954dc92b55cb23520c7f3a8e3a9412af7021b00d6e5"
+      ]
     }
   ]
 }
