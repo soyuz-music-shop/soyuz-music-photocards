@@ -6899,7 +6899,7 @@
       "status": "present"
     },
     "2985838558": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
