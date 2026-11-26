@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 975,
+    "present": 1019,
     "audit_review": 23,
-    "missing": 10
+    "missing": 14
   },
   "remaining_or_review": [
     {
@@ -386,6 +386,74 @@
       "name": "Cinderella. Long Cold Winter (CD/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 444018237,
+      "offer_id": "LG602438804399",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "Lady Gaga. Dawn Of Chromatica (LP Cristal Clear/Винил)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "59248e39fe99ccf5aabe91486225ead49873bc57dca3586dbd896227b4bf9cc0",
+        "b689b9ad697716f17f91f0213ee47f223e25968f9691e6e6ae7985299d30ba6b",
+        "30767d592efd2c11054b52b569ca4482aceca27918146f09cd12044fc5d78439"
+      ]
+    },
+    {
+      "id": 444024695,
+      "offer_id": "B0034620-01",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Norah Jones. Come Away With Me (LP Black/Винил/Gatefold/20th Anniversary Edition)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "ea58643c19fd5e9002ee42aee45bcada772e01fbf9ce2e143f09cde46b5213d4",
+        "9a879419d7a97b5367d94ca1cdf5a6e0a27326eb44dea86255e9cbc5a01baae0",
+        "e5e7394e1acd890193647b19ba7d86adee752f76325834a75b95bc134cbe9b28",
+        "4d338819e67663e4ab9be5e8e77cbb0c5febed078df6baf1a8165ca9b4ecb0bc"
+      ]
+    },
+    {
+      "id": 444039880,
+      "offer_id": "OFSPRN602507484088",
+      "variant": "import-vinyl-info",
+      "images_before": 3,
+      "name": "The Offspring. Conspiracy Of One (LP Black/Винил/20th Anniversary Edition)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "01b1ae4444af4c3627c3f925de9108ced0d65ffbde153d8b319ad7050d29e0a5",
+        "50ec7091cc50368b4f07ae135066990cb575265af4a46ae2b3630c28bc1813c4",
+        "b83fec0dfbcf4d947316f7907bcba2332be8cfc78db713c81ea6f64781a61fa4"
+      ]
+    },
+    {
+      "id": 444045718,
+      "offer_id": "B0016395-01",
+      "variant": "import-vinyl-info",
+      "images_before": 2,
+      "name": "Amy Winehouse. Lioness: Hidden Treasures (2LP Black/Винил/Gatefold)",
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "06232a3bbfe409131b57ba2d0e94f88b2c11e6632ce585decfb67d688d53dbfd",
+        "522e0866408fefc4c50795a32655c3aa21480c33543ba3915474b81b4ffc3b71"
+      ]
     }
   ]
 }
