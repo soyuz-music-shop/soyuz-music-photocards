@@ -8486,7 +8486,7 @@
       "status": "present"
     },
     "3562824572": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
