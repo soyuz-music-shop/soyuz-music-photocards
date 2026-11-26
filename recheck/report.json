@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 141,
-    "audit_review": 3
+    "present": 186,
+    "audit_review": 6
   },
   "remaining_or_review": [
     {
@@ -31,6 +31,33 @@
       "variant": "cd-russian",
       "images_before": 5,
       "name": "Algiers. The Underside Of Power (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 28324521,
+      "offer_id": "4610027690038",
+      "variant": "cd-russian",
+      "images_before": 5,
+      "name": "Saint Etienne. Home Counties (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 28681277,
+      "offer_id": "4650075214251",
+      "variant": "cd-russian",
+      "images_before": 6,
+      "name": "The Xx. I See You (CD/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 29507797,
+      "offer_id": "0208578ERE",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Deep Purple. NOW What ?! (2LP/Виниловая пластинка)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
