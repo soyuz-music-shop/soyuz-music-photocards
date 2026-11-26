@@ -4918,6 +4918,160 @@
     },
     "1050763934": {
       "status": "present"
+    },
+    "1051663500": {
+      "status": "present"
+    },
+    "1051860283": {
+      "status": "present"
+    },
+    "1054122070": {
+      "status": "present"
+    },
+    "1054150560": {
+      "status": "present"
+    },
+    "1054153609": {
+      "status": "present"
+    },
+    "1054237567": {
+      "status": "present"
+    },
+    "1054360433": {
+      "status": "missing",
+      "missing": [
+        "cd-russian.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "5b7c1c0923ba4b5b46c91a185c03179bd15477557abd126f295ec3e7d2dbf045",
+        "d69f474ca4c80a8ff2e131dfb48bda0c717495ffcf4fab6df094ad1cc95434b3",
+        "462f67d26faeb98b5d1a881d8dc574885912c4bfd457edcd057fdac8059e69d6",
+        "5fdbac21a3511b1d0cb3cfca61216f8c6c03294fb57c48a9f0a2948924be0676"
+      ]
+    },
+    "1054423582": {
+      "status": "present"
+    },
+    "1061202039": {
+      "status": "present"
+    },
+    "1061330189": {
+      "status": "present"
+    },
+    "1061426620": {
+      "status": "present"
+    },
+    "1065549736": {
+      "status": "present"
+    },
+    "1066622393": {
+      "status": "present"
+    },
+    "1066660602": {
+      "status": "present"
+    },
+    "1066899603": {
+      "status": "present"
+    },
+    "1067022597": {
+      "status": "present"
+    },
+    "1068040798": {
+      "status": "present"
+    },
+    "1068187781": {
+      "status": "present"
+    },
+    "1068196231": {
+      "status": "present"
+    },
+    "1070517707": {
+      "status": "present"
+    },
+    "1073952158": {
+      "status": "present"
+    },
+    "1074055696": {
+      "status": "present"
+    },
+    "1074721446": {
+      "status": "present"
+    },
+    "1074865482": {
+      "status": "present"
+    },
+    "1074904399": {
+      "status": "present"
+    },
+    "1074958841": {
+      "status": "present"
+    },
+    "1075015280": {
+      "status": "present"
+    },
+    "1076174988": {
+      "status": "present"
+    },
+    "1076401010": {
+      "status": "present"
+    },
+    "1077205985": {
+      "status": "present"
+    },
+    "1077313407": {
+      "status": "present"
+    },
+    "1078362945": {
+      "status": "present"
+    },
+    "1078379496": {
+      "status": "present"
+    },
+    "1080282111": {
+      "status": "present"
+    },
+    "1080391175": {
+      "status": "present"
+    },
+    "1080503340": {
+      "status": "present"
+    },
+    "1081836009": {
+      "status": "present"
+    },
+    "1081855664": {
+      "status": "present"
+    },
+    "1081873225": {
+      "status": "present"
+    },
+    "1084168647": {
+      "status": "present"
+    },
+    "1085072309": {
+      "status": "present"
+    },
+    "1085105155": {
+      "status": "present"
+    },
+    "1085124852": {
+      "status": "present"
+    },
+    "1085193401": {
+      "status": "present"
+    },
+    "1087181188": {
+      "status": "present"
+    },
+    "1087323632": {
+      "status": "present"
+    },
+    "1087332351": {
+      "status": "present"
+    },
+    "1089284988": {
+      "status": "present"
     }
   },
   "reason": null
