@@ -8941,14 +8941,15 @@
       "status": "present"
     },
     "3784946096": {
-      "status": "locked",
+      "status": "submitted",
       "missing": [
         "cd-import.png",
         "packaging.png"
       ],
       "originals_sha256": [
         "0628e0e48880f02acc454329d265756ec5f49c9b60ee03018b377666ef1b21a4"
-      ]
+      ],
+      "task_id": 6135710531
     },
     "3784946099": {
       "status": "present"
