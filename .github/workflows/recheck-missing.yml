@@ -1,0 +1,65 @@
+name: SOYUZ PhotoCards — повторная проверка и недостающие фото
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/recheck-missing.yml"
+  schedule:
+    - cron: "13 * * * *"
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: ozon-photocards-stage2-eight-items
+  cancel-in-progress: false
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: python -m pip install --quiet Pillow
+      - name: Offline safety checks
+        run: |
+          python -m py_compile scripts/recheck_missing.py
+          python scripts/test_auto_queue.py
+          python - <<'PY'
+          import sys
+          from unittest.mock import patch
+          sys.path.insert(0,"scripts")
+          import recheck_missing as r
+          known={"cd-import.png":0,"packaging.png":100}
+          with patch.object(r.p,"get",side_effect=lambda u:int(u)), patch.object(r.p,"thumb",side_effect=lambda x:x), patch.object(r.p,"dist",side_effect=lambda a,b:abs(a-b)):
+              assert r.missing(["50"],known,"cd-import")==["cd-import.png","packaging.png"]
+              assert r.missing(["50","0"],known,"cd-import")==["packaging.png"]
+              assert r.missing(["50","100"],known,"cd-import")==["cd-import.png"]
+              assert r.missing(["50","0","100"],known,"cd-import")==[]
+              try:
+                  r.missing(["20"],known,"cd-import")
+              except RuntimeError:
+                  pass
+              else:
+                  raise AssertionError("Ambiguous image must be quarantined")
+          assert r.prior_protected({"status":"needs_review_interrupted"})
+          assert r.prior_protected({"status":"protected_previous_run"})
+          assert not r.prior_protected({"status":"skipped_preflight"})
+          assert str(r.q.STATE)=="recheck/state.json"
+          print("MISSING_ONLY_SAFETY_OK")
+          PY
+      - name: Configure durable Git locks
+        run: |
+          git config user.name soyuz-music-bot
+          git config user.email actions@users.noreply.github.com
+      - name: Audit first, then import only missing images
+        id: recheck
+        env:
+          OZON_CLIENT_ID: ${{ secrets.OZON_CLIENT_ID }}
+          OZON_API_KEY: ${{ secrets.OZON_API_KEY }}
+        run: python scripts/recheck_missing.py
+      - name: Continue separate queue
+        if: success() && steps.recheck.outputs.more == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run recheck-missing.yml --ref main
