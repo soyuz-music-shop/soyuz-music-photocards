@@ -1634,7 +1634,7 @@
       "status": "present"
     },
     "70663282": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "cd-russian.png",
         "packaging.png"
