@@ -3,7 +3,7 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2193,
+    "present": 2241,
     "audit_review": 36,
     "missing": 27
   },
