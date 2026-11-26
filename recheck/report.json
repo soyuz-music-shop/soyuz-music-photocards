@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 508,
-    "audit_review": 15,
+    "present": 555,
+    "audit_review": 16,
     "missing": 5
   },
   "remaining_or_review": [
@@ -225,6 +225,15 @@
         "87d7069d182d984f15b3836176d90156bb85a20cc42a8234c7d77c7bb9b9e41a",
         "7b65bf080352ffa22d9afe5fa22ebd303917ca56c29d83a7fecd8932a90cfb06"
       ]
+    },
+    {
+      "id": 86774794,
+      "offer_id": "IN 195991",
+      "variant": "import-vinyl-info",
+      "images_before": 4,
+      "name": "Einsturzende Neubauten. Alles In Allem (LP/Винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
