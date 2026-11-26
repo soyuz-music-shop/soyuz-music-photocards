@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 1019,
-    "audit_review": 23,
+    "present": 1066,
+    "audit_review": 24,
     "missing": 14
   },
   "remaining_or_review": [
@@ -454,6 +454,15 @@
         "06232a3bbfe409131b57ba2d0e94f88b2c11e6632ce585decfb67d688d53dbfd",
         "522e0866408fefc4c50795a32655c3aa21480c33543ba3915474b81b4ffc3b71"
       ]
+    },
+    {
+      "id": 445766561,
+      "offer_id": "SNDR602547901132",
+      "variant": "cd-import",
+      "images_before": 6,
+      "name": "Sandra. The Very Best Of Sandra (2CD Jewel Case/Компакт-диск)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
     }
   ]
 }
