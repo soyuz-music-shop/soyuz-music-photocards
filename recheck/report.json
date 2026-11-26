@@ -3,8 +3,8 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 186,
-    "audit_review": 6
+    "present": 232,
+    "audit_review": 8
   },
   "remaining_or_review": [
     {
@@ -58,6 +58,24 @@
       "variant": "import-vinyl-info",
       "images_before": 4,
       "name": "Deep Purple. NOW What ?! (2LP/Виниловая пластинка)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 31072942,
+      "offer_id": "XLLP785",
+      "variant": "import-vinyl-info",
+      "images_before": 10,
+      "name": "Radiohead. Hail To The Thief (2LP/винил)",
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    {
+      "id": 31875535,
+      "offer_id": "4680017668576",
+      "variant": "cd-russian",
+      "images_before": 6,
+      "name": "Wolf Hoffmann. Headbangers Symphony (CD диск/Компакт-диск)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
     }
