@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "phase": "audit_complete",
+  "phase": "apply",
   "items": {
     "20811913": {
       "status": "present"
@@ -1093,7 +1093,7 @@
       "status": "present"
     },
     "36781519": {
-      "status": "missing",
+      "status": "locked",
       "missing": [
         "cd-russian.png",
         "packaging.png"
