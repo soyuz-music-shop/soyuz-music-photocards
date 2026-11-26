@@ -7174,6 +7174,151 @@
     },
     "3013420722": {
       "status": "present"
+    },
+    "3013420727": {
+      "status": "present"
+    },
+    "3013420735": {
+      "status": "present"
+    },
+    "3013420745": {
+      "status": "present"
+    },
+    "3013420748": {
+      "status": "present"
+    },
+    "3013420750": {
+      "status": "present"
+    },
+    "3013420760": {
+      "status": "present"
+    },
+    "3013420761": {
+      "status": "present"
+    },
+    "3013420764": {
+      "status": "present"
+    },
+    "3013420765": {
+      "status": "present"
+    },
+    "3013420775": {
+      "status": "present"
+    },
+    "3013420792": {
+      "status": "present"
+    },
+    "3013420800": {
+      "status": "present"
+    },
+    "3013420801": {
+      "status": "present"
+    },
+    "3013420808": {
+      "status": "present"
+    },
+    "3013420809": {
+      "status": "present"
+    },
+    "3013420811": {
+      "status": "present"
+    },
+    "3013420813": {
+      "status": "audit_review",
+      "reason": "Ambiguous existing template; manual review"
+    },
+    "3013420815": {
+      "status": "present"
+    },
+    "3013420820": {
+      "status": "present"
+    },
+    "3013420824": {
+      "status": "present"
+    },
+    "3013420825": {
+      "status": "present"
+    },
+    "3013420832": {
+      "status": "present"
+    },
+    "3013420834": {
+      "status": "present"
+    },
+    "3013420848": {
+      "status": "present"
+    },
+    "3013420898": {
+      "status": "present"
+    },
+    "3013420924": {
+      "status": "present"
+    },
+    "3013420952": {
+      "status": "present"
+    },
+    "3013420975": {
+      "status": "present"
+    },
+    "3017887428": {
+      "status": "present"
+    },
+    "3017887542": {
+      "status": "present"
+    },
+    "3017887551": {
+      "status": "present"
+    },
+    "3017887556": {
+      "status": "present"
+    },
+    "3017887595": {
+      "status": "present"
+    },
+    "3017887695": {
+      "status": "present"
+    },
+    "3017887716": {
+      "status": "present"
+    },
+    "3017887832": {
+      "status": "present"
+    },
+    "3018251565": {
+      "status": "present"
+    },
+    "3018251604": {
+      "status": "present"
+    },
+    "3018251751": {
+      "status": "present"
+    },
+    "3018462890": {
+      "status": "present"
+    },
+    "3018549767": {
+      "status": "present"
+    },
+    "3019429000": {
+      "status": "present"
+    },
+    "3019429009": {
+      "status": "present"
+    },
+    "3019429058": {
+      "status": "present"
+    },
+    "3019620996": {
+      "status": "present"
+    },
+    "3019793449": {
+      "status": "present"
+    },
+    "3032013014": {
+      "status": "present"
+    },
+    "3032013070": {
+      "status": "present"
     }
   },
   "reason": null
