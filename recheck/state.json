@@ -8140,6 +8140,158 @@
     },
     "3562824589": {
       "status": "present"
+    },
+    "3562824590": {
+      "status": "missing",
+      "missing": [
+        "import-vinyl-info.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "659a23d345f9e465869ea95f4b13b7b49c5414de7cee671b1c36bb92ef174696",
+        "6f2f58d43fd3aeb461ed2a5bd53dd17aad4b379a13b8f955f4f9ae9ad06d0721"
+      ]
+    },
+    "3562824597": {
+      "status": "present"
+    },
+    "3562824605": {
+      "status": "present"
+    },
+    "3562824608": {
+      "status": "present"
+    },
+    "3562824612": {
+      "status": "present"
+    },
+    "3562824617": {
+      "status": "present"
+    },
+    "3562824635": {
+      "status": "present"
+    },
+    "3562824639": {
+      "status": "present"
+    },
+    "3562824659": {
+      "status": "present"
+    },
+    "3562824662": {
+      "status": "present"
+    },
+    "3562824665": {
+      "status": "present"
+    },
+    "3562824667": {
+      "status": "present"
+    },
+    "3562824669": {
+      "status": "present"
+    },
+    "3562824681": {
+      "status": "present"
+    },
+    "3562824683": {
+      "status": "present"
+    },
+    "3562824687": {
+      "status": "present"
+    },
+    "3562824695": {
+      "status": "present"
+    },
+    "3562824697": {
+      "status": "present"
+    },
+    "3563073743": {
+      "status": "present"
+    },
+    "3563073749": {
+      "status": "present"
+    },
+    "3563073753": {
+      "status": "present"
+    },
+    "3563073755": {
+      "status": "present"
+    },
+    "3563073763": {
+      "status": "present"
+    },
+    "3563073765": {
+      "status": "present"
+    },
+    "3563073770": {
+      "status": "present"
+    },
+    "3563073774": {
+      "status": "present"
+    },
+    "3563073777": {
+      "status": "present"
+    },
+    "3563073785": {
+      "status": "present"
+    },
+    "3563073796": {
+      "status": "present"
+    },
+    "3563073811": {
+      "status": "present"
+    },
+    "3563073821": {
+      "status": "present"
+    },
+    "3563073828": {
+      "status": "present"
+    },
+    "3563073829": {
+      "status": "present"
+    },
+    "3563073865": {
+      "status": "present"
+    },
+    "3563073869": {
+      "status": "present"
+    },
+    "3563073874": {
+      "status": "present"
+    },
+    "3563073875": {
+      "status": "present"
+    },
+    "3563073876": {
+      "status": "present"
+    },
+    "3563073878": {
+      "status": "present"
+    },
+    "3563073884": {
+      "status": "present"
+    },
+    "3563073892": {
+      "status": "present"
+    },
+    "3563073902": {
+      "status": "present"
+    },
+    "3563073909": {
+      "status": "present"
+    },
+    "3563073919": {
+      "status": "present"
+    },
+    "3563073923": {
+      "status": "present"
+    },
+    "3563073927": {
+      "status": "present"
+    },
+    "3563073928": {
+      "status": "present"
+    },
+    "3563073930": {
+      "status": "present"
     }
   },
   "reason": null
