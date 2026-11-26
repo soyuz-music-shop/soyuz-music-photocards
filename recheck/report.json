@@ -3,9 +3,9 @@
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
-    "present": 2609,
+    "present": 2656,
     "audit_review": 38,
-    "missing": 40,
+    "missing": 41,
     "manual_protected": 1
   },
   "remaining_or_review": [
@@ -1010,6 +1010,21 @@
       "originals_sha256": [
         "659a23d345f9e465869ea95f4b13b7b49c5414de7cee671b1c36bb92ef174696",
         "6f2f58d43fd3aeb461ed2a5bd53dd17aad4b379a13b8f955f4f9ae9ad06d0721"
+      ]
+    },
+    {
+      "id": 3784946096,
+      "offer_id": "CDWIK46",
+      "variant": "cd-import",
+      "images_before": 1,
+      "name": "The Cramps. A Date With Elvis (CD/Reissue/Компакт-диск)",
+      "status": "missing",
+      "missing": [
+        "cd-import.png",
+        "packaging.png"
+      ],
+      "originals_sha256": [
+        "0628e0e48880f02acc454329d265756ec5f49c9b60ee03018b377666ef1b21a4"
       ]
     }
   ]
