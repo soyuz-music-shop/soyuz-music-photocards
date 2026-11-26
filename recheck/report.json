@@ -6,9 +6,9 @@
     "present": 3488,
     "audit_review": 46,
     "needs_review_task": 1,
-    "verified": 23,
-    "missing": 31,
-    "manual_protected": 1
+    "verified": 47,
+    "manual_protected": 1,
+    "missing": 7
   },
   "remaining_or_review": [
     {
@@ -355,51 +355,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 2985838823,
-      "offer_id": "MOVLP3414",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Janis Joplin. Janis (2LP Ltd/Magenta Translucent Vinyl/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "4eb03e24c50cf7592d5bba84d17b1c409b99b98b0efb6a4c82d48925827e1405"
-      ]
-    },
-    {
-      "id": 3005087205,
-      "offer_id": "MOVLP1361",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Tedeschi Trucks Band. Revelator (2LP Ltd Red/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "b7498c0660320392da7cdd141108e8135e9e5460e05c837612e2d4376392410c"
-      ]
-    },
-    {
-      "id": 3005087230,
-      "offer_id": "ZA194475",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Zaz. Isa (2LP/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "1d5cafb4c0acb6a04d9db6869001152bd653dd7e67f592152941b2db82156c01"
-      ]
-    },
-    {
       "id": 3013420813,
       "offer_id": "YT116",
       "variant": "import-vinyl-info",
@@ -418,21 +373,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 3130010641,
-      "offer_id": "YT171",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Kamasi Washington. Harmony Of Difference (LP/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "e2bd960271075c8a2aff6e6e6ecc139add5edebba89110b58b71fc407c5bb339"
-      ]
-    },
-    {
       "id": 3130011287,
       "offer_id": "STEPLP 233",
       "variant": "import-vinyl-info",
@@ -442,214 +382,6 @@
       "missing": [
         "import-vinyl-info.png",
         "packaging.png"
-      ]
-    },
-    {
-      "id": 3277020215,
-      "offer_id": "BF163407",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Bryan Ferry. Avonmore (LP Ltd Red/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "b6353e4d59ea29e958d050a3356ad5d6d9a472d82f1486cc42c18320c6b2b9f5"
-      ]
-    },
-    {
-      "id": 3318541211,
-      "offer_id": "Phazz 071",
-      "variant": "cd-import",
-      "images_before": 1,
-      "name": "De-Phazz. Audio Elastique (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "83a37ad3c3d43bee8e252d486dca519a6b8eefae51220ccc18719d01a5cadf3c"
-      ]
-    },
-    {
-      "id": 3325378521,
-      "offer_id": "ANGEL006LPLTD",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Judas Priest. Holidays In Houston (The Texas Broadcast 1983) (LP Ltd/Coloured Vinyl/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "0e6ebf1b7f901021f22d294972d7a326c11da1034d2973ed984291da615fa01e"
-      ]
-    },
-    {
-      "id": 3325378557,
-      "offer_id": "ANGEL001LPLTD",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Slayer. Monsters Of Rock 1994 - The Classic Buenos Aires Broadcast (2LP Ltd/Clear Vinyl/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "108a4529746a963c5089c45e5060df1a8a74da8fe285c8fb5b624a55a45fdbc6"
-      ]
-    },
-    {
-      "id": 3325378562,
-      "offer_id": "BOBV293LP",
-      "variant": "import-vinyl-info",
-      "images_before": 6,
-      "name": "Burzum. Fallen (LP Black/Виниловая пластинка/Gatefold)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "f09fc15e6419b356892c057bab19573bdad36b3b24dbf11cbdad4904a4f8a8d7",
-        "8e1d46dd61ab87d6b2c1a485ae3369507f421a288e93495eb42a93b1fb2264c7",
-        "b2e3442a693d8dac891049b6417ac822c87ab6879398444026d344260ad029de",
-        "09389d5a155bfb115eb7883eb29c18462ee68c0589834c163c91b31146ead04a",
-        "a052f6e7999cfd9b714483acbbc79a0a5930f1f46fb4517b4e96c4495861a4e8",
-        "9c165d778829d3d4cf80a32838bcd921c6bba58a7246aae3317c0d898a65bf2a"
-      ]
-    },
-    {
-      "id": 3533191255,
-      "offer_id": "2000095757948",
-      "variant": "vinyl-russian",
-      "images_before": 8,
-      "name": "Ляпис Трубецкой. Любови капец (LP Green/Виниловая пластинка/180 г)",
-      "status": "missing",
-      "missing": [
-        "vinyl-russian.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "87f2a49fa9d9a51633cb2c666f2ddea80e44b8961d7b77ffe127571f62a22a4b",
-        "46bed25760f38749a6d57e94152e8aa1f280dd960c7cdc261eda937be179422f",
-        "95ee047997fea879de1f69985500ad0eb515fc5d1177116fb038772df4e2a5f1",
-        "d2cffa4f72446f292d563dab5b2cb6c0dd4e07188e89797bbdbcbad237c01ce0",
-        "cd365a21372cdcb01eafddc21b0c95c6be768bbe662784fabfaac1b93b58689c",
-        "a992b05488f738460b8e0912697ea1d4cf88a3082c6af6edc507d5675f7364f5",
-        "e02459d86b492f184faa8c58213307f04e5dbf261cf06c2e5f64080219b44019",
-        "1f4f4c5ed1af5661e766fe4b1408f8fed6bde015c598675e17db606595d65719"
-      ]
-    },
-    {
-      "id": 3556539525,
-      "offer_id": "PBREDD757BLUE",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Dinosaur Jr. Where You Been (2LP Blue/Reissue/Repress/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "0f8c8a5c29aa270c3ccf72e82fb133a4a79bb9ec4d0063bb2cf7619674cc7aba"
-      ]
-    },
-    {
-      "id": 3556539538,
-      "offer_id": "PBREDD759PURPLE",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Dinosaur Jr. Hand It Over (2LP Purple/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "f13dedf8fb821401e69a32ed1f7903443e6f2724ee4932fbcf5e0595e5f11ee0"
-      ]
-    },
-    {
-      "id": 3562824552,
-      "offer_id": "PECLECLP2667",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Renaissance. A Song for all Seasons (LP/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "842fccc9a344ef0d54675f87ba32bf0bb78c0d0d9fdae924ff0f5f83187c48da"
-      ]
-    },
-    {
-      "id": 3562824561,
-      "offer_id": "PECLECLP 2720",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "Barclay James Harvest. Barclay James Harvest And Other Short Stories (LP/Record Store Day/Reissue/Gatefold/Виниловая пла",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "d70fe901e52f545c7f883c19e6031733d94aad61eabb95fd463a73c051164eeb"
-      ]
-    },
-    {
-      "id": 3562824572,
-      "offer_id": "BREDD781BM",
-      "variant": "import-vinyl-info",
-      "images_before": 1,
-      "name": "The Fall. Room To Live (2LP Ltd/Brown Marbled Vinyl/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "7090657f64e1c31b7749e0d185bc947a26e39b06ba37dd612f5c364753c1e93b"
-      ]
-    },
-    {
-      "id": 3562824590,
-      "offer_id": "SFELP 090DCLEAR",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Marc Almond. Stranger Things (2LP Clear Vinyl/Виниловая пластинка/Reissue)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "659a23d345f9e465869ea95f4b13b7b49c5414de7cee671b1c36bb92ef174696",
-        "6f2f58d43fd3aeb461ed2a5bd53dd17aad4b379a13b8f955f4f9ae9ad06d0721"
-      ]
-    },
-    {
-      "id": 3784946096,
-      "offer_id": "CDWIK46",
-      "variant": "cd-import",
-      "images_before": 1,
-      "name": "The Cramps. A Date With Elvis (CD/Reissue/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "0628e0e48880f02acc454329d265756ec5f49c9b60ee03018b377666ef1b21a4"
       ]
     },
     {
@@ -707,39 +439,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 6961317456,
-      "offer_id": "RSE0395-1",
-      "variant": "import-vinyl-info",
-      "images_before": 4,
-      "name": "Mos Def. The Ecstatic (2LP Ltd/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "e1ac6ad8b31470dca39a65bfc3ab3b70f2050748632c848773be5043474977f2",
-        "6609fdf65bac284bd22ae8ee0607da4c4e2fff1d60d9639e39a3a607d9e46c09",
-        "8852f9063332042280fa6b8873bfe16424530f73d6f9a49a6aebe5c8a594ffe9",
-        "b27f9e786298838d5d279c0ec04dbc1381a61f5f31d5d74a5e6091990954a0b7"
-      ]
-    },
-    {
-      "id": 6961317670,
-      "offer_id": "WIGLP184",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "The Kills. Midnight Boom (LP Black/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "8e559315a9ef1936609434a73a17c90b7ae956eaa9a349e023bf0bc9ed143f4d",
-        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
-    },
-    {
       "id": 6961317671,
       "offer_id": "HM594152GS",
       "variant": "import-vinyl-info",
@@ -747,83 +446,6 @@
       "name": "Hannah Montana. Hannah Montana (Songs From And Inspired By The Hit Tv Series) (LP/Green Splatter Vinyl/Reissue/Виниловая",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 6961317673,
-      "offer_id": "OLE 194-1",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Yo La Tengo. Genius + Love (2LP Black/Reissue/Repress/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "cf09da6bb7e62d010822228c42296ea6a30f46f4aedec9725d10a3406bbb3163",
-        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
-    },
-    {
-      "id": 6961317674,
-      "offer_id": "4AD0878LP",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Pixies. Complete B Sides (2LP Black/Reissue/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "19d5473ff39714e70dd846137e2a9a037fcffcf8b87487b90cf81f4fdd86d6b3",
-        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
-    },
-    {
-      "id": 6961317693,
-      "offer_id": "WIGLP249",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "The Kills. Blood Pressures (LP Black/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "b1721ef6537d7fc6be877155550c82c7a9e68cbcebbad0a1a441d4e293f6300f",
-        "a0f82113aef9f6979a5c2bcf92e1620a9c3a02376a995dd77434d7225fe6ed67"
-      ]
-    },
-    {
-      "id": 6961317701,
-      "offer_id": "R1 728499",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Van Halen. 5150 (2LP Black/Виниловая пластинка/Ltd/Reissue)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "5256d662d6f9bb1b8e2679a8897d6db169b9c1335b151b4cdbfee39b009f3cc0",
-        "2e2b63363467ca3f1fcd539a2daeb17ff283ec773e3a4bc5f883af5f200c8811"
-      ]
-    },
-    {
-      "id": 6961317720,
-      "offer_id": "D004904601",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Simon Franglen. Avatar: Fire and Ash (LP Black/Виниловая пластинка/Original Motion Picture Soundtrack)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "4f1f1560165d70ac384b5cf13a5df621eb410f47ad5bb9cc7359e64df7ba447c",
-        "6e0beb7d86b5288e357a22433d5b504529a84dbfcea59eaccb24e350e81e074d"
-      ]
     },
     {
       "id": 6961317724,
