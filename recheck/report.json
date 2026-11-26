@@ -1,14 +1,13 @@
 {
-  "phase": "apply",
+  "phase": "completed",
   "catalog_total": 4130,
   "eligible": 3590,
   "counts": {
     "present": 3488,
     "audit_review": 46,
     "needs_review_task": 1,
-    "verified": 47,
-    "manual_protected": 1,
-    "missing": 7
+    "verified": 54,
+    "manual_protected": 1
   },
   "remaining_or_review": [
     {
@@ -448,103 +447,6 @@
       "reason": "Ambiguous existing template; manual review"
     },
     {
-      "id": 6961317724,
-      "offer_id": "XX821748CBS",
-      "variant": "import-vinyl-info",
-      "images_before": 3,
-      "name": "Nimrods. The Soundtrack (2LP Black/Виниловая пластинка)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "2cbb0c4eaa055d028c63027e8e433b083c6f7c8f4cda10215d379ea6049dbf79",
-        "3e79249a5448de5d728a9e368174849a25cad2cae83a26b0626cf7885727cb3d",
-        "7b115ffdb29a4f777be2afb3a046f776ea96cd638ecb8b545011bea1c2a5c2c9"
-      ]
-    },
-    {
-      "id": 6961317744,
-      "offer_id": "PLACOLP01C",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Placebo. Placebo Re:Created (2LP Black/Виниловая пластинка/Ltd 12\"/7\"/45 RPM)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "7542fc916cac6ad5fb491676876db4c61c257b567e2f519a1955771a6de0a79b",
-        "e3495fa7775c20a6a425ecd80d38e3bd0634358287a3775ac651f12dd6d7778a"
-      ]
-    },
-    {
-      "id": 6961317745,
-      "offer_id": "PA230225",
-      "variant": "cd-import",
-      "images_before": 2,
-      "name": "Pantera. Far Beyond Driven (CD/Компакт-диск/Reissue/Repress)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "9f522aee1002969625c05ff73b00d511ec15a6aa2f55a59e29a016c28f4ef043",
-        "a5d7ec023738e4a4c5d9fcd41c25cf4e08d07474cf9365c86144e67e556a0f84"
-      ]
-    },
-    {
-      "id": 6961317749,
-      "offer_id": "XX314460",
-      "variant": "cd-import",
-      "images_before": 2,
-      "name": "Guardians Of The Galaxy Awesome Mix Vol. 1 (CD/Компакт-диск)",
-      "status": "missing",
-      "missing": [
-        "cd-import.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "f4f7e07b43d105fc2256b4be80ada02f6b665692b73830504f3970ef831f5ae1",
-        "b08e1c3efa5c0ef8eaa450db9605e936696b925b776c558b1a8bf857bb936d18"
-      ]
-    },
-    {
-      "id": 6961317775,
-      "offer_id": "TINAXLP 1",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Tina Turner. Private Dancer (LP Black/Виниловая пластинка/Reissue)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "8478a645cd71a0e972106a15bdc835ab3ad318311c1c70e3ba2b7134f81ababd",
-        "a75ae4b28a08f1f2d67831f52fda1dca1ef5664117c9b2565983269aabf91757"
-      ]
-    },
-    {
-      "id": 6961317777,
-      "offer_id": "PF191852YELLOW",
-      "variant": "import-vinyl-info",
-      "images_before": 2,
-      "name": "Peter Frampton. Carry The Light (LP Yellow/Виниловая пластинка/Ltd)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "c54821077e60f15ab23bb4a2a8cc68c00b2923cfd67f7e8e2dde07395978b976",
-        "fb84c8cfb6f0e0c7f9734d4c4be2b7c6ea2183e2e91cfa1d5d60cbcc98c4cb31"
-      ]
-    },
-    {
       "id": 6961317832,
       "offer_id": "MA822783TR",
       "variant": "import-vinyl-info",
@@ -552,26 +454,6 @@
       "name": "Madonna. Confessions II (LP Translucent Red/Виниловая пластинка/Ltd)",
       "status": "audit_review",
       "reason": "Ambiguous existing template; manual review"
-    },
-    {
-      "id": 6977559447,
-      "offer_id": "TPRBLACK-013",
-      "variant": "import-vinyl-info",
-      "images_before": 6,
-      "name": "Orgone. Chimera (LP Black/Виниловая пластинка/Gatefold)",
-      "status": "missing",
-      "missing": [
-        "import-vinyl-info.png",
-        "packaging.png"
-      ],
-      "originals_sha256": [
-        "2b9f6711bd03396254dd6b530bb4303ab6bba9b5d78a75a25ea56d7d7ce75f12",
-        "dd252703caac0c547c4cb6a7bcab649aa9ebad66d0c098ce5b0896dcca8c6e71",
-        "a597dd93af72b5c7cbc1ff09ff1a3fcf66925fc7ffe7fea56a2c717fd1ee66ca",
-        "3f700748f6c9bdba9f4b5e2d6ccfa6c8ef48deeaaad27533e48bf49c201217a9",
-        "0cc6618684e464f8a8b9a488e4a2619ea9900e59bfdd6bc08febfac34338c1b1",
-        "df5b9676eca5fcc45090c954dc92b55cb23520c7f3a8e3a9412af7021b00d6e5"
-      ]
     }
   ]
 }
