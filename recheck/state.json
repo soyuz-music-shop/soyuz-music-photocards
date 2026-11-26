@@ -1107,7 +1107,7 @@
       "reason": "Import task unconfirmed"
     },
     "36949176": {
-      "status": "submitted",
+      "status": "imported",
       "missing": [
         "cd-russian.png",
         "packaging.png"
